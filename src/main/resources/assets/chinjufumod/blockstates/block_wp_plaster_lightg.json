@@ -1,0 +1,13 @@
+{
+ "variants": {
+	"facing=north,stage=1": { "model": "chinjufumod:block/wallpanel/plaster_lightg", "y": 180 },
+	"facing=south,stage=1": { "model": "chinjufumod:block/wallpanel/plaster_lightg" },
+	"facing=west,stage=1" : { "model": "chinjufumod:block/wallpanel/plaster_lightg", "y": 90 },
+	"facing=east,stage=1" : { "model": "chinjufumod:block/wallpanel/plaster_lightg", "y": 270 },
+
+	"facing=north,stage=2": { "model": "chinjufumod:block/wallpanel/plaster_lightg_cr", "y": 180 },
+	"facing=south,stage=2": { "model": "chinjufumod:block/wallpanel/plaster_lightg_cr" },
+	"facing=west,stage=2" : { "model": "chinjufumod:block/wallpanel/plaster_lightg_cr", "y": 90 },
+	"facing=east,stage=2" : { "model": "chinjufumod:block/wallpanel/plaster_lightg_cr", "y": 270 }
+ }
+}

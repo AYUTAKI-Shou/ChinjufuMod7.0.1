@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/tabakusa_stairs_in",
+	"textures": {
+		"bottom": "chinjufumod:block/taba_wara_cor",
+		"top": "chinjufumod:block/taba_wara_cor",
+		"side": "chinjufumod:block/taba_wara_top",
+		"side2": "chinjufumod:block/taba_wara"
+	}
+}

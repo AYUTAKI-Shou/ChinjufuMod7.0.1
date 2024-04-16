@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/kamoi_2east",
+	"textures": {
+		"particle": "chinjufumod:block/pillar_ichoh_side",
+		"ki": "chinjufumod:block/pillar_ichoh_side",
+		"ki_top": "chinjufumod:block/pillar_ichoh_top",
+		"ki_inside": "chinjufumod:block/pillar_ichoh_inside"
+	}
+}

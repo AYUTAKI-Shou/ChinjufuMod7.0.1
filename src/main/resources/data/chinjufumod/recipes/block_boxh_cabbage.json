@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_boxh2",
+
+	"ingredients": [
+		{ "tag": "forge:crops/cabbage" },
+		{ "tag": "forge:crops/cabbage" },
+		{ "tag": "forge:crops/cabbage" },
+		{ "tag": "forge:crops/cabbage" },
+		{ "item": "chinjufumod:block_boxh_empty" }
+	],
+
+	"result": { "item": "chinjufumod:block_boxh_cabbage", "count": 1 }
+}

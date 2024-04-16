@@ -1,0 +1,19 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/muku_oak",
+		"leg": "chinjufumod:block/muku_oak",
+		"top": "minecraft:block/oak_planks"
+	},
+	"elements": [
+		{
+			"name": "top",
+			"from": [ 0, 15, 0 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"up": { "texture":"#top", "rotation": 90 },
+				"down": { "texture":"#top", "rotation": 90 }
+			}
+		}
+	]
+}

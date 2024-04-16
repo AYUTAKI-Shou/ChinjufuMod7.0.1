@@ -1,0 +1,37 @@
+{
+	"variants": {
+		"down=false,stage=0": { "model": "chinjufumod:block/sushi/sushimeshi_0" },
+		"down=false,stage=1": { "model": "chinjufumod:block/sushi/sushimeshi_1" },
+		"down=false,stage=2": { "model": "chinjufumod:block/sushi/sushimeshi_2" },
+		"down=false,stage=3": { "model": "chinjufumod:block/sushi/sushimeshi_3" },
+		"down=false,stage=4": { "model": "chinjufumod:block/sushi/sushimeshi_4" },
+		"down=false,stage=5": { "model": "chinjufumod:block/sushi/sushimeshi_5" },
+		"down=false,stage=6": { "model": "chinjufumod:block/sushi/sushimeshi_6" },
+		"down=false,stage=7": { "model": "chinjufumod:block/sushi/sushimeshi_7" },
+		"down=false,stage=8": { "model": "chinjufumod:block/sushi/sushimeshi_8" },
+		"down=false,stage=9": { "model": "chinjufumod:block/sushi/sushimeshi_9" },
+		"down=false,stage=10": { "model": "chinjufumod:block/sushi/sushimeshi_a" },
+		"down=false,stage=11": { "model": "chinjufumod:block/sushi/sushimeshi_b" },
+		"down=false,stage=12": { "model": "chinjufumod:block/sushi/sushimeshi_c" },
+		"down=false,stage=13": { "model": "chinjufumod:block/sushi/sushimeshi_d" },
+		"down=false,stage=14": { "model": "chinjufumod:block/sushi/sushimeshi_e" },
+		"down=false,stage=15": { "model": "chinjufumod:block/sushi/sushimeshi_f" },
+
+		"down=true,stage=0": { "model": "chinjufumod:block/sushi/sushimeshid_0" },
+		"down=true,stage=1": { "model": "chinjufumod:block/sushi/sushimeshid_1" },
+		"down=true,stage=2": { "model": "chinjufumod:block/sushi/sushimeshid_2" },
+		"down=true,stage=3": { "model": "chinjufumod:block/sushi/sushimeshid_3" },
+		"down=true,stage=4": { "model": "chinjufumod:block/sushi/sushimeshid_4" },
+		"down=true,stage=5": { "model": "chinjufumod:block/sushi/sushimeshid_5" },
+		"down=true,stage=6": { "model": "chinjufumod:block/sushi/sushimeshid_6" },
+		"down=true,stage=7": { "model": "chinjufumod:block/sushi/sushimeshid_7" },
+		"down=true,stage=8": { "model": "chinjufumod:block/sushi/sushimeshid_8" },
+		"down=true,stage=9": { "model": "chinjufumod:block/sushi/sushimeshid_9" },
+		"down=true,stage=10": { "model": "chinjufumod:block/sushi/sushimeshid_a" },
+		"down=true,stage=11": { "model": "chinjufumod:block/sushi/sushimeshid_b" },
+		"down=true,stage=12": { "model": "chinjufumod:block/sushi/sushimeshid_c" },
+		"down=true,stage=13": { "model": "chinjufumod:block/sushi/sushimeshid_d" },
+		"down=true,stage=14": { "model": "chinjufumod:block/sushi/sushimeshid_e" },
+		"down=true,stage=15": { "model": "chinjufumod:block/sushi/sushimeshid_f" }
+	}
+}

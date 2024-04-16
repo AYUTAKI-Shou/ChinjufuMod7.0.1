@@ -1,0 +1,36 @@
+{
+	"parent": "chinjufumod:cm_story/taru/get_vinegar",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.taru.get_sushi.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.taru.get_sushi.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_food_sushi_beef"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": [
+				"chinjufumod:item_food_sushi_salmon",
+				"chinjufumod:item_food_sushi_fish",
+				"chinjufumod:item_food_sushi_beef",
+				"chinjufumod:item_food_sushi_tamago",
+				"chinjufumod:block_food_sushiokefull_1"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

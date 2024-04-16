@@ -1,0 +1,15 @@
+{
+	"parent": "chinjufumod:block/garden/oakkare_hand",
+	"display": {
+		"gui": {
+			"rotation": [ 5, 45, 0 ],
+			"translation": [ 0, -3.5, 0 ],
+			"scale": [ 0.45, 0.45, 0.45 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, -4, 0.01 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		}
+	}
+}

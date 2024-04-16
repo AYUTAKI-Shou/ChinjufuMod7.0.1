@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_pasta",
+
+	"ingredients": [
+		{ "tag": "forge:crops/tomato" },
+		{ "tag": "forge:crops/tomato" },
+		{ "tag": "forge:crops/onion" },
+		{ "tag": "forge:raw_fishes/clam" },
+		{ "tag": "forge:raw_fishes/clam" },
+		{ "tag": "forge:raw_fishes/clam" },
+		{ "item": "chinjufumod:item_squid_cut" },
+		[ { "tag": "forge:dusts/salt" }, { "tag": "forge:foods/salt" }, { "tag": "forge:items/salt" } ],
+		{ "item": "chinjufumod:block_food_frypan" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_frypan_n_seafood", "count" : 1 }
+}

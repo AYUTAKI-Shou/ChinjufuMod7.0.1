@@ -1,0 +1,29 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_zundou_mizu",
+			"chinjufumod:block_zundou_shiomizu",
+			"chinjufumod:block_zundou_milk",
+			"chinjufumod:block_food_cunabe_cn",
+			"chinjufumod:block_food_cunabe_n",
+			"chinjufumod:block_food_cunabe_tn",
+			"chinjufumod:block_food_stewnabe_n",
+			"chinjufumod:block_food_rsoup_n",
+			
+			"chinjufumod:block_zundou_aku"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_food_zundou"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

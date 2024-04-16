@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_gohan",
+
+	"ingredients": [
+		{ "tag": "forge:buckets/water" },
+		{ "item": "chinjufumod:block_food_karanabe" },
+		{ "tag": "forge:crops/chestnut" },
+		{ "tag": "forge:crops/chestnut" },
+		{ "tag": "forge:crops/chestnut" },
+		{ "tag": "forge:crops/chestnut" },
+		{ "tag": "forge:crops/chestnut" },
+		{ "tag": "forge:crops/chestnut" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_nabekuri_n", "count" : 1 }
+}

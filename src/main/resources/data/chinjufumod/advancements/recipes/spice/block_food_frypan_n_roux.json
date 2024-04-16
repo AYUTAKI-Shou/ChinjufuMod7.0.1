@@ -1,0 +1,23 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_food_frypan_n_roux"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": [
+				 "chinjufumod:item_dust_cumin",
+				 "chinjufumod:item_dust_turmeric",
+				 "chinjufumod:item_dust_chili"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

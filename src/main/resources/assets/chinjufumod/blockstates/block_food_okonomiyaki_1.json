@@ -1,0 +1,53 @@
+{
+	"variants": {
+		"down=false,facing=north,stage=1": { "model": "chinjufumod:block/okonomi/okonomiyaki_1", "y": 180 },
+		"down=false,facing=south,stage=1": { "model": "chinjufumod:block/okonomi/okonomiyaki_1", "y": 0 },
+		"down=false,facing=west,stage=1": { "model": "chinjufumod:block/okonomi/okonomiyaki_1", "y": 90 },
+		"down=false,facing=east,stage=1": { "model": "chinjufumod:block/okonomi/okonomiyaki_1", "y": 270 },
+
+		"down=false,facing=north,stage=2": { "model": "chinjufumod:block/okonomi/okonomiyaki_2", "y": 180 },
+		"down=false,facing=south,stage=2": { "model": "chinjufumod:block/okonomi/okonomiyaki_2", "y": 0 },
+		"down=false,facing=west,stage=2": { "model": "chinjufumod:block/okonomi/okonomiyaki_2", "y": 90 },
+		"down=false,facing=east,stage=2": { "model": "chinjufumod:block/okonomi/okonomiyaki_2", "y": 270 },
+
+		"down=false,facing=north,stage=3": { "model": "chinjufumod:block/okonomi/okonomiyaki_3", "y": 180 },
+		"down=false,facing=south,stage=3": { "model": "chinjufumod:block/okonomi/okonomiyaki_3", "y": 0 },
+		"down=false,facing=west,stage=3": { "model": "chinjufumod:block/okonomi/okonomiyaki_3", "y": 90 },
+		"down=false,facing=east,stage=3": { "model": "chinjufumod:block/okonomi/okonomiyaki_3", "y": 270 },
+
+		"down=false,facing=north,stage=4": { "model": "chinjufumod:block/okonomi/okonomiyaki_4", "y": 180 },
+		"down=false,facing=south,stage=4": { "model": "chinjufumod:block/okonomi/okonomiyaki_4", "y": 0 },
+		"down=false,facing=west,stage=4": { "model": "chinjufumod:block/okonomi/okonomiyaki_4", "y": 90 },
+		"down=false,facing=east,stage=4": { "model": "chinjufumod:block/okonomi/okonomiyaki_4", "y": 270 },
+
+		"down=false,facing=north,stage=5": { "model": "chinjufumod:block/okonomi/okonomiyaki_kara", "y": 180 },
+		"down=false,facing=south,stage=5": { "model": "chinjufumod:block/okonomi/okonomiyaki_kara" },
+		"down=false,facing=west,stage=5": { "model": "chinjufumod:block/okonomi/okonomiyaki_kara", "y": 90 },
+		"down=false,facing=east,stage=5": { "model": "chinjufumod:block/okonomi/okonomiyaki_kara", "y": 270 },
+
+			"down=true,facing=north,stage=1": { "model": "chinjufumod:block/okonomi/okonomiyaki_d1", "y": 180 },
+			"down=true,facing=south,stage=1": { "model": "chinjufumod:block/okonomi/okonomiyaki_d1", "y": 0 },
+			"down=true,facing=west,stage=1": { "model": "chinjufumod:block/okonomi/okonomiyaki_d1", "y": 90 },
+			"down=true,facing=east,stage=1": { "model": "chinjufumod:block/okonomi/okonomiyaki_d1", "y": 270 },
+
+			"down=true,facing=north,stage=2": { "model": "chinjufumod:block/okonomi/okonomiyaki_d2", "y": 180 },
+			"down=true,facing=south,stage=2": { "model": "chinjufumod:block/okonomi/okonomiyaki_d2", "y": 0 },
+			"down=true,facing=west,stage=2": { "model": "chinjufumod:block/okonomi/okonomiyaki_d2", "y": 90 },
+			"down=true,facing=east,stage=2": { "model": "chinjufumod:block/okonomi/okonomiyaki_d2", "y": 270 },
+
+			"down=true,facing=north,stage=3": { "model": "chinjufumod:block/okonomi/okonomiyaki_d3", "y": 180 },
+			"down=true,facing=south,stage=3": { "model": "chinjufumod:block/okonomi/okonomiyaki_d3", "y": 0 },
+			"down=true,facing=west,stage=3": { "model": "chinjufumod:block/okonomi/okonomiyaki_d3", "y": 90 },
+			"down=true,facing=east,stage=3": { "model": "chinjufumod:block/okonomi/okonomiyaki_d3", "y": 270 },
+
+			"down=true,facing=north,stage=4": { "model": "chinjufumod:block/okonomi/okonomiyaki_d4", "y": 180 },
+			"down=true,facing=south,stage=4": { "model": "chinjufumod:block/okonomi/okonomiyaki_d4", "y": 0 },
+			"down=true,facing=west,stage=4": { "model": "chinjufumod:block/okonomi/okonomiyaki_d4", "y": 90 },
+			"down=true,facing=east,stage=4": { "model": "chinjufumod:block/okonomi/okonomiyaki_d4", "y": 270 },
+
+			"down=true,facing=north,stage=5": { "model": "chinjufumod:block/okonomi/okonomiyaki_dkara", "y": 180 },
+			"down=true,facing=south,stage=5": { "model": "chinjufumod:block/okonomi/okonomiyaki_dkara" },
+			"down=true,facing=west,stage=5": { "model": "chinjufumod:block/okonomi/okonomiyaki_dkara", "y": 90 },
+			"down=true,facing=east,stage=5": { "model": "chinjufumod:block/okonomi/okonomiyaki_dkara", "y": 270 }
+	}
+}

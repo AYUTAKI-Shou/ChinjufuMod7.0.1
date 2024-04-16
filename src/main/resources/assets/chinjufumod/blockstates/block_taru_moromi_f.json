@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:block/taru/moromi_f" },
+		"stage=1": { "model": "chinjufumod:block/taru/moromi_f" },
+		"stage=2": { "model": "chinjufumod:block/taru/moromi_f" },
+		"stage=3": { "model": "chinjufumod:block/taru/moromi_f" },
+		"stage=4": { "model": "chinjufumod:block/taru/moromi_f" },
+		"stage=5": { "model": "chinjufumod:block/taru/moromi_1" }
+	}
+}

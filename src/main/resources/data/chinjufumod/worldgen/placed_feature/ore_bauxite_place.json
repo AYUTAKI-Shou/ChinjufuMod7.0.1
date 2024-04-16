@@ -1,0 +1,21 @@
+{
+  "feature": "chinjufumod:ore_bauxite_config",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 8
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "max_inclusive": {
+          "absolute": 128
+        },
+        "min_inclusive": {
+          "absolute": 0
+        }
+      }
+    }
+  ]
+}

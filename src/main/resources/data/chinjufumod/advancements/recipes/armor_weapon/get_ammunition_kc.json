@@ -1,0 +1,35 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_ammunition_box",
+			"chinjufumod:item_ammunition_medium",
+			"chinjufumod:item_kk_fuel",
+			
+			"chinjufumod:item_rensouhou127",
+			"chinjufumod:item_shigurehou",
+			"chinjufumod:item_koukakuhou100",
+
+			"chinjufumod:item_rensouhou155",
+			"chinjufumod:item_rensouhou203",
+			"chinjufumod:item_rensouhou203_skc34",
+
+			"chinjufumod:item_rensouhou356",
+			"chinjufumod:item_rensouhou380",
+			"chinjufumod:item_rensouhou410",
+			"chinjufumod:item_3rensou_kijyuu"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:item_ammunition_kc"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

@@ -1,0 +1,198 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/dish_lightb",
+		"glass": "chinjufumod:block/dish_lightb"
+	},
+	"elements": [
+		{
+			"name": "glass_soko",
+			"from": [ 13.1, 0, 1.1 ],
+			"to": [ 15.5, 0.2, 3.5 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"down" : { "texture": "#glass" },
+				"north": { "texture": "#glass" },
+				"south": { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		},
+		{
+			"name": "glass_n",
+			"from": [ 13.1, 0.2, 1.1 ],
+			"to": [ 15.5, 0.9, 1.3 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"north": { "texture": "#glass" },
+				"south": { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		},
+		{
+			"name": "glass_s",
+			"from": [ 13.1, 0.2, 3.3 ],
+			"to": [ 15.5, 0.9, 3.5 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"north": { "texture": "#glass" },
+				"south": { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		},
+		{
+			"name": "glass_e",
+			"from": [ 15.3, 0.2, 1.3 ],
+			"to": [ 15.5, 0.9, 3.3 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		},
+		{
+			"name": "glass_w",
+			"from": [ 13.1, 0.2, 1.3 ],
+			"to": [ 13.3, 0.9, 3.3 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		},
+
+		{
+			"name": "glass_n",
+			"from": [ 13.1, 0.9, 0.9 ],
+			"to": [ 15.5, 1.8, 1.1 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"down" : { "texture": "#glass" },
+				"north": { "texture": "#glass" },
+				"south": { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		},
+		{
+			"name": "glass_s",
+			"from": [ 13.1, 0.9, 3.3 ],
+			"to": [ 15.5, 1.8, 3.5 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"north": { "texture": "#glass" },
+				"south": { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		},
+		{
+			"name": "glass_e",
+			"from": [ 15.3, 0.9, 1.1 ],
+			"to": [ 15.5, 1.8, 3.3 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		},
+		{
+			"name": "glass_w",
+			"from": [ 13.1, 0.9, 1.1 ],
+			"to": [ 13.3, 1.8, 3.3 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		},
+
+		{
+			"name": "glass_n",
+			"from": [ 13.1, 1.8, 0.7 ],
+			"to": [ 15.5, 2.7, 0.9 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"down" : { "texture": "#glass" },
+				"north": { "texture": "#glass" },
+				"south": { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		},
+		{
+			"name": "glass_s",
+			"from": [ 13.1, 1.8, 3.3 ],
+			"to": [ 15.5, 2.7, 3.5 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"north": { "texture": "#glass" },
+				"south": { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		},
+		{
+			"name": "glass_e",
+			"from": [ 15.3, 1.8, 0.9 ],
+			"to": [ 15.5, 2.7, 3.3 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		},
+		{
+			"name": "glass_w",
+			"from": [ 13.1, 1.8, 0.9 ],
+			"to": [ 13.3, 2.7, 3.3 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		},
+
+		{
+			"name": "kuchi",
+			"from": [ 14.05, 2.5, 0.5 ],
+			"to": [ 14.55, 2.7, 0.9 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"down" : { "texture": "#glass" },
+				"north": { "texture": "#glass" },
+				"south": { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		},
+
+		{
+			"name": "totte",
+			"from": [ 14.1, 2.3, 3.5 ],
+			"to": [ 14.5, 2.7, 4.5 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"down" : { "texture": "#glass" },
+				"north": { "texture": "#glass" },
+				"south": { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		},
+		{
+			"name": "totte",
+			"from": [ 14.1, 0.7, 4.1 ],
+			"to": [ 14.5, 2.7, 4.5 ],
+			"faces": {
+				"down" : { "texture": "#glass" },
+				"north": { "texture": "#glass" },
+				"south": { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		}
+	]
+}

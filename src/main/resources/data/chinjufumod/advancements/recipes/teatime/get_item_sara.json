@@ -1,0 +1,25 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_food_mikan",
+			"chinjufumod:block_food_scone",
+			"chinjufumod:block_food_senbei",
+			"chinjufumod:block_food_shouyusara_1",
+			"chinjufumod:block_food_teaset_1",
+			"chinjufumod:block_food_teastand"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:item_food_sara"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_boots",
+
+	"ingredients": [
+		{ "item": "minecraft:iron_boots" },
+		{ "tag": "forge:dyes/lime" },
+		{ "item": "chinjufumod:item_workorder" }
+	],
+
+	"result": { "item": "chinjufumod:item_kasumi_boots", "count": 1 }
+}

@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_curtain",
+
+	"pattern": [
+		"XX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_curtaintall_lightblue" }
+	},
+
+	"result": { "item": "chinjufumod:block_curtainlarge_lightblue", "count": 1 }
+}

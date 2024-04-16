@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_tabakaya",
+
+	"pattern": [
+		"XXX",
+		"X X",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:item_inewara" }
+	},
+
+	"result": { "item": "chinjufumod:block_tabawara", "count": 1 }
+}

@@ -1,0 +1,9 @@
+{
+	"replace": false,
+	"values": [
+		"#forge:leaves/cherry",
+		"#forge:leaves/acer",
+		"#forge:leaves/ginkgo",
+		"#forge:leaves/autumn_oak"
+	]
+}

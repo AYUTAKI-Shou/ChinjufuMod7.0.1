@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_spice",
+
+	"ingredients": [
+		{ "tag": "forge:crops/blackpepper" },
+		{ "tag": "forge:crops/blackpepper" },
+		{ "tag": "forge:crops/blackpepper" },
+		{ "tag": "forge:crops/blackpepper" }
+	],
+
+	"result": { "item": "chinjufumod:item_dust_blackpepper", "count": 4 }
+}

@@ -1,0 +1,23 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_nst_lightb",
+			"chinjufumod:block_nsh_lightb",
+			"chinjufumod:block_nwall_lightb",
+			"chinjufumod:block_wp_namako_lightb"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_namako_lightb"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"variants": {
+	"facing=north,stage=1": { "model": "chinjufumod:block/kamoicolor/cyan_sakura1n" },
+	"facing=south,stage=1": { "model": "chinjufumod:block/kamoicolor/cyan_sakura1s" },
+	"facing=west,stage=1": { "model": "chinjufumod:block/kamoicolor/cyan_sakura1w" },
+	"facing=east,stage=1": { "model": "chinjufumod:block/kamoicolor/cyan_sakura1e" },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/kamoicolor/cyan_sakura2n" },
+		"facing=south,stage=2": { "model": "chinjufumod:block/kamoicolor/cyan_sakura2s" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/kamoicolor/cyan_sakura2w" },
+		"facing=east,stage=2": { "model": "chinjufumod:block/kamoicolor/cyan_sakura2e" },
+
+	"facing=north,stage=3": { "model": "chinjufumod:block/kamoicolor/cyan_sakura3n" },
+	"facing=south,stage=3": { "model": "chinjufumod:block/kamoicolor/cyan_sakura3s" },
+	"facing=west,stage=3": { "model": "chinjufumod:block/kamoicolor/cyan_sakura3w" },
+	"facing=east,stage=3": { "model": "chinjufumod:block/kamoicolor/cyan_sakura3e" },
+
+		"facing=north,stage=4": { "model": "chinjufumod:block/kamoicolor/cyan_sakura4n" },
+		"facing=south,stage=4": { "model": "chinjufumod:block/kamoicolor/cyan_sakura4s" },
+		"facing=west,stage=4": { "model": "chinjufumod:block/kamoicolor/cyan_sakura4w" },
+		"facing=east,stage=4": { "model": "chinjufumod:block/kamoicolor/cyan_sakura4e" }
+	}
+}

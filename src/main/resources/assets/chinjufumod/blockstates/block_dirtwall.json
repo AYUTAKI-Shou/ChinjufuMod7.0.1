@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"cra=false": { "model": "chinjufumod:block/dirtwall/dirtwall" },
+		"cra=true": { "model": "chinjufumod:block/dirtwall/dirtwall_crack" }
+	}
+}

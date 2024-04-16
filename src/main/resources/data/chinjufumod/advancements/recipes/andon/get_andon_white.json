@@ -1,0 +1,34 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_andon_orange",
+			"chinjufumod:block_andon_magenta",
+			"chinjufumod:block_andon_lightb",
+			"chinjufumod:block_andon_yellow",
+			"chinjufumod:block_andon_lime",
+			"chinjufumod:block_andon_pink",
+			"chinjufumod:block_andon_gray",
+			"chinjufumod:block_andon_lightg",
+			"chinjufumod:block_andon_cyan",
+			"chinjufumod:block_andon_purple",
+			"chinjufumod:block_andon_blue",
+			"chinjufumod:block_andon_brown",
+			"chinjufumod:block_andon_green",
+			"chinjufumod:block_andon_red",
+			"chinjufumod:block_andon_black"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_andon_white"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

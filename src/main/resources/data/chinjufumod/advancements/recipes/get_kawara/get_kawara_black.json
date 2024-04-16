@@ -1,0 +1,37 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_kst_black",
+			"chinjufumod:block_ksh_black",
+			"chinjufumod:block_kwall_black",
+			"chinjufumod:block_kawara_white",
+			"chinjufumod:block_kawara_orange",
+			"chinjufumod:block_kawara_magenta",
+			"chinjufumod:block_kawara_lightb",
+			"chinjufumod:block_kawara_yellow",
+			"chinjufumod:block_kawara_lime",
+			"chinjufumod:block_kawara_pink",
+			"chinjufumod:block_kawara_gray",
+			"chinjufumod:block_kawara_lightg",
+			"chinjufumod:block_kawara_cyan",
+			"chinjufumod:block_kawara_purple",
+			"chinjufumod:block_kawara_blue",
+			"chinjufumod:block_kawara_brown",
+			"chinjufumod:block_kawara_green",
+			"chinjufumod:block_kawara_red"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_kawara_black"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"facing=north,type=bottom": { "model": "chinjufumod:block/storage/iron" },
+		"facing=south,type=bottom": { "model": "chinjufumod:block/storage/iron" },
+		"facing=west,type=bottom": { "model": "chinjufumod:block/storage/iron_we", "y": 90 },
+		"facing=east,type=bottom": { "model": "chinjufumod:block/storage/iron_we", "y": 90 },
+
+		"facing=north,type=double": { "model": "chinjufumod:block/storage/ironw" },
+		"facing=south,type=double": { "model": "chinjufumod:block/storage/ironw" },
+		"facing=west,type=double": { "model": "chinjufumod:block/storage/ironw_we", "y": 90 },
+		"facing=east,type=double": { "model": "chinjufumod:block/storage/ironw_we", "y": 90 }
+	}
+}

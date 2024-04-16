@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_school",
+
+	"pattern": [
+		"X",
+		"Y",
+		"X"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_steel_block" },
+		"Y": { "item": "minecraft:charcoal" }
+	},
+
+	"result": { "item": "chinjufumod:block_cstove_bot", "count": 1 }
+}

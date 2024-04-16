@@ -1,0 +1,40 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:item_shouhou_empty",
+			
+			"chinjufumod:block_boxh_empty",
+			"chinjufumod:block_fusuma",
+			
+			"chinjufumod:block_uchiwa_white",
+			"chinjufumod:block_uchiwa_orange",
+			"chinjufumod:block_uchiwa_magenta",
+			"chinjufumod:block_uchiwa_lightb",
+			"chinjufumod:block_uchiwa_yellow",
+			"chinjufumod:block_uchiwa_lime",
+			"chinjufumod:block_uchiwa_pink",
+			"chinjufumod:block_uchiwa_gray",
+			"chinjufumod:block_uchiwa_lightg",
+			"chinjufumod:block_uchiwa_cyan",
+			"chinjufumod:block_uchiwa_purple",
+			"chinjufumod:block_uchiwa_blue",
+			"chinjufumod:block_uchiwa_brown",
+			"chinjufumod:block_uchiwa_green",
+			"chinjufumod:block_uchiwa_red",
+			"chinjufumod:block_uchiwa_black"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["minecraft:paper"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

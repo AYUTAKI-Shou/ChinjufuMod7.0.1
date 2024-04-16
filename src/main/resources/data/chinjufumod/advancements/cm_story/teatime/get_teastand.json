@@ -1,0 +1,31 @@
+{
+	"parent": "chinjufumod:cm_story/teatime/get_tea",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.teatime.get_teastand.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.teatime.get_teastand.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_food_sconeset_1"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_food_sconeset_1"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience":5 }
+}

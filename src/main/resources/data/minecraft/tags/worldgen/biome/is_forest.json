@@ -1,0 +1,16 @@
+{
+	"replace": false,
+	"values": [
+		"chinjufumod:biome_sakura",
+		"chinjufumod:biome_kaede",
+		"chinjufumod:biome_kaede_b",
+		"chinjufumod:biome_ichoh",
+		"chinjufumod:biome_ichoh_b",
+		
+		"chinjufumod:biome_sakurahills",
+		"chinjufumod:biome_kaedehills",
+		"chinjufumod:biome_kaedehills_b",
+		"chinjufumod:biome_ichohhills",
+		"chinjufumod:biome_ichohhills_b"
+	]
+}

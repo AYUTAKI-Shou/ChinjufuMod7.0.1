@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "chinjufumod:block_bot_sakenama_1"
+	},
+	"result": "chinjufumod:block_bot_sake_1",
+	"experience": 0.5,
+	"cookingtime": 200
+}

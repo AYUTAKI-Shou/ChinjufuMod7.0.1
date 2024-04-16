@@ -1,0 +1,24 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_noren_brown",
+			"chinjufumod:block_mzabuton_brown",
+			
+			"chinjufumod:block_curtain_brown",
+			"chinjufumod:block_curtaintall_brown"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["minecraft:brown_carpet"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

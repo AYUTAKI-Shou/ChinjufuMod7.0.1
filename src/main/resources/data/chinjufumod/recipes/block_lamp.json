@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_lamp",
+
+	"ingredients": [
+		{ "tag": "forge:dusts/redstone" },
+		{ "tag": "forge:dusts/redstone" },
+		{ "item": "minecraft:glowstone" },
+		[ { "tag": "forge:ingots/aluminum" }, { "tag": "forge:ingots/aluminium" } ]
+	],
+
+	"result": { "item": "chinjufumod:block_lamp", "count": 2 }
+}

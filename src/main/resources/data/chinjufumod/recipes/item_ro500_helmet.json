@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_helmet",
+
+	"ingredients": [
+		{ "item": "minecraft:leather_helmet" },
+		{ "tag": "forge:dyes/white" },
+		{ "item": "minecraft:coal" },
+		{ "tag": "forge:ingots/iron" },
+		{ "item": "chinjufumod:item_workorder" }
+	],
+
+	"result": { "item": "chinjufumod:item_ro500_helmet", "count": 1 }
+}

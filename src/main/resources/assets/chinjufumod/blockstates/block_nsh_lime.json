@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"cra=false,type=bottom": { "model": "chinjufumod:block/namako/slab_lime_bottom" },
+		"cra=false,type=top": { "model": "chinjufumod:block/namako/slab_lime_top" },
+		"cra=true,type=bottom": { "model": "chinjufumod:block/namako/slab_crack_lime_bottom" },
+		"cra=true,type=top": { "model": "chinjufumod:block/namako/slab_crack_lime_top" },
+		"cra=false,type=double": { "model": "chinjufumod:block/namako/lime" },
+		"cra=true,type=double": { "model": "chinjufumod:block/namako/crack_lime" }
+	}
+}

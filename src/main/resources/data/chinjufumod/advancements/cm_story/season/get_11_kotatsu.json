@@ -1,0 +1,40 @@
+{
+	"parent": "chinjufumod:cm_story/season/get_10_autumn",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.season.get_11_kotatsu.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.season.get_11_kotatsu.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_kotatsu"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": [
+				"chinjufumod:block_kotatsu",
+				"chinjufumod:block_kotatsu_spruce",
+				"chinjufumod:block_kotatsu_birch",
+				"chinjufumod:block_kotatsu_jungle",
+				"chinjufumod:block_kotatsu_acacia",
+				"chinjufumod:block_kotatsu_darkoak",
+				"chinjufumod:block_kotatsu_sakura",
+				"chinjufumod:block_kotatsu_kaede",
+				"chinjufumod:block_kotatsu_ichoh"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

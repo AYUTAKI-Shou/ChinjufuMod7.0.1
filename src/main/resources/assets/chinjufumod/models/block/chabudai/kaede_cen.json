@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/chabudai1_cen",
+	"textures": {
+		"particle": "chinjufumod:block/planks_kaede",
+		"ten": "chinjufumod:block/planks_kaede",
+		"leg": "chinjufumod:block/muku_kaede"
+	}
+}

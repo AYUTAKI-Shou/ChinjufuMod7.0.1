@@ -1,0 +1,33 @@
+{
+	"variants": {
+		"facing=north,half=lower,stage=1": { "model": "chinjufumod:block/garden/sudare_1", "y": 180 },
+		"facing=south,half=lower,stage=1": { "model": "chinjufumod:block/garden/sudare_1", "y": 0 },
+		"facing=west,half=lower,stage=1": { "model": "chinjufumod:block/garden/sudare_1", "y": 90 },
+		"facing=east,half=lower,stage=1": { "model": "chinjufumod:block/garden/sudare_1", "y": 270 },
+
+		"facing=north,half=lower,stage=2": { "model": "minecraft:block/air" },
+		"facing=south,half=lower,stage=2": { "model": "minecraft:block/air" },
+		"facing=west,half=lower,stage=2": { "model": "minecraft:block/air" },
+		"facing=east,half=lower,stage=2": { "model": "minecraft:block/air" },
+
+		"facing=north,half=lower,stage=3": { "model": "minecraft:block/air" },
+		"facing=south,half=lower,stage=3": { "model": "minecraft:block/air" },
+		"facing=west,half=lower,stage=3": { "model": "minecraft:block/air" },
+		"facing=east,half=lower,stage=3": { "model": "minecraft:block/air" },
+
+		"facing=north,half=upper,stage=1": { "model": "chinjufumod:block/garden/sudare_1up", "y": 180 },
+		"facing=south,half=upper,stage=1": { "model": "chinjufumod:block/garden/sudare_1up", "y": 0 },
+		"facing=west,half=upper,stage=1": { "model": "chinjufumod:block/garden/sudare_1up", "y": 90 },
+		"facing=east,half=upper,stage=1": { "model": "chinjufumod:block/garden/sudare_1up", "y": 270 },
+
+		"facing=north,half=upper,stage=2": { "model": "chinjufumod:block/garden/sudare_2", "y": 180 },
+		"facing=south,half=upper,stage=2": { "model": "chinjufumod:block/garden/sudare_2", "y": 0 },
+		"facing=west,half=upper,stage=2": { "model": "chinjufumod:block/garden/sudare_2", "y": 90 },
+		"facing=east,half=upper,stage=2": { "model": "chinjufumod:block/garden/sudare_2", "y": 270 },
+
+		"facing=north,half=upper,stage=3": { "model": "chinjufumod:block/garden/sudare_3", "y": 180 },
+		"facing=south,half=upper,stage=3": { "model": "chinjufumod:block/garden/sudare_3", "y": 0 },
+		"facing=west,half=upper,stage=3": { "model": "chinjufumod:block/garden/sudare_3", "y": 90 },
+		"facing=east,half=upper,stage=3": { "model": "chinjufumod:block/garden/sudare_3", "y": 270 }
+	}
+}

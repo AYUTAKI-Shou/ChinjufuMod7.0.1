@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/curry_eat",
+	"textures": {
+		"particle": "chinjufumod:block/food_curryrou_chicken",
+		"sara": "chinjufumod:block/dish_white",
+		"kome": "chinjufumod:block/food_gohan",
+		"rou": "chinjufumod:block/food_curryrou_chicken"
+	}
+}

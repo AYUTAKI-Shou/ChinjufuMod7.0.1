@@ -1,0 +1,23 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_cafechair_orange",
+			"chinjufumod:block_sofa_orange",
+			"chinjufumod:block_futon_c_orange",
+			"chinjufumod:block_mkasa_orange"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["minecraft:orange_wool"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

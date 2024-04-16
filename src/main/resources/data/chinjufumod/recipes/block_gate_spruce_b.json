@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_gate",
+
+	"pattern": [
+		"XXY",
+		"XXY",
+		"XXY"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:spruce_log" },
+		"Y": { "tag": "forge:ingots/iron" }
+	},
+
+	"result": { "item": "chinjufumod:block_gate_spruce_b", "count": 4 }
+}

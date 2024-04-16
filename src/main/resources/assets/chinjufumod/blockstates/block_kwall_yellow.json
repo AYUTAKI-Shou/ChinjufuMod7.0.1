@@ -1,0 +1,25 @@
+{
+	"variants": {
+		"east=false,north=false,south=false,west=false": { "model": "chinjufumod:block/wallkawara/yellow_alone", "y": 0, "uvlock": false },
+
+			"east=false,north=true,south=true,west=false": { "model": "chinjufumod:block/wallkawara/yellow_long", "y": 90, "uvlock": false },
+			"east=true,north=false,south=false,west=true": { "model": "chinjufumod:block/wallkawara/yellow_long", "y": 0, "uvlock": false },
+
+			"east=true,north=false,south=false,west=false": { "model": "chinjufumod:block/wallkawara/yellow_east", "y": 0, "uvlock": false },
+			"east=false,north=false,south=false,west=true": { "model": "chinjufumod:block/wallkawara/yellow_west", "y": 0, "uvlock": false },
+			"east=false,north=false,south=true,west=false": { "model": "chinjufumod:block/wallkawara/yellow_east", "y": 90, "uvlock": false },
+			"east=false,north=true,south=false,west=false": { "model": "chinjufumod:block/wallkawara/yellow_west", "y": 90, "uvlock": false },
+
+			"east=true,north=true,south=false,west=false": { "model": "chinjufumod:block/wallkawara/yellow_ne", "y": 0, "uvlock": false },
+			"east=true,north=false,south=true,west=false": { "model": "chinjufumod:block/wallkawara/yellow_se", "y": 0, "uvlock": false },
+			"east=false,north=true,south=false,west=true": { "model": "chinjufumod:block/wallkawara/yellow_nw", "y": 0, "uvlock": false },
+			"east=false,north=false,south=true,west=true": { "model": "chinjufumod:block/wallkawara/yellow_sw", "y": 0, "uvlock": false },
+
+			"east=true,north=true,south=true,west=false": { "model": "chinjufumod:block/wallkawara/yellow_3enw", "y": 90, "uvlock": false },
+			"east=true,north=true,south=false,west=true": { "model": "chinjufumod:block/wallkawara/yellow_3enw", "y": 0, "uvlock": false },
+			"east=true,north=false,south=true,west=true": { "model": "chinjufumod:block/wallkawara/yellow_3esw", "y": 0, "uvlock": false },
+			"east=false,north=true,south=true,west=true": { "model": "chinjufumod:block/wallkawara/yellow_3esw", "y": 90, "uvlock": false },
+
+		"east=true,north=true,south=true,west=true": { "model": "chinjufumod:block/wallkawara/yellow_10ji", "y": 0, "uvlock": false }
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_curtain",
+
+	"pattern": [
+		"XX",
+		"YY"
+	],
+
+	"key": {
+		"X": { "tag": "forge:rods/wooden" },
+		"Y": { "item": "minecraft:white_carpet" }
+	},
+
+	"result": { "item": "chinjufumod:block_curtain_white", "count": 2 }
+}

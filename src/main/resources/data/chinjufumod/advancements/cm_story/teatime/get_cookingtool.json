@@ -1,0 +1,35 @@
+{
+	"parent": "chinjufumod:cm_story/root",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.teatime.get_cookingtool.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.teatime.get_cookingtool.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_food_zundou"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": [
+				"chinjufumod:block_food_zundou",
+				"chinjufumod:block_food_karanabe",
+				"chinjufumod:block_food_frypan",
+				"chinjufumod:item_kettle_kara"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

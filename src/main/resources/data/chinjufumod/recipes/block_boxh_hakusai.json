@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_boxh2",
+
+	"ingredients": [
+		{ "tag": "forge:crops/chinesecabbage" },
+		{ "tag": "forge:crops/chinesecabbage" },
+		{ "item": "chinjufumod:block_boxh_empty" }
+	],
+
+	"result": { "item": "chinjufumod:block_boxh_hakusai", "count": 1 }
+}

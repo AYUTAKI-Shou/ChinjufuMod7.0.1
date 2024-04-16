@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_gohan",
+
+	"pattern": [
+		"X X",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:bamboo" }
+	},
+
+	"result": { "item": "chinjufumod:item_bentouhako", "count": 2 }
+}

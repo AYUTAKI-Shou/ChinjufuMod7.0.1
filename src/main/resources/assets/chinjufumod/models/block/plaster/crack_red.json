@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "chinjufumod:block/plaster_cr_red"
+	}
+}

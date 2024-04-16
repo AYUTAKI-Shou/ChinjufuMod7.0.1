@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_andon",
+
+	"ingredients": [
+		{ "item": "chinjufumod:block_andon_white" },
+		{ "item": "chinjufumod:block_andon_white" },
+		{ "item": "chinjufumod:block_andon_white" },
+		{ "item": "chinjufumod:block_andon_white" },
+		{ "tag": "forge:dyes/light_blue" }
+	],
+
+	"result": { "item": "chinjufumod:block_andon_lightb", "count" : 4 }
+}

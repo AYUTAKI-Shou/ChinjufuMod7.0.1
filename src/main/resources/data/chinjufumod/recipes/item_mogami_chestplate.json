@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_chestplate",
+
+	"ingredients": [
+		{ "item": "minecraft:iron_chestplate" },
+		{ "tag": "forge:dyes/brown" },
+		{ "item": "chinjufumod:item_workorder" },
+		{ "item": "minecraft:coal" },
+		{ "tag": "forge:ingots/iron" },
+		{ "item": "chinjufumod:item_ammunition_kc" }
+	],
+
+	"result": { "item": "chinjufumod:item_mogami_chestplate", "count": 1 }
+}

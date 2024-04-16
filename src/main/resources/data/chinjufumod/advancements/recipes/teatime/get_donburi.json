@@ -1,0 +1,25 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:item_food_shouyu_don",
+			"chinjufumod:item_food_tare_shouyu",
+			"chinjufumod:item_food_tare_miso",
+			"chinjufumod:item_food_tare_shio",
+			
+			"chinjufumod:block_food_donkaisen_1"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:item_food_donburi"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

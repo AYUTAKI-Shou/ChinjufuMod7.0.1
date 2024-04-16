@@ -1,0 +1,43 @@
+{
+	"variants": {
+		"facing=north,half=lower,type=default": { "model": "chinjufumod:block/ironfence/bot_default", "y": 0},
+		"facing=north,half=lower,type=left": { "model": "chinjufumod:block/ironfence/bot_left", "y": 0},
+		"facing=north,half=lower,type=right": { "model": "chinjufumod:block/ironfence/bot_right", "y": 0},
+		"facing=north,half=lower,type=both": { "model": "chinjufumod:block/ironfence/bot_both", "y": 0},
+
+		"facing=south,half=lower,type=default": { "model": "chinjufumod:block/ironfence/bot_default", "y": 180},
+		"facing=south,half=lower,type=left": { "model": "chinjufumod:block/ironfence/bot_left", "y": 180},
+		"facing=south,half=lower,type=right": { "model": "chinjufumod:block/ironfence/bot_right", "y": 180},
+		"facing=south,half=lower,type=both": { "model": "chinjufumod:block/ironfence/bot_both", "y": 180},
+
+		"facing=west,half=lower,type=default": { "model": "chinjufumod:block/ironfence/bot_default", "y": 270},
+		"facing=west,half=lower,type=left": { "model": "chinjufumod:block/ironfence/bot_left", "y": 270},
+		"facing=west,half=lower,type=right": { "model": "chinjufumod:block/ironfence/bot_right", "y": 270},
+		"facing=west,half=lower,type=both": { "model": "chinjufumod:block/ironfence/bot_both", "y": 270},
+
+		"facing=east,half=lower,type=default": { "model": "chinjufumod:block/ironfence/bot_default", "y": 90},
+		"facing=east,half=lower,type=left": { "model": "chinjufumod:block/ironfence/bot_left", "y": 90},
+		"facing=east,half=lower,type=right": { "model": "chinjufumod:block/ironfence/bot_right", "y": 90},
+		"facing=east,half=lower,type=both": { "model": "chinjufumod:block/ironfence/bot_both", "y": 90},
+
+		"facing=north,half=upper,type=default": { "model": "chinjufumod:block/ironfence/top_default", "y": 0},
+		"facing=north,half=upper,type=left": { "model": "chinjufumod:block/ironfence/top_left", "y": 0},
+		"facing=north,half=upper,type=right": { "model": "chinjufumod:block/ironfence/top_right", "y": 0},
+		"facing=north,half=upper,type=both": { "model": "chinjufumod:block/ironfence/top_both", "y": 0},
+
+		"facing=south,half=upper,type=default": { "model": "chinjufumod:block/ironfence/top_default", "y": 180},
+		"facing=south,half=upper,type=left": { "model": "chinjufumod:block/ironfence/top_left", "y": 180},
+		"facing=south,half=upper,type=right": { "model": "chinjufumod:block/ironfence/top_right", "y": 180},
+		"facing=south,half=upper,type=both": { "model": "chinjufumod:block/ironfence/top_both", "y": 180},
+
+		"facing=west,half=upper,type=default": { "model": "chinjufumod:block/ironfence/top_default", "y": 270},
+		"facing=west,half=upper,type=left": { "model": "chinjufumod:block/ironfence/top_left", "y": 270},
+		"facing=west,half=upper,type=right": { "model": "chinjufumod:block/ironfence/top_right", "y": 270},
+		"facing=west,half=upper,type=both": { "model": "chinjufumod:block/ironfence/top_both", "y": 270},
+
+		"facing=east,half=upper,type=default": { "model": "chinjufumod:block/ironfence/top_default", "y": 90},
+		"facing=east,half=upper,type=left": { "model": "chinjufumod:block/ironfence/top_left", "y": 90},
+		"facing=east,half=upper,type=right": { "model": "chinjufumod:block/ironfence/top_right", "y": 90},
+		"facing=east,half=upper,type=both": { "model": "chinjufumod:block/ironfence/top_both", "y": 90}
+	}
+}

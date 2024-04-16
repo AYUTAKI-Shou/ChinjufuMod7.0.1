@@ -1,0 +1,10 @@
+{
+	"parent": "chinjufumod:block/base/bamboodoor_hand",
+	"textures": {
+		"particle": "chinjufumod:block/bamboo_side",
+		"side": "chinjufumod:block/bamboo_side",
+		"inside": "chinjufumod:block/bamboo_inside",
+		"naka": "chinjufumod:block/bamboo_door_bot",
+		"naka2": "chinjufumod:block/bamboo_door_top"
+	}
+}

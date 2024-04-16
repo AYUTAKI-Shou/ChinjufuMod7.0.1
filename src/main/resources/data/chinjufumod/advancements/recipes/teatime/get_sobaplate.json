@@ -1,0 +1,24 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_food_teppan_n_okonomisoba",
+			"chinjufumod:block_food_teppan_n_okonomisobas",
+			"chinjufumod:block_food_teppan_n_okonomisobac",
+			"chinjufumod:block_food_teppan_n_yakisoba",
+			"chinjufumod:block_food_teppan_n_yakisobashio"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:item_food_sobaplate"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

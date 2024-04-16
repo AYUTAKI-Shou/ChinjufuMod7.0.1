@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "chinjufumod:autumnoak_place",
+    "features": [
+      {
+        "chance": 0.19333334,
+        "feature": "chinjufumod:ichoh_place"
+      },
+      {
+        "chance": 0.006666667,
+        "feature": "chinjufumod:fancy_ichoh_place"
+      },
+      {
+        "chance": 0.026666667,
+        "feature": "chinjufumod:fancy_autumnoak_place"
+      }
+    ]
+  }
+}

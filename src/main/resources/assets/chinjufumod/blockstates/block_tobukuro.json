@@ -1,0 +1,53 @@
+{
+	"variants": {
+		"facing=north,half=lower,stage=1": { "model": "chinjufumod:block/amado/tobukuro_botr1", "y": 180 },
+		"facing=south,half=lower,stage=1": { "model": "chinjufumod:block/amado/tobukuro_botr1" },
+		"facing=west,half=lower,stage=1": { "model": "chinjufumod:block/amado/tobukuro_botr1", "y": 90 },
+		"facing=east,half=lower,stage=1": { "model": "chinjufumod:block/amado/tobukuro_botr1", "y": 270 },
+
+		"facing=north,half=lower,stage=2": { "model": "chinjufumod:block/amado/tobukuro_botr2", "y": 180 },
+		"facing=south,half=lower,stage=2": { "model": "chinjufumod:block/amado/tobukuro_botr2" },
+		"facing=west,half=lower,stage=2": { "model": "chinjufumod:block/amado/tobukuro_botr2", "y": 90 },
+		"facing=east,half=lower,stage=2": { "model": "chinjufumod:block/amado/tobukuro_botr2", "y": 270 },
+
+		"facing=north,half=lower,stage=3": { "model": "chinjufumod:block/amado/tobukuro_botr3", "y": 180 },
+		"facing=south,half=lower,stage=3": { "model": "chinjufumod:block/amado/tobukuro_botr3" },
+		"facing=west,half=lower,stage=3": { "model": "chinjufumod:block/amado/tobukuro_botr3", "y": 90 },
+		"facing=east,half=lower,stage=3": { "model": "chinjufumod:block/amado/tobukuro_botr3", "y": 270 },
+
+		"facing=north,half=lower,stage=4": { "model": "chinjufumod:block/amado/tobukuro_botr4", "y": 180 },
+		"facing=south,half=lower,stage=4": { "model": "chinjufumod:block/amado/tobukuro_botr4" },
+		"facing=west,half=lower,stage=4": { "model": "chinjufumod:block/amado/tobukuro_botr4", "y": 90 },
+		"facing=east,half=lower,stage=4": { "model": "chinjufumod:block/amado/tobukuro_botr4", "y": 270 },
+
+		"facing=north,half=lower,stage=5": { "model": "chinjufumod:block/amado/tobukuro_botr5", "y": 180 },
+		"facing=south,half=lower,stage=5": { "model": "chinjufumod:block/amado/tobukuro_botr5" },
+		"facing=west,half=lower,stage=5": { "model": "chinjufumod:block/amado/tobukuro_botr5", "y": 90 },
+		"facing=east,half=lower,stage=5": { "model": "chinjufumod:block/amado/tobukuro_botr5", "y": 270 },
+
+		"facing=north,half=upper,stage=1": { "model": "chinjufumod:block/amado/tobukuro_topr1", "y": 180 },
+		"facing=south,half=upper,stage=1": { "model": "chinjufumod:block/amado/tobukuro_topr1" },
+		"facing=west,half=upper,stage=1": { "model": "chinjufumod:block/amado/tobukuro_topr1", "y": 90 },
+		"facing=east,half=upper,stage=1": { "model": "chinjufumod:block/amado/tobukuro_topr1", "y": 270 },
+
+		"facing=north,half=upper,stage=2": { "model": "chinjufumod:block/amado/tobukuro_topr2", "y": 180 },
+		"facing=south,half=upper,stage=2": { "model": "chinjufumod:block/amado/tobukuro_topr2" },
+		"facing=west,half=upper,stage=2": { "model": "chinjufumod:block/amado/tobukuro_topr2", "y": 90 },
+		"facing=east,half=upper,stage=2": { "model": "chinjufumod:block/amado/tobukuro_topr2", "y": 270 },
+
+		"facing=north,half=upper,stage=3": { "model": "chinjufumod:block/amado/tobukuro_topr3", "y": 180 },
+		"facing=south,half=upper,stage=3": { "model": "chinjufumod:block/amado/tobukuro_topr3" },
+		"facing=west,half=upper,stage=3": { "model": "chinjufumod:block/amado/tobukuro_topr3", "y": 90 },
+		"facing=east,half=upper,stage=3": { "model": "chinjufumod:block/amado/tobukuro_topr3", "y": 270 },
+
+		"facing=north,half=upper,stage=4": { "model": "chinjufumod:block/amado/tobukuro_topr4", "y": 180 },
+		"facing=south,half=upper,stage=4": { "model": "chinjufumod:block/amado/tobukuro_topr4" },
+		"facing=west,half=upper,stage=4": { "model": "chinjufumod:block/amado/tobukuro_topr4", "y": 90 },
+		"facing=east,half=upper,stage=4": { "model": "chinjufumod:block/amado/tobukuro_topr4", "y": 270 },
+
+		"facing=north,half=upper,stage=5": { "model": "chinjufumod:block/amado/tobukuro_topr5", "y": 180 },
+		"facing=south,half=upper,stage=5": { "model": "chinjufumod:block/amado/tobukuro_topr5" },
+		"facing=west,half=upper,stage=5": { "model": "chinjufumod:block/amado/tobukuro_topr5", "y": 90 },
+		"facing=east,half=upper,stage=5": { "model": "chinjufumod:block/amado/tobukuro_topr5", "y": 270 }
+	}
+}

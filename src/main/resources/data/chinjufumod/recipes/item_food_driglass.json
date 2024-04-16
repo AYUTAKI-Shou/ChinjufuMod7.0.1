@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_dish",
+
+	"pattern": [
+		" X",
+		"XX"
+	],
+
+	"key": {
+		"X": { "tag": "forge:glass/colorless" }
+	},
+
+	"result": { "item": "chinjufumod:item_food_driglass", "count": 3 }
+}

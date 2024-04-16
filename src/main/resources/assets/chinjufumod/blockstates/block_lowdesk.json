@@ -1,0 +1,37 @@
+{
+"variants": {
+	"east=true,north=true,south=false,west=false,which=false": { "model": "chinjufumod:block/lowdesk/cor_oak", "y": 270,"uvlock": true},
+	"east=false,north=true,south=false,west=true,which=false": { "model": "chinjufumod:block/lowdesk/cor_oak", "y": 180,"uvlock": true},
+	"east=true,north=false,south=true,west=false,which=false": { "model": "chinjufumod:block/lowdesk/cor_oak","uvlock": true},
+	"east=false,north=false,south=true,west=true,which=false": { "model": "chinjufumod:block/lowdesk/cor_oak", "y": 90,"uvlock": true },
+	"east=false,north=true,south=false,west=false,which=false": { "model": "chinjufumod:block/lowdesk/end_oak", "y": 270,"uvlock": true },
+	"east=true,north=false,south=false,west=false,which=false": { "model": "chinjufumod:block/lowdesk/end_oak","uvlock": true },
+	"east=false,north=false,south=false,west=true,which=false": { "model": "chinjufumod:block/lowdesk/end_oak", "y": 180,"uvlock": true },
+	"east=false,north=false,south=true,west=false,which=false": { "model": "chinjufumod:block/lowdesk/end_oak", "y": 90,"uvlock": true },
+	"east=false,north=false,south=false,west=false,which=false": { "model": "chinjufumod:block/lowdesk/cen_oak","uvlock": true },
+	"east=false,north=true,south=true,west=false,which=false": { "model": "chinjufumod:block/lowdesk/non_oak", "y": 90,"uvlock": true },
+	"east=true,north=false,south=false,west=true,which=false": { "model": "chinjufumod:block/lowdesk/non_oak","uvlock": true },
+	"east=false,north=true,south=true,west=true,which=false": { "model": "chinjufumod:block/lowdesk/non_oak", "y": 270, "uvlock": true },
+	"east=true,north=true,south=true,west=false,which=false": { "model": "chinjufumod:block/lowdesk/non_oak", "y": 90, "uvlock": true },
+	"east=true,north=true,south=false,west=true,which=false": { "model": "chinjufumod:block/lowdesk/non_oak", "uvlock": true },
+	"east=true,north=false,south=true,west=true,which=false": { "model": "chinjufumod:block/lowdesk/non_oak", "y": 180, "uvlock": true },
+	"east=true,north=true,south=true,west=true,which=false": { "model": "chinjufumod:block/lowdesk/non_oak","uvlock": true },
+
+	"east=true,north=true,south=false,west=false,which=true": { "model": "chinjufumod:block/lowdesk/cor_oak", "y": 270,"uvlock": true},
+	"east=false,north=true,south=false,west=true,which=true": { "model": "chinjufumod:block/lowdesk/cor_oak", "y": 180,"uvlock": true},
+	"east=true,north=false,south=true,west=false,which=true": { "model": "chinjufumod:block/lowdesk/cor_oak","uvlock": true},
+	"east=false,north=false,south=true,west=true,which=true": { "model": "chinjufumod:block/lowdesk/cor_oak", "y": 90,"uvlock": true },
+	"east=false,north=true,south=false,west=false,which=true": { "model": "chinjufumod:block/lowdesk/end_oak", "y": 270,"uvlock": true },
+	"east=true,north=false,south=false,west=false,which=true": { "model": "chinjufumod:block/lowdesk/end_oak","uvlock": true },
+	"east=false,north=false,south=false,west=true,which=true": { "model": "chinjufumod:block/lowdesk/end_oak", "y": 180,"uvlock": true },
+	"east=false,north=false,south=true,west=false,which=true": { "model": "chinjufumod:block/lowdesk/end_oak", "y": 90,"uvlock": true },
+	"east=false,north=false,south=false,west=false,which=true": { "model": "chinjufumod:block/lowdesk/cen_oak","uvlock": true },
+	"east=false,north=true,south=true,west=false,which=true": { "model": "chinjufumod:block/lowdesk/non_oak", "y": 90,"uvlock": true },
+	"east=true,north=false,south=false,west=true,which=true": { "model": "chinjufumod:block/lowdesk/non_oak","uvlock": true },
+	"east=false,north=true,south=true,west=true,which=true": { "model": "chinjufumod:block/lowdesk/non_oak", "y": 270, "uvlock": true },
+	"east=true,north=true,south=true,west=false,which=true": { "model": "chinjufumod:block/lowdesk/non_oak", "y": 90, "uvlock": true },
+	"east=true,north=true,south=false,west=true,which=true": { "model": "chinjufumod:block/lowdesk/non_oak", "uvlock": true },
+	"east=true,north=false,south=true,west=true,which=true": { "model": "chinjufumod:block/lowdesk/non_oak", "y": 180, "uvlock": true },
+	"east=true,north=true,south=true,west=true,which=true": { "model": "chinjufumod:block/lowdesk/non_oak","uvlock": true }
+	}
+}

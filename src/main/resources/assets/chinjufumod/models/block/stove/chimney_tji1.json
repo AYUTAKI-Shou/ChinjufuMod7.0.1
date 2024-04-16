@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/pipe_tji1",
+	"textures": {
+		"particle": "chinjufumod:block/chimney_long",
+		"side": "chinjufumod:block/chimney_side",
+		"long": "chinjufumod:block/chimney_long"
+	}
+}

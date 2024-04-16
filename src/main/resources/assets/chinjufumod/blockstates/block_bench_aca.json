@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"facing=north,type=default": { "model": "chinjufumod:block/bench/acacia", "y": 0 },
+		"facing=north,type=left": { "model": "chinjufumod:block/bench/acacia_left", "y": 0 },
+		"facing=north,type=right": { "model": "chinjufumod:block/bench/acacia_right", "y": 0 },
+		"facing=north,type=both": { "model": "chinjufumod:block/bench/acacia_both", "y": 0 },
+
+		"facing=south,type=default": { "model": "chinjufumod:block/bench/acacia", "y": 180 },
+		"facing=south,type=left": { "model": "chinjufumod:block/bench/acacia_left", "y": 180 },
+		"facing=south,type=right": { "model": "chinjufumod:block/bench/acacia_right", "y": 180 },
+		"facing=south,type=both": { "model": "chinjufumod:block/bench/acacia_both", "y": 180 },
+
+		"facing=west,type=default": { "model": "chinjufumod:block/bench/acacia", "y": 270 },
+		"facing=west,type=left": { "model": "chinjufumod:block/bench/acacia_left", "y": 270 },
+		"facing=west,type=right": { "model": "chinjufumod:block/bench/acacia_right", "y": 270 },
+		"facing=west,type=both": { "model": "chinjufumod:block/bench/acacia_both", "y": 270 },
+
+		"facing=east,type=default": { "model": "chinjufumod:block/bench/acacia", "y": 90 },
+		"facing=east,type=left": { "model": "chinjufumod:block/bench/acacia_left", "y": 90 },
+		"facing=east,type=right": { "model": "chinjufumod:block/bench/acacia_right", "y": 90 },
+		"facing=east,type=both": { "model": "chinjufumod:block/bench/acacia_both", "y": 90 }
+	}
+}

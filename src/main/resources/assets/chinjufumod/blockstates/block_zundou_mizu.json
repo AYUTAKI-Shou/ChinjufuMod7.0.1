@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"facing=north,stage=1,waterlogged=false": { "model": "chinjufumod:block/zundou/mizu", "y": 180 },
+		"facing=south,stage=1,waterlogged=false": { "model": "chinjufumod:block/zundou/mizu" },
+		"facing=west,stage=1,waterlogged=false": { "model": "chinjufumod:block/zundou/mizu", "y": 90 },
+		"facing=east,stage=1,waterlogged=false": { "model": "chinjufumod:block/zundou/mizu", "y": 270 },
+
+		"facing=north,stage=2,waterlogged=false": { "model": "chinjufumod:block/zundou/mizu_hot", "y": 180 },
+		"facing=south,stage=2,waterlogged=false": { "model": "chinjufumod:block/zundou/mizu_hot" },
+		"facing=west,stage=2,waterlogged=false": { "model": "chinjufumod:block/zundou/mizu_hot", "y": 90 },
+		"facing=east,stage=2,waterlogged=false": { "model": "chinjufumod:block/zundou/mizu_hot", "y": 270 },
+
+		"facing=north,stage=1,waterlogged=true": { "model": "chinjufumod:block/zundou/mizu_wl", "y": 180 },
+		"facing=south,stage=1,waterlogged=true": { "model": "chinjufumod:block/zundou/mizu_wl" },
+		"facing=west,stage=1,waterlogged=true": { "model": "chinjufumod:block/zundou/mizu_wl", "y": 90 },
+		"facing=east,stage=1,waterlogged=true": { "model": "chinjufumod:block/zundou/mizu_wl", "y": 270 },
+
+		"facing=north,stage=2,waterlogged=true": { "model": "chinjufumod:block/zundou/mizu_wl", "y": 180 },
+		"facing=south,stage=2,waterlogged=true": { "model": "chinjufumod:block/zundou/mizu_wl" },
+		"facing=west,stage=2,waterlogged=true": { "model": "chinjufumod:block/zundou/mizu_wl", "y": 90 },
+		"facing=east,stage=2,waterlogged=true": { "model": "chinjufumod:block/zundou/mizu_wl", "y": 270 }
+	}
+}

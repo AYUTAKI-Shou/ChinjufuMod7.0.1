@@ -1,0 +1,31 @@
+{
+	"parent": "chinjufumod:cm_story/jpblock/get_slidedoor",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.jpblock.get_tatami.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.jpblock.get_tatami.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_tatamih"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_tatamih"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

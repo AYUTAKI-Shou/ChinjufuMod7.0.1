@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_lowdesk",
+
+	"pattern": [
+		"X",
+		"Y"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_chabudai_ichoh" },
+		"Y": [ { "tag": "minecraft:wool" }, { "tag": "forge:wool" } ]
+	},
+
+	"result": { "item": "chinjufumod:block_kotatsu_ichoh", "count": 1 }
+}

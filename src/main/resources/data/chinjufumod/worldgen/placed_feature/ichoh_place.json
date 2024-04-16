@@ -1,0 +1,17 @@
+{
+  "feature": "chinjufumod:normal_ichoh",
+  "placement": [
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:would_survive",
+        "state": {
+          "Name": "chinjufumod:block_tree_ichoh_nae",
+          "Properties": {
+            "stage": "0"
+          }
+        }
+      }
+    }
+  ]
+}

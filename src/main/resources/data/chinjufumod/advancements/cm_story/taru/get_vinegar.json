@@ -1,0 +1,31 @@
+{
+	"parent": "chinjufumod:cm_story/taru/get_taru",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.taru.get_vinegar.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.taru.get_vinegar.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_komezu_bot"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_komezu_bot"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

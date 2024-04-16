@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_tea",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_food_scone" },
+		{ "item": "chinjufumod:item_food_scone" },
+		{ "item": "chinjufumod:item_food_scone" },
+		{ "item": "chinjufumod:item_food_scone" },
+		{ "item": "chinjufumod:item_food_sara" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_scone", "count" : 1 }
+}

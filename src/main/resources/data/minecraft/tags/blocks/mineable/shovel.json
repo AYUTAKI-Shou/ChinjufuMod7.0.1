@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		"chinjufumod:block_enden",
+		"chinjufumod:block_enden_k",
+		"chinjufumod:block_lostclam", 
+		"chinjufumod:block_samon",
+		"chinjufumod:block_samon_black",
+		
+		"chinjufumod:block_snowcore",
+		"chinjufumod:block_snowman",
+		"chinjufumod:block_snowman_color",
+
+		"chinjufumod:block_suiden",
+		"chinjufumod:block_fall_leaf"
+	]
+}

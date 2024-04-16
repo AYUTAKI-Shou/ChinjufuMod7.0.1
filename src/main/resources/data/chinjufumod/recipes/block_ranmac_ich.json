@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_ranma",
+
+	"pattern": [
+		" Y ",
+		"XZX"
+	],
+
+	"key": {
+		"X": { "tag": "forge:rods/wooden" },
+		"Y": { "tag": "forge:wooden_slabs/ginkgo" },
+		"Z": { "tag": "forge:glass_panes/colorless" }
+	},
+
+	"result": { "item": "chinjufumod:block_ranmac_ich", "count": 1 }
+}

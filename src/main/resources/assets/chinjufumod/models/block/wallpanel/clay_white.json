@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/wallpanel_wide",
+	"textures": {
+		"particle": "minecraft:block/white_terracotta",
+		"front": "minecraft:block/white_terracotta",
+		"back": "minecraft:block/white_terracotta",
+		"side": "minecraft:block/white_terracotta"
+	}
+}

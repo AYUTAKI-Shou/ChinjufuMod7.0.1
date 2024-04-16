@@ -1,0 +1,37 @@
+{
+	"variants": {
+		"facing=north,lit=false": [ { "model": "chinjufumod:block/takeakari/takeakari_y", "y": 180 },
+			{ "model": "chinjufumod:block/takeakari/takeakari2_y", "y": 180 },
+			{ "model": "chinjufumod:block/takeakari/takeakari3_y", "y": 180 },
+			{ "model": "chinjufumod:block/takeakari/takeakari4_y", "y": 180 } ],
+		"facing=south,lit=false": [ { "model": "chinjufumod:block/takeakari/takeakari_y", "y": 0 },
+			{ "model": "chinjufumod:block/takeakari/takeakari2_y", "y": 0 },
+			{ "model": "chinjufumod:block/takeakari/takeakari3_y", "y": 0 },
+			{ "model": "chinjufumod:block/takeakari/takeakari4_y", "y": 0 } ],
+		"facing=west,lit=false": [ { "model": "chinjufumod:block/takeakari/takeakari_y", "y": 90 },
+			{ "model": "chinjufumod:block/takeakari/takeakari2_y", "y": 90 },
+			{ "model": "chinjufumod:block/takeakari/takeakari3_y", "y": 90 },
+			{ "model": "chinjufumod:block/takeakari/takeakari4_y", "y": 90 } ],
+		"facing=east,lit=false": [ { "model": "chinjufumod:block/takeakari/takeakari_y", "y": 270 },
+			{ "model": "chinjufumod:block/takeakari/takeakari2_y", "y": 270 },
+			{ "model": "chinjufumod:block/takeakari/takeakari3_y", "y": 270 },
+			{ "model": "chinjufumod:block/takeakari/takeakari4_y", "y": 270 } ],
+
+		"facing=north,lit=true": [ { "model": "chinjufumod:block/takeakari/lit_takeakari_y", "y": 180 },
+			{ "model": "chinjufumod:block/takeakari/lit_takeakari2_y", "y": 180 },
+			{ "model": "chinjufumod:block/takeakari/lit_takeakari3_y", "y": 180 },
+			{ "model": "chinjufumod:block/takeakari/lit_takeakari4_y", "y": 180 } ],
+		"facing=south,lit=true": [ { "model": "chinjufumod:block/takeakari/lit_takeakari_y", "y": 0 },
+			{ "model": "chinjufumod:block/takeakari/lit_takeakari2_y", "y": 0 },
+			{ "model": "chinjufumod:block/takeakari/lit_takeakari3_y", "y": 0 },
+			{ "model": "chinjufumod:block/takeakari/lit_takeakari4_y", "y": 0 } ],
+		"facing=west,lit=true": [ { "model": "chinjufumod:block/takeakari/lit_takeakari_y", "y": 90 },
+			{ "model": "chinjufumod:block/takeakari/lit_takeakari2_y", "y": 90 },
+			{ "model": "chinjufumod:block/takeakari/lit_takeakari3_y", "y": 90 },
+			{ "model": "chinjufumod:block/takeakari/lit_takeakari4_y", "y": 90 } ],
+		"facing=east,lit=true": [ { "model": "chinjufumod:block/takeakari/lit_takeakari_y", "y": 270 },
+			{ "model": "chinjufumod:block/takeakari/lit_takeakari2_y", "y": 270 },
+			{ "model": "chinjufumod:block/takeakari/lit_takeakari3_y", "y": 270 },
+			{ "model": "chinjufumod:block/takeakari/lit_takeakari4_y", "y": 270 } ]
+	}
+}

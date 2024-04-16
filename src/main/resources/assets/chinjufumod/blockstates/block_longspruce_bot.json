@@ -1,0 +1,12 @@
+{
+	"variants": {
+		"half=lower" : [ { "model" : "chinjufumod:block/garden/spruce_bot", "y": 0 },
+			{ "model" : "chinjufumod:block/garden/spruce_bot", "y": 90 },
+			{ "model" : "chinjufumod:block/garden/spruce_bot", "y": 180 },
+			{ "model" : "chinjufumod:block/garden/spruce_bot", "y": 270 } ],
+		"half=upper" : [ { "model": "chinjufumod:block/garden/spruce_top", "y": 0 },
+			{ "model": "chinjufumod:block/garden/spruce_top", "y": 90 },
+			{ "model": "chinjufumod:block/garden/spruce_top", "y": 180 },
+			{ "model": "chinjufumod:block/garden/spruce_top", "y": 270 } ]
+	}
+}

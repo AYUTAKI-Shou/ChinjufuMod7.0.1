@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_school",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"X X"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:oak_planks" },
+		"Y": { "item": "minecraft:oak_slab" }
+	},
+
+	"result": { "item": "chinjufumod:block_teacherdesk", "count": 3 }
+}

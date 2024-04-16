@@ -1,0 +1,8 @@
+{
+	"parent": "block/slab",
+	"textures": {
+		"bottom": "chinjufumod:block/namakowall_bcr_magenta",
+		"top": "chinjufumod:block/namakowall_bcr_magenta",
+		"side": "chinjufumod:block/namakowall_bcr_magenta"
+	}
+}

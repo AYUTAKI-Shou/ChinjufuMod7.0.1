@@ -1,0 +1,70 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/suiden_6w",
+		"top": "chinjufumod:block/suiden_6",
+		"side": "chinjufumod:block/suiden_6_side",
+		"wara": "chinjufumod:block/suiden_6w",
+		"down": "minecraft:block/dirt"
+	},
+	"elements": [
+		{
+			"name": "north",
+			"from": [ 0, 13.125, 0 ],
+			"to": [ 16, 15, 2 ],
+			"faces": {
+				"up": { "texture": "#top" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		},
+		{
+			"name": "south",
+			"from": [ 0, 13.125, 14 ],
+			"to": [ 16, 15, 16 ],
+			"faces": {
+				"up": { "texture": "#top" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		},
+		{
+			"name": "west",
+			"from": [ 0, 13.125, 2 ],
+			"to": [ 2, 15, 14 ],
+			"faces": {
+				"up": { "texture": "#top" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		},
+		{
+			"name": "east",
+			"from": [ 14, 13.125, 2 ],
+			"to": [ 16, 15, 14 ],
+			"faces": {
+				"up": { "texture": "#top" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		},
+
+		{
+			"name": "base",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 13.125, 16 ],
+			"faces": {
+				"up": { "texture": "#wara" },
+				"down": { "texture": "#side", "cullface": "down" },
+				"north": { "texture": "#side", "cullface": "north" },
+				"south": { "texture": "#side", "cullface": "south" },
+				"west": { "texture": "#side", "cullface": "west" },
+				"east": { "texture": "#side", "cullface": "east" }
+			}
+		}
+	]
+}

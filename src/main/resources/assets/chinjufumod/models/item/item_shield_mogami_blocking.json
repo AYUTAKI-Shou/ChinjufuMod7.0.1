@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:block/item_shield_mogami",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [ 30, -30, 0 ],
+			"translation": [ 2, -5, 8 ],
+			"scale": [ 1.25, 1.25, 1.25 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [ 30, -30, 0 ],
+			"translation": [ -8, -2, 1 ],
+			"scale": [ 1.25, 1.25, 1.25 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ -1, -3, 8 ],
+			"scale": [ 1.25, 1.25, 1.25 ]
+		},
+		"firstperson_lefthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ -13, -3, 8 ],
+			"scale": [ 1.25, 1.25, 1.25 ]
+		},
+		"gui": {
+			"rotation": [ 15, 150, 0 ],
+			"translation": [ -1, 2.5, 0 ],
+			"scale": [ 0.95, 0.95, 0.95 ]
+		}
+	}
+}

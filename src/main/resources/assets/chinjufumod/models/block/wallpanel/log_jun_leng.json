@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/wallpanel_leng",
+	"textures": {
+		"particle": "minecraft:block/jungle_log",
+		"front": "minecraft:block/jungle_log",
+		"back": "minecraft:block/jungle_log",
+		"side": "minecraft:block/jungle_log"
+	}
+}

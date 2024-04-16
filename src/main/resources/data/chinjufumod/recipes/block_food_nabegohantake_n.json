@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_gohan",
+
+	"ingredients": [
+		{ "tag": "forge:buckets/water" },
+		{ "item": "chinjufumod:item_kome" },
+		{ "item": "chinjufumod:item_kome" },
+		{ "item": "chinjufumod:item_kome" },
+		{ "item": "chinjufumod:block_food_karanabe" },
+		{ "tag": "forge:crops/bambooshoot" },
+		{ "tag": "forge:crops/bambooshoot" },
+		{ "tag": "forge:foods/soysauce" },
+		{ "tag": "forge:dusts/dashi" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_nabegohantake_n", "count" : 1 }
+}

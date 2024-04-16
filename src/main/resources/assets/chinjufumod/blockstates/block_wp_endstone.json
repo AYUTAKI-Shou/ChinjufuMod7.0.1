@@ -1,0 +1,8 @@
+{
+ "variants": {
+	"facing=north": { "model": "chinjufumod:block/wallpanel/endstone", "y": 180 },
+	"facing=south": { "model": "chinjufumod:block/wallpanel/endstone" },
+	"facing=west": { "model": "chinjufumod:block/wallpanel/endstone", "y": 90 },
+	"facing=east": { "model": "chinjufumod:block/wallpanel/endstone", "y": 270 }
+ }
+}

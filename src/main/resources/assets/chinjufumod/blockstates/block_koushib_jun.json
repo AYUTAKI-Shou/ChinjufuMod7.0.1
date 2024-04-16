@@ -1,0 +1,43 @@
+{
+	"variants": {
+		"down=false,facing=north,up=false,ver=1": { "model": "chinjufumod:block/koushib/jungle_default", "y": 0 },
+		"down=false,facing=south,up=false,ver=1": { "model": "chinjufumod:block/koushib/jungle_default", "y": 180 },
+		"down=false,facing=west,up=false,ver=1": { "model": "chinjufumod:block/koushib/jungle_default", "y": 270 },
+		"down=false,facing=east,up=false,ver=1": { "model": "chinjufumod:block/koushib/jungle_default", "y": 90 },
+
+		"down=false,facing=north,up=false,ver=2": { "model": "chinjufumod:block/koushib/jungle2_default", "y": 0 },
+		"down=false,facing=south,up=false,ver=2": { "model": "chinjufumod:block/koushib/jungle2_default", "y": 180 },
+		"down=false,facing=west,up=false,ver=2": { "model": "chinjufumod:block/koushib/jungle2_default", "y": 270 },
+		"down=false,facing=east,up=false,ver=2": { "model": "chinjufumod:block/koushib/jungle2_default", "y": 90 },
+
+		"down=true,facing=north,up=false,ver=1": { "model": "chinjufumod:block/koushib/jungle_down", "y": 0 },
+		"down=true,facing=south,up=false,ver=1": { "model": "chinjufumod:block/koushib/jungle_down", "y": 180 },
+		"down=true,facing=west,up=false,ver=1": { "model": "chinjufumod:block/koushib/jungle_down", "y": 270 },
+		"down=true,facing=east,up=false,ver=1": { "model": "chinjufumod:block/koushib/jungle_down", "y": 90 },
+
+		"down=true,facing=north,up=false,ver=2": { "model": "chinjufumod:block/koushib/jungle2_down", "y": 0 },
+		"down=true,facing=south,up=false,ver=2": { "model": "chinjufumod:block/koushib/jungle2_down", "y": 180 },
+		"down=true,facing=west,up=false,ver=2": { "model": "chinjufumod:block/koushib/jungle2_down", "y": 270 },
+		"down=true,facing=east,up=false,ver=2": { "model": "chinjufumod:block/koushib/jungle2_down", "y": 90 },
+
+		"down=false,facing=north,up=true,ver=1": { "model": "chinjufumod:block/koushib/jungle_up", "y": 0 },
+		"down=false,facing=south,up=true,ver=1": { "model": "chinjufumod:block/koushib/jungle_up", "y": 180 },
+		"down=false,facing=west,up=true,ver=1": { "model": "chinjufumod:block/koushib/jungle_up", "y": 270 },
+		"down=false,facing=east,up=true,ver=1": { "model": "chinjufumod:block/koushib/jungle_up", "y": 90 },
+
+		"down=false,facing=north,up=true,ver=2": { "model": "chinjufumod:block/koushib/jungle2_up", "y": 0 },
+		"down=false,facing=south,up=true,ver=2": { "model": "chinjufumod:block/koushib/jungle2_up", "y": 180 },
+		"down=false,facing=west,up=true,ver=2": { "model": "chinjufumod:block/koushib/jungle2_up", "y": 270 },
+		"down=false,facing=east,up=true,ver=2": { "model": "chinjufumod:block/koushib/jungle2_up", "y": 90 },
+
+		"down=true,facing=north,up=true,ver=1": { "model": "chinjufumod:block/koushib/jungle_both", "y": 0 },
+		"down=true,facing=south,up=true,ver=1": { "model": "chinjufumod:block/koushib/jungle_both", "y": 180 },
+		"down=true,facing=west,up=true,ver=1": { "model": "chinjufumod:block/koushib/jungle_both", "y": 270 },
+		"down=true,facing=east,up=true,ver=1": { "model": "chinjufumod:block/koushib/jungle_both", "y": 90 },
+
+		"down=true,facing=north,up=true,ver=2": { "model": "chinjufumod:block/koushib/jungle2_both", "y": 0 },
+		"down=true,facing=south,up=true,ver=2": { "model": "chinjufumod:block/koushib/jungle2_both", "y": 180 },
+		"down=true,facing=west,up=true,ver=2": { "model": "chinjufumod:block/koushib/jungle2_both", "y": 270 },
+		"down=true,facing=east,up=true,ver=2": { "model": "chinjufumod:block/koushib/jungle2_both", "y": 90 }
+	}
+}

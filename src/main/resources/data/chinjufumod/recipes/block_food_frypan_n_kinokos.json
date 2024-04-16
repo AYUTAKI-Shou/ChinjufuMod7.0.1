@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_pasta",
+
+	"ingredients": [
+		{ "item": "minecraft:brown_mushroom" },
+		{ "item": "minecraft:brown_mushroom" },
+		{ "item": "minecraft:brown_mushroom" },
+		{ "item": "minecraft:brown_mushroom" },
+		{ "tag": "forge:foods/butter" },
+		{ "tag": "forge:foods/soysauce" },
+		{ "item": "chinjufumod:block_food_frypan" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_frypan_n_kinokos", "count" : 1 }
+}

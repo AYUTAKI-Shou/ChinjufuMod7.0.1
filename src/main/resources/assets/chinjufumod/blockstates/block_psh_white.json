@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"cra=false,type=bottom": { "model": "chinjufumod:block/plaster/slab_white_bottom" },
+		"cra=false,type=top": { "model": "chinjufumod:block/plaster/slab_white_top" },
+		"cra=true,type=bottom": { "model": "chinjufumod:block/plaster/slab_crack_white_bottom" },
+		"cra=true,type=top": { "model": "chinjufumod:block/plaster/slab_crack_white_top" },
+		"cra=false,type=double": { "model": "chinjufumod:block/plaster/white" },
+		"cra=true,type=double": { "model": "chinjufumod:block/plaster/crack_white" }
+	}
+}

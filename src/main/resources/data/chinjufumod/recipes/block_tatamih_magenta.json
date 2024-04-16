@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_tatami",
+
+	"pattern": [
+		"YYY",
+		"YXY",
+		"YYY"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:magenta_wool" },
+		"Y": { "item": "chinjufumod:block_tatamih" }
+	},
+
+	"result": { "item": "chinjufumod:block_tatamih_magenta", "count": 8 }
+}

@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"facing=north,lit=false": { "model": "chinjufumod:block/lamp/standarm", "y": 180 },
+		"facing=south,lit=false": { "model": "chinjufumod:block/lamp/standarm", "y": 0 },
+		"facing=west,lit=false": { "model": "chinjufumod:block/lamp/standarm", "y": 90 },
+		"facing=east,lit=false": { "model": "chinjufumod:block/lamp/standarm", "y": 270 },
+
+		"facing=north,lit=true": { "model": "chinjufumod:block/lamp/lit_standarm", "y": 180 },
+		"facing=south,lit=true": { "model": "chinjufumod:block/lamp/lit_standarm", "y": 0 },
+		"facing=west,lit=true": { "model": "chinjufumod:block/lamp/lit_standarm", "y": 90 },
+		"facing=east,lit=true": { "model": "chinjufumod:block/lamp/lit_standarm", "y": 270 }
+	}
+}

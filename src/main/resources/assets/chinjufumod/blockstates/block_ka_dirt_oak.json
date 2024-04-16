@@ -1,0 +1,23 @@
+{
+	"variants": {
+	"facing=north,stage=1": { "model": "chinjufumod:block/kamoicolor/dirt_oak1n" },
+	"facing=south,stage=1": { "model": "chinjufumod:block/kamoicolor/dirt_oak1s" },
+	"facing=west,stage=1": { "model": "chinjufumod:block/kamoicolor/dirt_oak1w" },
+	"facing=east,stage=1": { "model": "chinjufumod:block/kamoicolor/dirt_oak1e" },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/kamoicolor/dirt_oak2n" },
+		"facing=south,stage=2": { "model": "chinjufumod:block/kamoicolor/dirt_oak2s" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/kamoicolor/dirt_oak2w" },
+		"facing=east,stage=2": { "model": "chinjufumod:block/kamoicolor/dirt_oak2e" },
+
+	"facing=north,stage=3": { "model": "chinjufumod:block/kamoicolor/dirt_oak3n" },
+	"facing=south,stage=3": { "model": "chinjufumod:block/kamoicolor/dirt_oak3s" },
+	"facing=west,stage=3": { "model": "chinjufumod:block/kamoicolor/dirt_oak3w" },
+	"facing=east,stage=3": { "model": "chinjufumod:block/kamoicolor/dirt_oak3e" },
+
+		"facing=north,stage=4": { "model": "chinjufumod:block/kamoicolor/dirt_oak4n" },
+		"facing=south,stage=4": { "model": "chinjufumod:block/kamoicolor/dirt_oak4s" },
+		"facing=west,stage=4": { "model": "chinjufumod:block/kamoicolor/dirt_oak4w" },
+		"facing=east,stage=4": { "model": "chinjufumod:block/kamoicolor/dirt_oak4e" }
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_bamboo_cube",
+			"chinjufumod:block_shishiodoshi",
+			
+			"chinjufumod:block_inagi",
+			"chinjufumod:block_noriami",
+			"chinjufumod:block_ami_youshoku",
+			"chinjufumod:item_bentouhako"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["minecraft:bamboo"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

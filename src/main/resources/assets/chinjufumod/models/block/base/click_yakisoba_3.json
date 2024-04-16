@@ -1,0 +1,93 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/yakisoba_raw",
+		"soba": "chinjufumod:block/yakisoba_raw",
+		"kote": "chinjufumod:block/dish_lightg",
+		"teppan": "chinjufumod:block/kitchen_stove"
+	},
+	"elements": [
+		{
+			"name": "teppan",
+			"from": [ 2.6, 0, 2.6 ],
+			"to": [ 13.4, 0.1, 13.4 ],
+			"faces": {
+				"up" : { "texture": "#teppan" },
+				"down" : { "texture": "#teppan", "cullface": "down" },
+				"north" : { "texture": "#teppan" },
+				"south": { "texture": "#teppan" },
+	 			"west" : { "texture": "#teppan" },
+				"east" : { "texture": "#teppan" }
+			}
+		},
+		{
+			"name": "soba_c",
+			"from": [ 5.5, 0.1, 5.5 ],
+			"to": [ 10.5, 1.1, 10.5 ],
+			"faces": {
+				"up" : { "uv": [ 2.0, 2.0, 14.0, 14.0 ], "texture": "#soba" },
+				"north": { "uv": [ 14.0, 2.0, 2.0, 0.0 ], "texture": "#soba" },
+				"south": { "uv": [ 2.0, 14.0, 14.0, 16.0 ], "texture": "#soba" },
+				"east" : { "uv": [ 14.0, 2.0, 16.0, 14.0 ], "texture": "#soba", "rotation": 90 },
+				"west" : { "uv": [ 2.0, 14.0, 0.0, 2.0 ], "texture": "#soba", "rotation": 90 }
+			}
+		},
+		
+		{
+			"name": "kote",
+			"from": [ 1.5, 0.1, 8 ],
+			"to": [ 4.5, 0.35, 11 ],
+			"rotation": { "origin": [ 2, 8, 10 ], "axis": "y", "angle": -22.5, "rescale": false },
+			"faces": {
+				"up" : { "texture": "#kote" },
+				"down" : { "texture": "#kote" },
+				"north": { "texture": "#kote" },
+				"south": { "texture": "#kote" },
+				"east" : { "texture": "#kote" },
+				"west" : { "texture": "#kote" }
+			}
+		},
+		{
+			"name": "kote",
+			"from": [ 2.75, 0.1, 11 ],
+			"to": [ 3.25, 0.55, 15.5 ],
+			"rotation": { "origin": [ 2, 8, 10 ], "axis": "y", "angle": -22.5, "rescale": false },
+			"faces": {
+				"up" : { "texture": "#kote" },
+				"down" : { "texture": "#kote" },
+				"north": { "texture": "#kote" },
+				"south": { "texture": "#kote" },
+				"east" : { "texture": "#kote" },
+				"west" : { "texture": "#kote" }
+			}
+		},
+		{
+			"name": "kote2",
+			"from": [ 11.5, 0.1, 8 ],
+			"to": [ 14.5, 0.35, 11 ],
+			"rotation": { "origin": [ 14, 8, 10 ], "axis": "y", "angle": 22.5, "rescale": false },
+			"faces": {
+				"up" : { "texture": "#kote" },
+				"down" : { "texture": "#kote" },
+				"north": { "texture": "#kote" },
+				"south": { "texture": "#kote" },
+				"east" : { "texture": "#kote" },
+				"west" : { "texture": "#kote" }
+			}
+		},
+		{
+			"name": "kote2",
+			"from": [ 12.75, 0.1, 11 ],
+			"to": [ 13.25, 0.55, 15.5 ],
+			"rotation": { "origin": [ 14, 8, 10 ], "axis": "y", "angle": 22.5, "rescale": false },
+			"faces": {
+				"up" : { "texture": "#kote" },
+				"down" : { "texture": "#kote" },
+				"north": { "texture": "#kote" },
+				"south": { "texture": "#kote" },
+				"east" : { "texture": "#kote" },
+				"west" : { "texture": "#kote" }
+			}
+		}
+	]
+}

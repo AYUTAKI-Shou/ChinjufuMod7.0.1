@@ -1,0 +1,56 @@
+{
+	"parent": "chinjufumod:cm_story/jpblock/get_tatami",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.jpblock.get_jpgarden.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.jpblock.get_jpgarden.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_bonsai_oak"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": [
+				"chinjufumod:block_bonsai_oak",
+				"chinjufumod:block_bonsai_spruce",
+				"chinjufumod:block_bonsai_birch",
+				"chinjufumod:block_bonsai_jungle",
+				"chinjufumod:block_bonsai_acacia",
+				"chinjufumod:block_bonsai_darkoak",
+				
+				"chinjufumod:block_bonsai_sakura",
+				"chinjufumod:block_bonsai_kaede",
+				"chinjufumod:block_bonsai_ichoh",
+				"chinjufumod:block_bonsai_oakkare",
+				
+				"chinjufumod:block_shishiodoshi",
+				"chinjufumod:block_chouzubachi_kara",
+				"chinjufumod:block_chouzu_gra_kara",
+				"chinjufumod:block_chouzu_dio_kara",
+				"chinjufumod:block_chouzu_and_kara",
+				
+				"chinjufumod:block_ishitourou_stone",
+				"chinjufumod:block_ishitourou_gra",
+				"chinjufumod:block_ishitourou_dio",
+				"chinjufumod:block_ishitourou_and",
+				
+				"chinjufumod:item_kumade",
+				"chinjufumod:item_chisel"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 10 }
+}

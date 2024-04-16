@@ -1,0 +1,322 @@
+package com.ayutaki.chinjufumod.registry;
+
+import java.util.function.Supplier;
+
+import com.ayutaki.chinjufumod.ChinjufuMod;
+import com.ayutaki.chinjufumod.items.addinfo.AddInfo_Item;
+import com.ayutaki.chinjufumod.items.fuel.Shikkui_Slab;
+
+import net.minecraft.world.item.Item;
+import net.minecraft.world.item.ItemNameBlockItem;
+import net.minecraftforge.registries.DeferredRegister;
+import net.minecraftforge.registries.ForgeRegistries;
+import net.minecraftforge.registries.RegistryObject;
+
+public class Items_Wablock {
+
+	public static final DeferredRegister<Item> ITEMS = DeferredRegister.create(ForgeRegistries.ITEMS, ChinjufuMod.MOD_ID);
+
+	public static final RegistryObject<Item> CLAYKAWARA = register("item_claykawara", () -> new AddInfo_Item(new Item.Properties()));
+	public static final RegistryObject<Item> SHOUSEKKAI = register("item_shousekkai_c", () -> new AddInfo_Item(new Item.Properties()));
+
+	public static final RegistryObject<Item> KAWARA_white = register("block_kawara_white", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_white.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_orange = register("block_kawara_orange", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_orange.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_magenta = register("block_kawara_magenta", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_magenta.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_lightb = register("block_kawara_lightb", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_lightb.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_yellow = register("block_kawara_yellow", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_yellow.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_lime = register("block_kawara_lime", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_lime.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_pink = register("block_kawara_pink", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_pink.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_gray = register("block_kawara_gray", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_gray.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_lightg = register("block_kawara_lightg", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_lightg.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_cyan = register("block_kawara_cyan", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_cyan.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_purple = register("block_kawara_purple", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_purple.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_blue = register("block_kawara_blue", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_blue.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_brown = register("block_kawara_brown", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_brown.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_green = register("block_kawara_green", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_green.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_red = register("block_kawara_red", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_red.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_black = register("block_kawara_black", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_black.get(), new Item.Properties()));
+
+	public static final RegistryObject<Item> KAWARA_ST_white = register("block_kst_white", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_ST_white.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_ST_orange = register("block_kst_orange", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_ST_orange.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_ST_magenta = register("block_kst_magenta", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_ST_magenta.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_ST_lightb = register("block_kst_lightb", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_ST_lightb.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_ST_yellow = register("block_kst_yellow", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_ST_yellow.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_ST_lime = register("block_kst_lime", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_ST_lime.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_ST_pink = register("block_kst_pink", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_ST_pink.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_ST_gray = register("block_kst_gray", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_ST_gray.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_ST_lightg = register("block_kst_lightg", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_ST_lightg.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_ST_cyan = register("block_kst_cyan", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_ST_cyan.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_ST_purple = register("block_kst_purple", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_ST_purple.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_ST_blue = register("block_kst_blue", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_ST_blue.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_ST_brown = register("block_kst_brown", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_ST_brown.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_ST_green = register("block_kst_green", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_ST_green.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_ST_red = register("block_kst_red", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_ST_red.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_ST_black = register("block_kst_black", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_ST_black.get(), new Item.Properties()));
+
+	public static final RegistryObject<Item> KAWARA_SH_white = register("block_ksh_white", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_SH_white.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_SH_orange = register("block_ksh_orange", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_SH_orange.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_SH_magenta = register("block_ksh_magenta", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_SH_magenta.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_SH_lightb = register("block_ksh_lightb", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_SH_lightb.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_SH_yellow = register("block_ksh_yellow", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_SH_yellow.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_SH_lime = register("block_ksh_lime", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_SH_lime.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_SH_pink = register("block_ksh_pink", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_SH_pink.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_SH_gray = register("block_ksh_gray", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_SH_gray.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_SH_lightg = register("block_ksh_lightg", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_SH_lightg.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_SH_cyan = register("block_ksh_cyan", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_SH_cyan.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_SH_purple = register("block_ksh_purple", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_SH_purple.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_SH_blue = register("block_ksh_blue", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_SH_blue.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_SH_brown = register("block_ksh_brown", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_SH_brown.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_SH_green = register("block_ksh_green", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_SH_green.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_SH_red = register("block_ksh_red", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_SH_red.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_SH_black = register("block_ksh_black", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_SH_black.get(), new Item.Properties()));
+
+	public static final RegistryObject<Item> DIRTWALL = register("block_dirtwall", () -> new ItemNameBlockItem(JP_Blocks.DIRTWALL.get(), new Item.Properties()));
+	public static final RegistryObject<Item> DIRTWALL_stairs = register("block_dirtwall_st", () -> new ItemNameBlockItem(JP_Blocks.DIRTWALL_stairs.get(), new Item.Properties()));
+	public static final RegistryObject<Item> DIRTWALL_SH = register("block_dirtwall_sh", () -> new Shikkui_Slab(JP_Blocks.DIRTWALL_SH.get(), new Item.Properties()));
+
+	public static final RegistryObject<Item> SHIKKUI_white = register("block_plaster_white", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_white.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_orange = register("block_plaster_orange", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_orange.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_magenta = register("block_plaster_magenta", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_magenta.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_lightb = register("block_plaster_lightb", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_lightb.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_yellow = register("block_plaster_yellow", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_yellow.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_lime = register("block_plaster_lime", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_lime.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_pink = register("block_plaster_pink", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_pink.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_gray = register("block_plaster_gray", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_gray.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_lightg = register("block_plaster_lightg", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_lightg.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_cyan = register("block_plaster_cyan", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_cyan.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_purple = register("block_plaster_purple", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_purple.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_blue = register("block_plaster_blue", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_blue.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_brown = register("block_plaster_brown", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_brown.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_green = register("block_plaster_green", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_green.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_red = register("block_plaster_red", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_red.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_black = register("block_plaster_black", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_black.get(), new Item.Properties()));
+
+	public static final RegistryObject<Item> SHIKKUI_ST_white = register("block_pst_white", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_ST_white.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_ST_orange = register("block_pst_orange", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_ST_orange.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_ST_magenta = register("block_pst_magenta", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_ST_magenta.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_ST_lightb = register("block_pst_lightb", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_ST_lightb.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_ST_yellow = register("block_pst_yellow", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_ST_yellow.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_ST_lime = register("block_pst_lime", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_ST_lime.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_ST_pink = register("block_pst_pink", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_ST_pink.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_ST_gray = register("block_pst_gray", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_ST_gray.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_ST_lightg = register("block_pst_lightg", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_ST_lightg.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_ST_cyan = register("block_pst_cyan", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_ST_cyan.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_ST_purple = register("block_pst_purple", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_ST_purple.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_ST_blue = register("block_pst_blue", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_ST_blue.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_ST_brown = register("block_pst_brown", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_ST_brown.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_ST_green = register("block_pst_green", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_ST_green.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_ST_red = register("block_pst_red", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_ST_red.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_ST_black = register("block_pst_black", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_ST_black.get(), new Item.Properties()));
+
+	public static final RegistryObject<Item> SHIKKUI_SH_white = register("block_psh_white", () -> new Shikkui_Slab(JP_Blocks.SHIKKUI_SH_white.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SH_orange = register("block_psh_orange", () -> new Shikkui_Slab(JP_Blocks.SHIKKUI_SH_orange.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SH_magenta = register("block_psh_magenta", () -> new Shikkui_Slab(JP_Blocks.SHIKKUI_SH_magenta.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SH_lightb = register("block_psh_lightb", () -> new Shikkui_Slab(JP_Blocks.SHIKKUI_SH_lightb.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SH_yellow = register("block_psh_yellow", () -> new Shikkui_Slab(JP_Blocks.SHIKKUI_SH_yellow.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SH_lime = register("block_psh_lime", () -> new Shikkui_Slab(JP_Blocks.SHIKKUI_SH_lime.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SH_pink = register("block_psh_pink", () -> new Shikkui_Slab(JP_Blocks.SHIKKUI_SH_pink.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SH_gray = register("block_psh_gray", () -> new Shikkui_Slab(JP_Blocks.SHIKKUI_SH_gray.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SH_lightg = register("block_psh_lightg", () -> new Shikkui_Slab(JP_Blocks.SHIKKUI_SH_lightg.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SH_cyan = register("block_psh_cyan", () -> new Shikkui_Slab(JP_Blocks.SHIKKUI_SH_cyan.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SH_purple = register("block_psh_purple", () -> new Shikkui_Slab(JP_Blocks.SHIKKUI_SH_purple.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SH_blue = register("block_psh_blue", () -> new Shikkui_Slab(JP_Blocks.SHIKKUI_SH_blue.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SH_brown = register("block_psh_brown", () -> new Shikkui_Slab(JP_Blocks.SHIKKUI_SH_brown.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SH_green = register("block_psh_green", () -> new Shikkui_Slab(JP_Blocks.SHIKKUI_SH_green.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SH_red = register("block_psh_red", () -> new Shikkui_Slab(JP_Blocks.SHIKKUI_SH_red.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SH_black = register("block_psh_black", () -> new Shikkui_Slab(JP_Blocks.SHIKKUI_SH_black.get(), new Item.Properties()));
+
+	public static final RegistryObject<Item> NAMAKO_white = register("block_namako_white", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_white.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_orange = register("block_namako_orange", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_orange.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_magenta = register("block_namako_magenta", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_magenta.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_lightb = register("block_namako_lightb", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_lightb.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_yellow = register("block_namako_yellow", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_yellow.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_lime = register("block_namako_lime", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_lime.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_pink = register("block_namako_pink", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_pink.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_gray = register("block_namako_gray", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_gray.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_lightg = register("block_namako_lightg", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_lightg.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_cyan = register("block_namako_cyan", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_cyan.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_purple = register("block_namako_purple", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_purple.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_blue = register("block_namako_blue", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_blue.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_brown = register("block_namako_brown", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_brown.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_green = register("block_namako_green", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_green.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_red = register("block_namako_red", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_red.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_black = register("block_namako_black", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_black.get(), new Item.Properties()));
+
+	public static final RegistryObject<Item> NAMAKO_ST_white = register("block_nst_white", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_ST_white.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_ST_orange = register("block_nst_orange", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_ST_orange.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_ST_magenta = register("block_nst_magenta", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_ST_magenta.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_ST_lightb = register("block_nst_lightb", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_ST_lightb.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_ST_yellow = register("block_nst_yellow", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_ST_yellow.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_ST_lime = register("block_nst_lime", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_ST_lime.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_ST_pink = register("block_nst_pink", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_ST_pink.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_ST_gray = register("block_nst_gray", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_ST_gray.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_ST_lightg = register("block_nst_lightg", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_ST_lightg.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_ST_cyan = register("block_nst_cyan", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_ST_cyan.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_ST_purple = register("block_nst_purple", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_ST_purple.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_ST_blue = register("block_nst_blue", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_ST_blue.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_ST_brown = register("block_nst_brown", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_ST_brown.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_ST_green = register("block_nst_green", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_ST_green.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_ST_red = register("block_nst_red", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_ST_red.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_ST_black = register("block_nst_black", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_ST_black.get(), new Item.Properties()));
+
+	public static final RegistryObject<Item> NAMAKO_SH_white = register("block_nsh_white", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_SH_white.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_SH_orange = register("block_nsh_orange", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_SH_orange.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_SH_magenta = register("block_nsh_magenta", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_SH_magenta.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_SH_lightb = register("block_nsh_lightb", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_SH_lightb.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_SH_yellow = register("block_nsh_yellow", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_SH_yellow.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_SH_lime = register("block_nsh_lime", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_SH_lime.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_SH_pink = register("block_nsh_pink", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_SH_pink.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_SH_gray = register("block_nsh_gray", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_SH_gray.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_SH_lightg = register("block_nsh_lightg", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_SH_lightg.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_SH_cyan = register("block_nsh_cyan", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_SH_cyan.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_SH_purple = register("block_nsh_purple", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_SH_purple.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_SH_blue = register("block_nsh_blue", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_SH_blue.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_SH_brown = register("block_nsh_brown", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_SH_brown.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_SH_green = register("block_nsh_green", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_SH_green.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_SH_red = register("block_nsh_red", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_SH_red.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_SH_black = register("block_nsh_black", () -> new ItemNameBlockItem(JP_Blocks.NAMAKO_SH_black.get(), new Item.Properties()));
+
+	public static final RegistryObject<Item> NAMAKOB_white = register("block_namako_b_white", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_white.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_orange = register("block_namako_b_orange", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_orange.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_magenta = register("block_namako_b_magenta", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_magenta.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_lightb = register("block_namako_b_lightb", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_lightb.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_yellow = register("block_namako_b_yellow", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_yellow.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_lime = register("block_namako_b_lime", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_lime.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_pink = register("block_namako_b_pink", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_pink.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_gray = register("block_namako_b_gray", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_gray.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_lightg = register("block_namako_b_lightg", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_lightg.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_cyan = register("block_namako_b_cyan", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_cyan.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_purple = register("block_namako_b_purple", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_purple.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_blue = register("block_namako_b_blue", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_blue.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_brown = register("block_namako_b_brown", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_brown.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_green = register("block_namako_b_green", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_green.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_red = register("block_namako_b_red", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_red.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_black = register("block_namako_b_black", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_black.get(), new Item.Properties()));
+
+	public static final RegistryObject<Item> NAMAKOB_ST_white = register("block_nst_b_white", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_ST_white.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_ST_orange = register("block_nst_b_orange", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_ST_orange.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_ST_magenta = register("block_nst_b_magenta", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_ST_magenta.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_ST_lightb = register("block_nst_b_lightb", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_ST_lightb.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_ST_yellow = register("block_nst_b_yellow", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_ST_yellow.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_ST_lime = register("block_nst_b_lime", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_ST_lime.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_ST_pink = register("block_nst_b_pink", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_ST_pink.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_ST_gray = register("block_nst_b_gray", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_ST_gray.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_ST_lightg = register("block_nst_b_lightg", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_ST_lightg.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_ST_cyan = register("block_nst_b_cyan", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_ST_cyan.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_ST_purple = register("block_nst_b_purple", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_ST_purple.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_ST_blue = register("block_nst_b_blue", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_ST_blue.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_ST_brown = register("block_nst_b_brown", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_ST_brown.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_ST_green = register("block_nst_b_green", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_ST_green.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_ST_red = register("block_nst_b_red", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_ST_red.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_ST_black = register("block_nst_b_black", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_ST_black.get(), new Item.Properties()));
+
+	public static final RegistryObject<Item> NAMAKOB_SH_white = register("block_nsh_b_white", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_SH_white.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_SH_orange = register("block_nsh_b_orange", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_SH_orange.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_SH_magenta = register("block_nsh_b_magenta", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_SH_magenta.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_SH_lightb = register("block_nsh_b_lightb", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_SH_lightb.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_SH_yellow = register("block_nsh_b_yellow", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_SH_yellow.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_SH_lime = register("block_nsh_b_lime", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_SH_lime.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_SH_pink = register("block_nsh_b_pink", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_SH_pink.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_SH_gray = register("block_nsh_b_gray", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_SH_gray.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_SH_lightg = register("block_nsh_b_lightg", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_SH_lightg.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_SH_cyan = register("block_nsh_b_cyan", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_SH_cyan.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_SH_purple = register("block_nsh_b_purple", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_SH_purple.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_SH_blue = register("block_nsh_b_blue", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_SH_blue.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_SH_brown = register("block_nsh_b_brown", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_SH_brown.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_SH_green = register("block_nsh_b_green", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_SH_green.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_SH_red = register("block_nsh_b_red", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_SH_red.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_SH_black = register("block_nsh_b_black", () -> new ItemNameBlockItem(JP_Blocks.NAMAKOB_SH_black.get(), new Item.Properties()));
+	
+	public static final RegistryObject<Item> DIRTWALL_WALL = register("block_dirtwall_wall", () -> new ItemNameBlockItem(JP_Blocks.DIRTWALL_WALL.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_WALL_white = register("block_pwall_white", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_WALL_white.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_WALL_orange = register("block_pwall_orange", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_WALL_orange.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_WALL_magenta = register("block_pwall_magenta", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_WALL_magenta.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_WALL_lightb = register("block_pwall_lightb", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_WALL_lightb.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_WALL_yellow = register("block_pwall_yellow", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_WALL_yellow.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_WALL_lime = register("block_pwall_lime", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_WALL_lime.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_WALL_pink = register("block_pwall_pink", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_WALL_pink.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_WALL_gray = register("block_pwall_gray", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_WALL_gray.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_WALL_lightg = register("block_pwall_lightg", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_WALL_lightg.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_WALL_cyan = register("block_pwall_cyan", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_WALL_cyan.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_WALL_purple = register("block_pwall_purple", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_WALL_purple.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_WALL_blue = register("block_pwall_blue", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_WALL_blue.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_WALL_brown = register("block_pwall_brown", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_WALL_brown.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_WALL_green = register("block_pwall_green", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_WALL_green.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_WALL_red = register("block_pwall_red", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_WALL_red.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_WALL_black = register("block_pwall_black", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_WALL_black.get(), new Item.Properties()));
+
+	public static final RegistryObject<Item> NAMAKO_WALL_white = register("block_nwall_white", () -> new ItemNameBlockItem(JP_Blocks. NAMAKO_WALL_white.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_WALL_orange = register("block_nwall_orange", () -> new ItemNameBlockItem(JP_Blocks. NAMAKO_WALL_orange.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_WALL_magenta = register("block_nwall_magenta", () -> new ItemNameBlockItem(JP_Blocks. NAMAKO_WALL_magenta.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_WALL_lightb = register("block_nwall_lightb", () -> new ItemNameBlockItem(JP_Blocks. NAMAKO_WALL_lightb.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_WALL_yellow = register("block_nwall_yellow", () -> new ItemNameBlockItem(JP_Blocks. NAMAKO_WALL_yellow.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_WALL_lime = register("block_nwall_lime", () -> new ItemNameBlockItem(JP_Blocks. NAMAKO_WALL_lime.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_WALL_pink = register("block_nwall_pink", () -> new ItemNameBlockItem(JP_Blocks. NAMAKO_WALL_pink.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_WALL_gray = register("block_nwall_gray", () -> new ItemNameBlockItem(JP_Blocks. NAMAKO_WALL_gray.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_WALL_lightg = register("block_nwall_lightg", () -> new ItemNameBlockItem(JP_Blocks. NAMAKO_WALL_lightg.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_WALL_cyan = register("block_nwall_cyan", () -> new ItemNameBlockItem(JP_Blocks. NAMAKO_WALL_cyan.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_WALL_purple = register("block_nwall_purple", () -> new ItemNameBlockItem(JP_Blocks. NAMAKO_WALL_purple.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_WALL_blue = register("block_nwall_blue", () -> new ItemNameBlockItem(JP_Blocks. NAMAKO_WALL_blue.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_WALL_brown = register("block_nwall_brown", () -> new ItemNameBlockItem(JP_Blocks. NAMAKO_WALL_brown.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_WALL_green = register("block_nwall_green", () -> new ItemNameBlockItem(JP_Blocks. NAMAKO_WALL_green.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_WALL_red = register("block_nwall_red", () -> new ItemNameBlockItem(JP_Blocks. NAMAKO_WALL_red.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKO_WALL_black = register("block_nwall_black", () -> new ItemNameBlockItem(JP_Blocks. NAMAKO_WALL_black.get(), new Item.Properties()));
+	
+	public static final RegistryObject<Item> NAMAKOB_WALL_white = register("block_nwall_b_white", () -> new ItemNameBlockItem(JP_Blocks. NAMAKOB_WALL_white.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_WALL_orange = register("block_nwall_b_orange", () -> new ItemNameBlockItem(JP_Blocks. NAMAKOB_WALL_orange.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_WALL_magenta = register("block_nwall_b_magenta", () -> new ItemNameBlockItem(JP_Blocks. NAMAKOB_WALL_magenta.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_WALL_lightb = register("block_nwall_b_lightb", () -> new ItemNameBlockItem(JP_Blocks. NAMAKOB_WALL_lightb.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_WALL_yellow = register("block_nwall_b_yellow", () -> new ItemNameBlockItem(JP_Blocks. NAMAKOB_WALL_yellow.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_WALL_lime = register("block_nwall_b_lime", () -> new ItemNameBlockItem(JP_Blocks. NAMAKOB_WALL_lime.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_WALL_pink = register("block_nwall_b_pink", () -> new ItemNameBlockItem(JP_Blocks. NAMAKOB_WALL_pink.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_WALL_gray = register("block_nwall_b_gray", () -> new ItemNameBlockItem(JP_Blocks. NAMAKOB_WALL_gray.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_WALL_lightg = register("block_nwall_b_lightg", () -> new ItemNameBlockItem(JP_Blocks. NAMAKOB_WALL_lightg.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_WALL_cyan = register("block_nwall_b_cyan", () -> new ItemNameBlockItem(JP_Blocks. NAMAKOB_WALL_cyan.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_WALL_purple = register("block_nwall_b_purple", () -> new ItemNameBlockItem(JP_Blocks. NAMAKOB_WALL_purple.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_WALL_blue = register("block_nwall_b_blue", () -> new ItemNameBlockItem(JP_Blocks. NAMAKOB_WALL_blue.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_WALL_brown = register("block_nwall_b_brown", () -> new ItemNameBlockItem(JP_Blocks. NAMAKOB_WALL_brown.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_WALL_green = register("block_nwall_b_green", () -> new ItemNameBlockItem(JP_Blocks. NAMAKOB_WALL_green.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_WALL_red = register("block_nwall_b_red", () -> new ItemNameBlockItem(JP_Blocks. NAMAKOB_WALL_red.get(), new Item.Properties()));
+	public static final RegistryObject<Item> NAMAKOB_WALL_black = register("block_nwall_b_black", () -> new ItemNameBlockItem(JP_Blocks. NAMAKOB_WALL_black.get(), new Item.Properties()));
+	
+	public static final RegistryObject<Item> DIRTWALL_SAMA = register("block_dirtwall_sama", () -> new ItemNameBlockItem(JP_Blocks.DIRTWALL_SAMA.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SAMA_white = register("block_sama_white", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_SAMA_white.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SAMA_orange = register("block_sama_orange", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_SAMA_orange.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SAMA_magenta = register("block_sama_magenta", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_SAMA_magenta.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SAMA_lightb = register("block_sama_lightb", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_SAMA_lightb.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SAMA_yellow = register("block_sama_yellow", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_SAMA_yellow.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SAMA_lime = register("block_sama_lime", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_SAMA_lime.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SAMA_pink = register("block_sama_pink", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_SAMA_pink.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SAMA_gray = register("block_sama_gray", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_SAMA_gray.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SAMA_lightg = register("block_sama_lightg", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_SAMA_lightg.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SAMA_cyan = register("block_sama_cyan", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_SAMA_cyan.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SAMA_purple = register("block_sama_purple", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_SAMA_purple.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SAMA_blue = register("block_sama_blue", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_SAMA_blue.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SAMA_brown = register("block_sama_brown", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_SAMA_brown.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SAMA_green = register("block_sama_green", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_SAMA_green.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SAMA_red = register("block_sama_red", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_SAMA_red.get(), new Item.Properties()));
+	public static final RegistryObject<Item> SHIKKUI_SAMA_black = register("block_sama_black", () -> new ItemNameBlockItem(JP_Blocks.SHIKKUI_SAMA_black.get(), new Item.Properties()));
+	
+	public static final RegistryObject<Item> KAWARA_WALL_white = register("block_kwall_white", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_WALL_white.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_WALL_orange = register("block_kwall_orange", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_WALL_orange.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_WALL_magenta = register("block_kwall_magenta", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_WALL_magenta.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_WALL_lightb = register("block_kwall_lightb", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_WALL_lightb.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_WALL_yellow = register("block_kwall_yellow", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_WALL_yellow.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_WALL_lime = register("block_kwall_lime", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_WALL_lime.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_WALL_pink = register("block_kwall_pink", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_WALL_pink.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_WALL_gray = register("block_kwall_gray", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_WALL_gray.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_WALL_lightg = register("block_kwall_lightg", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_WALL_lightg.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_WALL_cyan = register("block_kwall_cyan", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_WALL_cyan.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_WALL_purple = register("block_kwall_purple", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_WALL_purple.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_WALL_blue = register("block_kwall_blue", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_WALL_blue.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_WALL_brown = register("block_kwall_brown", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_WALL_brown.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_WALL_green = register("block_kwall_green", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_WALL_green.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_WALL_red = register("block_kwall_red", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_WALL_red.get(), new Item.Properties()));
+	public static final RegistryObject<Item> KAWARA_WALL_black = register("block_kwall_black", () -> new ItemNameBlockItem(JP_Blocks.KAWARA_WALL_black.get(), new Item.Properties()));
+	
+	
+	///* Register *///
+	private static RegistryObject<Item> register(String name, Supplier<Item> item) {
+		return ITEMS.register(name, item);
+	}
+}

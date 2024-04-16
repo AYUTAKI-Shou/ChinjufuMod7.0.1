@@ -1,0 +1,38 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:item_fubuki_boots",
+			"chinjufumod:item_kasumi_boots",
+			"chinjufumod:item_shiratsuyu_boots",
+			"chinjufumod:item_shigure_boots",
+			"chinjufumod:item_akatsuki_boots",
+
+			"chinjufumod:item_sendai_boots",
+			"chinjufumod:item_yura_boots",
+			"chinjufumod:item_mogami_boots",
+			"chinjufumod:item_tone_boots",
+
+			"chinjufumod:item_ryujou_boots",
+			"chinjufumod:item_zuihou_boots",
+			"chinjufumod:item_akagi_boots",
+			"chinjufumod:item_kaga_boots",
+			
+			"chinjufumod:item_kongou_boots",
+			"chinjufumod:item_fusou_boots",
+			"chinjufumod:item_nagato_boots"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["minecraft:iron_boots"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

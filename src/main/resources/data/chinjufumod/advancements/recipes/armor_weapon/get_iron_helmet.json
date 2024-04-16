@@ -1,0 +1,38 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:item_fubuki_helmet",
+			"chinjufumod:item_kasumi_helmet",
+			"chinjufumod:item_shiratsuyu_helmet",
+			"chinjufumod:item_shigure_helmet",
+			"chinjufumod:item_akatsuki_helmet",
+
+			"chinjufumod:item_sendai_helmet",
+			"chinjufumod:item_yura_helmet",
+			"chinjufumod:item_mogami_helmet",
+			"chinjufumod:item_tone_helmet",
+			
+			"chinjufumod:item_ryujou_helmet",
+			"chinjufumod:item_zuihou_helmet",
+			"chinjufumod:item_akagi_helmet",
+			"chinjufumod:item_kaga_helmet",
+			
+			"chinjufumod:item_kongou_helmet",
+			"chinjufumod:item_fusou_helmet",
+			"chinjufumod:item_nagato_helmet"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["minecraft:iron_helmet"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

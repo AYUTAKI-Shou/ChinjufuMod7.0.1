@@ -1,0 +1,27 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_pst_orange",
+			"chinjufumod:block_psh_orange",
+			"chinjufumod:block_pwall_orange",
+			"chinjufumod:block_sama_orange",
+			"chinjufumod:block_wp_plaster_orange",
+			
+			"chinjufumod:block_namako_orange",
+			"chinjufumod:block_namako_b_orange"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_plaster_orange"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

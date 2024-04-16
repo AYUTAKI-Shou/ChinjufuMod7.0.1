@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_udon",
+
+	"ingredients": [
+		[ { "item": "chinjufumod:item_measurecup_full" }, { "item": "minecraft:potion" } ],
+		{ "tag": "forge:foods/flour" },
+		{ "tag": "forge:foods/flour" },
+		{ "tag": "forge:foods/flour" },
+		[ { "tag": "forge:dusts/salt" }, { "tag": "forge:foods/salt" }, { "tag": "forge:items/salt" } ]
+	],
+
+	"result": { "item": "chinjufumod:item_food_udon_n", "count" : 1 }
+}

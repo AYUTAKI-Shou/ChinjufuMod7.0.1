@@ -1,0 +1,20 @@
+{
+	"parent": "chinjufumod:block/food/salada_1",
+	"display": {
+		"gui": {
+			"rotation": [ 30, 40, 0 ],
+			"translation": [ 0, 3, 0 ],
+			"scale": [ 1.0, 1.0, 1.0 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 80, 0, 0 ],
+			"translation": [ 0, 5, 6 ],
+			"scale": [ 0.8, 0.8, 0.8 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 7, 0 ],
+			"scale": [ 1.0, 1.0, 1.0 ]
+		}
+	}
+}

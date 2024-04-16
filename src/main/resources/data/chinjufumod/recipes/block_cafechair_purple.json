@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_cafechair",
+
+	"pattern": [
+		" X ",
+		" Y ",
+		"YYY"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:purple_wool" },
+		"Y": { "tag": "forge:rods/wooden" }
+	},
+
+	"result": { "item": "chinjufumod:block_cafechair_purple", "count": 1 }
+}

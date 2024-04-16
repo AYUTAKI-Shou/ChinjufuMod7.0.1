@@ -1,0 +1,25 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_food_teppan_n_okonomiyaki",
+			"chinjufumod:block_food_teppan_n_okonomis",
+			"chinjufumod:block_food_teppan_n_okonomic",
+			"chinjufumod:block_food_teppan_n_okonomisoba",
+			"chinjufumod:block_food_teppan_n_okonomisobas",
+			"chinjufumod:block_food_teppan_n_okonomisobac"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "tag": "forge:condiments/worcestersauce" } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

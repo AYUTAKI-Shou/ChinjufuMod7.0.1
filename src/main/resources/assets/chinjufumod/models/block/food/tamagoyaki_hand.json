@@ -1,0 +1,94 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/egg_bake",
+		"egg": "chinjufumod:block/egg_bake",
+		"sara": "chinjufumod:block/dish_white"
+	},
+	"elements": [
+		{
+			"name": "sara_top____________________________________________",
+			"from": [ 5.0, 0.3, 5.0 ],
+			"to": [ 11.0, 0.5, 11.0 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_bot_nor",
+			"from": [ 6.0, 0.0, 6.0 ],
+			"to": [ 10.0, 0.3, 6.2 ],
+			"faces": {
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_bot_sou",
+			"from": [ 6.0, 0.0, 9.8 ],
+			"to": [ 10.0, 0.3, 10.0 ],
+			"faces": {
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_bot_east",
+			"from": [ 6.0, 0.0, 6.2 ],
+			"to": [ 6.2, 0.3, 9.8 ],
+			"faces": {
+				"down" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_bot_west",
+			"from": [ 9.8, 0.0, 6.2 ],
+			"to": [ 10.0, 0.3, 9.8 ],
+			"faces": {
+				"down" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+
+		{
+			"name": "egg",
+			"from": [ 6.0, 0.51, 6 ],
+			"to": [ 9.5, 1.6, 7.9 ],
+			"faces": {
+				"up" : { "texture": "#egg" },
+				"down" : { "texture": "#egg" },
+				"north": { "texture": "#egg" },
+				"south": { "texture": "#egg" },
+				"east" : { "texture": "#egg" },
+				"west" : { "texture": "#egg" }
+			}
+		},
+		{
+			"name": "egg",
+			"from": [ 6.5, 0.51, 8.1 ],
+			"to": [ 10.0, 1.6, 10 ],
+			"faces": {
+				"up" : { "texture": "#egg" },
+				"down" : { "texture": "#egg" },
+				"north": { "texture": "#egg" },
+				"south": { "texture": "#egg" },
+				"east" : { "texture": "#egg" },
+				"west" : { "texture": "#egg" }
+			}
+		}
+	]
+}

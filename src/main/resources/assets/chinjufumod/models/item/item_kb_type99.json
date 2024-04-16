@@ -1,0 +1,35 @@
+{
+	"parent": "chinjufumod:block/kansaiki/kb_type99",
+	"display": {
+		"gui": {
+			"rotation": [ 60, 45, 0 ],
+			"translation": [ 0, 1, 0 ],
+			"scale": [ 0.55, 0.55, 0.55 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 90, 0, 0 ],
+			"translation": [ 0, 0, 1 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ -1.5, 4, 3.5 ],
+			"scale": [ 0.3, 0.3, 0.3 ]
+		},
+		"fixed": {
+			"rotation": [ 270, 225, 0 ],
+			"translation": [ 0.5, 0, -2.01 ],
+			"scale": [ 0.5, 0.5, 0.5 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 0.3, 0.3, 0.3 ]
+		}
+	},
+	"overrides": [
+		{ "predicate": { "pull": 1 },
+			"model": "chinjufumod:item/item_kb_type99_pull"
+		}
+	]
+}

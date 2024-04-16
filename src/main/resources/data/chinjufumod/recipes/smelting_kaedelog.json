@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "chinjufumod:block_tree_kaede_log"
+	},
+	"result": "minecraft:charcoal",
+	"experience": 0.5,
+	"cookingtime": 200
+}

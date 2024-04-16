@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_ranma",
+
+	"pattern": [
+		" Y ",
+		"XZX"
+	],
+
+	"key": {
+		"X": { "tag": "forge:rods/wooden" },
+		"Y": { "item": "minecraft:spruce_slab" },
+		"Z": { "item": "minecraft:paper" }
+	},
+
+	"result": { "item": "chinjufumod:block_ranmab_spru", "count": 1 }
+}

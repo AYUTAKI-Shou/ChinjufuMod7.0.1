@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:block/food/nabe_nimame_n", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:block/food/nabe_nimame_n" },
+		"facing=west,stage=1": { "model": "chinjufumod:block/food/nabe_nimame_n", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:block/food/nabe_nimame_n", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/food/nabe_nimame_b", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:block/food/nabe_nimame_b" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/food/nabe_nimame_b", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:block/food/nabe_nimame_b", "y": 270 }
+	}
+}

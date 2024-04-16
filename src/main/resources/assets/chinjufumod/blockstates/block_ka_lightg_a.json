@@ -1,0 +1,23 @@
+{
+	"variants": {
+	"facing=north,stage=1": { "model": "chinjufumod:block/kamoicolor/lightg_acacia1n" },
+	"facing=south,stage=1": { "model": "chinjufumod:block/kamoicolor/lightg_acacia1s" },
+	"facing=west,stage=1": { "model": "chinjufumod:block/kamoicolor/lightg_acacia1w" },
+	"facing=east,stage=1": { "model": "chinjufumod:block/kamoicolor/lightg_acacia1e" },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/kamoicolor/lightg_acacia2n" },
+		"facing=south,stage=2": { "model": "chinjufumod:block/kamoicolor/lightg_acacia2s" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/kamoicolor/lightg_acacia2w" },
+		"facing=east,stage=2": { "model": "chinjufumod:block/kamoicolor/lightg_acacia2e" },
+
+	"facing=north,stage=3": { "model": "chinjufumod:block/kamoicolor/lightg_acacia3n" },
+	"facing=south,stage=3": { "model": "chinjufumod:block/kamoicolor/lightg_acacia3s" },
+	"facing=west,stage=3": { "model": "chinjufumod:block/kamoicolor/lightg_acacia3w" },
+	"facing=east,stage=3": { "model": "chinjufumod:block/kamoicolor/lightg_acacia3e" },
+
+		"facing=north,stage=4": { "model": "chinjufumod:block/kamoicolor/lightg_acacia4n" },
+		"facing=south,stage=4": { "model": "chinjufumod:block/kamoicolor/lightg_acacia4s" },
+		"facing=west,stage=4": { "model": "chinjufumod:block/kamoicolor/lightg_acacia4w" },
+		"facing=east,stage=4": { "model": "chinjufumod:block/kamoicolor/lightg_acacia4e" }
+	}
+}

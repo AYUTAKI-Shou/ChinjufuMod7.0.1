@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"conditions": [ { "condition": "minecraft:survives_explosion" } ],
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_wp_namako_b_brown" } ]
+		}
+	],
+	"random_sequence": "chinjufumod:blocks/block_wp_namako_b_brown"
+}

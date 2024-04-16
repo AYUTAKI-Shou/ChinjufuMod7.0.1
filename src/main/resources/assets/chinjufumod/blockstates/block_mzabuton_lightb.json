@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"down=false": { "model": "chinjufumod:block/zabuton/lightb" },
+		"down=true": { "model": "chinjufumod:block/zabuton/lightb_down" }
+	}
+}

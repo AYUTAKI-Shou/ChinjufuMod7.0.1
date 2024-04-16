@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_bonsai",
+
+	"ingredients": [
+		{ "item": "minecraft:jungle_sapling" },
+		{ "item": "minecraft:jungle_sapling" },
+		{ "item": "minecraft:dirt" },
+		{ "item": "minecraft:flower_pot" }
+	],
+
+	"result": { "item": "chinjufumod:block_kanyoujungle_bot", "count": 1 }
+}

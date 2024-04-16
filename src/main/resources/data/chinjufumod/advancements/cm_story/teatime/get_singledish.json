@@ -1,0 +1,66 @@
+{
+	"parent": "chinjufumod:cm_story/teatime/get_cookingtool",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.teatime.get_singledish.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.teatime.get_singledish.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_food_udontsukimi_1"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": [
+				"chinjufumod:block_food_stew_1",
+				"chinjufumod:block_food_udonsu_1",
+				"chinjufumod:block_food_udonniku_1",
+				"chinjufumod:block_food_udontsukimi_1",
+				"chinjufumod:block_food_tonsui_1",
+				"chinjufumod:block_food_misosp_1",
+				"chinjufumod:block_food_gohan_1",
+				"chinjufumod:block_food_rice_1",
+				"chinjufumod:block_food_donmeshi_1",
+				"chinjufumod:block_food_dongyu_1",
+				"chinjufumod:block_food_donoyako_1",
+				"chinjufumod:block_food_donkatsu_1",
+				"chinjufumod:block_food_hsd_1",
+				"chinjufumod:block_food_tgy_1",
+				"chinjufumod:block_food_cornsp_1",
+				"chinjufumod:block_food_egb_1",
+				"chinjufumod:block_food_pastatoma_1",
+				"chinjufumod:block_food_pastacheese_1",
+				"chinjufumod:block_food_pastakinoko_1",
+				"chinjufumod:block_food_chickenb_1",
+				"chinjufumod:block_food_gohantake_1",
+				"chinjufumod:block_food_gohankuri_1",
+				"chinjufumod:block_food_pastaseafood_1",
+				"chinjufumod:block_food_okonomiyaki_1",
+				"chinjufumod:block_food_okonomis_1",
+				"chinjufumod:block_food_okonomic_1",
+				"chinjufumod:block_food_okonomisoba_1",
+				"chinjufumod:block_food_okonomisobas_1",
+				"chinjufumod:block_food_okonomisobac_1",
+				"chinjufumod:block_food_yakisoba_1",
+				"chinjufumod:block_food_yakisobashio_1",
+				"chinjufumod:block_food_ramenshouyu_1",
+				"chinjufumod:block_food_ramenmiso_1",
+				"chinjufumod:block_food_ramenshio_1"
+				 ] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

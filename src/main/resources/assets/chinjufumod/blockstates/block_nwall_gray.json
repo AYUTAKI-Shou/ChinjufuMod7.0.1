@@ -1,0 +1,47 @@
+{
+	"variants": {
+		"cra=false,east=false,north=false,south=false,west=false": { "model": "chinjufumod:block/wallnamako/gray_alone", "y": 0, "uvlock": false },
+
+		"cra=false,east=false,north=true,south=true,west=false": { "model": "chinjufumod:block/wallnamako/gray_long", "y": 90, "uvlock": false },
+		"cra=false,east=true,north=false,south=false,west=true": { "model": "chinjufumod:block/wallnamako/gray_long", "y": 0, "uvlock": false },
+
+		"cra=false,east=true,north=false,south=false,west=false": { "model": "chinjufumod:block/wallnamako/gray_east", "y": 0, "uvlock": false },
+		"cra=false,east=false,north=false,south=false,west=true": { "model": "chinjufumod:block/wallnamako/gray_west", "y": 0, "uvlock": false },
+		"cra=false,east=false,north=false,south=true,west=false": { "model": "chinjufumod:block/wallnamako/gray_east", "y": 90, "uvlock": false },
+		"cra=false,east=false,north=true,south=false,west=false": { "model": "chinjufumod:block/wallnamako/gray_west", "y": 90, "uvlock": false },
+
+		"cra=false,east=true,north=true,south=false,west=false": { "model": "chinjufumod:block/wallnamako/gray_ne", "y": 0, "uvlock": false },
+		"cra=false,east=true,north=false,south=true,west=false": { "model": "chinjufumod:block/wallnamako/gray_se", "y": 0, "uvlock": false },
+		"cra=false,east=false,north=true,south=false,west=true": { "model": "chinjufumod:block/wallnamako/gray_nw", "y": 0, "uvlock": false },
+		"cra=false,east=false,north=false,south=true,west=true": { "model": "chinjufumod:block/wallnamako/gray_sw", "y": 0, "uvlock": false },
+
+		"cra=false,east=true,north=true,south=true,west=false": { "model": "chinjufumod:block/wallnamako/gray_3enw", "y": 90, "uvlock": false },
+		"cra=false,east=true,north=true,south=false,west=true": { "model": "chinjufumod:block/wallnamako/gray_3enw", "y": 0, "uvlock": false },
+		"cra=false,east=true,north=false,south=true,west=true": { "model": "chinjufumod:block/wallnamako/gray_3esw", "y": 0, "uvlock": false },
+		"cra=false,east=false,north=true,south=true,west=true": { "model": "chinjufumod:block/wallnamako/gray_3esw", "y": 90, "uvlock": false },
+
+		"cra=false,east=true,north=true,south=true,west=true": { "model": "chinjufumod:block/wallnamako/gray_10ji", "y": 0, "uvlock": false },
+
+			"cra=true,east=false,north=false,south=false,west=false": { "model": "chinjufumod:block/wallnamako/crack_gray_alone", "y": 0, "uvlock": false },
+	
+			"cra=true,east=false,north=true,south=true,west=false": { "model": "chinjufumod:block/wallnamako/crack_gray_long", "y": 90, "uvlock": false },
+			"cra=true,east=true,north=false,south=false,west=true": { "model": "chinjufumod:block/wallnamako/crack_gray_long", "y": 0, "uvlock": false },
+	
+			"cra=true,east=true,north=false,south=false,west=false": { "model": "chinjufumod:block/wallnamako/crack_gray_east", "y": 0, "uvlock": false },
+			"cra=true,east=false,north=false,south=false,west=true": { "model": "chinjufumod:block/wallnamako/crack_gray_west", "y": 0, "uvlock": false },
+			"cra=true,east=false,north=false,south=true,west=false": { "model": "chinjufumod:block/wallnamako/crack_gray_east", "y": 90, "uvlock": false },
+			"cra=true,east=false,north=true,south=false,west=false": { "model": "chinjufumod:block/wallnamako/crack_gray_west", "y": 90, "uvlock": false },
+	
+			"cra=true,east=true,north=true,south=false,west=false": { "model": "chinjufumod:block/wallnamako/crack_gray_ne", "y": 0, "uvlock": false },
+			"cra=true,east=true,north=false,south=true,west=false": { "model": "chinjufumod:block/wallnamako/crack_gray_se", "y": 0, "uvlock": false },
+			"cra=true,east=false,north=true,south=false,west=true": { "model": "chinjufumod:block/wallnamako/crack_gray_nw", "y": 0, "uvlock": false },
+			"cra=true,east=false,north=false,south=true,west=true": { "model": "chinjufumod:block/wallnamako/crack_gray_sw", "y": 0, "uvlock": false },
+	
+			"cra=true,east=true,north=true,south=true,west=false": { "model": "chinjufumod:block/wallnamako/crack_gray_3enw", "y": 90, "uvlock": false },
+			"cra=true,east=true,north=true,south=false,west=true": { "model": "chinjufumod:block/wallnamako/crack_gray_3enw", "y": 0, "uvlock": false },
+			"cra=true,east=true,north=false,south=true,west=true": { "model": "chinjufumod:block/wallnamako/crack_gray_3esw", "y": 0, "uvlock": false },
+			"cra=true,east=false,north=true,south=true,west=true": { "model": "chinjufumod:block/wallnamako/crack_gray_3esw", "y": 90, "uvlock": false },
+	
+			"cra=true,east=true,north=true,south=true,west=true": { "model": "chinjufumod:block/wallnamako/crack_gray_10ji", "y": 0, "uvlock": false }
+	}
+}

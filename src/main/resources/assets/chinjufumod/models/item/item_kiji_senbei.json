@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:block/item_kiji_senbei",
+	"gui_light": "front", "display": {
+		"gui": {
+			"rotation": [ 90, 0, 0 ],
+			"translation": [ 0, -3, 0 ],
+			"scale": [ 1.8, 1.8, 1.8 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 90, 0, 0 ],
+			"translation": [ 0, 2, 8.5 ],
+			"scale": [ 1.0, 1.0, 1.0 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 90, 0, 0 ],
+			"translation": [ 3, -1, 6 ],
+			"scale": [ 1.0, 1.0, 1.0 ]
+		},
+		"fixed": {
+			"rotation": [ 270, 180, 0 ],
+			"translation": [ 0, -2, -9 ],
+			"scale": [ 1.25, 1.25, 1.25 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 0.6, 0.6, 0.6 ]
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_school",
+
+	"pattern": [
+		"Y  ",
+		"XYX",
+		"X X"
+	],
+
+	"key": {
+		"X": { "tag": "forge:rods/wooden" },
+		"Y": { "tag": "forge:wooden_slabs/cherry" }
+	},
+
+	"result": { "item": "chinjufumod:block_schoolchair_saku", "count": 1 }
+}

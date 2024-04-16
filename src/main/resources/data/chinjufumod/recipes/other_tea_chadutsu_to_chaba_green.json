@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_tea",
+
+	"ingredients": [
+		{ "item": "chinjufumod:block_tea_chadutsu" }
+	],
+
+	"result": { "item": "chinjufumod:item_chaba_green", "count": 8 }
+}

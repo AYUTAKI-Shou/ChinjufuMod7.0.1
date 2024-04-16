@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/ingotw",
+	"textures": {
+		"particle": "chinjufumod:block/alumi_side",
+		"up": "chinjufumod:block/alumi_up_we",
+		"down": "chinjufumod:block/alumi_down",
+		"side": "chinjufumod:block/alumi_side"
+	 }
+}

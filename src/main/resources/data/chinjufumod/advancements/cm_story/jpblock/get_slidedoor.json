@@ -1,0 +1,52 @@
+{
+	"parent": "chinjufumod:cm_story/jpblock/get_jpblock",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.jpblock.get_slidedoor.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.jpblock.get_slidedoor.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_fusuma"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": [
+				"chinjufumod:block_garasudo",
+				"chinjufumod:block_garasudo_spruce",
+				"chinjufumod:block_garasudo_birch",
+				"chinjufumod:block_garasudo_jungle",
+				"chinjufumod:block_garasudo_acacia",
+				"chinjufumod:block_garasudo_darkoak",
+				"chinjufumod:block_garasudo_sakura",
+				"chinjufumod:block_garasudo_kaede",
+				"chinjufumod:block_garasudo_ichoh",
+				
+				"chinjufumod:block_shouji",
+				"chinjufumod:block_shouji_spruce",
+				"chinjufumod:block_shouji_birch",
+				"chinjufumod:block_shouji_jungle",
+				"chinjufumod:block_shouji_acacia",
+				"chinjufumod:block_shouji_darkoak",
+				"chinjufumod:block_shouji_sakura",
+				"chinjufumod:block_shouji_kaede",
+				"chinjufumod:block_shouji_ichoh",
+				
+				"chinjufumod:block_fusuma"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

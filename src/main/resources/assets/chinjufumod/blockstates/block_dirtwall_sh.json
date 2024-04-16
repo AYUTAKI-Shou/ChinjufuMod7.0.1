@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"cra=false,type=bottom": { "model": "chinjufumod:block/dirtwall/slab_bottom" },
+		"cra=false,type=top": { "model": "chinjufumod:block/dirtwall/slab_top" },
+		"cra=true,type=bottom": { "model": "chinjufumod:block/dirtwall/slab_crack_bottom" },
+		"cra=true,type=top": { "model": "chinjufumod:block/dirtwall/slab_crack_top" },
+		"cra=false,type=double": { "model": "chinjufumod:block/dirtwall/dirtwall" },
+		"cra=true,type=double": { "model": "chinjufumod:block/dirtwall/dirtwall_crack" }
+	}
+}

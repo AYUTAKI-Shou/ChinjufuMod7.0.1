@@ -1,0 +1,116 @@
+package com.ayutaki.chinjufumod.event;
+
+import org.lwjgl.opengl.GL11;
+
+import com.ayutaki.chinjufumod.ChinjufuMod;
+import com.ayutaki.chinjufumod.items.kansaiki.Base_BowKansaiki;
+import com.ayutaki.chinjufumod.items.weapon.Base_RensouHou;
+import com.ayutaki.chinjufumod.items.weapon.SouganKyou;
+import com.ayutaki.chinjufumod.items.weapon.Triple_Kijyuu;
+import com.mojang.blaze3d.systems.RenderSystem;
+import com.mojang.blaze3d.vertex.BufferBuilder;
+import com.mojang.blaze3d.vertex.DefaultVertexFormat;
+import com.mojang.blaze3d.vertex.PoseStack;
+import com.mojang.blaze3d.vertex.Tesselator;
+import com.mojang.blaze3d.vertex.VertexFormat;
+
+import net.minecraft.client.Minecraft;
+import net.minecraft.client.gui.GuiGraphics;
+import net.minecraft.client.player.LocalPlayer;
+import net.minecraft.client.renderer.GameRenderer;
+import net.minecraft.resources.ResourceLocation;
+import net.minecraft.world.entity.player.Player;
+import net.minecraft.world.item.Item;
+import net.minecraftforge.api.distmarker.Dist;
+import net.minecraftforge.client.event.ComputeFovModifierEvent;
+import net.minecraftforge.client.event.RenderGuiOverlayEvent;
+import net.minecraftforge.client.event.RenderHandEvent;
+import net.minecraftforge.eventbus.api.SubscribeEvent;
+import net.minecraftforge.fml.common.Mod;
+
+@Mod.EventBusSubscriber(modid = ChinjufuMod.MOD_ID, bus = Mod.EventBusSubscriber.Bus.FORGE, value = Dist.CLIENT)
+public class CMScopeEvent {
+
+	@SuppressWarnings("resource")
+	@SubscribeEvent
+	public static void updateFOV(ComputeFovModifierEvent event) {
+		Player player = event.getPlayer();
+		Item main = player.getMainHandItem().getItem();
+		Item off = player.getOffhandItem().getItem();
+		boolean useItem = (Minecraft.getInstance().options.getCameraType().isFirstPerson() && player.isUsingItem());
+		
+		if (useItem && (main instanceof SouganKyou || off instanceof SouganKyou)) { event.setNewFovModifier(event.getFovModifier() / 10); }
+		
+		if (useItem && (main instanceof Base_RensouHou || main instanceof Triple_Kijyuu || main instanceof Base_BowKansaiki)) {
+			int tick = event.getPlayer().getTicksUsingItem();
+			float f1 = (float) tick / 20.0F;
+			f1 = (f1 + 2.0F) / 3.0F;
+			if (f1 > 1.0F) { f1 = 1.0F; } 
+			else { f1 = f1 * f1; }
+			event.setNewFovModifier(event.getFovModifier() * (1.0F - f1 * 0.15F)); }
+	}
+	
+	
+	private static final ResourceLocation SOUGAN = new ResourceLocation(ChinjufuMod.MOD_ID, "textures/gui/binoculars_128t.png");
+
+	@SuppressWarnings({ "resource" })
+	@SubscribeEvent
+	public static void textureOverlay(RenderGuiOverlayEvent event) {
+		Minecraft mc = Minecraft.getInstance();
+		LocalPlayer player = mc.player;
+		Item main = player.getMainHandItem().getItem();
+		Item off = player.getOffhandItem().getItem();
+		boolean useItem = (Minecraft.getInstance().options.getCameraType().isFirstPerson() && player.isUsingItem());
+		
+		if (useItem && (main instanceof SouganKyou || off instanceof SouganKyou)) {
+			//RenderGuiOverlayEvent.ElementType type = event.getType();
+			int posX = event.getWindow().getGuiScaledWidth();
+			int posY = event.getWindow().getGuiScaledHeight();
+			GuiGraphics gui = event.getGuiGraphics();
+			PoseStack posestack = RenderSystem.getModelViewStack();
+			//switch (type) { case ALL : event.setCanceled(true); }
+			
+			/* from Ingame_Gui */
+			/*RenderSystem.disableDepthTest();
+			RenderSystem.depthMask(false);
+			RenderSystem.defaultBlendFunc();
+			RenderSystem.setShader(GameRenderer::getPositionTexShader);
+			RenderSystem.setShaderColor(1.0F, 1.0F, 1.0F, 1.0F);
+			RenderSystem.enableBlend(); //CUTOUT */
+			
+			RenderSystem.disableDepthTest();
+			RenderSystem.defaultBlendFunc();
+			RenderSystem.setShader(GameRenderer::getPositionTexShader); //SpyglassOverlay
+			RenderSystem.setShaderColor(1.0F, 1.0F, 1.0F, 1.0F);
+			RenderSystem.enableBlend();
+			RenderSystem.blendFunc(GL11.GL_SRC_ALPHA, GL11.GL_ONE_MINUS_SRC_ALPHA);
+			RenderSystem.depthMask(false); // TRANSLUCENT
+            
+			gui.setColor(1.0F, 1.0F, 1.0F, 0.0F);
+			RenderSystem.setShaderTexture(0, SOUGAN);
+			Tesselator tessellator = Tesselator.getInstance();
+			BufferBuilder bufferbuilder = tessellator.getBuilder();
+			bufferbuilder.begin(VertexFormat.Mode.QUADS, DefaultVertexFormat.POSITION_TEX);
+			bufferbuilder.vertex(0.0D, posY, -90.0D).uv(0.0F, 1.0F).endVertex();
+			bufferbuilder.vertex(posX, posY, -90.0D).uv(1.0F, 1.0F).endVertex();
+			bufferbuilder.vertex(posX, 0.0D, -90.0D).uv(1.0F, 0.0F).endVertex();
+			bufferbuilder.vertex(0.0D, 0.0D, -90.0D).uv(0.0F, 0.0F).endVertex();
+			gui.setColor(1.0F, 1.0F, 1.0F, 1.0F);
+			tessellator.end(); }
+	}
+	
+			
+			RenderSystem.disableDepthTest();
+			RenderSystem.defaultBlendFunc();
+			RenderSystem.enableBlend();
+			RenderSystem.depthMask(false);
+			
+	@SubscribeEvent
+	public static void firstPersonHand(RenderHandEvent event) {
+		Minecraft mc = Minecraft.getInstance();
+		LocalPlayer player = mc.player;
+		Item main = player.getMainHandItem().getItem();
+		Item off = player.getOffhandItem().getItem();
+		if ((main instanceof SouganKyou || off instanceof SouganKyou) && player.isUsingItem()) { event.setCanceled(true); }
+	}
+}

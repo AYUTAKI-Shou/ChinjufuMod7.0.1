@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_taru",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_food_norinama" },
+		{ "item": "chinjufumod:item_food_norinama" },
+		{ "item": "chinjufumod:item_food_norinama" },
+		{ "item": "chinjufumod:item_food_norinama" },
+		{ "item": "chinjufumod:item_food_norinama" },
+		{ "item": "chinjufumod:item_food_norinama" },
+		{ "item": "chinjufumod:item_food_norinama" },
+		{ "item": "chinjufumod:item_food_norinama" },
+		{ "item": "chinjufumod:block_taru_hakkou" }
+	],
+
+	"result": { "item": "chinjufumod:block_taru_nori_f", "count": 1 }
+}

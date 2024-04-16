@@ -1,0 +1,10 @@
+{
+	"parent": "chinjufumod:block/base/snowman_bot",
+	"textures": {
+		"particle": "minecraft:block/snow",
+		"snow": "minecraft:block/snow",
+		"color": "minecraft:block/brown_wool",
+		"black": "minecraft:block/black_wool",
+		"hand": "chinjufumod:block/muku_oak"
+	}
+}

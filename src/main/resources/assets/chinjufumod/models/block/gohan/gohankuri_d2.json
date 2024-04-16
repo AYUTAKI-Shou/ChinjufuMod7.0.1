@@ -1,0 +1,11 @@
+{
+	"parent": "chinjufumod:block/base/gohan_d2",
+	"textures": {
+		"particle": "chinjufumod:block/dish_blue",
+		"owan": "chinjufumod:block/dish_blue",
+		"owan2": "chinjufumod:block/dish_white",
+		"owannaka": "chinjufumod:block/food_gohankuri",
+		"hashi": "chinjufumod:block/dish_red",
+		"hashioki": "chinjufumod:block/hashioki"
+	}
+}

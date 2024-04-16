@@ -1,0 +1,38 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_dressingtable_a",
+			"chinjufumod:block_unitdesk_acacia",
+			"chinjufumod:block_cafetable_acacia",
+			"chinjufumod:block_diningchair_a",
+			"chinjufumod:block_bench_aca",
+			"chinjufumod:block_schoolchair_a",
+			"chinjufumod:block_schooldesk_a",
+			"chinjufumod:block_teacherdesk_a",
+			"chinjufumod:block_lowdesk_acacia",
+			
+			"chinjufumod:block_mizuoke",
+			
+			"chinjufumod:block_ranma_aca",
+			"chinjufumod:block_ranmab_aca",
+			"chinjufumod:block_ranmac_aca",
+			"chinjufumod:block_kanki_aca",
+			"chinjufumod:block_koushi_aca",
+			"chinjufumod:block_itabei_acacia",
+			"chinjufumod:block_kido_acacia"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["minecraft:acacia_slab"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

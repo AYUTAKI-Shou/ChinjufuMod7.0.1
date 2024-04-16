@@ -1,0 +1,58 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_boxh_apple",
+			"chinjufumod:block_boxh_beef",
+			"chinjufumod:block_boxh_beetroot",
+			"chinjufumod:block_boxh_bread",
+			"chinjufumod:block_boxh_carrot",
+			"chinjufumod:block_boxh_chicken",
+			"chinjufumod:block_boxh_chorus",
+			"chinjufumod:block_boxh_coco",
+			"chinjufumod:block_boxh_cod",
+			"chinjufumod:block_boxh_egg",
+			"chinjufumod:block_boxh_flour",
+			"chinjufumod:block_boxh_mutton",
+			"chinjufumod:block_boxh_pork",
+			"chinjufumod:block_boxh_potato",
+			"chinjufumod:block_boxh_rabbit",
+			"chinjufumod:block_boxh_salmon",
+			"chinjufumod:block_boxh_swberry",
+
+			"chinjufumod:block_boxh_cabbage",
+			"chinjufumod:block_boxh_hakusai",
+			"chinjufumod:block_boxh_citrus",
+			"chinjufumod:block_boxh_corn",
+			"chinjufumod:block_boxh_grape",
+			"chinjufumod:block_boxh_greenonion",
+			"chinjufumod:block_boxh_onion",
+			"chinjufumod:block_boxh_rice",
+			"chinjufumod:block_boxh_soy",
+			"chinjufumod:block_boxh_spinach",
+			"chinjufumod:block_boxh_tomato",
+			"chinjufumod:block_boxh_cherry",
+			"chinjufumod:block_boxh_takenoko",
+			"chinjufumod:block_boxh_chestnut",
+			"chinjufumod:block_boxh_tgreen",
+			"chinjufumod:block_boxh_tred",
+			
+			"chinjufumod:block_boxh_bpepper",
+			"chinjufumod:block_boxh_cumin",
+			"chinjufumod:block_boxh_turmeric",
+			"chinjufumod:block_boxh_chili"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_boxh_empty"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

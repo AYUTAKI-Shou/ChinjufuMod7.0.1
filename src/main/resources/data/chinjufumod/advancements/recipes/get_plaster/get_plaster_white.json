@@ -1,0 +1,43 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_pst_white",
+			"chinjufumod:block_psh_white",
+			"chinjufumod:block_pwall_white",
+			"chinjufumod:block_sama_white",
+			"chinjufumod:block_wp_plaster_white",
+			
+			"chinjufumod:block_namako_white",
+			"chinjufumod:block_namako_b_white",
+			
+			"chinjufumod:block_plaster_orange",
+			"chinjufumod:block_plaster_magenta",
+			"chinjufumod:block_plaster_lightb",
+			"chinjufumod:block_plaster_yellow",
+			"chinjufumod:block_plaster_lime",
+			"chinjufumod:block_plaster_pink",
+			"chinjufumod:block_plaster_gray",
+			"chinjufumod:block_plaster_lightg",
+			"chinjufumod:block_plaster_cyan",
+			"chinjufumod:block_plaster_purple",
+			"chinjufumod:block_plaster_blue",
+			"chinjufumod:block_plaster_brown",
+			"chinjufumod:block_plaster_green",
+			"chinjufumod:block_plaster_red",
+			"chinjufumod:block_plaster_black"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_plaster_white"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

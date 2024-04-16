@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_yukata",
+
+	"pattern": [
+		"X Y",
+		"XXX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:item_tanmono" },
+		"Y": { "tag": "forge:dyes/red" }
+	},
+
+	"result": { "item": "chinjufumod:item_ykt_inaduma_mini", "count": 1 }
+}

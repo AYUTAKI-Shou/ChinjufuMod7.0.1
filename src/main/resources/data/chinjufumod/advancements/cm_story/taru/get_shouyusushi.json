@@ -1,0 +1,35 @@
+{
+	"parent": "chinjufumod:cm_story/taru/get_shouyu",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.taru.get_shouyusushi.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.taru.get_shouyusushi.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_food_sushishouyu_salmon"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": [
+				"chinjufumod:item_food_sushishouyu_salmon",
+				"chinjufumod:item_food_sushishouyu_fish",
+				"chinjufumod:item_food_sushishouyu_beef",
+				"chinjufumod:item_food_sushishouyu_tamago"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 10 }
+}

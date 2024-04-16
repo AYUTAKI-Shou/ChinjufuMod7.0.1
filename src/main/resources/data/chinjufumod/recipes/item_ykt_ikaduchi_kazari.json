@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_yukata",
+
+	"ingredients": [
+		{ "tag": "forge:wooden_slabs/acer" },
+		{ "tag": "forge:dyes/orange" }
+	],
+
+	"result": { "item": "chinjufumod:item_ykt_ikaduchi_kazari", "count": 1 }
+}

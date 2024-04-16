@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_sofa",
+
+	"pattern": [
+		"Y  ",
+		"YYY",
+		"X X"
+	],
+
+	"key": {
+		"X": [ { "tag": "minecraft:planks" }, { "tag": "forge:planks" } ],
+		"Y": { "item": "minecraft:gray_wool" }
+	},
+
+	"result": { "item": "chinjufumod:block_sofa_gray", "count" : 4 }
+}

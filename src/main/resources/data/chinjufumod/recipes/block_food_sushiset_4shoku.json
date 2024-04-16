@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_sushi",
+
+	"ingredients": [
+		{ "item": "chinjufumod:block_food_sushigeta_kara" },
+		{ "tag": "forge:foods/soysauce" },
+		{ "item": "chinjufumod:block_food_jpteacup_1" },
+		{ "item": "chinjufumod:item_food_sushi_beef" },
+		{ "item": "chinjufumod:item_food_sushi_fish" },
+		{ "item": "chinjufumod:item_food_sushi_salmon" },
+		{ "item": "chinjufumod:item_food_sushi_tamago" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_sushiset_4shoku", "count" : 1 }
+}

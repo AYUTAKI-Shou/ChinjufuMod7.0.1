@@ -1,0 +1,10 @@
+{
+	"parent": "chinjufumod:block/base/kamoislab_2west",
+	"textures": {
+		"particle": "chinjufumod:block/plaster_pink",
+		"shikkui": "chinjufumod:block/plaster_pink",
+		"ki": "chinjufumod:block/pillar_sakura_side",
+		"ki_top": "chinjufumod:block/pillar_sakura_top",
+		"ki_inside": "chinjufumod:block/pillar_sakura_inside"
+	}
+}

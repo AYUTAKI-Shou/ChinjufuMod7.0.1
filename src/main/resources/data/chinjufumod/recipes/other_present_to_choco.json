@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_present",
+
+	"ingredients": [
+		{ "item": "chinjufumod:block_present_chc" }
+	],
+
+	"result": { "item": "chinjufumod:item_food_choco", "count": 1 }
+}

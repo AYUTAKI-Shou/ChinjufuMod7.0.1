@@ -1,0 +1,97 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/frypan_out",
+		"egg": "chinjufumod:block/egg_bake",
+		"fraypan_in": "chinjufumod:block/frypan_in",
+		"fraypan_out": "chinjufumod:block/frypan_out",
+		"eee": "chinjufumod:block/muku_oak"
+	},
+	"elements": [
+		{
+			"name": "egg",
+			"from": [ 4.5, 0.51, 4.5 ],
+			"to": [ 11.5, 1.6, 6.5 ],
+			"faces": {
+				"up" : { "texture": "#egg" },
+				"down" : { "texture": "#egg" },
+				"north": { "texture": "#egg" },
+				"south": { "texture": "#egg" },
+				"east" : { "texture": "#egg" },
+				"west" : { "texture": "#egg" }
+			}
+		},
+
+		{
+			"name": "fraypan",
+			"from": [ 4, 0, 4 ],
+			"to": [ 12, 0.5, 12 ],
+			"faces": {
+				"up" : { "texture": "#fraypan_in" },
+				"down" : { "texture": "#fraypan_out" },
+				"north": { "texture": "#fraypan_out" },
+				"south": { "texture": "#fraypan_out" },
+				"east" : { "texture": "#fraypan_out" },
+				"west" : { "texture": "#fraypan_out" }
+			}
+		},
+
+		{
+			"name": "fraypan_n",
+			"from": [ 4, 0.5, 4 ],
+			"to": [ 12, 1.5, 4.5 ],
+			"faces": {
+				"up" : { "texture": "#fraypan_in" },
+				"north": { "texture": "#fraypan_out" },
+				"south": { "texture": "#fraypan_in" },
+				"east" : { "texture": "#fraypan_out" },
+				"west" : { "texture": "#fraypan_out" }
+			}
+		},
+		{
+			"name": "fraypan_s",
+			"from": [ 4, 0.5, 11.5 ],
+			"to": [ 12, 1.5, 12 ],
+			"faces": {
+				"up" : { "texture": "#fraypan_in" },
+				"north": { "texture": "#fraypan_in" },
+				"south": { "texture": "#fraypan_out" },
+				"east" : { "texture": "#fraypan_out" },
+				"west" : { "texture": "#fraypan_out" }
+			}
+		},
+		{
+			"name": "fraypan_w",
+			"from": [ 11.5, 0.5, 4.5 ],
+			"to": [ 12, 1.5, 11.5 ],
+			"faces": {
+				"up" : { "texture": "#fraypan_in" },
+				"east" : { "texture": "#fraypan_out" },
+				"west" : { "texture": "#fraypan_in" }
+			}
+		},
+		{
+			"name": "fraypan_e",
+			"from": [ 4, 0.5, 4.5 ],
+			"to": [ 4.5, 1.5, 11.5 ],
+			"faces": {
+				"up" : { "texture": "#fraypan_in" },
+				"east" : { "texture": "#fraypan_in" },
+				"west" : { "texture": "#fraypan_out" }
+			}
+		},
+
+		{
+			"name": "eee",
+			"from": [ 7.5, 0.5, 12.0 ],
+			"to": [ 8.5, 1.5, 17.0 ],
+			"faces": {
+				"up" : { "uv": [ 7.5, 11.0, 8.5, 16.0 ], "texture": "#eee" },
+				"down" : { "uv": [ 7.5, 11.0, 8.5, 16.0 ], "texture": "#eee" },
+				"south": { "uv": [ 7.5, 14.5, 8.5, 15.5 ], "texture": "#eee" },
+				"east" : { "uv": [ 11.0, 14.5, 16.0, 15.5 ], "texture": "#eee" },
+				"west" : { "uv": [ 11.0, 14.5, 16.0, 15.5 ], "texture": "#eee" }
+			}
+		}
+	]
+}

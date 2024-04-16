@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_pillar",
+
+	"pattern": [
+		"X",
+		"X",
+		"X"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:jungle_log" }
+	},
+
+	"result": { "item": "chinjufumod:block_pillar_jun_c", "count": 3 }
+}

@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_chestnut",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_chestnut_mash" },
+		[ { "tag": "forge:dusts/salt" }, { "tag": "forge:foods/salt" }, { "tag": "forge:items/salt" } ],
+		{ "tag": "forge:sugar" }
+	],
+
+	"result": { "item": "chinjufumod:item_food_chestnutsweet", "count": 3 }
+}

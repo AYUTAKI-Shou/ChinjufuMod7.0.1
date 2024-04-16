@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_tea",
+
+	"ingredients": [
+		{ "tag": "forge:buckets/water" },
+		{ "item": "chinjufumod:item_kettle_kara" }
+	],
+
+	"result": { "item": "chinjufumod:block_kettle_full", "count" : 1 }
+}

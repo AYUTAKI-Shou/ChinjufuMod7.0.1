@@ -1,0 +1,31 @@
+{
+	"parent": "chinjufumod:cm_story/fishing/get_castnet",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.fishing.squid.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.fishing.squid.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_squid_raw"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:item_squid_raw"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

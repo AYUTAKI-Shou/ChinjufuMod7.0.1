@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_tatami",
+
+	"pattern": [
+		"X"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_tatamih_purple" }
+	},
+
+	"result": { "item": "chinjufumod:block_tatamih_y_purple", "count": 1 }
+}

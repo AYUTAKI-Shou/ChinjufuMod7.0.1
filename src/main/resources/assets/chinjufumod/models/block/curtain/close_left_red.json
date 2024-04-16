@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/curtain_closeleft",
+	"textures": {
+		"particle": "chinjufumod:block/curtain_red",
+		"cloth": "chinjufumod:block/curtain_red",
+		"bou": "chinjufumod:block/muku_spruce"
+	}
+}

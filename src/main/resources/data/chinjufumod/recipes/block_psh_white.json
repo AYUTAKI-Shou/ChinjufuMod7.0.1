@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_slabhalf",
+
+	"pattern": [
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_plaster_white" }
+	},
+
+	"result": { "item": "chinjufumod:block_psh_white", "count": 6 }
+}

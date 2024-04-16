@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_jpblock",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:item_shousekkai_c" },
+		"Y": { "tag": "forge:buckets/water" }
+	},
+
+	"result": { "item": "chinjufumod:block_plaster_white", "count": 8 }
+}

@@ -1,0 +1,38 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:item_fubuki_chestplate",
+			"chinjufumod:item_kasumi_chestplate",
+			"chinjufumod:item_shiratsuyu_chestplate",
+			"chinjufumod:item_shigure_chestplate",
+			"chinjufumod:item_akatsuki_chestplate",
+
+			"chinjufumod:item_sendai_chestplate",
+			"chinjufumod:item_yura_chestplate",
+			"chinjufumod:item_mogami_chestplate",
+			"chinjufumod:item_tone_chestplate",
+
+			"chinjufumod:item_ryujou_chestplate",
+			"chinjufumod:item_zuihou_chestplate",
+			"chinjufumod:item_akagi_chestplate",
+			"chinjufumod:item_kaga_chestplate",
+			
+			"chinjufumod:item_kongou_chestplate",
+			"chinjufumod:item_fusou_chestplate",
+			"chinjufumod:item_nagato_chestplate"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["minecraft:iron_chestplate"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

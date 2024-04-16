@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_chestplate",
+
+	"ingredients": [
+		{ "item": "minecraft:iron_chestplate" },
+		{ "tag": "forge:dyes/gray" },
+		{ "item": "chinjufumod:item_workorder" }
+	],
+
+	"result": { "item": "chinjufumod:item_shiratsuyu_chestplate", "count": 1 }
+}

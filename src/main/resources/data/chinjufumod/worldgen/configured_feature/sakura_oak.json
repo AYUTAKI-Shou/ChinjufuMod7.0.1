@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "chinjufumod:oak_place",
+    "features": [
+      {
+        "chance": 0.19333334,
+        "feature": "chinjufumod:sakura_place"
+      },
+      {
+        "chance": 0.006666667,
+        "feature": "chinjufumod:fancy_sakura_place"
+      },
+      {
+        "chance": 6.6666666E-4,
+        "feature": "chinjufumod:sakura_bees_place"
+      },
+      {
+        "chance": 0.026666667,
+        "feature": "chinjufumod:fancy_oak_place"
+      }
+    ]
+  }
+}

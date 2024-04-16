@@ -1,0 +1,94 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "minecraft:block/snow",
+		"snow": "minecraft:block/snow"
+	},
+	"elements": [
+			{
+			"name": "top1",
+			"from": [ 5, 1, 5 ],
+			"to": [ 11, 7, 11 ],
+			"faces": {
+				"up": { "texture": "#snow" },
+				"down": { "texture": "#snow" },
+				"north": { "texture": "#snow" },
+				"south": { "texture": "#snow" },
+				"west": { "texture": "#snow" },
+				"east": { "texture": "#snow" }
+			}
+		},
+		{
+			"name": "top1",
+			"from": [ 6, 7, 6 ],
+			"to": [ 10, 8, 10 ],
+			"faces": {
+				"up": { "texture": "#snow" },
+				"north": { "texture": "#snow" },
+				"south": { "texture": "#snow" },
+				"west": { "texture": "#snow" },
+				"east": { "texture": "#snow" }
+			}
+		},
+		{
+			"name": "north1",
+			"from": [ 6, 2, 4 ],
+			"to": [ 10, 6, 5 ],
+			"faces": {
+				"up": { "texture": "#snow" },
+				"down": { "texture": "#snow" },
+				"north": { "texture": "#snow" },
+				"west": { "texture": "#snow" },
+				"east": { "texture": "#snow" }
+			}
+		},
+		{
+			"name": "south1",
+			"from": [ 6, 2, 11 ],
+			"to": [ 10, 6, 12 ],
+			"faces": {
+				"up": { "texture": "#snow" },
+				"down": { "texture": "#snow" },
+				"south": { "texture": "#snow" },
+				"west": { "texture": "#snow" },
+				"east": { "texture": "#snow" }
+			}
+		},
+		{
+			"name": "west1",
+			"from": [ 4, 2, 6 ],
+			"to": [ 5, 6, 10 ],
+			"faces": {
+				"up": { "texture": "#snow" },
+				"down": { "texture": "#snow" },
+				"north": { "texture": "#snow" },
+				"south": { "texture": "#snow" },
+				"west": { "texture": "#snow" }
+			}
+		},
+		{
+			"name": "east1",
+			"from": [ 11, 2, 6 ],
+			"to": [ 12, 6, 10 ],
+			"faces": {
+				"up": { "texture": "#snow" },
+				"down": { "texture": "#snow" },
+				"north": { "texture": "#snow" },
+				"south": { "texture": "#snow" },
+				"east": { "texture": "#snow" }
+			}
+		},
+		{
+			"name": "bot1",
+			"from": [ 6, 0, 6 ],
+			"to": [ 10, 1, 10 ],
+			"faces": {
+				"down": { "texture": "#snow", "cullface": "down" },
+				"north": { "texture": "#snow" },
+				"south": { "texture": "#snow" },
+				"west": { "texture": "#snow" },
+				"east": { "texture": "#snow" }
+			}
+		}
+	]
+}

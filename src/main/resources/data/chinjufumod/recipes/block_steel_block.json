@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_ingot",
+
+	"pattern": [
+		"XXX",
+		"X X",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "tag": "forge:ingots/iron" }
+	},
+
+	"result": { "item": "chinjufumod:block_steel_block", "count" : 2 }
+}

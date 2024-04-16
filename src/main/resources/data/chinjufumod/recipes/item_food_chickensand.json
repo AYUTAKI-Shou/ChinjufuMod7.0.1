@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_tea",
+
+	"ingredients": [
+		[ { "tag": "forge:dusts/blackpepper" }, { "tag": "forge:foods/blackpepper" }, { "tag": "forge:spices/blackpepper" }, 
+		{ "tag": "forge:dusts/pepper" }, { "tag": "forge:foods/pepper" }, { "tag": "forge:spices/pepper" } ],
+		{ "item": "minecraft:cooked_chicken" },
+		{ "tag": "forge:crops/cabbage" },
+		{ "item": "chinjufumod:item_food_bun" },
+		{ "item": "chinjufumod:item_food_bun" }
+	],
+
+	"result": { "item": "chinjufumod:item_food_chickensand", "count" : 4 }
+}

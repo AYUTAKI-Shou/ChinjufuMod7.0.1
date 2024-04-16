@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/pizza",
+	"textures": {
+		"particle": "chinjufumod:block/pizza_bake_cheese",
+		"pizza": "chinjufumod:block/pizza_bake_cheese",
+		"pizza_ura": "chinjufumod:block/pizza_bake_re"
+	}
+}

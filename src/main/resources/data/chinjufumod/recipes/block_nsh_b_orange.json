@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_slabhalf",
+
+	"pattern": [
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_namako_b_orange" }
+	},
+
+	"result": { "item": "chinjufumod:block_nsh_b_orange", "count": 6 }
+}

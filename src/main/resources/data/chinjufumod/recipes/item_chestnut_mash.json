@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_chestnut",
+
+	"ingredients": [
+		{ "item": "minecraft:bowl" },
+		{ "item": "chinjufumod:item_chestnut_boil" }
+	],
+
+	"result": { "item": "chinjufumod:item_chestnut_mash", "count" : 1 }
+}

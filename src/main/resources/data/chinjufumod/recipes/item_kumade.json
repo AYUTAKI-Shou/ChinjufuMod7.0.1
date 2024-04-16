@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_garden",
+
+	"pattern": [
+		"XXX",
+		" X ",
+		" X "
+	],
+
+	"key": {
+		"X": { "tag": "forge:rods/wooden" }
+	},
+
+	"result": { "item": "chinjufumod:item_kumade", "count": 1 }
+}

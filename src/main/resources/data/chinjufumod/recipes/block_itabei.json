@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_fence",
+
+	"pattern": [
+		"XXX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:oak_slab" }
+	},
+
+	"result": { "item": "chinjufumod:block_itabei", "count": 3 }
+}

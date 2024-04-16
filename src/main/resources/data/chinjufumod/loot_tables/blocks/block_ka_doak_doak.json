@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:dark_oak_slab" } ]
+		},
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_kamoi_darkoak" } ]
+		}
+	],
+	"conditions": [ { "condition": "minecraft:survives_explosion" } ],
+	"random_sequence": "chinjufumod:blocks/block_ka_doak_doak"
+}

@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_kansaiki",
+
+	"ingredients": [
+		{ "item": "chinjufumod:block_fuel_can" },
+		{ "item": "chinjufumod:item_ammunition_kc" }
+	],
+
+	"result": { "item": "chinjufumod:item_kk_fuel", "count": 32 }
+}

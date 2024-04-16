@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:block/taru/hakkou" },
+		"stage=1": { "model": "chinjufumod:block/taru/kouji_k" },
+		"stage=2": { "model": "chinjufumod:block/taru/miso_kara" },
+		"stage=3": { "model": "chinjufumod:block/taru/koucha_k" },
+		"stage=4": { "model": "chinjufumod:block/taru/hakusai_1k" },
+		"stage=5": { "model": "chinjufumod:block/taru/hakusai_kara" }
+	}
+}

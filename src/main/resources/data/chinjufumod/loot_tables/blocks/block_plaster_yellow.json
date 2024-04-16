@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"conditions": [ { "condition": "minecraft:survives_explosion" } ],
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_plaster_yellow" } ]
+		}
+	],
+	"random_sequence": "chinjufumod:blocks/block_plaster_yellow"
+}

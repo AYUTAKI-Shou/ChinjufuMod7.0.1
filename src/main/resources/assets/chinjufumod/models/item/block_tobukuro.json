@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:block/amado/tobukuro_hand",
+	"display": {
+		"gui": {
+			"rotation": [ 0, -40, 0 ],
+			"translation": [ -1.5, -3.5, 0 ],
+			"scale": [ 0.6, 0.45, 0.45 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 70, 0, 0 ],
+			"translation": [ 0, -3, 0 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 4, -6, 0 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 180, 0 ],
+			"translation": [ 0, -3.5, -2 ],
+			"scale": [ 0.45, 0.45, 0.45 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 0.25, 0.25, 0.25 ]
+		}
+	}
+}

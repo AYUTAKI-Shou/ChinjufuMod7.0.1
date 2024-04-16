@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_ramen",
+
+	"ingredients": [
+		{ "tag": "forge:sugar" },
+		[ { "tag": "forge:dusts/salt" }, { "tag": "forge:foods/salt" }, { "tag": "forge:items/salt" } ],
+		[ { "tag": "forge:dusts/salt" }, { "tag": "forge:foods/salt" }, { "tag": "forge:items/salt" } ],
+		{ "tag": "forge:dusts/dashi" },
+		{ "tag": "forge:crops/greenonion" },
+		[ { "tag": "forge:cooked_pork" }, { "tag": "forge:cookedpork" } ],
+		{ "tag": "forge:eggs" },
+		{ "item": "chinjufumod:item_food_donburi" },
+		{ "item": "chinjufumod:item_food_donburi" }
+	],
+
+	"result": { "item": "chinjufumod:item_food_tare_shio", "count" : 2 }
+}

@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_taru",
+
+	"ingredients": [
+		{ "item": "minecraft:stone_slab" },
+		{ "item": "chinjufumod:item_tanmono" },
+		{ "item": "chinjufumod:item_nimame" },
+		{ "item": "chinjufumod:item_komekouji" },
+		[ { "tag": "forge:dusts/salt" }, { "tag": "forge:foods/salt" }, { "tag": "forge:items/salt" } ],
+		{ "item": "chinjufumod:block_taru_hakkou" }
+	],
+
+	"result": { "item": "chinjufumod:block_taru_miso_f", "count": 1 }
+}

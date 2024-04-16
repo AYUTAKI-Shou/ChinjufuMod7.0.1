@@ -1,0 +1,142 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/muku_spruce",
+		"yunomi": "chinjufumod:block/dish_green",
+		"sara": "chinjufumod:block/muku_spruce",
+		"bon": "chinjufumod:block/muku_spruce"
+	},
+	"elements": [
+		{
+			"name": "sara_soko",
+			"from": [ 3.0, 0, 5.5 ],
+			"to": [ 8.0, 0.2, 10.5 ],
+			"faces": {
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"west" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara",
+			"from": [ 2, 0.2, 4.5 ],
+			"to": [ 9, 0.4, 11.5 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"west" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_n",
+			"from": [ 2, 0.4, 4.5 ],
+			"to": [ 9, 1.5, 5 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"west" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_e",
+			"from": [ 8.5, 0.4, 5 ],
+			"to": [ 9, 1.5, 11 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_s",
+			"from": [ 2, 0.4, 11 ],
+			"to": [ 9, 1.5, 11.5 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"west" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_w",
+			"from": [ 2, 0.4, 5 ],
+			"to": [ 2.5, 1.5, 11 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" }
+			}
+		},
+
+		{
+			"name": "yunomi_soko",
+			"from": [ 11, 0, 7 ],
+			"to": [ 13, 0.2, 9 ],
+			"faces": {
+				"up" : { "texture": "#yunomi" },
+				"down" : { "texture": "#yunomi" },
+				"north": { "texture": "#yunomi" },
+				"south": { "texture": "#yunomi" },
+				"west" : { "texture": "#yunomi" },
+				"east" : { "texture": "#yunomi" }
+			}
+		},
+		{
+			"name": "yunomi_n",
+			"from": [ 10.8, 0.2, 6.8 ],
+			"to": [ 13.2, 3, 7 ],
+			"faces": {
+				"up" : { "texture": "#yunomi" },
+				"down" : { "texture": "#yunomi" },
+				"north": { "texture": "#yunomi" },
+				"south": { "texture": "#yunomi" },
+				"west" : { "texture": "#yunomi" },
+				"east" : { "texture": "#yunomi" }
+			}
+		},
+		{
+			"name": "yunomi_e",
+			"from": [ 13, 0.2, 7 ],
+			"to": [ 13.2, 3, 9 ],
+			"faces": {
+				"up" : { "texture": "#yunomi" },
+				"down" : { "texture": "#yunomi" },
+				"west" : { "texture": "#yunomi" },
+				"east" : { "texture": "#yunomi" }
+			}
+		},
+		{
+			"name": "yunomi_s",
+			"from": [ 10.8, 0.2, 9 ],
+			"to": [ 13.2, 3, 9.2 ],
+			"faces": {
+				"up" : { "texture": "#yunomi" },
+				"down" : { "texture": "#yunomi" },
+				"north": { "texture": "#yunomi" },
+				"south": { "texture": "#yunomi" },
+				"west" : { "texture": "#yunomi" },
+				"east" : { "texture": "#yunomi" }
+			}
+		},
+		{
+			"name": "yunomi_w",
+			"from": [ 10.8, 0.2, 7 ],
+			"to": [ 11, 3, 9 ],
+			"faces": {
+				"up" : { "texture": "#yunomi" },
+				"down" : { "texture": "#yunomi" },
+				"west" : { "texture": "#yunomi" },
+				"east" : { "texture": "#yunomi" }
+			}
+		}
+	]
+}

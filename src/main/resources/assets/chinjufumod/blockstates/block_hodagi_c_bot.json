@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:block/crop/hodagibot_1", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:block/crop/hodagibot_1" },
+		"facing=west,stage=1": { "model": "chinjufumod:block/crop/hodagibot_1", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:block/crop/hodagibot_1", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/crop/hodagibot_2c", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:block/crop/hodagibot_2c" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/crop/hodagibot_2c", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:block/crop/hodagibot_2c", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:block/crop/hodagibot_3ca", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:block/crop/hodagibot_3ca" },
+		"facing=west,stage=3": { "model": "chinjufumod:block/crop/hodagibot_3ca", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:block/crop/hodagibot_3ca", "y": 270 },
+
+		"facing=north,stage=4": { "model": "chinjufumod:block/crop/hodagibot_4cab", "y": 180 },
+		"facing=south,stage=4": { "model": "chinjufumod:block/crop/hodagibot_4cab" },
+		"facing=west,stage=4": { "model": "chinjufumod:block/crop/hodagibot_4cab", "y": 90 },
+		"facing=east,stage=4": { "model": "chinjufumod:block/crop/hodagibot_4cab", "y": 270 }
+	}
+}

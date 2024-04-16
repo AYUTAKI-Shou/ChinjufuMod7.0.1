@@ -1,0 +1,49 @@
+{
+	"parent": "chinjufumod:cm_story/weapon/get_armor",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.weapon.get_bootskai.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.weapon.get_bootskai.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_fubuki_bootskai"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": [
+				"chinjufumod:item_fubuki_bootskai",
+				"chinjufumod:item_kasumi_bootskai",
+				"chinjufumod:item_shiratsuyu_bootskai",
+				"chinjufumod:item_shigure_bootskai",
+				"chinjufumod:item_akatsuki_bootskai",
+				
+				"chinjufumod:item_sendai_bootskai",
+				"chinjufumod:item_yura_bootskai",
+				"chinjufumod:item_mogami_bootskai",
+				"chinjufumod:item_tone_bootskai",
+				
+				"chinjufumod:item_ryujou_bootskai",
+				"chinjufumod:item_zuihou_bootskai",
+				"chinjufumod:item_akagi_bootskai",
+				"chinjufumod:item_kaga_bootskai",
+				"chinjufumod:item_kongou_bootskai",
+				"chinjufumod:item_fusou_bootskai",
+				"chinjufumod:item_nagato_bootskai"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience":10 }
+}

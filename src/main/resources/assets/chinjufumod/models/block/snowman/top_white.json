@@ -1,0 +1,219 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "minecraft:block/snow",
+		"snow": "minecraft:block/snow",
+		"nose": "chinjufumod:block/snowman_nose",
+		"black": "minecraft:block/black_wool",
+		"red": "minecraft:block/red_wool",
+		"white": "minecraft:block/white_wool"
+	},
+	"elements": [
+		{
+			"name": "hat",
+			"from": [ 4.5, 9.5, 4.5 ],
+			"to": [ 11.5, 13, 11.5 ],
+			"faces": {
+				"up": { "texture": "#white" },
+				"north": { "texture": "#white" },
+				"south": { "texture": "#white" },
+				"west": { "texture": "#white" },
+				"east": { "texture": "#white" }
+			}
+		},
+		{
+			"name": "hat2",
+			"from": [ 4.5, 8, 4.5 ],
+			"to": [ 11.5, 9.5, 11.5 ],
+			"faces": {
+				"north": { "texture": "#red" },
+				"south": { "texture": "#red" },
+				"west": { "texture": "#red" },
+				"east": { "texture": "#red" }
+			}
+		},
+		{
+			"name": "hat3_n",
+			"from": [ 2, 7, 2 ],
+			"to": [ 14, 8, 4.5 ],
+			"faces": {
+				"up": { "texture": "#white" },
+				"down": { "texture": "#white" },
+				"north": { "texture": "#white" },
+				"south": { "texture": "#white" },
+				"west": { "texture": "#white" },
+				"east": { "texture": "#white" }
+			}
+		},
+		{
+			"name": "hat3_s",
+			"from": [ 2, 7, 11.5 ],
+			"to": [ 14, 8, 14 ],
+			"faces": {
+				"up": { "texture": "#white" },
+				"down": { "texture": "#white" },
+				"north": { "texture": "#white" },
+				"south": { "texture": "#white" },
+				"west": { "texture": "#white" },
+				"east": { "texture": "#white" }
+			}
+		},
+		{
+			"name": "hat3",
+			"from": [ 2, 7, 4.5 ],
+			"to": [ 4.5, 8, 11.5 ],
+			"faces": {
+				"up": { "texture": "#white" },
+				"down": { "texture": "#white" },
+				"west": { "texture": "#white" },
+				"east": { "texture": "#white" }
+			}
+		},
+		{
+			"name": "hat3",
+			"from": [ 11.5, 7, 4.5 ],
+			"to": [ 14, 8, 11.5 ],
+			"faces": {
+				"up": { "texture": "#white" },
+				"down": { "texture": "#white" },
+				"west": { "texture": "#white" },
+				"east": { "texture": "#white" }
+			}
+		},
+		
+		{
+			"name": "left_eye",
+			"from": [ 9.75, 2.75, 13 ],
+			"to": [ 11.25, 4.25, 13.1 ],
+			"faces": {
+				"south": { "texture": "#black" }
+			}
+		},
+		{
+			"name": "right_eye",
+			"from": [ 4.75, 2.75, 13 ],
+			"to": [ 6.25, 4.25, 13.1 ],
+			"faces": {
+				"south": { "texture": "#black" }
+			}
+		},
+		{
+			"name": "nose",
+			"from": [ 7.4, 1.4, 10 ],
+			"to": [ 8.6, 2.6, 16 ],
+			"faces": {
+				"up": { "texture": "#nose" },
+				"down": { "texture": "#nose" },
+				"south": { "texture": "#nose" },
+				"west": { "texture": "#nose" },
+				"east": { "texture": "#nose" }
+			}
+		},
+		
+		{
+			"name": "top1",
+			"from": [ 5, 7, 5 ],
+			"to": [ 11, 8, 11 ],
+			"faces": {
+				"up": { "uv": [ 5.0, 5.0, 11.0, 11.0 ], "texture": "#snow" },
+				"north": { "uv": [ 5.0, 2.0, 11.0, 3.0 ], "texture": "#snow" },
+				"south": { "uv": [ 5.0, 2.0, 11.0, 3.0 ], "texture": "#snow" },
+				"west": { "uv": [ 5.0, 2.0, 11.0, 3.0 ], "texture": "#snow" },
+				"east": { "uv": [ 5.0, 2.0, 11.0, 3.0 ], "texture": "#snow" }
+			}
+		},
+		{
+			"name": "top2",
+			"from": [ 4, 6, 4 ],
+			"to": [ 12, 7, 12 ],
+			"faces": {
+				"up": { "uv": [ 4.0, 4.0, 12.0, 12.0 ], "texture": "#snow" },
+				"north": { "uv": [ 4.0, 2.0, 12.0, 3.0 ], "texture": "#snow" },
+				"south": { "uv": [ 4.0, 2.0, 12.0, 3.0 ], "texture": "#snow" },
+				"west": { "uv": [ 4.0, 2.0, 12.0, 3.0 ], "texture": "#snow" },
+				"east": { "uv": [ 4.0, 2.0, 12.0, 3.0 ], "texture": "#snow" }
+			}
+		},
+		
+		{
+			"name": "north1",
+			"from": [ 5, 0, 2 ],
+			"to": [ 11, 5, 3 ],
+			"faces": {
+				"up": { "uv": [ 5.0, 1.0, 11.0, 2.0 ], "texture": "#snow" },
+				"north": { "uv": [ 5.0, 6.0, 11.0, 11.0 ], "texture": "#snow" },
+				"west": { "uv": [ 1.0, 6.0, 2.0, 11.0 ], "texture": "#snow" },
+				"east": { "uv": [ 14.0, 6.0, 15.0, 11.0 ], "texture": "#snow" }
+			}
+		},
+		{
+			"name": "north2",
+			"from": [ 4, 0, 3 ],
+			"to": [ 12, 6, 4 ],
+			"faces": {
+				"up": { "uv": [ 4.0, 1.0, 12.0, 2.0 ], "texture": "#snow" },
+				"north": { "uv": [ 4.0, 5.0, 12.0, 11.0 ], "texture": "#snow" },
+				"west": { "uv": [ 1.0, 5.0, 2.0, 11.0 ], "texture": "#snow" },
+				"east": { "uv": [ 14.0, 5.0, 15.0, 11.0 ], "texture": "#snow" }
+			}
+		},
+
+		{
+			"name": "south2",
+			"from": [ 4, 0, 12 ],
+			"to": [ 12, 6, 13 ],
+			"faces": {
+				"up": { "uv": [ 4.0, 14.0, 12.0, 15.0 ], "texture": "#snow" },
+				"south": { "uv": [ 4.0, 5.0, 12.0, 11.0 ], "texture": "#snow" },
+				"west": { "uv": [ 14.0, 5.0, 15.0, 11.0 ], "texture": "#snow" },
+				"east": { "uv": [ 1.0, 5.0, 2.0, 11.0 ], "texture": "#snow" }
+			}
+		},
+		
+		{
+			"name": "west1",
+			"from": [ 2, 0, 5 ],
+			"to": [ 3, 5, 11 ],
+			"faces": {
+				"up": { "uv": [ 1.0, 5.0, 2.0, 11.0 ], "texture": "#snow" },
+				"north": { "uv": [ 14.0, 6.0, 15.0, 11.0 ], "texture": "#snow" },
+				"south": { "uv": [ 1.0, 6.0, 2.0, 11.0 ], "texture": "#snow" },
+				"west": { "uv": [ 5.0, 6.0, 11.0, 11.0 ], "texture": "#snow" }
+			}
+		},
+		{
+			"name": "west2",
+			"from": [ 3, 0, 4 ],
+			"to": [ 4, 6, 12 ],
+			"faces": {
+				"up": { "uv": [ 1.0, 4.0, 2.0, 12.0 ], "texture": "#snow" },
+				"north": { "uv": [ 14.0, 5.0, 15.0, 11.0 ], "texture": "#snow" },
+				"south": { "uv": [ 1.0, 5.0, 2.0, 11.0 ], "texture": "#snow" },
+				"west": { "uv": [ 4.0, 5.0, 12.0, 11.0 ], "texture": "#snow" }
+			}
+		},
+		
+		{
+			"name": "east1",
+			"from": [ 13, 0, 5 ],
+			"to": [ 14, 5, 11 ],
+			"faces": {
+				"up": { "uv": [ 14.0, 5.0, 15.0, 11.0 ], "texture": "#snow" },
+				"north": { "uv": [ 1.0, 6.0, 2.0, 11.0 ], "texture": "#snow" },
+				"south": { "uv": [ 14.0, 6.0, 15.0, 11.0 ], "texture": "#snow" },
+				"east": { "uv": [ 5.0, 6.0, 11.0, 11.0 ], "texture": "#snow" }
+			}
+		},
+		{
+			"name": "east2",
+			"from": [ 12, 0, 4 ],
+			"to": [ 13, 6, 12 ],
+			"faces": {
+				"up": { "uv": [ 14.0, 4.0, 15.0, 12.0 ], "texture": "#snow" },
+				"north": { "uv": [ 1.0, 5.0, 2.0, 11.0 ], "texture": "#snow" },
+				"south": { "uv": [ 14.0, 5.0, 15.0, 11.0 ], "texture": "#snow" },
+				"east": { "uv": [ 4.0, 5.0, 12.0, 11.0 ], "texture": "#snow" }
+			}
+		}
+	]
+}

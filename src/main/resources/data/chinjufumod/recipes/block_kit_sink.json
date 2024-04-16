@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_kitchen",
+
+	"ingredients": [
+		{ "item": "chinjufumod:block_steel_block" },
+		{ "item": "chinjufumod:block_kitchen" }
+	],
+
+	"result": { "item": "chinjufumod:block_kit_sink", "count": 1 }
+}

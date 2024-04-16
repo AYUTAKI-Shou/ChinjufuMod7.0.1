@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"down=false": { "model": "chinjufumod:block/zabuton/orange" },
+		"down=true": { "model": "chinjufumod:block/zabuton/orange_down" }
+	}
+}

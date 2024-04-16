@@ -1,0 +1,11 @@
+{
+	"parent": "chinjufumod:block/base/click_soba1",
+	"textures": {
+		"particle": "chinjufumod:block/okonomis_raw",
+		"okonomi": "chinjufumod:block/okonomis_raw",
+		"cabbage": "chinjufumod:block/okonomicabbage_raw",
+		"cabbage_top": "chinjufumod:block/okonomis_raw",
+		"kote": "chinjufumod:block/dish_lightg",
+		"teppan": "chinjufumod:block/kitchen_stove"
+	}
+}

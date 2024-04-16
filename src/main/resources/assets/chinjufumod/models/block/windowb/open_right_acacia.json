@@ -1,0 +1,10 @@
+{
+	"parent": "chinjufumod:block/base/windowb_openright",
+	"textures": {
+		"particle": "chinjufumod:block/windowb_acacia",
+		"front": "chinjufumod:block/windowb_acacia",
+		"side": "chinjufumod:block/muku_acacia",
+		"totte": "chinjufumod:block/windowb_oak",
+		"glass": "minecraft:block/glass"
+	}
+}

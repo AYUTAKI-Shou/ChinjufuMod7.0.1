@@ -1,0 +1,25 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_blackboard",
+
+			"chinjufumod:block_lettertray_c",
+			"chinjufumod:block_fudetray_c",
+			
+			"chinjufumod:other_sumi_to_coal"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:item_sumi_c"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

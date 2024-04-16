@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"tag": "forge:crops/corn"
+	},
+	"result": "chinjufumod:item_food_cornb",
+	"experience": 0.5,
+	"cookingtime": 200
+}

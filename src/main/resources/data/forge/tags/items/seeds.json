@@ -1,0 +1,18 @@
+{
+	"replace": false,
+	"values": [
+		"#forge:seeds/cabbage",
+		"#forge:seeds/cherry",
+		"#forge:seeds/chinesecabbage",
+		"#forge:seeds/corn",
+		"#forge:seeds/onion",
+		"#forge:seeds/rice",
+		"#forge:seeds/soy",
+		"#forge:seeds/soybean",
+		"#forge:seeds/spinach",
+		"#forge:seeds/tomato",
+		
+		"#forge:seeds/cumin",
+		"#forge:seeds/chilipepper"
+	]
+}

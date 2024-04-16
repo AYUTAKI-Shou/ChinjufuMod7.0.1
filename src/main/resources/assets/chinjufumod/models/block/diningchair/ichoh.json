@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/diningchair",
+	"textures": {
+		"particle": "chinjufumod:block/planks_ichoh",
+		"leg": "chinjufumod:block/muku_ichoh",
+		"side": "chinjufumod:block/planks_ichoh",
+		"top": "chinjufumod:block/planks_ichoh"
+	}
+}

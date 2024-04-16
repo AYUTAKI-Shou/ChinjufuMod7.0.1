@@ -1,0 +1,102 @@
+{
+	"parent": "block/block",
+	"elements":[
+		{
+			"name": "hidari_hashira",
+			"from": [ 0, 0, 7 ],
+			"to": [ 2, 16, 9 ],
+			"faces": {
+				"up": { "texture": "#inside", "cullface": "up" },
+				"down": { "texture": "#inside", "cullface": "down" },
+				"north": { "uv": [ 3, 0, 1, 16 ], "texture": "#side" },
+				"south": { "uv": [ 3, 0, 1, 16 ], "texture": "#side" },
+				"west": { "uv": [ 3, 0, 1, 16 ], "texture": "#side", "cullface": "west" },
+				"east": { "uv": [ 3, 0, 1, 16 ], "texture": "#side" }
+			}
+		},
+		{
+			"name": "yoko_hidari_ue",
+			"from": [ 0, 13, 1.1 ],
+			"to": [ 2, 15, 7 ],
+			"faces": {
+				"up": { "uv": [ 5, 8, 7, 2 ], "texture": "#side" },
+				"down": { "uv": [ 7, 2, 5, 8 ], "texture": "#side" },
+				"north": { "texture": "#inside" },
+				"west": { "uv": [ 7, 2, 5, 8 ], "texture": "#side", "rotation": 90 },
+				"east": { "uv": [ 7, 8, 5, 2 ], "texture": "#side", "rotation": 90 }
+			}
+		},
+		{
+			"name": "yoko_hidari",
+			"from": [ 0, 6, 1.1 ],
+			"to": [ 2, 8, 7 ],
+			"faces": {
+				"up": { "uv": [ 13, 8, 15, 2 ], "texture": "#side" },
+				"down": { "uv": [ 15, 2, 13, 8 ], "texture": "#side" },
+				"north": { "texture": "#inside" },
+				"west": { "uv": [ 15, 2, 13, 8 ], "texture": "#side", "rotation": 90 },
+				"east": { "uv": [ 15, 8, 13, 2 ], "texture": "#side", "rotation": 90 }
+			}
+		},
+		{
+			"name": "naka_hidari",
+			"from": [ 0, 8, 1.1 ],
+			"to": [ 2, 13, 3 ],
+			"faces": {
+				"north": { "uv": [ 5, 3, 7, 8 ], "texture": "#side" },
+				"south": { "uv": [ 5, 3, 7, 8 ], "texture": "#side" },
+				"west": { "uv": [ 5, 3, 7, 8 ], "texture": "#side" },
+				"east": { "uv": [ 5, 3, 7, 8 ], "texture": "#side" }
+			}
+		},
+
+		{
+			"name": "migi_hashira____________________________________________",
+			"from": [ 14, 0, 7 ],
+			"to": [ 16, 16, 9 ],
+			"faces": {
+				"up": { "texture": "#inside", "cullface": "up" },
+				"down": { "texture": "#inside", "cullface": "down" },
+				"north": { "uv": [ 3, 0, 1, 16 ], "texture": "#side" },
+				"south": { "uv": [ 3, 0, 1, 16 ], "texture": "#side" },
+				"west": { "uv": [ 3, 0, 1, 16 ], "texture": "#side" },
+				"east": { "uv": [ 3, 0, 1, 16 ], "texture": "#side", "cullface": "east" }
+			}
+		},
+		{
+			"name": "yoko_migi_ue",
+			"from": [ 14, 13, 1.1 ],
+			"to": [ 16, 15, 7 ],
+			"faces": {
+				"up": { "uv": [ 7, 8, 5, 14 ], "texture": "#side" },
+				"down": { "uv": [ 5, 14, 7, 8 ], "texture": "#side" },
+				"north": { "texture": "#inside" },
+				"west": { "uv": [ 7, 14, 5, 8 ], "texture": "#side", "rotation": 90 },
+				"east": { "uv": [ 7, 8, 5, 14 ], "texture": "#side", "rotation": 90 }
+			}
+		},
+		{
+			"name": "yoko_migi",
+			"from": [ 14, 6, 1.1 ],
+			"to": [ 16, 8, 7 ],
+			"faces": {
+				"up": { "uv": [ 15, 8, 13, 14 ], "texture": "#side" },
+				"down": { "uv": [ 13, 14, 15, 8 ], "texture": "#side" },
+				"north": { "texture": "#inside" },
+				"west": { "uv": [ 15, 14, 13, 8 ], "texture": "#side", "rotation": 90 },
+				"east": { "uv": [ 15, 8, 13, 14 ], "texture": "#side", "rotation": 90 }
+			}
+		},
+		{
+			"name": "naka_migi",
+			"from": [ 14, 8, 1.1 ],
+			"to": [ 16, 13, 3 ],
+			"faces": {
+				"north": { "uv": [ 13, 3, 15, 8 ], "texture": "#side" },
+				"south": { "uv": [ 13, 3, 15, 8 ], "texture": "#side" },
+				"west": { "uv": [ 13, 3, 15, 8 ], "texture": "#side" },
+				"east": { "uv": [ 13, 3, 15, 8 ], "texture": "#side" }
+			}
+		}
+	]
+}

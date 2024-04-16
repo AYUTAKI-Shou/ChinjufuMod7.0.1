@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_kettle",
+
+	"pattern": [
+		"XXX",
+		" XX"
+	],
+
+	"key": {
+		"X": [ { "tag": "forge:ingots/aluminum" }, { "tag": "forge:ingots/aluminium" } ]
+	},
+
+	"result": { "item": "chinjufumod:item_kettle_kara", "count": 1 }
+}

@@ -1,0 +1,44 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:item_ykt_getadoak",
+			"chinjufumod:item_ykt_getaoak",
+	
+			"chinjufumod:item_ykt_ikaduchi_mini",
+			"chinjufumod:item_ykt_ikaduchi_long",
+
+			"chinjufumod:item_ykt_inaduma_mini",
+			"chinjufumod:item_ykt_inaduma_long",
+
+			"chinjufumod:item_ykt_hamakaze_mini",
+			"chinjufumod:item_ykt_hamakaze_long",
+
+			"chinjufumod:item_ykt_urakaze_mini",
+			"chinjufumod:item_ykt_urakaze_long",
+
+			"chinjufumod:item_ykt_kawakaze_mini",
+			"chinjufumod:item_ykt_kawakaze_long",
+
+			"chinjufumod:item_ykt_oboro_mini",
+			"chinjufumod:item_ykt_oboro_long",
+
+			"chinjufumod:item_ykt_ttoku_mini",
+			"chinjufumod:item_ykt_ttoku_long",
+			"chinjufumod:item_ykt_ttokub_mini",
+			"chinjufumod:item_ykt_ttokub_long"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:item_tanmono"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

@@ -1,0 +1,34 @@
+
+1.16.5 ..."conditions": { "items": [ { "item": "chinjufumod:item_workorder" } ] }
+1.18.1 ..."conditions": { "items": [ { "items": ["chinjufumod:item_workorder","chinjufumod:block_seedsbox"] } ] }
+
+
+story は ChinjufuMod のアイテム名でインベントリ判定を行う
+recipes は tag 鉱石辞書でインベントリ判定を行う
+
+寿司
+↑
+酢飯(蒸し米 と 酢・砂糖・塩・ボウル)
+↑
+炊いたご飯鍋(空鍋 と 米)
+↑
+空鍋( 粘土)
+↑
+root→種袋→種→収穫した農作物
+↓
+指示書
+↓
+弾薬→航空機
+↓
+主砲・艤装
+
+
+
+ワイングラス
+↑
+ワイン瓶
+↑
+樽
+↑
+root
+

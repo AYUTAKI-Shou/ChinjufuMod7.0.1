@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/kit_firstaid",
+	"textures": {
+		"particle": "chinjufumod:item/kit_firstaid",
+		"kit": "chinjufumod:item/kit_firstaid",
+		"inside": "chinjufumod:item/kit_firstaid_inside"
+	 }
+}

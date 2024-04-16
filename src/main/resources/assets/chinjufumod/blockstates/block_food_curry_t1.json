@@ -1,0 +1,43 @@
+{
+	"variants": {
+		"down=false,facing=north,stage=1": { "model": "chinjufumod:block/curry/tomato_1", "y": 180 },
+		"down=false,facing=south,stage=1": { "model": "chinjufumod:block/curry/tomato_1", "y": 0 },
+		"down=false,facing=west,stage=1": { "model": "chinjufumod:block/curry/tomato_1", "y": 90 },
+		"down=false,facing=east,stage=1": { "model": "chinjufumod:block/curry/tomato_1", "y": 270 },
+
+		"down=false,facing=north,stage=2": { "model": "chinjufumod:block/curry/tomato_2", "y": 180 },
+		"down=false,facing=south,stage=2": { "model": "chinjufumod:block/curry/tomato_2", "y": 0 },
+		"down=false,facing=west,stage=2": { "model": "chinjufumod:block/curry/tomato_2", "y": 90 },
+		"down=false,facing=east,stage=2": { "model": "chinjufumod:block/curry/tomato_2", "y": 270 },
+
+		"down=false,facing=north,stage=3": { "model": "chinjufumod:block/curry/tomato_3", "y": 180 },
+		"down=false,facing=south,stage=3": { "model": "chinjufumod:block/curry/tomato_3", "y": 0 },
+		"down=false,facing=west,stage=3": { "model": "chinjufumod:block/curry/tomato_3", "y": 90 },
+		"down=false,facing=east,stage=3": { "model": "chinjufumod:block/curry/tomato_3", "y": 270 },
+
+		"down=false,facing=north,stage=4": { "model": "chinjufumod:block/curry/kara", "y": 180 },
+		"down=false,facing=south,stage=4": { "model": "chinjufumod:block/curry/kara", "y": 0 },
+		"down=false,facing=west,stage=4": { "model": "chinjufumod:block/curry/kara", "y": 90 },
+		"down=false,facing=east,stage=4": { "model": "chinjufumod:block/curry/kara", "y": 270 },
+
+		"down=true,facing=north,stage=1": { "model": "chinjufumod:block/curry/tomato_d1", "y": 180 },
+		"down=true,facing=south,stage=1": { "model": "chinjufumod:block/curry/tomato_d1", "y": 0 },
+		"down=true,facing=west,stage=1": { "model": "chinjufumod:block/curry/tomato_d1", "y": 90 },
+		"down=true,facing=east,stage=1": { "model": "chinjufumod:block/curry/tomato_d1", "y": 270 },
+
+		"down=true,facing=north,stage=2": { "model": "chinjufumod:block/curry/tomato_d2", "y": 180 },
+		"down=true,facing=south,stage=2": { "model": "chinjufumod:block/curry/tomato_d2", "y": 0 },
+		"down=true,facing=west,stage=2": { "model": "chinjufumod:block/curry/tomato_d2", "y": 90 },
+		"down=true,facing=east,stage=2": { "model": "chinjufumod:block/curry/tomato_d2", "y": 270 },
+
+		"down=true,facing=north,stage=3": { "model": "chinjufumod:block/curry/tomato_d3", "y": 180 },
+		"down=true,facing=south,stage=3": { "model": "chinjufumod:block/curry/tomato_d3", "y": 0 },
+		"down=true,facing=west,stage=3": { "model": "chinjufumod:block/curry/tomato_d3", "y": 90 },
+		"down=true,facing=east,stage=3": { "model": "chinjufumod:block/curry/tomato_d3", "y": 270 },
+
+		"down=true,facing=north,stage=4": { "model": "chinjufumod:block/curry/kara_down", "y": 180 },
+		"down=true,facing=south,stage=4": { "model": "chinjufumod:block/curry/kara_down", "y": 0 },
+		"down=true,facing=west,stage=4": { "model": "chinjufumod:block/curry/kara_down", "y": 90 },
+		"down=true,facing=east,stage=4": { "model": "chinjufumod:block/curry/kara_down", "y": 270 }
+	}
+}

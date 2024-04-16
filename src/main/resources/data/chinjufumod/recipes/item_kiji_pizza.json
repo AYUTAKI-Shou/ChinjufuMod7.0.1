@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_pizza",
+
+	"ingredients": [
+		[ { "item": "chinjufumod:item_measurecup_full" }, { "item": "minecraft:potion" } ],
+		{ "tag": "forge:foods/flour" },
+		{ "tag": "forge:foods/flour" },
+		{ "tag": "forge:foods/flour" },
+		[ { "tag": "forge:dusts/salt" }, { "tag": "forge:foods/salt" }, { "tag": "forge:items/salt" } ],
+		{ "tag": "forge:items/yeast" }
+	],
+
+	"result": { "item": "chinjufumod:item_kiji_pizza", "count" : 1 }
+}

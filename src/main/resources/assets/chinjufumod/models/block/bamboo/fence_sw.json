@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/bamboofence_sw",
+	"textures": {
+		"particle": "chinjufumod:block/bamboo_side",
+		"side": "chinjufumod:block/bamboo_side",
+		"inside": "chinjufumod:block/bamboo_inside"
+	}
+}

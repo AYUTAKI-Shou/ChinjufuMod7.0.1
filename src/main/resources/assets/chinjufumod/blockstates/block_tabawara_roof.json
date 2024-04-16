@@ -1,0 +1,33 @@
+{
+	"variants": {
+		"cor=false,facing=north,type=bottom": { "model": "chinjufumod:block/taba/wara_roof_bot", "y": 90 },
+		"cor=false,facing=south,type=bottom": { "model": "chinjufumod:block/taba/wara_roof_bot", "y": 270 },
+		"cor=false,facing=west,type=bottom": { "model": "chinjufumod:block/taba/wara_roof_bot", "y": 0 },
+		"cor=false,facing=east,type=bottom": { "model": "chinjufumod:block/taba/wara_roof_bot", "y": 180 },
+
+		"cor=false,facing=north,type=top": { "model": "chinjufumod:block/taba/wara_roof_top", "y": 90 },
+		"cor=false,facing=south,type=top": { "model": "chinjufumod:block/taba/wara_roof_top", "y": 270 },
+		"cor=false,facing=west,type=top": { "model": "chinjufumod:block/taba/wara_roof_top", "y": 0 },
+		"cor=false,facing=east,type=top": { "model": "chinjufumod:block/taba/wara_roof_top", "y": 180 },
+
+		"cor=false,facing=north,type=double": { "model": "chinjufumod:block/taba/wara", "y": 90 },
+		"cor=false,facing=south,type=double": { "model": "chinjufumod:block/taba/wara", "y": 270 },
+		"cor=false,facing=west,type=double": { "model": "chinjufumod:block/taba/wara", "y": 0 },
+		"cor=false,facing=east,type=double": { "model": "chinjufumod:block/taba/wara", "y": 180 },
+
+		"cor=true,facing=north,type=bottom": { "model": "chinjufumod:block/taba/wara_roofcor_bot", "y": 180 },
+		"cor=true,facing=south,type=bottom": { "model": "chinjufumod:block/taba/wara_roofcor_bot", "y": 0 },
+		"cor=true,facing=west,type=bottom": { "model": "chinjufumod:block/taba/wara_roofcor_bot", "y": 90 },
+		"cor=true,facing=east,type=bottom": { "model": "chinjufumod:block/taba/wara_roofcor_bot", "y": 270 },
+
+		"cor=true,facing=north,type=top": { "model": "chinjufumod:block/taba/wara_roofcor_top", "y": 180 },
+		"cor=true,facing=south,type=top": { "model": "chinjufumod:block/taba/wara_roofcor_top", "y": 0 },
+		"cor=true,facing=west,type=top": { "model": "chinjufumod:block/taba/wara_roofcor_top", "y": 90 },
+		"cor=true,facing=east,type=top": { "model": "chinjufumod:block/taba/wara_roofcor_top", "y": 270 },
+
+		"cor=true,facing=north,type=double": { "model": "chinjufumod:block/taba/wara_cor", "y": 180 },
+		"cor=true,facing=south,type=double": { "model": "chinjufumod:block/taba/wara_cor", "y": 0 },
+		"cor=true,facing=west,type=double": { "model": "chinjufumod:block/taba/wara_cor", "y": 90 },
+		"cor=true,facing=east,type=double": { "model": "chinjufumod:block/taba/wara_cor", "y": 270 }
+	}
+}

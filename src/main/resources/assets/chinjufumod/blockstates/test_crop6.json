@@ -1,0 +1,12 @@
+{
+	"variants": {
+		"age=0": { "model": "chinjufumod:block/crop/wood_grape_d" },
+		"age=1": { "model": "chinjufumod:block/crop/wood_grape_d" },
+		"age=2": { "model": "chinjufumod:block/crop/wood_grape_d" },
+		"age=3": { "model": "chinjufumod:block/crop/wood_grape_d" },
+		"age=4": { "model": "chinjufumod:block/crop/wood_grape_d" },
+		"age=5": { "model": "chinjufumod:block/crop/wood_grape_d" },
+		"age=6": { "model": "chinjufumod:block/crop/wood_grape_d" },
+		"age=7": { "model": "chinjufumod:block/crop/wood_grape_d" }
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_sweets",
+
+	"ingredients": [
+		{ "tag": "forge:sugar" },
+		{ "item": "minecraft:ice" },
+		{ "item": "chinjufumod:item_food_driglass" }
+	],
+
+	"result": { "item": "chinjufumod:block_kakigouri_block1", "count" : 1 }
+}

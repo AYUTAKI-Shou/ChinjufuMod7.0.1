@@ -1,0 +1,22 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/shouhou",
+		"book": "chinjufumod:block/shouhou"
+	},
+	"elements": [
+		{
+			"name": "book_shita",
+			"from": [ 5, 0, 4 ],
+			"to": [ 11, 1, 12 ],
+			"faces": {
+				"up" : { "uv": [ 0.0, 1.0, 6.0, 9.0 ], "texture": "#book" },
+				"down" : { "uv": [ 8.0, 9.0, 14.0, 1.0 ], "texture": "#book" },
+				"north": { "uv": [ 6.0, 11.0, 0.0, 12.0 ], "texture": "#book" },
+				"south": { "uv": [ 10.0, 11.0, 16.0, 12.0 ], "texture": "#book" },
+				"west" : { "uv": [ 4.0, 14.0, 12.0, 15.0 ], "texture": "#book" },
+				"east" : { "uv": [ 6.0, 1.0, 7.0, 9.0 ], "texture": "#book", "rotation": 270 }
+			}
+		}
+	]
+}

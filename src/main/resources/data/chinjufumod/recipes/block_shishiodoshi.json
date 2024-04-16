@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_garden",
+
+	"ingredients": [
+		{ "item": "minecraft:stone" },
+		{ "tag": "forge:rods/wooden" },
+		{ "tag": "forge:rods/wooden" },
+		{ "tag": "forge:rods/wooden" },
+		{ "tag": "forge:rods/wooden" },
+		{ "tag": "forge:rods/wooden" },
+		{ "tag": "forge:rods/wooden" },
+		{ "item": "minecraft:bamboo" },
+		{ "tag": "minecraft:wooden_buttons" }
+	],
+
+	"result": { "item": "chinjufumod:block_shishiodoshi", "count" : 1 }
+}

@@ -1,0 +1,8 @@
+{
+ "variants": {
+	"facing=north": { "model": "chinjufumod:block/box/tea_can", "y": 0 },
+	"facing=south": { "model": "chinjufumod:block/box/tea_can", "y": 180 },
+	"facing=west": { "model": "chinjufumod:block/box/tea_can", "y": 270 },
+	"facing=east": { "model": "chinjufumod:block/box/tea_can", "y": 90 }
+ }
+}

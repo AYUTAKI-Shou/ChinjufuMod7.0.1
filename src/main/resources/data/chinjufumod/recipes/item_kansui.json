@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_ramen",
+
+	"ingredients": [
+		{ "item": "chinjufumod:block_zundou_aku" },
+		{ "item": "chinjufumod:block_measurecup" },
+		{ "item": "chinjufumod:block_measurecup" }
+	],
+
+	"result": { "item": "chinjufumod:item_kansui", "count" : 2 }
+}

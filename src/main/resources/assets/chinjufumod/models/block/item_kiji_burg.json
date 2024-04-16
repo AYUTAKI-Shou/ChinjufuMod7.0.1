@@ -1,0 +1,35 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/food_rawburg",
+		"burg": "chinjufumod:block/food_rawburg"
+	},
+	"elements": [
+		{
+			"name": "burg",
+			"from": [ 5.5, 0.0, 8.0 ],
+			"to": [ 7.5, 1.0, 11.0 ],
+			"faces": {
+				"up" : { "texture": "#burg" },
+				"down" : { "texture": "#burg" },
+				"north": { "texture": "#burg" },
+				"south": { "texture": "#burg" },
+				"west" : { "texture": "#burg" },
+				"east" : { "texture": "#burg" }
+			}
+		},
+		{
+			"name": "burg",
+			"from": [ 8.5, 0.0, 8.0 ],
+			"to": [ 10.5, 1.0, 11.0 ],
+			"faces": {
+				"up" : { "texture": "#burg" },
+				"down" : { "texture": "#burg" },
+				"north": { "texture": "#burg" },
+				"south": { "texture": "#burg" },
+				"west" : { "texture": "#burg" },
+				"east" : { "texture": "#burg" }
+			}
+		}
+	]
+}

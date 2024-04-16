@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:block/wallpanel/plaster_black",
+	"display": {
+		"gui": {
+			"rotation": [ 0, -40, 0 ],
+			"translation": [ -3.75, 0, 0 ],
+			"scale": [ 1.0, 0.8, 0.8 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 70, 0, 0 ],
+			"translation": [ 0, -2.5, 2 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 0, 3 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 0, 7 ],
+			"scale": [ 0.8, 0.8, 0.8 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		}
+	}
+}

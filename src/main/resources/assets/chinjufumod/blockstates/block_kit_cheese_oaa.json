@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:block/shelfcheese/oaa", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:block/shelfcheese/oaa", "y": 0 },
+		"facing=west,stage=1": { "model": "chinjufumod:block/shelfcheese/oaa", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:block/shelfcheese/oaa", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/shelfcheese/oba", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:block/shelfcheese/oba", "y": 0 },
+		"facing=west,stage=2": { "model": "chinjufumod:block/shelfcheese/oba", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:block/shelfcheese/oba", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:block/shelfcheese/obb", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:block/shelfcheese/obb", "y": 0 },
+		"facing=west,stage=3": { "model": "chinjufumod:block/shelfcheese/obb", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:block/shelfcheese/obb", "y": 270 }
+	}
+}

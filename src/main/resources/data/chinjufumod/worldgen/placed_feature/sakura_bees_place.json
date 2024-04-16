@@ -1,0 +1,17 @@
+{
+  "feature": "chinjufumod:sakura_bees_0002",
+  "placement": [
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:would_survive",
+        "state": {
+          "Name": "chinjufumod:block_tree_sakura_nae",
+          "Properties": {
+            "stage": "0"
+          }
+        }
+      }
+    }
+  ]
+}

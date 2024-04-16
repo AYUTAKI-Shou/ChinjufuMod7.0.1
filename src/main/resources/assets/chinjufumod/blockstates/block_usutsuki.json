@@ -1,0 +1,29 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:block/kitchen/usutsuki_0" },
+		"stage=1": { "model": "chinjufumod:block/kitchen/usutsuki_1" },
+		"stage=2": { "model": "chinjufumod:block/kitchen/usutsuki_2" },
+		"stage=3": { "model": "chinjufumod:block/kitchen/usutsuki_3" },
+		"stage=4": { "model": "chinjufumod:block/kitchen/usutsuki_4" },
+		"stage=5": [ { "model": "chinjufumod:block/kitchen/usutsuki_5a" },
+		{ "model": "chinjufumod:block/kitchen/usutsuki_5b" },
+		{ "model": "chinjufumod:block/kitchen/usutsuki_5c" },
+		{ "model": "chinjufumod:block/kitchen/usutsuki_5d" } ],
+		"stage=6": { "model": "chinjufumod:block/kitchen/usutsuki_6" },
+		"stage=7": { "model": "chinjufumod:block/kitchen/usutsuki_7" },
+		"stage=8": { "model": "chinjufumod:block/kitchen/usutsuki_8" },
+		"stage=9": { "model": "chinjufumod:block/kitchen/usutsuki_9" },
+		"stage=10": { "model": "chinjufumod:block/kitchen/usutsuki_a" },
+		"stage=11": { "model": "chinjufumod:block/kitchen/usutsuki_b" },
+		"stage=12": { "model": "chinjufumod:block/kitchen/usutsuki_c" },
+		"stage=13": [ { "model": "chinjufumod:block/kitchen/usutsuki_d1" },
+		{ "model": "chinjufumod:block/kitchen/usutsuki_d2" },
+		{ "model": "chinjufumod:block/kitchen/usutsuki_d3" },
+		{ "model": "chinjufumod:block/kitchen/usutsuki_d4" } ],
+		"stage=14": [ { "model": "chinjufumod:block/kitchen/usutsuki_e1" },
+		{ "model": "chinjufumod:block/kitchen/usutsuki_e2" },
+		{ "model": "chinjufumod:block/kitchen/usutsuki_e3" },
+		{ "model": "chinjufumod:block/kitchen/usutsuki_e4" } ],
+		"stage=15": { "model": "chinjufumod:block/kitchen/usutsuki_f" }
+	}
+}

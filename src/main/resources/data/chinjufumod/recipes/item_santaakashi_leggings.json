@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_santa",
+
+	"pattern": [
+		"XXX",
+		"X X",
+		"Y Z"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:red_carpet" },
+		"Y": { "item": "minecraft:white_carpet" },
+		"Z": { "tag": "forge:dyes/pink" }
+	},
+
+	"result": { "item": "chinjufumod:item_santaakashi_leggings", "count": 1 }
+}

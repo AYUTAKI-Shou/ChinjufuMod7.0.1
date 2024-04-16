@@ -1,0 +1,27 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_pst_magenta",
+			"chinjufumod:block_psh_magenta",
+			"chinjufumod:block_pwall_magenta",
+			"chinjufumod:block_sama_magenta",
+			"chinjufumod:block_wp_plaster_magenta",
+			
+			"chinjufumod:block_namako_magenta",
+			"chinjufumod:block_namako_b_magenta"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_plaster_magenta"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

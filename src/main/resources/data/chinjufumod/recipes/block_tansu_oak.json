@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_tansu",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:oak_planks" },
+		"Y": { "item": "minecraft:oak_slab" }
+	},
+
+	"result": { "item": "chinjufumod:block_tansu_oak", "count": 1 }
+}

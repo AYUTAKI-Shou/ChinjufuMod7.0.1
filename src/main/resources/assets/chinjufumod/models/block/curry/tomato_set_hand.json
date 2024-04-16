@@ -1,0 +1,19 @@
+{
+	"parent": "chinjufumod:block/base/curryset_hand",
+	"textures": {
+		"particle": "chinjufumod:block/dish_white",
+		"saladacup": "chinjufumod:block/dish_white",
+		"salada1": "chinjufumod:block/food_lettuce",
+		"salada2": "chinjufumod:block/food_na",
+		"salada3": "chinjufumod:block/food_carot",
+		"tomato": "chinjufumod:block/food_tomato",
+		"cup": "chinjufumod:block/dish_white",
+		"water": "minecraft:block/water_still",
+		"sara": "chinjufumod:block/dish_white",
+		"kome": "chinjufumod:block/food_gohan",
+		"rou": "chinjufumod:block/food_curryrou_tomato",
+		"fork": "chinjufumod:block/dish_lightg",
+		"forkoki": "chinjufumod:block/dish_white",
+		"bon": "chinjufumod:block/muku_bigoak"
+	}
+}

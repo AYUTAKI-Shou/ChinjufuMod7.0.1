@@ -1,0 +1,23 @@
+{
+ "variants": {
+	"facing=north,stage=1": { "model": "chinjufumod:block/wallpanel/stone_b", "y": 180 },
+	"facing=south,stage=1": { "model": "chinjufumod:block/wallpanel/stone_b" },
+	"facing=west,stage=1": { "model": "chinjufumod:block/wallpanel/stone_b", "y": 90 },
+	"facing=east,stage=1": { "model": "chinjufumod:block/wallpanel/stone_b", "y": 270 },
+
+	"facing=north,stage=2": { "model": "chinjufumod:block/wallpanel/stone_bchi", "y": 180 },
+	"facing=south,stage=2": { "model": "chinjufumod:block/wallpanel/stone_bchi" },
+	"facing=west,stage=2": { "model": "chinjufumod:block/wallpanel/stone_bchi", "y": 90 },
+	"facing=east,stage=2": { "model": "chinjufumod:block/wallpanel/stone_bchi", "y": 270 },
+
+	"facing=north,stage=3": { "model": "chinjufumod:block/wallpanel/stone_bcra", "y": 180 },
+	"facing=south,stage=3": { "model": "chinjufumod:block/wallpanel/stone_bcra" },
+	"facing=west,stage=3": { "model": "chinjufumod:block/wallpanel/stone_bcra", "y": 90 },
+	"facing=east,stage=3": { "model": "chinjufumod:block/wallpanel/stone_bcra", "y": 270 },
+
+	"facing=north,stage=4": { "model": "chinjufumod:block/wallpanel/stone_bmos", "y": 180 },
+	"facing=south,stage=4": { "model": "chinjufumod:block/wallpanel/stone_bmos" },
+	"facing=west,stage=4": { "model": "chinjufumod:block/wallpanel/stone_bmos", "y": 90 },
+	"facing=east,stage=4": { "model": "chinjufumod:block/wallpanel/stone_bmos", "y": 270 }
+ }
+}

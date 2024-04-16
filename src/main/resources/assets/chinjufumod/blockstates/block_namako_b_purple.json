@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"cra=false": { "model": "chinjufumod:block/namakob/purple" },
+		"cra=true": { "model": "chinjufumod:block/namakob/crack_purple" }
+	}
+}

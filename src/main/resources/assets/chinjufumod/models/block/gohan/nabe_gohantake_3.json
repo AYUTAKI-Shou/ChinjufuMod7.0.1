@@ -1,0 +1,11 @@
+{
+	"parent": "chinjufumod:block/base/nabegohan_3",
+	"textures": {
+		"particle": "chinjufumod:block/dish_usuki",
+		"gohan": "chinjufumod:block/food_gohantakenoko",
+ 		"nabe": "chinjufumod:block/dish_usuki",
+		"nabeshiki": "chinjufumod:block/dish_brown",
+		"shamoji": "chinjufumod:block/muku_spruce",
+		"sara": "chinjufumod:block/dish_white"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_chestplate",
+
+	"ingredients": [
+		{ "item": "minecraft:iron_chestplate" },
+		{ "tag": "forge:dyes/white" },
+		{ "item": "chinjufumod:item_workorder" },
+		{ "item": "minecraft:coal" },
+		[ { "tag": "forge:ingots/aluminum" }, { "tag": "forge:ingots/aluminium" } ]
+	],
+
+	"result": { "item": "chinjufumod:item_zuihou_chestplate", "count": 1 }
+}

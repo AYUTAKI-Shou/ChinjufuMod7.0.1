@@ -1,0 +1,42 @@
+{
+	"parent": "chinjufumod:cm_story/crops/get_seedsbox",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.crops.get_seeds.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.crops.get_seeds.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_seeds_hakusai"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": [
+				"chinjufumod:item_seeds_cabbage",
+				"chinjufumod:item_seeds_hakusai",
+				"chinjufumod:item_seeds_corn",
+				"chinjufumod:item_seeds_onion",
+				"chinjufumod:item_seeds_rice",
+				"chinjufumod:item_seeds_soy",
+				"chinjufumod:item_seeds_spinach",
+				"chinjufumod:item_seeds_tomato",
+				"chinjufumod:block_wood_chanoki_nae",
+				"chinjufumod:block_wood_grape_nae",
+				"chinjufumod:block_wood_mikan"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

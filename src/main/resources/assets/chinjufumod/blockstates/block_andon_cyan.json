@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"facing=north,lit=false": { "model": "chinjufumod:block/andon/cyan", "y": 180 },
+		"facing=south,lit=false": { "model": "chinjufumod:block/andon/cyan", "y": 0 },
+		"facing=west,lit=false": { "model": "chinjufumod:block/andon/cyan", "y": 90 },
+		"facing=east,lit=false": { "model": "chinjufumod:block/andon/cyan", "y": 270 },
+
+		"facing=north,lit=true": { "model": "chinjufumod:block/andon/lit_cyan", "y": 180 },
+		"facing=south,lit=true": { "model": "chinjufumod:block/andon/lit_cyan", "y": 0 },
+		"facing=west,lit=true": { "model": "chinjufumod:block/andon/lit_cyan", "y": 90 },
+		"facing=east,lit=true": { "model": "chinjufumod:block/andon/lit_cyan", "y": 270 }
+	}
+}

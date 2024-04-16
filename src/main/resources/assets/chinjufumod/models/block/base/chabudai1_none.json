@@ -1,0 +1,39 @@
+{
+	"parent": "block/block",
+	"elements": [
+		{
+			"name": "tenban_1",
+			"from": [ 0, 7, 0 ],
+			"to": [ 16, 8, 15 ],
+			"faces": {
+				"up" : { "texture": "#ten" },
+				"down" : { "texture": "#ten" },
+				"south": { "texture": "#ten" },
+				"west" : { "texture": "#ten" },
+				"east" : { "texture": "#ten" }
+			}
+		},
+		{
+			"name": "tenban_2",
+			"from": [ 3, 7, 15 ],
+			"to": [ 13, 8, 16 ],
+			"faces": {
+				"up" : { "texture": "#ten" },
+				"down" : { "texture": "#ten" },
+				"south": { "texture": "#ten" },
+				"west" : { "texture": "#ten" },
+				"east" : { "texture": "#ten" }
+			}
+		},
+		{
+			"name": "bottom_n",
+			"from": [ 0, 5, 8 ],
+			"to": [ 16, 7, 9 ],
+			"faces": {
+				"down" : { "texture": "#leg" },
+				"north": { "texture": "#leg" },
+				"south": { "texture": "#leg" }
+			}
+		}
+	]
+}

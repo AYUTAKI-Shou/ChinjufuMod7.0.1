@@ -1,0 +1,683 @@
+
+new BlockPos
+		double x = (double) pos.getX();
+		double y = (double) pos.getY();
+		double z = (double) pos.getZ();
+->
+		int x = (int) pos.getX();
+		int y = (int) pos.getY();
+		int z = (int) pos.getZ();
+
+テクスチャ
+chinjufumod:items/ → chinjufumod:item/
+chinjufumod:blocks/ → chinjufumod:block/
+
+素手回収は
+worldIn.playSound(null, pos, SoundEvents.ITEM_PICKUP, SoundCategory.PLAYERS, 0.2F, 2.0F);
+worldIn.playSound(null, pos, SoundEvents.SNOW_BREAK, SoundCategory.BLOCKS, 0.8F, 1.2F);
+
+器で回収は
+worldIn.playSound(null, pos, SoundEvents.SNOW_BREAK, SoundCategory.BLOCKS, 0.8F, 1.2F);
+
+設置は 
+worldIn.playSound(null, pos, SoundEvents.SNOW_PLACE, SoundCategory.BLOCKS, 0.8F, 1.2F);
+
+
+world.isRemote → level.isClientSide
+)^p → )
+Ctrl+Shift+O
+
+1tickは1/20秒、20tickで1秒
+
+1.0―0.0625
+2.0―0.125
+3.0―0.1875
+4.0―0.25
+5.0―0.3125
+6.0―0.375
+7.0―0.4375
+8.0―0.5
+9.0―0.5625
+10.0―0.625
+11.0―0.6875
+12.0―0.75
+13.0―0.8125
+14.0―0.875
+15.0―0.9375
+16.0―1
+
+17.0―1.0625
+18.0―1.125
+19.0―1.1875
+20.0―1.25
+21.0―1.3125
+22.0―1.375
+23.0―1.4375
+24.0―1.5
+25.0―1.5625
+26.0―1.625
+27.0―1.6875
+28.0―1.75
+29.0―1.8125
+30.0―1.875
+31.0―1.9375
+32.0―2
+
+
+
+////////////////////////////////////////////////////////////
+EEEE, 北東南西
+E1
+00 EEERxx,
+01 EEECxx,
+02 EERExx,
+03 EERRxx,
+04 EERCxx,
+05 EECExx,
+06 EECRxx,
+07 EECCxx,
+08 EREExx,
+09 ERERxx,
+10 ERECxx,
+11 ERRExx,
+12 ERRRxx,
+13 ERRCxx,
+14 ERCExx,
+15 ERCRxxx,
+
+北東南西
+E2
+00 ERCCxx,
+01 ECEExx,
+02 ECERxx,
+03 ECECxx,
+04 ECRExx,
+05 ECRRxx,
+06 ECRCxx,
+07 ECCExx,
+08 ECCRxx,
+09 ECCCxx,
+10 REEExx,
+11 REERxx,
+12 REECxx,
+13 RERExx,
+14 RERRxx,
+15 RERCxx,
+
+北東南西
+R1
+00 RECExx,
+01 RECRxx,
+02 RECCxx,
+03 RREExx,
+04 RRERxx,
+05 RRECxx,
+06 RRRExx,
+07 RRRRxx,
+08 RRRCxx,
+09 RRCExx,
+10 RRCRxx,
+11 RRCCxx,
+12 RCEExx,
+13 RCERxx,
+14 RCECxx,
+15 RCRExx,
+
+北東南西
+R2
+00 RCRRxx,
+01 RCRCxx,
+02 RCCExx,
+03 RCCRxx,
+04 RCCCxx,
+05 CEEExx,
+06 CEERxx,
+07 CEECxx,
+08 CERExx,
+09 CERRxx,
+10 CERCxx,
+11 CECExx,
+12 CECRxx,
+13 CECCxx,
+14 CREExx,
+15 CRERxx,
+
+北東南西
+C
+00 CRECxx,
+01 CRRExx,
+02 CRRRxx,
+03 CRRCxx,
+04 CRCExx,
+05 CRCRxx,
+06 CRCCxx,
+07 CCEExx,
+08 CCERxx,
+09 CCECxx,
+10 CCRExx,
+11 CCRRxx,
+12 CCRCxx,
+13 CCCExx,
+14 CCCRxx,
+15 CCCCxx,
+
+
+
+////////////////////////////////////////////////////////////
+0土鍋なし-土鍋あり
+1薪土鍋なし-薪土鍋あり,
+
+2着火土鍋なし-強火土鍋あり,黒        17
+3強火土鍋なし-強火土鍋あり,半白        15.5
+4強火土鍋なし-強火土鍋あり,半黒        15.25
+5中火土鍋なし-中火土鍋あり,全黒       14.75
+6中火土鍋なし-中火土鍋あり,半黒 2.0 14.5
+7中火土鍋なし-中火土鍋あり,黒削 1.8 14.25
+
+8弱火土鍋なし-弱火土鍋あり,黒削 1.6 13
+9弱火土鍋なし-弱火土鍋あり,黒削 1.4 12.5
+10鎮火土鍋なし-鎮火土鍋あり
+
+
+
+////////////////////////////////////////////////////////////
+Tint Index, "tintindex": 30
+1=オーク
+2=マツ
+3=シラカバ
+4=ジャングル
+5=アカシア
+6=ダークオーク
+7=楓 226,66,31=14828063,
+8=枯れオーク 175,105,15=11495695
+#7cbd6b=7060860
+色が薄い桜と銀杏は Tint に不向きと判断
+
+9=鶸萌黄 130,174,70=8564294
+
+半透明は器の透過問題があるため断念。水に色を付けるのみ
+minecraft:block/water_still
+20=水 63,118,228=4159204
+21=生酒 190,225,240=12509680 白
+22=日本酒 140,190,210=9223890 黒
+23=熟成酒 170,90,90=11164250
+24=シードル 230,213,137=15127945
+25=熟成シードル 222,152,97=14588001
+26=ワイン 128,39,63=8398655
+27=熟成ワイン 87,53,58=5715258
+28=蜂蜜酒 210,230,200=13821640
+29=熟成蜂蜜酒 210,180,130=13808770
+
+30=日本茶 255,247,98=16775010
+31=紅茶 221,40,40=14493736
+32=味噌 240,170,70=15772230
+33=灰汁水 50,80,130=3297410
+34=甘酒 250,230220=16443100
+35=コーンスープ 250,225,100=16441700
+牛乳と出汁は Tint に不向きと判断
+
+40=塩田 100,130,210=6587090
+41=塩田 130,160,240=8560880
+
+////////////////////////////////////////////////////////////
+空鍋…水没後も空鍋でドロップ
+水入り鍋…水没後の描写は空鍋にする。ドロップは水入り鍋
+
+水桶・手水鉢…空が見える雨天で水位を増やす
+
+
+
+////////////////////////////////////////////////////////////
+経験値
+2…稲木
+
+1(取得時)…牛丼、カツ丼、親子丼、エッグバーグ、きのこAK、きのこパスタ、トマトパスタ、玉子焼き、パスタ麺、うどん麺
+海苔棚、熟成酒樽、もろみ樽、白菜漬け2、ワイン樽、蜂蜜酒樽、シードル樽、チーズカード
+
+1(加熱時)…お湯やかん、コーンスープ鍋、ご飯鍋、味噌汁鍋、鶏鍋、カレー鍋、シチュー鍋、甘酒鍋
+白菜漬け2、米酢樽、醤油樽
+
+
+
+////////////////////////////////////////////////////////////
+addItemBurnTime(map, Items.LAVA_BUCKET, 20000);
+addItemBurnTime(map, Blocks.COAL_BLOCK, 16000);
+addItemBurnTime(map, Items.BLAZE_ROD, 2400);
+addItemBurnTime(map, Items.COAL, 1600);
+addItemBurnTime(map, Items.CHARCOAL, 1600);
+addItemTagBurnTime(map, ItemTags.LOGS, 300);
+addItemTagBurnTime(map, ItemTags.PLANKS, 300);
+addItemTagBurnTime(map, ItemTags.WOODEN_STAIRS, 300);
+addItemTagBurnTime(map, ItemTags.WOODEN_SLABS, 150);
+addItemTagBurnTime(map, ItemTags.WOODEN_TRAPDOORS, 300);
+addItemTagBurnTime(map, ItemTags.WOODEN_PRESSURE_PLATES, 300);
+addItemTagBurnTime(map, net.minecraftforge.common.Tags.Items.FENCES_WOODEN, 300);
+addItemTagBurnTime(map, net.minecraftforge.common.Tags.Items.FENCE_GATES_WOODEN, 300);
+addItemBurnTime(map, Blocks.NOTE_BLOCK, 300);
+addItemBurnTime(map, Blocks.BOOKSHELF, 300);
+addItemBurnTime(map, Blocks.LECTERN, 300);
+addItemBurnTime(map, Blocks.JUKEBOX, 300);
+addItemBurnTime(map, Blocks.CHEST, 300);
+addItemBurnTime(map, Blocks.TRAPPED_CHEST, 300);
+addItemBurnTime(map, Blocks.CRAFTING_TABLE, 300);
+addItemBurnTime(map, Blocks.DAYLIGHT_DETECTOR, 300);
+addItemTagBurnTime(map, ItemTags.BANNERS, 300);
+addItemBurnTime(map, Items.BOW, 300);
+addItemBurnTime(map, Items.FISHING_ROD, 300);
+addItemBurnTime(map, Blocks.LADDER, 300);
+addItemTagBurnTime(map, ItemTags.SIGNS, 200);
+addItemBurnTime(map, Items.WOODEN_SHOVEL, 200);
+addItemBurnTime(map, Items.WOODEN_SWORD, 200);
+addItemBurnTime(map, Items.WOODEN_HOE, 200);
+addItemBurnTime(map, Items.WOODEN_AXE, 200);
+addItemBurnTime(map, Items.WOODEN_PICKAXE, 200);
+addItemTagBurnTime(map, ItemTags.WOODEN_DOORS, 200);
+addItemTagBurnTime(map, ItemTags.BOATS, 1200);
+addItemTagBurnTime(map, ItemTags.WOOL, 100);
+addItemTagBurnTime(map, ItemTags.WOODEN_BUTTONS, 100);
+addItemBurnTime(map, Items.STICK, 100);
+addItemTagBurnTime(map, ItemTags.SAPLINGS, 100);
+addItemBurnTime(map, Items.BOWL, 100);
+addItemTagBurnTime(map, ItemTags.CARPETS, 67);
+addItemBurnTime(map, Blocks.DRIED_KELP_BLOCK, 4001);
+addItemBurnTime(map, Items.CROSSBOW, 300);
+addItemBurnTime(map, Blocks.BAMBOO, 50);
+addItemBurnTime(map, Blocks.DEAD_BUSH, 100);
+addItemBurnTime(map, Blocks.SCAFFOLDING, 400);
+addItemBurnTime(map, Blocks.LOOM, 300);
+addItemBurnTime(map, Blocks.BARREL, 300);
+addItemBurnTime(map, Blocks.CARTOGRAPHY_TABLE, 300);
+addItemBurnTime(map, Blocks.FLETCHING_TABLE, 300);
+addItemBurnTime(map, Blocks.SMITHING_TABLE, 300);
+addItemBurnTime(map, Blocks.COMPOSTER, 300);
+
+////////////////////////////////////////////////////////////
+キャベツ1, とうもろこし1. 白菜1. たまねぎ4. 米1. 大豆2. ほうれん草1. トマト4
+
+////////////////////////////////////////////////////////////
+木の葉ドロップ 1.16.5
+{
+	"type": "minecraft:block",
+	"pools": [
+		{ "rolls": 1,
+			"entries": [ { "type": "minecraft:alternatives",
+
+					"children": [
+						{ "type": "minecraft:item",
+							"conditions": [ { "condition": "minecraft:alternative",
+								"terms": [ { "condition": "minecraft:match_tool", "predicate": { "item": "minecraft:shears" } },
+										{ "condition": "minecraft:match_tool", "predicate": { "enchantments": [ { "enchantment": "minecraft:silk_touch", "levels": { "min": 1 } } ] } } ] }
+							],
+							"name": "minecraft:oak_leaves" },
+
+						{ "type": "minecraft:item",
+							"conditions": [
+								{ "condition": "minecraft:survives_explosion" },
+								{ "condition": "minecraft:table_bonus",
+									"enchantment": "minecraft:fortune",
+									"chances": [
+										0.05,
+										0.0625,
+										0.083333336,
+										0.1 ] }
+							],
+							"name": "minecraft:oak_sapling" }
+					]
+				}
+			]
+		},
+
+		{ "rolls": 1,
+			"entries": [ { "type": "minecraft:item",
+					"conditions": [
+						{ "condition": "minecraft:table_bonus",
+							"enchantment": "minecraft:fortune",
+							"chances": [
+								0.02,
+								0.022222223,
+								0.025,
+								0.033333335,
+								0.1 ] } ],
+					"functions": [ { "function": "minecraft:set_count", "count": { "min": 1.0, "max": 2.0, "type": "minecraft:uniform" } }, { "function": "minecraft:explosion_decay" } ],
+					"name": "minecraft:stick" }
+			],
+			"conditions": [
+				{ "condition": "minecraft:inverted",
+					"term": { "condition": "minecraft:alternative",
+						"terms": [
+							{ "condition": "minecraft:match_tool", "predicate": { "item": "minecraft:shears" } },
+							{ "condition": "minecraft:match_tool", "predicate": { "enchantments": [ { "enchantment": "minecraft:silk_touch", "levels": { "min": 1 } } ] } }
+						]
+					}
+				}
+			]
+		},
+
+		{ "rolls": 1,
+			"entries": [ { "type": "minecraft:item",
+					"conditions": [
+						{ "condition": "minecraft:survives_explosion" },
+						{ "condition": "minecraft:table_bonus",
+							"enchantment": "minecraft:fortune",
+							"chances": [
+								0.005,
+								0.0055555557,
+								0.00625,
+								0.008333334,
+								0.025 ] }
+					],
+					"name": "minecraft:apple" }
+			],
+			"conditions": [
+				{ "condition": "minecraft:inverted",
+					"term": { "condition": "minecraft:alternative",
+						"terms": [
+							{ "condition": "minecraft:match_tool", "predicate": { "item": "minecraft:shears" } },
+							{ "condition": "minecraft:match_tool", "predicate": { "enchantments": [ { "enchantment": "minecraft:silk_touch", "levels": { "min": 1 } } ] } }
+						]
+					}
+				}
+			]
+		}
+	]
+}
+
+
+農作物ドロップ 1.16.5
+{
+	"type": "minecraft:block",
+	"pools": [
+		{ "rolls": 1,
+			"entries": [
+				{ "type": "minecraft:alternatives",
+					"children": [
+						{ "type": "minecraft:item",
+							"conditions": [ { "condition": "minecraft:block_state_property", "block": "minecraft:wheat", "properties": { "age": "7" } } ],
+							"name": "minecraft:wheat" },
+
+						{ "type": "minecraft:item", "name": "minecraft:wheat_seeds" }
+					]
+				}
+			]
+		},
+
+		{
+			"rolls": 1,
+			"entries": [ { "type": "minecraft:item",
+					"functions": [ { "function": "minecraft:apply_bonus", "enchantment": "minecraft:fortune",
+						"formula": "minecraft:binomial_with_bonus_count", "parameters": { "extra": 3, "probability": 0.5714286 } } ],
+					"conditions": [ { "condition": "minecraft:block_state_property", "block": "minecraft:wheat", "properties": { "age": "7" } } ],
+					"name": "minecraft:wheat_seeds" }
+			]
+		}
+	],
+	"functions": [ { "function": "minecraft:explosion_decay" } ]
+}
+
+////////////////////////////////////////////////////////////
+minecraft:aqua_affinity 水中採掘
+minecraft:blast_protection 爆発耐性 3
+minecraft:depth_strider 水中歩行 7
+minecraft:efficiency 効率強化
+minecraft:feather_falling 落下耐性 2
+minecraft:fire_aspect 火属性 13
+minecraft:fire_protection 火炎耐性 1
+minecraft:flame フレイム 21
+minecraft:knockback ノックバック 12
+minecraft:power 射撃ダメージ増加 19
+minecraft:protection ダメージ軽減 0
+minecraft:projectile_protection 飛び道具耐性 4
+minecraft:punch パンチ 49
+minecraft:respiration 水中呼吸 6
+minecraft:sharpness ダメージ増加
+minecraft:silk_touch シルクタッチ 16
+minecraft:unbreaking 耐久力 17
+
+////////////////////////////////////////////////////////////
+
+		
+////////////////////////////////////////////////////////////
+ttps://minecraft.fandom.com/wiki/Experience
+11…187
+☆12…216 文台を使えるレベル下限
+13…247
+
+18…441
+☆☆19…493
+20…550
+
+24…828
+☆☆☆25…910
+26…997
+
+主砲 : Basic +0.5 +1.0 +1.5
+艦載機 : Basic +1.0 +2.0 +3.0
+魚雷 : Basic +1.0 +2.0
+
+127 : Basic:3.0D, LV≧12:3.5D, LV≧19:4.0D, LV≧25:4.5D 修正後
+100 : Basic:3.5D, LV≧12:4.0D, LV≧19:4.5D, LV≧25:5.0D 修正後
+
+155 : Basic:4.5D, LV≧12:5.0D, LV≧19:5.5D, LV≧25:6.0D 修正後
+203 : Basic:5.0D, LV≧12:5.5D, LV≧19:6.0D, LV≧25:6.5D 修正後
+SKC : Basic:6.0D, LV≧12:6.5D, LV≧19:7.0D, LV≧25:7.5D 修正後
+
+356 : Basic:7.5D, LV≧12:8.0D, LV≧19:8.5D, LV≧25:9.0D ...+2.0=9.5 15 修正後
+S3 : Basic:9.0D, LV≧12:9.5D, LV≧19:10.0D, LV≧25:10.5D ...+2.0=11.0 18 修正後
+380 : Basic:8.0D, LV≧12:8.5D, LV≧19:9.0D, LV≧25:9.5D ...+2.5=10.5 17 修正後
+410 : Basic:9.0D, LV≧12:9.5D, LV≧19:10.0D, LV≧25:10.5D ...+3.0=12.0 20 修正後
+
+魚雷 : Basic:10.0F, LV≧12:11.0F, LV≧19:12.0F, LV≧25:13.0F 修正後
+
+Ju87 : Basic:9.0F, LV≧12:10.0F, LV≧19:11.0F, LV≧25:12.0F 修正後
+流星 : Basic:10.0F, LV≧12:11.0F, LV≧19:12.0F, LV≧25:13.0F 修正後
+SF : Basic:5.0F, LV≧12:6.0F, LV≧19:7.0F, LV≧25:8.0F 修正後
+TBF : Basic:11.0F, LV≧12:12.0F, LV≧19:13.0F, LV≧25:14.0F 修正後
+天山 : Basic:7.0F, LV≧12:8.0F, LV≧19:9.0F, LV≧25:10.0F 修正後
+97式 : Basic:5.0F, LV≧12:6.0F, LV≧19:7.0F, LV≧25:8.0F 修正後
+
+////////////////////////////////////////////////////////////
+海 タラ サケ
+   public static final RegistryKey<Biome> OCEAN = register("ocean");
+深海 タラ
+   public static final RegistryKey<Biome> DEEP_OCEAN = register("deep_ocean");
+ぬるい海 タラ 熱帯魚
+   public static final RegistryKey<Biome> LUKEWARM_OCEAN = register("lukewarm_ocean");
+ぬるい深海 タラ 熱帯魚
+   public static final RegistryKey<Biome> DEEP_LUKEWARM_OCEAN = register("deep_lukewarm_ocean");
+
+暖かい海 熱帯魚
+   public static final RegistryKey<Biome> WARM_OCEAN = register("warm_ocean");
+暖かい深海 熱帯魚
+   public static final RegistryKey<Biome> DEEP_WARM_OCEAN = register("deep_warm_ocean");
+
+河川 サケ
+   public static final RegistryKey<Biome> RIVER = register("river");
+冷たい海 タラ サケ
+   public static final RegistryKey<Biome> COLD_OCEAN = register("cold_ocean");
+冷たい深海 タラ サケ
+   public static final RegistryKey<Biome> DEEP_COLD_OCEAN = register("deep_cold_ocean");
+凍った海 サケ
+   public static final RegistryKey<Biome> FROZEN_OCEAN = register("frozen_ocean");
+凍った深海 サケ
+   public static final RegistryKey<Biome> DEEP_FROZEN_OCEAN = register("deep_frozen_ocean");
+
+////////////////////////////////////////////////////////////
+switch (direction) {
+case NORTH :
+default :
+
+	break;
+
+case SOUTH :
+
+	break;
+
+case EAST :
+
+	break;
+	
+case WEST :
+
+	break;
+} // direction
+
+switch (half) {
+case LOWER :
+default :
+
+	break;
+
+case UPPER :
+
+	break;
+} // LOWER-UPPER
+
+switch (i) {
+case 1 :
+default :
+
+	break;
+
+case 2 :
+
+	break;
+
+case 3 :
+
+	break;
+	
+case 4 :
+
+	break;
+} // STAGE_1_4
+
+switch (i) {
+case 0 :
+default :
+
+	break;
+
+case 1 :
+
+	break;
+
+case 2 :
+
+	break;
+	
+case 3 :
+
+	break;
+	
+case 4 :
+
+	break;
+
+case 5 :
+
+	break;
+	
+case 6 :
+
+	break;
+	
+case 7 :
+
+	break;
+
+case 8 :
+
+	break;
+	
+case 9 :
+
+	break;
+	
+case 10 :
+
+	break;
+	
+case 11 :
+
+	break;
+
+case 12 :
+
+	break;
+	
+case 13 :
+
+	break;
+
+case 14 :
+
+	break;
+
+case 15 :
+
+	break;
+} // STAGE_0_15
+
+
+/* 1ms=0.001, 10ms=0.01, 50ms=0.05=1tick */
+/* 1.ahead */
+try { 
+/* 2.delay */
+	TimeUnit.MILLISECONDS.sleep(10);
+}
+catch (Exception e) { /* 3.exception */ }
+
+
+
+
+{
+	"parent": "chinjufumod:block/rensouhou/127",
+...
+"firstperson_righthand": {
+	"rotation": [ 20, 187.5, -7.5 ],
+	"translation": [ -4.75, 1, 1 ],
+	"scale": [ 0.275, 0.275, 0.275 ]
+↓
+"firstperson_righthand": {
+	"rotation": [ 25, 187.5, -7.5 ],
+	"translation": [ -4.75, 1.5, 1 ],
+	"scale": [ 0.225, 0.225, 0.225 ]
+
+{
+	"parent": "chinjufumod:block/rensouhou/356",
+	"gui_light": "front", "display": {
+...
+"firstperson_righthand": {
+	"rotation": [ 25, 190, 90 ],
+	"translation": [ 6, 0, 6.2 ],
+	"scale": [ 0.45, 0.45, 0.45 ]
+↓
+"firstperson_righthand": {
+	"rotation": [ 25, 190, 90 ],
+	"translation": [ 6, 0, 5.2 ],
+	"scale": [ 0.4, 0.4, 0.4 ]
+
+, "render_type": "cutout",
+, "render_type": "translucent",
+
+牛乳→ミルク, マツ→トウヒ, 牛奶→奶
+"tag": "minecraft:carpets"→"tag": "minecraft:wool_carpets"
+
+"group": "cm_sweets",
+"group": "cm_school",
+"group": "cm_ranma",
+"group": "cm_slabhalf",
+"group": "cm_stairs",
+"group": "cm_seasonal",
+"group": "cm_jpblock",
+"group": "cm_taru",
+"group": "cm_alcohol",
+"group": "cm_food",
+"group": "cm_curry",
+"group": "cm_zundou",
+
+"group": "cm_helmet",
+"group": "cm_chestplate",
+"group": "cm_leggings",
+"group": "cm_boots",
+"group": "cm_bootskai",

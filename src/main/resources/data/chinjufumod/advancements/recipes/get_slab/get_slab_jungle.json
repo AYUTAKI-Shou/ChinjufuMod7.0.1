@@ -1,0 +1,38 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_dressingtable_j",
+			"chinjufumod:block_unitdesk_jungle",
+			"chinjufumod:block_cafetable_jungle",
+			"chinjufumod:block_diningchair_j",
+			"chinjufumod:block_bench_jun",
+			"chinjufumod:block_schoolchair_j",
+			"chinjufumod:block_schooldesk_j",
+			"chinjufumod:block_teacherdesk_j",
+			"chinjufumod:block_lowdesk_jungle",
+			
+			"chinjufumod:block_mizuoke",
+			
+			"chinjufumod:block_ranma_jun",
+			"chinjufumod:block_ranmab_jun",
+			"chinjufumod:block_ranmac_jun",
+			"chinjufumod:block_kanki_jun",
+			"chinjufumod:block_koushi_jun",
+			"chinjufumod:block_itabei_jungle",
+			"chinjufumod:block_kido_jungle"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["minecraft:jungle_slab"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

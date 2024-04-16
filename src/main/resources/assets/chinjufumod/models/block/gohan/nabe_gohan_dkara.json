@@ -1,0 +1,176 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/dish_usuki",
+ 		"gohan": "chinjufumod:block/food_gohan",
+		"nabe": "chinjufumod:block/dish_usuki",
+		"nabeshiki": "chinjufumod:block/dish_brown",
+		"shamoji": "chinjufumod:block/muku_spruce",
+		"sara": "chinjufumod:block/dish_white"
+	},
+	"elements": [
+
+		{
+			"name": "nabesoko_________________________futanashi_konro",
+			"from": [ 5, 0, 5 ],
+			"to": [ 11, 0.5, 11 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"north": { "texture": "#nabe" },
+				"south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabe_n1",
+			"from": [ 4, 0.5, 4 ],
+			"to": [ 12, 1, 5 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"north": { "texture": "#nabe" },
+				"south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabe_n2",
+			"from": [ 3.5, 1, 3.5 ],
+			"to": [ 12.5, 4, 4 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"north": { "texture": "#nabe" },
+				"south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabe_e1",
+			"from": [ 11, 0.5, 5 ],
+			"to": [ 12, 1, 11 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabe_e2",
+			"from": [ 12, 1, 4 ],
+			"to": [ 12.5, 4, 12 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabemimi_e",
+			"from": [ 12.5, 3.5, 6.5 ],
+			"to": [ 13, 4, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"north": { "texture": "#nabe" },
+				"south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabe_s1",
+			"from": [ 4, 0.5, 11 ],
+			"to": [ 12, 1, 12 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"north": { "texture": "#nabe" },
+				"south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabe_s2",
+			"from": [ 3.5, 1, 12 ],
+			"to": [ 12.5, 4, 12.5 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"north": { "texture": "#nabe" },
+				"south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabe_w1",
+			"from": [ 4, 0.5, 5 ],
+			"to": [ 5, 1, 11 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabe_w2",
+			"from": [ 3.5, 1, 4 ],
+			"to": [ 4, 4, 12 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabemimi_w______________________________________________________",
+			"from": [ 3, 3.5, 6.5 ],
+			"to": [ 3.5, 4, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"north": { "texture": "#nabe" },
+				"south": { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+
+		{
+			"name": "shamoji",
+			"from": [ 5, 1.0, 6.5 ],
+			"to": [ 9, 1.2, 9.5 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": false },
+			"faces": {
+				"up" : { "texture": "#shamoji" },
+				"down" : { "texture": "#shamoji" },
+				"north": { "texture": "#shamoji" },
+				"south": { "texture": "#shamoji" },
+				"east" : { "texture": "#shamoji" },
+				"west" : { "texture": "#shamoji" }
+			}
+		},
+		{
+			"name": "shamoji_e",
+			"from": [ 9, 1.0, 7.5 ],
+			"to": [ 13, 1.4, 8.5 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": false },
+			"faces": {
+				"up" : { "texture": "#shamoji" },
+				"down" : { "texture": "#shamoji" },
+				"north": { "texture": "#shamoji" },
+				"south": { "texture": "#shamoji" },
+				"east" : { "texture": "#shamoji" },
+				"west" : { "texture": "#shamoji" }
+			}
+		}
+	]
+}

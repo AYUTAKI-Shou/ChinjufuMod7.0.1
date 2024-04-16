@@ -1,0 +1,31 @@
+{
+	"parent": "chinjufumod:cm_story/season/get_4_sakura",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.season.get_5_tealeaf.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.season.get_5_tealeaf.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_chaba"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:item_chaba"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

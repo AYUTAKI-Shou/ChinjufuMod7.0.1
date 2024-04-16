@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_school",
+
+	"pattern": [
+		"YYY",
+		"XYX",
+		"X X"
+	],
+
+	"key": {
+		"X": { "tag": "forge:rods/wooden" },
+		"Y": { "item": "minecraft:birch_slab" }
+	},
+
+	"result": { "item": "chinjufumod:block_schooldesk_b", "count": 1 }
+}

@@ -1,0 +1,40 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_dressingtable",
+			"chinjufumod:block_unitdesk",
+			"chinjufumod:block_cafetable",
+			"chinjufumod:block_diningchair",
+			"chinjufumod:block_bench",
+			"chinjufumod:block_schoolchair",
+			"chinjufumod:block_schooldesk",
+			"chinjufumod:block_teacherdesk",
+			"chinjufumod:block_lowdesk",
+			
+			"chinjufumod:block_mizuoke",
+			
+			"chinjufumod:block_ranma_oak",
+			"chinjufumod:block_ranmab_oak",
+			"chinjufumod:block_ranmac_oak",
+			"chinjufumod:block_kanki_oak",
+			"chinjufumod:block_koushi_oak",
+			"chinjufumod:block_itabei",
+			"chinjufumod:block_kido",
+			
+			"chinjufumod:block_mendai"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["minecraft:oak_slab"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

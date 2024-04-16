@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:block/wallpanel/bamboo_y", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:block/wallpanel/bamboo_y" },
+		"facing=west,stage=1": { "model": "chinjufumod:block/wallpanel/bamboo_y_ew", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:block/wallpanel/bamboo_y_ew", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/wallpanel/bamboo_y_side", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:block/wallpanel/bamboo_y_side_ew" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/wallpanel/bamboo_y_side_ew", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:block/wallpanel/bamboo_y_side", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:block/wallpanel/bamboo_y_top_ew", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:block/wallpanel/bamboo_y_top" },
+		"facing=west,stage=3": { "model": "chinjufumod:block/wallpanel/bamboo_y_top_ew", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:block/wallpanel/bamboo_y_top", "y": 270 }
+	}
+}

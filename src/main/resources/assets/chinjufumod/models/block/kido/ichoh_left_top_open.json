@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/kido_left_top_open",
+	"textures": {
+		"particle": "chinjufumod:block/muku_ichoh",
+		"ita": "chinjufumod:block/muku_ichoh",
+		"totte": "chinjufumod:block/muku_oak"
+	}
+}

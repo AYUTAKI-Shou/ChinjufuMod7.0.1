@@ -1,0 +1,25 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_keikai",
+			"chinjufumod:block_chouzubachi_kara",
+			"chinjufumod:block_ishitourou_stone",
+			"chinjufumod:block_longtourou_stone",
+			
+			"chinjufumod:block_wp_stone"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["minecraft:stone"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_wall",
+
+	"pattern": [
+		"XXX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_plaster_yellow" }
+	},
+
+	"result": { "item": "chinjufumod:block_pwall_yellow", "count": 12 }
+}

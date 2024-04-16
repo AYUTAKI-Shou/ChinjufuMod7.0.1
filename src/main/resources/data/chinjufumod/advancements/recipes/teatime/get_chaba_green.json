@@ -1,0 +1,27 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_tea_chadutsu",
+			"chinjufumod:block_food_kyusu_1",
+			
+			"chinjufumod:block_taru_koucha_f",
+			
+			"chinjufumod:item_food_choco_greentea",
+			"chinjufumod:block_watagashi_green",
+			"chinjufumod:block_kakigouri_green1"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:item_chaba_green"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

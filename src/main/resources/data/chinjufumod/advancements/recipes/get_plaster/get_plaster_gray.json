@@ -1,0 +1,27 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_pst_gray",
+			"chinjufumod:block_psh_gray",
+			"chinjufumod:block_pwall_gray",
+			"chinjufumod:block_sama_gray",
+			"chinjufumod:block_wp_plaster_gray",
+			
+			"chinjufumod:block_namako_gray",
+			"chinjufumod:block_namako_b_gray"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_plaster_gray"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

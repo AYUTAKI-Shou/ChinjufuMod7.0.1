@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_boxh",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": [ { "tag": "forge:crops/citrus" }, { "tag": "forge:crops/orange" },
+				{ "tag": "forge:fruits/citrus" }, { "tag": "forge:fruits/orange" } ],
+		"Y": { "item": "chinjufumod:block_boxh_empty" }
+	},
+
+	"result": { "item": "chinjufumod:block_boxh_citrus", "count": 1 }
+}

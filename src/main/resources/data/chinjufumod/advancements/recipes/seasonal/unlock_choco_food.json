@@ -1,0 +1,26 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:item_food_choco",
+			"chinjufumod:item_food_choco_apple",
+			"chinjufumod:item_food_choco_cherry",
+			"chinjufumod:item_food_choco_grape",
+			"chinjufumod:item_food_choco_greentea",
+			"chinjufumod:item_food_choco_heart",
+			"chinjufumod:item_food_chestnutchoco"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:item_choco_raw"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

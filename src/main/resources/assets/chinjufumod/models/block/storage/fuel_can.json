@@ -1,0 +1,63 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/oildrum_side",
+		"top": "chinjufumod:block/oildrum_top",
+		"bottom": "chinjufumod:block/oildrum_bottom",
+		"side": "chinjufumod:block/oildrum_side",
+		"inside": "chinjufumod:block/oildrum_top"
+	},
+	"elements": [
+		{ "from": [ 2, 1, 2 ],
+			"to": [ 14, 15, 14 ],
+			"faces": {
+				"down": { "texture": "#bottom" },
+				"up": { "texture": "#inside" }
+			}
+		},
+		{ "from": [ 1, 0, 1 ],
+			"to": [ 15, 16, 2 ],
+			"faces": {
+				"down": { "texture": "#bottom" },
+				"up": { "texture": "#top" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		},
+		{ "from": [ 14, 0, 2 ],
+			"to": [ 15, 16, 14 ],
+			"faces": {
+				"down": { "texture": "#bottom" },
+				"up": { "texture": "#top" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		},
+		{ "from": [ 1, 0, 14 ],
+			"to": [ 15, 16, 15 ],
+			"faces": {
+				"down": { "texture": "#bottom" },
+				"up": { "texture": "#top" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		},
+		{ "from": [ 1, 0, 2 ],
+			"to": [ 2, 16, 14 ],
+			"faces": {
+				"down": { "texture": "#bottom" },
+				"up": { "texture": "#top" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		}
+	]
+}

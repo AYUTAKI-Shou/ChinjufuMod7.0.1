@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "chinjufumod:item_claykawara"
+	},
+	"result": "chinjufumod:block_kawara_black",
+	"experience": 0.5,
+	"cookingtime": 200
+}

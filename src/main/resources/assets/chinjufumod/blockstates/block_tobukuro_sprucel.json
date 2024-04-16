@@ -1,0 +1,53 @@
+{
+	"variants": {
+		"facing=north,half=lower,stage=1": { "model": "chinjufumod:block/amado/tobukuro_spruce_botl1", "y": 180 },
+		"facing=south,half=lower,stage=1": { "model": "chinjufumod:block/amado/tobukuro_spruce_botl1" },
+		"facing=west,half=lower,stage=1": { "model": "chinjufumod:block/amado/tobukuro_spruce_botl1", "y": 90 },
+		"facing=east,half=lower,stage=1": { "model": "chinjufumod:block/amado/tobukuro_spruce_botl1", "y": 270 },
+
+		"facing=north,half=lower,stage=2": { "model": "chinjufumod:block/amado/tobukuro_spruce_botl2", "y": 180 },
+		"facing=south,half=lower,stage=2": { "model": "chinjufumod:block/amado/tobukuro_spruce_botl2" },
+		"facing=west,half=lower,stage=2": { "model": "chinjufumod:block/amado/tobukuro_spruce_botl2", "y": 90 },
+		"facing=east,half=lower,stage=2": { "model": "chinjufumod:block/amado/tobukuro_spruce_botl2", "y": 270 },
+
+		"facing=north,half=lower,stage=3": { "model": "chinjufumod:block/amado/tobukuro_spruce_botl3", "y": 180 },
+		"facing=south,half=lower,stage=3": { "model": "chinjufumod:block/amado/tobukuro_spruce_botl3" },
+		"facing=west,half=lower,stage=3": { "model": "chinjufumod:block/amado/tobukuro_spruce_botl3", "y": 90 },
+		"facing=east,half=lower,stage=3": { "model": "chinjufumod:block/amado/tobukuro_spruce_botl3", "y": 270 },
+
+		"facing=north,half=lower,stage=4": { "model": "chinjufumod:block/amado/tobukuro_spruce_botl4", "y": 180 },
+		"facing=south,half=lower,stage=4": { "model": "chinjufumod:block/amado/tobukuro_spruce_botl4" },
+		"facing=west,half=lower,stage=4": { "model": "chinjufumod:block/amado/tobukuro_spruce_botl4", "y": 90 },
+		"facing=east,half=lower,stage=4": { "model": "chinjufumod:block/amado/tobukuro_spruce_botl4", "y": 270 },
+
+		"facing=north,half=lower,stage=5": { "model": "chinjufumod:block/amado/tobukuro_spruce_botl5", "y": 180 },
+		"facing=south,half=lower,stage=5": { "model": "chinjufumod:block/amado/tobukuro_spruce_botl5" },
+		"facing=west,half=lower,stage=5": { "model": "chinjufumod:block/amado/tobukuro_spruce_botl5", "y": 90 },
+		"facing=east,half=lower,stage=5": { "model": "chinjufumod:block/amado/tobukuro_spruce_botl5", "y": 270 },
+
+		"facing=north,half=upper,stage=1": { "model": "chinjufumod:block/amado/tobukuro_spruce_topl1", "y": 180 },
+		"facing=south,half=upper,stage=1": { "model": "chinjufumod:block/amado/tobukuro_spruce_topl1" },
+		"facing=west,half=upper,stage=1": { "model": "chinjufumod:block/amado/tobukuro_spruce_topl1", "y": 90 },
+		"facing=east,half=upper,stage=1": { "model": "chinjufumod:block/amado/tobukuro_spruce_topl1", "y": 270 },
+
+		"facing=north,half=upper,stage=2": { "model": "chinjufumod:block/amado/tobukuro_spruce_topl2", "y": 180 },
+		"facing=south,half=upper,stage=2": { "model": "chinjufumod:block/amado/tobukuro_spruce_topl2" },
+		"facing=west,half=upper,stage=2": { "model": "chinjufumod:block/amado/tobukuro_spruce_topl2", "y": 90 },
+		"facing=east,half=upper,stage=2": { "model": "chinjufumod:block/amado/tobukuro_spruce_topl2", "y": 270 },
+
+		"facing=north,half=upper,stage=3": { "model": "chinjufumod:block/amado/tobukuro_spruce_topl3", "y": 180 },
+		"facing=south,half=upper,stage=3": { "model": "chinjufumod:block/amado/tobukuro_spruce_topl3" },
+		"facing=west,half=upper,stage=3": { "model": "chinjufumod:block/amado/tobukuro_spruce_topl3", "y": 90 },
+		"facing=east,half=upper,stage=3": { "model": "chinjufumod:block/amado/tobukuro_spruce_topl3", "y": 270 },
+
+		"facing=north,half=upper,stage=4": { "model": "chinjufumod:block/amado/tobukuro_spruce_topl4", "y": 180 },
+		"facing=south,half=upper,stage=4": { "model": "chinjufumod:block/amado/tobukuro_spruce_topl4" },
+		"facing=west,half=upper,stage=4": { "model": "chinjufumod:block/amado/tobukuro_spruce_topl4", "y": 90 },
+		"facing=east,half=upper,stage=4": { "model": "chinjufumod:block/amado/tobukuro_spruce_topl4", "y": 270 },
+
+		"facing=north,half=upper,stage=5": { "model": "chinjufumod:block/amado/tobukuro_spruce_topl5", "y": 180 },
+		"facing=south,half=upper,stage=5": { "model": "chinjufumod:block/amado/tobukuro_spruce_topl5" },
+		"facing=west,half=upper,stage=5": { "model": "chinjufumod:block/amado/tobukuro_spruce_topl5", "y": 90 },
+		"facing=east,half=upper,stage=5": { "model": "chinjufumod:block/amado/tobukuro_spruce_topl5", "y": 270 }
+	}
+}

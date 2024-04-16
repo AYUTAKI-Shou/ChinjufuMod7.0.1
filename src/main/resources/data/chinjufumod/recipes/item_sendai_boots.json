@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_boots",
+
+	"ingredients": [
+		{ "item": "minecraft:iron_boots" },
+		{ "tag": "forge:dyes/orange" },
+		{ "item": "chinjufumod:item_workorder" },
+		{ "item": "minecraft:coal" },
+		{ "item": "chinjufumod:item_ammunition_kc" }
+	],
+
+	"result": { "item": "chinjufumod:item_sendai_boots", "count": 1 }
+}

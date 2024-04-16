@@ -1,0 +1,33 @@
+{
+	"parent": "chinjufumod:cm_story/taru/get_wine",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.taru.get_wineglass.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.taru.get_wineglass.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_glass_wine"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": [
+				"chinjufumod:block_glass_wine",
+				"chinjufumod:block_glass_winejuku"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience":5 }
+}

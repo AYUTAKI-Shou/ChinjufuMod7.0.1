@@ -1,0 +1,21 @@
+{
+	"variants": {
+		"half=lower,stage=1" : [ { "model" : "chinjufumod:block/kanyou/oak_bot", "y": 0 },
+			{ "model" : "chinjufumod:block/kanyou/oak_bot", "y": 90 },
+			{ "model" : "chinjufumod:block/kanyou/oak_bot", "y": 180 },
+			{ "model" : "chinjufumod:block/kanyou/oak_bot", "y": 270 } ],
+		"half=upper,stage=1" : [ { "model": "chinjufumod:block/kanyou/oak_top", "y": 0 },
+			{ "model": "chinjufumod:block/kanyou/oak_top", "y": 90 },
+			{ "model": "chinjufumod:block/kanyou/oak_top", "y": 180 },
+			{ "model": "chinjufumod:block/kanyou/oak_top", "y": 270 } ],
+			
+		"half=lower,stage=2" : [ { "model" : "chinjufumod:block/kanyou/oak2_bot", "y": 0 },
+			{ "model" : "chinjufumod:block/kanyou/oak2_bot", "y": 90 },
+			{ "model" : "chinjufumod:block/kanyou/oak2_bot", "y": 180 },
+			{ "model" : "chinjufumod:block/kanyou/oak2_bot", "y": 270 } ],
+		"half=upper,stage=2" : [ { "model": "chinjufumod:block/kanyou/oak2_top", "y": 0 },
+			{ "model": "chinjufumod:block/kanyou/oak2_top", "y": 90 },
+			{ "model": "chinjufumod:block/kanyou/oak2_top", "y": 180 },
+			{ "model": "chinjufumod:block/kanyou/oak2_top", "y": 270 } ]
+	}
+}

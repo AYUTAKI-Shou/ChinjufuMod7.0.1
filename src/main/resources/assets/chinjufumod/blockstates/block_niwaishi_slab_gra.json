@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:block/niwaishi/slab_granite_0" },
+		"stage=1": { "model": "chinjufumod:block/niwaishi/slab_granite_0", "y": 90},
+		"stage=2": { "model": "chinjufumod:block/niwaishi/slab_granite_2" },
+		"stage=3": { "model": "chinjufumod:block/niwaishi/slab_granite_2", "y": 90 },
+		"stage=4": { "model": "chinjufumod:block/niwaishi/slab_granite_4" },
+		"stage=5": { "model": "chinjufumod:block/niwaishi/slab_granite_4", "y": 90 },
+		"stage=6": { "model": "chinjufumod:block/niwaishi/slab_granite_6" },
+		"stage=7": { "model": "chinjufumod:block/niwaishi/slab_granite_6", "y": 90 },
+		"stage=8": { "model": "chinjufumod:block/niwaishi/slab_granite_8" },
+		"stage=9": { "model": "chinjufumod:block/niwaishi/slab_granite_8", "y": 90 },
+		"stage=10": { "model": "chinjufumod:block/niwaishi/slab_granite_a" },
+		"stage=11": { "model": "chinjufumod:block/niwaishi/slab_granite_a", "y": 90 },
+		"stage=12": { "model": "chinjufumod:block/niwaishi/slab_granite_c" },
+		"stage=13": { "model": "chinjufumod:block/niwaishi/slab_granite_c", "y": 90 },
+		"stage=14": { "model": "chinjufumod:block/niwaishi/slab_granite_e" },
+		"stage=15": { "model": "chinjufumod:block/niwaishi/slab_granite_e", "y": 90 }
+	}
+}

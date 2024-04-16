@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_hou",
+
+	"ingredients": [
+		{ "tag": "forge:dyes/black" },
+		{ "item": "minecraft:coal" },
+		{ "tag": "forge:ingots/iron" },
+		{ "tag": "forge:ingots/iron" },
+		{ "item": "chinjufumod:item_workorder" },
+		{ "item": "chinjufumod:item_ammunition_kc" },
+		{ "item": "chinjufumod:item_ammunition_kc" },
+		[ { "tag": "forge:ingots/aluminum" }, { "tag": "forge:ingots/aluminium" } ]
+	],
+
+	"result": { "item": "chinjufumod:item_rensouhou380", "count": 1 }
+}

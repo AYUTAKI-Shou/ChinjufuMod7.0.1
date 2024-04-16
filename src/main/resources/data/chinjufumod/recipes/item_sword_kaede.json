@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_sword",
+
+	"pattern": [
+		"X ",
+		"X ",
+		"YZ"
+	],
+
+	"key": {
+		"X": { "tag": "forge:planks/acer" },
+		"Y": { "tag": "forge:rods/wooden" },
+		"Z": { "item": "chinjufumod:item_workorder" }
+	},
+
+	"result": { "item": "chinjufumod:item_sword_kaede", "count": 1 }
+}

@@ -1,0 +1,15 @@
+{
+	"variants": {
+		"down=false,stage=1": { "model": "chinjufumod:block/pizza/pizza_1" },
+		"down=false,stage=2": { "model": "chinjufumod:block/pizza/pizza_2" },
+		"down=false,stage=3": { "model": "chinjufumod:block/pizza/pizza_3" },
+		"down=false,stage=4": { "model": "chinjufumod:block/pizza/pizza_4" },
+		"down=false,stage=5": { "model": "chinjufumod:block/pizza/pizza_kara" },
+
+		"down=true,stage=1": { "model": "chinjufumod:block/pizza/pizza_down1" },
+		"down=true,stage=2": { "model": "chinjufumod:block/pizza/pizza_down2" },
+		"down=true,stage=3": { "model": "chinjufumod:block/pizza/pizza_down3" },
+		"down=true,stage=4": { "model": "chinjufumod:block/pizza/pizza_down4" },
+		"down=true,stage=5": { "model": "chinjufumod:block/pizza/pizza_downkara" }
+	}
+}

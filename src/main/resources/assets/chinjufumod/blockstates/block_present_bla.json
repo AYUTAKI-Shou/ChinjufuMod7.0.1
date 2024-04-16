@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "chinjufumod:block/season/present_bla", "y": 180 },
+		"facing=south": { "model": "chinjufumod:block/season/present_bla", "y": 0 },
+		"facing=west": { "model": "chinjufumod:block/season/present_bla", "y": 90 },
+		"facing=east": { "model": "chinjufumod:block/season/present_bla", "y": 270 }
+	}
+}
