@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/boxbh_bot",
+	"textures": {
+		"particle": "chinjufumod:block/box_b_bottom",
+		"bottom": "chinjufumod:block/box_b_bottom",
+		"side": "chinjufumod:block/box_b_side",
+		"inside": "chinjufumod:block/box_fish"
+	}
+}

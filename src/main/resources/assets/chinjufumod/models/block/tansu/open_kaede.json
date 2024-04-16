@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/tansuopen",
+	"textures": {
+		"particle": "chinjufumod:block/tansu_kaede_front",
+		"front": "chinjufumod:block/tansu_kaede_front",
+		"side": "chinjufumod:block/tansu_kaede_side",
+		"inside": "chinjufumod:block/tansu_kaede_inside"
+	}
+}

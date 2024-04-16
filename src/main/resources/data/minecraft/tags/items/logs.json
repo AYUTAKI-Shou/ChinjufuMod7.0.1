@@ -1,0 +1,18 @@
+{
+	"replace": false,
+	"values": [
+		"chinjufumod:block_tree_sakura_log",
+		"chinjufumod:block_tree_kaede_log",
+		"chinjufumod:block_tree_ichoh_log",
+
+		"chinjufumod:block_pillar_oak_c",
+		"chinjufumod:block_pillar_spru_c",
+		"chinjufumod:block_pillar_bir_c",
+		"chinjufumod:block_pillar_jun_c",
+		"chinjufumod:block_pillar_aca_c",
+		"chinjufumod:block_pillar_doak_c",
+		"chinjufumod:block_pillar_sakura",
+		"chinjufumod:block_pillar_kaede",
+		"chinjufumod:block_pillar_ichoh"
+	]
+}

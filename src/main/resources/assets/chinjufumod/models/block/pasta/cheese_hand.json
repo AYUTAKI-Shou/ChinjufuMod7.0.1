@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/pastasauce_hand",
+	"textures": {
+		"particle": "chinjufumod:block/dish_white",
+		"sara": "chinjufumod:block/dish_white",
+		"pasta": "chinjufumod:block/cheese_pasta",
+		"sauce": "chinjufumod:block/cheese_sauce"
+	}
+}

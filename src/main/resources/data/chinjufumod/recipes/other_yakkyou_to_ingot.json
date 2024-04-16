@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_ammu",
+
+	"pattern": [
+		"XXX",
+		"XXX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:item_cartridge_kc" }
+	},
+
+	"result": { "item": "minecraft:iron_ingot", "count": 1 }
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_santa",
+
+	"pattern": [
+		"XXX",
+		"X X",
+		"Y Y"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:red_carpet" },
+		"Y": { "item": "minecraft:white_carpet" }
+	},
+
+	"result": { "item": "chinjufumod:item_santattk_leggings", "count": 1 }
+}

@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"facing=north,type=bottom": { "model": "chinjufumod:block/storage/copper" },
+		"facing=south,type=bottom": { "model": "chinjufumod:block/storage/copper" },
+		"facing=west,type=bottom": { "model": "chinjufumod:block/storage/copper_we", "y": 90 },
+		"facing=east,type=bottom": { "model": "chinjufumod:block/storage/copper_we", "y": 90 },
+
+		"facing=north,type=double": { "model": "chinjufumod:block/storage/copperw" },
+		"facing=south,type=double": { "model": "chinjufumod:block/storage/copperw" },
+		"facing=west,type=double": { "model": "chinjufumod:block/storage/copperw_we", "y": 90 },
+		"facing=east,type=double": { "model": "chinjufumod:block/storage/copperw_we", "y": 90 }
+	}
+}

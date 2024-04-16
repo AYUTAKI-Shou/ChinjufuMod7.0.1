@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_kitchen",
+
+	"ingredients": [
+		{ "tag": "forge:dyes/black" },
+		{ "item": "minecraft:furnace" },
+		{ "item": "chinjufumod:block_steel_block" }
+	],
+
+	"result": { "item": "chinjufumod:block_kit_oven_black", "count": 1 }
+}

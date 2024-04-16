@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_alcohol",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_shubo" },
+		{ "item": "chinjufumod:item_komekouji" },
+		{ "item": "chinjufumod:item_mushigome" },
+		{ "tag": "forge:buckets/water" },
+		{ "item": "chinjufumod:block_taru_hakkou" }
+	],
+
+	"result": { "item": "chinjufumod:block_taru_moromi_f", "count": 1 }
+}

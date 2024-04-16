@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_ammu",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_cartridge_kijyuu" },
+		{ "item": "chinjufumod:item_cartridge_kijyuu" },
+		{ "item": "chinjufumod:item_cartridge_kijyuu" }
+	],
+
+	"result": { "item": "chinjufumod:item_cartridge_small", "count": 1 }
+}

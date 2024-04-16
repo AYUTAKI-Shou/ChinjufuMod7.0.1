@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_sweets",
+
+	"ingredients": [
+		{ "tag": "forge:sugar" },
+		{ "item": "minecraft:ice" },
+		[ {"tag": "forge:crops/cherry" }, {"tag": "forge:fruits/cherry" } ],
+		{ "item": "chinjufumod:item_food_driglass" }
+	],
+
+	"result": { "item": "chinjufumod:block_kakigouri_pink1", "count" : 1 }
+}

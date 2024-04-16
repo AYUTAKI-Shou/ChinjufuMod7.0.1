@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:block/item_toami",
+	"display": {
+		"gui": {
+			"rotation": [ 30, -45, 70 ],
+			"translation": [ 0, 1, 0 ],
+			"scale": [ 0.125, 1.0, 0.125 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 70, 0, 0 ],
+			"translation": [ 0, -2.5, -4 ],
+			"scale": [ 0.125, 1.0, 0.125 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ -2.5, -1.5, 5 ],
+			"scale": [ 0.125, 1.0, 0.125 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 6, 0.01 ],
+			"scale": [ 0.125, 1.0, 0.125 ]
+		},
+		"ground": {
+			"rotation": [ -40, 45, 0 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 1.25, 1.25, 1.25 ]
+		}
+	}
+}

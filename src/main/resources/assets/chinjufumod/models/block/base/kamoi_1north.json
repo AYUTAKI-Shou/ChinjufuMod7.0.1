@@ -1,0 +1,18 @@
+{
+	"parent": "block/block",
+	"elements":[
+		{
+			"name": "ki",
+			"from": [ 0.0, 0.0, 0.0 ],
+			"to": [ 16.0, 8.0, 16.0 ],
+			"faces": {
+				"up" : { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#ki_inside", "rotation": 180 },
+				"down" : { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#ki", "rotation": 180 },
+				"north": { "uv": [ 0.0, 0.0, 16.0, 8.0 ], "texture": "#ki_top", "rotation": 180 },
+				"south": { "uv": [ 0.0, 8.0, 16.0, 16.0 ], "texture": "#ki_top" },
+				"east" : { "uv": [ 8.0, 0.0, 16.0, 16.0 ], "texture": "#ki", "rotation": 90 },
+				"west" : { "uv": [ 0.0, 0.0, 8.0, 16.0 ], "texture": "#ki", "rotation": 270 }
+			}
+		}
+	]
+}

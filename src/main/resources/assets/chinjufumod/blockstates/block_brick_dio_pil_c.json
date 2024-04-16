@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"axis=y": { "model": "chinjufumod:block/brick/pillar_diorite" },
+		"axis=z": { "model": "chinjufumod:block/brick/pillar_diorite", "x": 90 },
+		"axis=x": { "model": "chinjufumod:block/brick/pillar_diorite", "x": 90, "y": 90 }
+	}
+}

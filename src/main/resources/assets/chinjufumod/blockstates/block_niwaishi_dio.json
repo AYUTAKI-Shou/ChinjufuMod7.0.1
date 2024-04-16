@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:block/niwaishi/diorite_0" },
+		"stage=1": { "model": "chinjufumod:block/niwaishi/diorite_1" },
+		"stage=2": { "model": "chinjufumod:block/niwaishi/diorite_2" },
+		"stage=3": { "model": "chinjufumod:block/niwaishi/diorite_3" },
+		"stage=4": { "model": "chinjufumod:block/niwaishi/diorite_4" },
+		"stage=5": { "model": "chinjufumod:block/niwaishi/diorite_5" },
+		"stage=6": { "model": "chinjufumod:block/niwaishi/diorite_6" },
+		"stage=7": { "model": "chinjufumod:block/niwaishi/diorite_7" },
+		"stage=8": { "model": "chinjufumod:block/niwaishi/diorite_8" },
+		"stage=9": { "model": "chinjufumod:block/niwaishi/diorite_9" },
+		"stage=10": { "model": "chinjufumod:block/niwaishi/diorite_a" },
+		"stage=11": { "model": "chinjufumod:block/niwaishi/diorite_b" },
+		"stage=12": { "model": "chinjufumod:block/niwaishi/diorite_c" },
+		"stage=13": { "model": "chinjufumod:block/niwaishi/diorite_d" },
+		"stage=14": { "model": "chinjufumod:block/niwaishi/diorite_e" },
+		"stage=15": { "model": "chinjufumod:block/niwaishi/diorite_f" }
+	}
+}

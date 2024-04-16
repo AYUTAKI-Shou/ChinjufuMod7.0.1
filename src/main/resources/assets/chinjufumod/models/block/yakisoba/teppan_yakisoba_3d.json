@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/teppan_yakisoba_3d",
+	"textures": {
+		"particle": "chinjufumod:block/yakisoba_raw",
+		"soba": "chinjufumod:block/yakisoba_raw",
+		"kote": "chinjufumod:block/dish_lightg"
+	}
+}

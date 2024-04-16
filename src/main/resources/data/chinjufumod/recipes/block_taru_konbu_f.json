@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_taru",
+
+	"ingredients": [
+		{ "item": "minecraft:kelp" },
+		{ "item": "minecraft:kelp" },
+		{ "item": "minecraft:kelp" },
+		{ "item": "minecraft:kelp" },
+		{ "item": "chinjufumod:block_taru_hakkou" }
+	],
+
+	"result": { "item": "chinjufumod:block_taru_konbu_f", "count": 1 }
+}

@@ -1,0 +1,32 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/toufu",
+		"ha": "chinjufumod:block/shida",
+		"toufu": "chinjufumod:block/toufu"
+	},
+	"elements": [
+		{
+			"name": "toufu",
+			"from": [ 6.5, 0.03, 6.5 ],
+			"to": [ 9.5, 2.0, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#toufu" },
+				"down" : { "texture": "#toufu" },
+				"north": { "texture": "#toufu" },
+				"south": { "texture": "#toufu" },
+				"east" : { "texture": "#toufu" },
+				"west" : { "texture": "#toufu" }
+			}
+		},
+		{
+			"name": "ha",
+			"from": [ 4, 0.01, 4 ],
+			"to": [ 12, 0.02, 12 ],
+			"faces": {
+				"up" : { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#ha" },
+				"down" : { "uv": [ 0.0, 16.0, 16.0, 0.0 ], "texture": "#ha" }
+			}
+		}
+	]
+}

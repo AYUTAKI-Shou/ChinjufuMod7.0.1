@@ -1,0 +1,12 @@
+{
+	"parent": "chinjufumod:block/base/andon_lit",
+	"textures": {
+		"particle": "chinjufumod:block/andon_white",
+		"waku": "chinjufumod:block/muku_bigoak",
+		"kami": "chinjufumod:block/andon_white",
+		"sara": "chinjufumod:block/dish_usuki",
+		"abura": "chinjufumod:block/soyoil_still",
+		"akari": "chinjufumod:block/andon_shin",
+		"honou": "chinjufumod:block/honou_layer_0"
+	 }
+}

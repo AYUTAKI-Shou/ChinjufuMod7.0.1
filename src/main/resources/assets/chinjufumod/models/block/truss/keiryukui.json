@@ -1,0 +1,35 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/iron_long_red",
+		"top": "chinjufumod:block/iron_long_red",
+		"side": "chinjufumod:block/iron_side_red"
+	},
+	"elements": [
+		{
+			"name": "ashi",
+			"from": [ 3, 0, 0 ],
+			"to": [ 13, 11, 7 ],
+			"faces": {
+				"down": { "texture": "#top", "cullface": "down" },
+				"up": { "texture": "#top" },
+				"north": { "texture": "#top" },
+				"south": { "texture": "#top" },
+				"west": { "texture": "#top" },
+				"east": { "texture": "#top" }
+			}
+		},
+		{
+			"name": "atama",
+			"from": [ 3, 6, 7 ],
+			"to": [ 13, 11, 12 ],
+			"faces": {
+				"down": { "texture": "#top" },
+				"up": { "texture": "#top" },
+				"south": { "texture": "#top" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		}
+	]
+}

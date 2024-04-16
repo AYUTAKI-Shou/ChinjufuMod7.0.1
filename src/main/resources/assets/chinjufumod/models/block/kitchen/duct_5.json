@@ -1,0 +1,111 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/haiki_duct",
+		"long": "chinjufumod:block/haiki_duct"
+	},
+	"elements": [
+		{
+			"name": "up_1",
+			"from": [ 15, 15, 0 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"down": { "texture": "#long" },
+				"west": { "texture": "#long" }
+			}
+		},
+		{
+			"name": "up_2",
+			"from": [ 0, 15, 0 ],
+			"to": [ 1, 16, 16 ],
+			"faces": {
+				"down": { "texture": "#long" },
+				"east": { "texture": "#long" }
+			}
+		},
+		{
+			"name": "up_3",
+			"from": [ 1, 15, 15 ],
+			"to": [ 15, 16, 16 ],
+			"faces": {
+				"down": { "texture": "#long" },
+				"north": { "texture": "#long" }
+			}
+		},
+		{
+			"name": "up_4",
+			"from": [ 1, 15, 0 ],
+			"to": [ 15, 16, 1 ],
+			"faces": {
+				"down": { "texture": "#long" },
+				"south": { "texture": "#long" }
+			}
+		},
+
+		{
+			"name": "down_1",
+			"from": [ 15, 0, 0 ],
+			"to": [ 16, 1, 16 ],
+			"faces": {
+				"up": { "texture": "#long" },
+				"west": { "texture": "#long" }
+			}
+		},
+		{
+			"name": "down_2",
+			"from": [ 0, 0, 0 ],
+			"to": [ 1, 1, 16 ],
+			"faces": {
+				"up": { "texture": "#long" },
+				"east": { "texture": "#long" }
+			}
+		},
+		{
+			"name": "down_3",
+			"from": [ 1, 0, 15 ],
+			"to": [ 15, 1, 16 ],
+			"faces": {
+				"up": { "texture": "#long" },
+				"north": { "texture": "#long" }
+			}
+		},
+		{
+			"name": "down_4",
+			"from": [ 1, 0, 0 ],
+			"to": [ 15, 1, 1 ],
+			"faces": {
+				"up": { "texture": "#long" },
+				"south": { "texture": "#long" }
+			}
+		},
+
+		{
+			"name": "mid_1",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 1 ],
+			"faces": {
+				"south": { "texture": "#long" },
+				"north": { "texture": "#long" }
+			}
+		},
+
+		{
+			"name": "mid_3",
+			"from": [ 0, 1, 15 ],
+			"to": [ 1, 15, 16 ],
+			"faces": {
+				"east": { "texture": "#long" },
+				"north": { "texture": "#long" }
+			}
+		},
+		{
+			"name": "mid_4",
+			"from": [ 15, 1, 15 ],
+			"to": [ 16, 15, 16 ],
+			"faces": {
+				"west": { "texture": "#long" },
+				"north": { "texture": "#long" }
+			}
+		}
+	]
+}

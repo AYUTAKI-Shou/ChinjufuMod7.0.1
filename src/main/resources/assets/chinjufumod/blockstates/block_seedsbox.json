@@ -1,0 +1,8 @@
+{
+ "variants": {
+	"facing=north": { "model": "chinjufumod:block/seedsbox", "y": 180 },
+	"facing=south": { "model": "chinjufumod:block/seedsbox" },
+	"facing=west": { "model": "chinjufumod:block/seedsbox", "y": 90 },
+	"facing=east": { "model": "chinjufumod:block/seedsbox", "y": 270 }
+ }
+}

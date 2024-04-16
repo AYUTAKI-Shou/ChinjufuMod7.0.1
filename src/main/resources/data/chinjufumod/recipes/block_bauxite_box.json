@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_box",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:item_bauxite" },
+		"Y": { "item": "chinjufumod:block_empty_box" }
+	},
+
+	"result": { "item": "chinjufumod:block_bauxite_box", "count" : 1 }
+}

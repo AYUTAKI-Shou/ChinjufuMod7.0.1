@@ -1,0 +1,22 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/cabbage_2",
+		"crop2": "chinjufumod:block/cabbage_2"
+	},
+	"elements": [
+		{
+			"name": "cabe",
+			"from": [ 4, 0.0, 4 ],
+			"to": [ 12, 5.0, 12 ],
+			"faces": {
+				"up": { "uv": [ 4.0, 4.0, 12.0, 12.0 ], "texture": "#crop2" },
+				"down": { "uv": [ 4.0, 4.0, 12.0, 12.0 ], "texture": "#crop2" },
+				"north": { "uv": [ 4.0, 7.0, 12.0, 12.0 ], "texture": "#crop2" },
+				"south": { "uv": [ 4.0, 7.0, 12.0, 12.0 ], "texture": "#crop2" },
+				"west": { "uv": [ 4.0, 7.0, 12.0, 12.0 ], "texture": "#crop2" },
+				"east": { "uv": [ 4.0, 7.0, 12.0, 12.0 ], "texture": "#crop2" }
+			}
+		}
+	]
+}

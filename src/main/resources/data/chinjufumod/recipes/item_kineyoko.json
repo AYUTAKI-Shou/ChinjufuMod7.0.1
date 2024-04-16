@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_mochi",
+
+	"pattern": [
+		"X",
+		"Y"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:oak_log" },
+		"Y": { "tag": "forge:rods/wooden" }
+	},
+
+	"result": { "item": "chinjufumod:item_kineyoko", "count": 1 }
+}

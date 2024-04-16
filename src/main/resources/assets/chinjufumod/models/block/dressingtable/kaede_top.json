@@ -1,0 +1,11 @@
+{
+	"parent": "chinjufumod:block/base/dressingtable_top",
+	"textures": {
+		"particle":"chinjufumod:block/dtable_bott_kaede",
+		"top": "chinjufumod:block/dtable_top_kaede",
+		"bottom": "chinjufumod:block/dtable_bott_kaede",
+		"up": "chinjufumod:block/planks_kaede",
+		"item": "chinjufumod:block/dtable_item",
+		"leg": "chinjufumod:block/muku_kaede"
+	}
+}

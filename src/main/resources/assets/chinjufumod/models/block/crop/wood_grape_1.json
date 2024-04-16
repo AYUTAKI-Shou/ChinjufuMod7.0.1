@@ -1,0 +1,76 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/log_grape",
+		"leaves": "chinjufumod:block/leaves_grape",
+		"log_top": "chinjufumod:block/log_grape_top",
+		"log": "chinjufumod:block/log_grape",
+		"stem": "chinjufumod:block/muku_bigoak"
+	},
+	"elements": [
+
+		{
+			"name": "stem_shita1",
+			"from": [ 3, 0, 6.5 ],
+			"to": [ 4, 16, 7.5 ],
+			"faces": {
+				"north": { "texture": "#stem" },
+				"south": { "texture": "#stem" },
+				"east" : { "texture": "#stem" },
+				"west" : { "texture": "#stem" }
+			}
+		},
+		{
+			"name": "stem_shita",
+			"from": [ 11, 0, 6.5 ],
+			"to": [ 12, 16, 7.5 ],
+			"faces": {
+				"north": { "texture": "#stem" },
+				"south": { "texture": "#stem" },
+				"east" : { "texture": "#stem" },
+				"west" : { "texture": "#stem" }
+			}
+		},
+		{
+			"name": "stem_yoko2",
+			"from": [ 0, 13.9, 6.99 ],
+			"to": [ 16, 14.9, 7.99 ],
+			"faces": {
+				"up" : { "texture": "#stem" },
+				"down" : { "texture": "#stem" },
+				"north": { "texture": "#stem" },
+				"south": { "texture": "#stem" },
+				"east" : { "texture": "#stem" },
+				"west" : { "texture": "#stem" }
+			}
+		},
+
+		{
+			"name": "miki",
+			"from": [ 3, 13, 8.01 ],
+			"to": [ 11, 14, 9.01 ],
+			"rotation": { "origin": [ 12, 13, 8 ], "axis": "z", "angle": 22.5, "rescale": false },
+			"faces": {
+				"up" : { "texture": "#log" },
+				"down" : { "texture": "#log" },
+				"north": { "texture": "#log" },
+				"south": { "texture": "#log" },
+				"east" : { "texture": "#log" },
+				"west" : { "texture": "#log" }
+			}
+		},
+		{
+			"name": "miki",
+			"from": [ 2, 0, 8 ],
+			"to": [ 4, 10.5, 10 ],
+			"faces": {
+				"up" : { "texture": "#log" },
+				"down" : { "texture": "#log_top" },
+				"north": { "texture": "#log" },
+				"south": { "texture": "#log" },
+				"east" : { "texture": "#log" },
+				"west" : { "texture": "#log" }
+			}
+		}
+	]
+}

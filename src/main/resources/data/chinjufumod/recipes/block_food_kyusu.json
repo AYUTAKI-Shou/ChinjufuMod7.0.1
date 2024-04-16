@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "chinjufumod:item_clay_kyusu"
+	},
+	"result": "chinjufumod:block_food_kyusu",
+	"experience": 0.5,
+	"cookingtime": 200
+}

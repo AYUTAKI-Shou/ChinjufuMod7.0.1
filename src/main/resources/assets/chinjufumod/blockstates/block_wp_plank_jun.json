@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:block/wallpanel/plank_jungle", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:block/wallpanel/plank_jungle" },
+		"facing=west,stage=1": { "model": "chinjufumod:block/wallpanel/plank_jungle", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:block/wallpanel/plank_jungle", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/wallpanel/pillar_jungle", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:block/wallpanel/pillar_jungle" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/wallpanel/pillar_jungle", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:block/wallpanel/pillar_jungle", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:block/wallpanel/pillar_jungle_leng", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:block/wallpanel/pillar_jungle_leng" },
+		"facing=west,stage=3": { "model": "chinjufumod:block/wallpanel/pillar_jungle_leng", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:block/wallpanel/pillar_jungle_leng", "y": 270 },
+
+		"facing=north,stage=4": { "model": "chinjufumod:block/wallpanel/pillar_jungle_top", "y": 180 },
+		"facing=south,stage=4": { "model": "chinjufumod:block/wallpanel/pillar_jungle_top" },
+		"facing=west,stage=4": { "model": "chinjufumod:block/wallpanel/pillar_jungle_top", "y": 90 },
+		"facing=east,stage=4": { "model": "chinjufumod:block/wallpanel/pillar_jungle_top", "y": 270 }
+	}
+}

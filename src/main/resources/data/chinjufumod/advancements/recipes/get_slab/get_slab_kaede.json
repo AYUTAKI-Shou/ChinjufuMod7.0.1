@@ -1,0 +1,38 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_dressingtable_kae",
+			"chinjufumod:block_unitdesk_kaede",
+			"chinjufumod:block_cafetable_kaede",
+			"chinjufumod:block_diningchair_kae",
+			"chinjufumod:block_bench_kae",
+			"chinjufumod:block_schoolchair_kae",
+			"chinjufumod:block_schooldesk_kae",
+			"chinjufumod:block_teacherdesk_kae",
+			"chinjufumod:block_lowdesk_kaede",
+			
+			"chinjufumod:block_mizuoke",
+			
+			"chinjufumod:block_ranma_kae",
+			"chinjufumod:block_ranmab_kae",
+			"chinjufumod:block_ranmac_kae",
+			"chinjufumod:block_kanki_kae",
+			"chinjufumod:block_koushi_kae",
+			"chinjufumod:block_itabei_kaede",
+			"chinjufumod:block_kido_kaede"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "tag": "forge:wooden_slabs/acer" } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"facing=north,half=bottom,open=false": { "model": "chinjufumod:block/bamboo/trapdoor_ne_bot", "y": 270 },
+		"facing=south,half=bottom,open=false": { "model": "chinjufumod:block/bamboo/trapdoor_bot", "y": 90 },
+		"facing=east,half=bottom,open=false": { "model": "chinjufumod:block/bamboo/trapdoor_ne_bot", "y": 0 },
+		"facing=west,half=bottom,open=false": { "model": "chinjufumod:block/bamboo/trapdoor_bot", "y": 180 },
+
+		"facing=north,half=top,open=false": { "model": "chinjufumod:block/bamboo/trapdoor_ne_top", "y": 270 },
+		"facing=south,half=top,open=false": { "model": "chinjufumod:block/bamboo/trapdoor_top", "y": 90 },
+		"facing=east,half=top,open=false": { "model": "chinjufumod:block/bamboo/trapdoor_ne_top", "y": 0 },
+		"facing=west,half=top,open=false": { "model": "chinjufumod:block/bamboo/trapdoor_top", "y": 180 },
+
+		"facing=north,half=bottom,open=true": { "model": "chinjufumod:block/bamboo/trapdoor_ne_open", "y": 270 },
+		"facing=south,half=bottom,open=true": { "model": "chinjufumod:block/bamboo/trapdoor_open", "y": 90 },
+		"facing=east,half=bottom,open=true": { "model": "chinjufumod:block/bamboo/trapdoor_ne_open", "y": 0 },
+		"facing=west,half=bottom,open=true": { "model": "chinjufumod:block/bamboo/trapdoor_open", "y": 180 },
+
+		"facing=north,half=top,open=true": { "model": "chinjufumod:block/bamboo/trapdoor_ne_open", "y": 270 },
+		"facing=south,half=top,open=true": { "model": "chinjufumod:block/bamboo/trapdoor_open", "y": 90 },
+		"facing=east,half=top,open=true": { "model": "chinjufumod:block/bamboo/trapdoor_ne_open", "y": 0 },
+		"facing=west,half=top,open=true": { "model": "chinjufumod:block/bamboo/trapdoor_open", "y": 180 }
+	}
+}

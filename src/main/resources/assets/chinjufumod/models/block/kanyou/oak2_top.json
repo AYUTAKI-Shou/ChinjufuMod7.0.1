@@ -1,0 +1,126 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/leaves_cha",
+		"miki": "minecraft:block/oak_log",
+		"miki_top": "minecraft:block/oak_log_top",
+		"ha": "minecraft:block/oak_leaves"
+	},
+	"elements": [
+		{
+			"name": "ha",
+			"from": [ 2.0, 0.0, 2.0 ],
+			"to": [ 14.0, 14.0, 14.0 ],
+			"faces": {
+				"up": { "uv": [ 2.0, 2.0, 14.0, 14.0 ], "texture": "#ha", "tintindex": 1 },
+				"north": { "uv": [ 0.0, 0.0, 12.0, 14.0 ], "texture": "#ha", "tintindex": 1 },
+				"south": { "uv": [ 15.0, 0.0, 3.0, 14.0 ], "texture": "#ha", "tintindex": 1 },
+				"east" : { "uv": [ 1.0, 0.0, 13.0, 14.0 ], "texture": "#ha", "tintindex": 1 },
+				"west" : { "uv": [ 16.0, 0.0, 4.0, 14.0 ], "texture": "#ha", "tintindex": 1 }
+			}
+		},
+		{
+			"name": "ha_1",
+			"from": [ 2.0, 0.0, 7.99 ],
+			"to": [ 14.0, 14.0, 8.01 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": true },
+			"faces": {
+				"north": { "uv": [ 0.0, 0.0, 16.0, 14.0 ], "texture": "#ha", "tintindex": 1 },
+				"south": { "uv": [ 0.0, 0.0, 16.0, 14.0 ], "texture": "#ha", "tintindex": 1 }
+			}
+		},
+		{
+			"name": "ha_2",
+			"from": [ 7.99, 0.0, 2.0 ],
+			"to": [ 8.01, 14.0, 14.0 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": true },
+			"faces": {
+				"east" : { "uv": [ 0.0, 0.0, 16.0, 14.0 ], "texture": "#ha", "tintindex": 1 },
+				"west" : { "uv": [ 0.0, 0.0, 16.0, 14.0 ], "texture": "#ha", "tintindex": 1 }
+			}
+		},
+		
+		{
+			"name": "miki_top",
+			"from": [ 8, 4, 7 ],
+			"to": [ 9, 8, 8 ],
+			"faces": {
+				"up": { "uv": [ 8.0, 7.0, 9.0, 8.0 ], "texture": "#miki" },
+				"down" : { "uv": [ 8.0, 7.0, 9.0, 8.0 ], "texture": "#miki_top" },
+				"north": { "uv": [ 10.0, 4.0, 11.0, 10.0 ], "texture": "#miki" },
+				"south": { "uv": [ 10.0, 4.0, 11.0, 10.0 ], "texture": "#miki" },
+				"east" : { "uv": [ 15.0, 4.0, 16.0, 10.0 ], "texture": "#miki" },
+				"west" : { "uv": [ 15.0, 4.0, 16.0, 10.0 ], "texture": "#miki" }
+			}
+		},
+		{
+			"name": "miki_mid",
+			"from": [ 7, 0, 7 ],
+			"to": [ 9, 4, 9 ],
+			"faces": {
+				"up": { "uv": [ 7.0, 7.0, 9.0, 9.0 ], "texture": "#miki" },
+				"north": { "uv": [ 0.0, 10.0, 2.0, 14.0 ], "texture": "#miki" },
+				"south": { "uv": [ 4.0, 10.0, 6.0, 14.0 ], "texture": "#miki" },
+				"east" : { "uv": [ 1.0, 10.0, 3.0, 14.0 ], "texture": "#miki" },
+				"west" : { "uv": [ 12.0, 10.0, 14.0, 14.0 ], "texture": "#miki" }
+			}
+		},
+
+		{
+			"name": "miki_eda_nor",
+			"from": [ 7.01, 2.5, 3.5 ],
+			"to": [ 8.01, 3.5, 8.5 ],
+			"rotation": { "origin": [ 8, 3.5, 6 ], "axis": "x", "angle": 45, "rescale": false },
+			"faces": {
+				"up": { "uv": [ 0.0, 2.0, 1.0, 7.0 ], "texture": "#miki" },
+				"down" : { "uv": [ 2.0, 2.0, 3.0, 7.0 ], "texture": "#miki" },
+				"north": { "uv": [ 0.0, 0.0, 1.0, 1.0 ], "texture": "#miki" },
+				"south": { "uv": [ 0.0, 0.0, 1.0, 1.0 ], "texture": "#miki" },
+				"east" : { "uv": [ 1.0, 2.0, 2.0, 7.0 ], "texture": "#miki", "rotation": 90 },
+				"west" : { "uv": [ 3.0, 2.0, 4.0, 7.0 ], "texture": "#miki", "rotation": 90 }
+			}
+		},
+		{
+			"name": "miki_eda_sou",
+			"from": [ 7.99, 3.5, 7.5 ],
+			"to": [ 8.99, 4.5, 12.5 ],
+			"rotation": { "origin": [ 8, 4.5, 8 ], "axis": "x", "angle": -45, "rescale": false },
+			"faces": {
+				"up": { "uv": [ 4.0, 9.0, 5.0, 14.0 ], "texture": "#miki" },
+				"down" : { "uv": [ 6.0, 9.0, 7.0, 14.0 ], "texture": "#miki" },
+				"north": { "uv": [ 4.0, 0.0, 5.0, 1.0 ], "texture": "#miki" },
+				"south": { "uv": [ 4.0, 0.0, 5.0, 1.0 ], "texture": "#miki" },
+				"east" : { "uv": [ 5.0, 9.0, 6.0, 14.0 ], "texture": "#miki", "rotation": 90 },
+				"west" : { "uv": [ 7.0, 9.0, 8.0, 14.0 ], "texture": "#miki", "rotation": 90 }
+			}
+		},
+		{
+			"name": "miki_eda_west",
+			"from": [ 8.5, -0.5, 7.01 ],
+			"to": [ 13.5, 0.5, 8.01 ],
+			"rotation": { "origin": [ 8, 1, 8 ], "axis": "z", "angle": 22.5, "rescale": false },
+			"faces": {
+				"up": { "uv": [ 9.0, 8.0, 14.0, 9.0 ], "texture": "#miki" },
+				"down" : { "uv": [ 9.0, 10.0, 14.0, 11.0 ], "texture": "#miki" },
+				"north": { "uv": [ 9.0, 9.0, 14.0, 10.0 ], "texture": "#miki" },
+				"south": { "uv": [ 9.0, 11.0, 14.0, 12.0 ], "texture": "#miki" },
+				"east" : { "uv": [ 8.0, 0.0, 9.0, 1.0 ], "texture": "#miki" },
+				"west" : { "uv": [ 8.0, 0.0, 9.0, 1.0 ], "texture": "#miki" }
+			}
+		},
+		{
+			"name": "miki_eda_east",
+			"from": [ 2.5, -1.5, 7.99 ],
+			"to": [ 7.5, -0.5, 8.99 ],
+			"rotation": { "origin": [ 5, -0.5, 8 ], "axis": "z", "angle": -22.5, "rescale": false },
+			"faces": {
+				"up": { "uv": [ 2.0, 12.0, 7.0, 13.0 ], "texture": "#miki" },
+				"down" : { "uv": [ 2.0, 14.0, 7.0, 15.0 ], "texture": "#miki" },
+				"north": { "uv": [ 2.0, 13.0, 7.0, 14.0 ], "texture": "#miki" },
+				"south": { "uv": [ 2.0, 15.0, 7.0, 16.0 ], "texture": "#miki" },
+				"east" : { "uv": [ 12.0, 0.0, 13.0, 1.0 ], "texture": "#miki" },
+				"west" : { "uv": [ 12.0, 0.0, 13.0, 1.0 ], "texture": "#miki" }
+			}
+		}
+	]
+}

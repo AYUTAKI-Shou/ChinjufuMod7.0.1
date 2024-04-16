@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/bamboo_slab_db",
+	"textures": {
+		"particle": "chinjufumod:block/bamboo_k_side",
+		"side": "chinjufumod:block/bamboo_k_side",
+		"inside": "chinjufumod:block/bamboo_k_inside",
+		"top": "chinjufumod:block/bamboo_k_top"
+	}
+}

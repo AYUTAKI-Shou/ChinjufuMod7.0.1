@@ -1,0 +1,8 @@
+{
+	"parent": "block/inner_stairs",
+	"textures": {
+		"bottom": "chinjufumod:block/stonebrick_gra",
+		"top": "chinjufumod:block/stonebrick_gra",
+		"side": "chinjufumod:block/stonebrick_gra"
+	}
+}

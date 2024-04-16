@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"facing=south,in_wall=false,open=false": { "model": "chinjufumod:block/bamboo/koge_fencegate", "uvlock": false, "y": 0 },
+		"facing=west,in_wall=false,open=false": { "model": "chinjufumod:block/bamboo/koge_fencegate", "uvlock": false, "y": 90 },
+		"facing=north,in_wall=false,open=false": { "model": "chinjufumod:block/bamboo/koge_fencegate", "uvlock": false, "y": 0 },
+		"facing=east,in_wall=false,open=false": { "model": "chinjufumod:block/bamboo/koge_fencegate", "uvlock": false, "y": 90 },
+
+		"facing=south,in_wall=false,open=true": { "model": "chinjufumod:block/bamboo/koge_fencegate_open", "uvlock": false },
+		"facing=west,in_wall=false,open=true": { "model": "chinjufumod:block/bamboo/koge_fencegate_open", "uvlock": false, "y": 90 },
+		"facing=north,in_wall=false,open=true": { "model": "chinjufumod:block/bamboo/koge_fencegate_open_east", "uvlock": false, "y": 0 },
+		"facing=east,in_wall=false,open=true": { "model": "chinjufumod:block/bamboo/koge_fencegate_open_east", "uvlock": false, "y": 90 },
+
+		"facing=south,in_wall=true,open=false": { "model": "chinjufumod:block/bamboo/koge_fencegate_wall", "uvlock": false, "y": 0 },
+		"facing=west,in_wall=true,open=false": { "model": "chinjufumod:block/bamboo/koge_fencegate_wall", "uvlock": false, "y": 90 },
+		"facing=north,in_wall=true,open=false": { "model": "chinjufumod:block/bamboo/koge_fencegate_wall", "uvlock": false, "y": 0 },
+		"facing=east,in_wall=true,open=false": { "model": "chinjufumod:block/bamboo/koge_fencegate_wall", "uvlock": false, "y": 90 },
+
+		"facing=south,in_wall=true,open=true": { "model": "chinjufumod:block/bamboo/koge_fencegate_wallopen", "uvlock": false },
+		"facing=west,in_wall=true,open=true": { "model": "chinjufumod:block/bamboo/koge_fencegate_wallopen", "uvlock": false, "y": 90 },
+		"facing=north,in_wall=true,open=true": { "model": "chinjufumod:block/bamboo/koge_fencegate_wallopen_east", "uvlock": false, "y": 0 },
+		"facing=east,in_wall=true,open=true": { "model": "chinjufumod:block/bamboo/koge_fencegate_wallopen_east", "uvlock": false, "y": 90 }
+	}
+}

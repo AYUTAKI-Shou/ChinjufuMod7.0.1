@@ -1,0 +1,67 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/shouyu_bot_3",
+		"bin": "chinjufumod:block/shouyu_bot_3",
+		"soko": "chinjufumod:block/shouyu_bot_1"
+	},
+	"elements": [
+		{
+			"name": "head",
+			"from": [ 2.5, 6, 2.5 ],
+			"to": [ 4.5, 6.5, 4.5 ],
+			"faces": {
+				"up" : { "uv": [ 1.0, 0.0, 5.0, 4.0 ], "texture": "#bin" },
+				"down" : { "uv":[ 1.0, 0.0, 5.0, 4.0 ], "texture": "#bin" },
+				"north": { "uv": [ 1.0, 3.0, 5.0, 4.0 ], "texture": "#bin" },
+				"south": { "uv": [ 1.0, 3.0, 5.0, 4.0 ], "texture": "#bin" },
+				"east" : { "uv": [ 1.0, 3.0, 5.0, 4.0 ], "texture": "#bin" },
+				"west" : { "uv": [ 1.0, 3.0, 5.0, 4.0 ], "texture": "#bin" }
+			}
+		},
+		{
+			"name": "neck1",
+			"from": [ 2.75, 4, 2.75 ],
+			"to": [ 4.27, 6, 4.25 ],
+			"faces": {
+				"north": { "uv": [ 2.0, 4.0, 5.0, 8.0 ], "texture": "#bin" },
+				"south": { "uv": [ 2.0, 4.0, 5.0, 8.0 ], "texture": "#bin" },
+				"east" : { "uv": [ 2.0, 4.0, 5.0, 8.0 ], "texture": "#bin" },
+				"west" : { "uv": [ 2.0, 4.0, 5.0, 8.0 ], "texture": "#bin" }
+			}
+		},
+		{
+			"name": "bot1",
+			"from": [ 2.25, 3.5, 2.25 ],
+			"to": [ 4.75, 4, 4.75 ],
+			"faces": {
+				"up" : { "uv": [ 8.0, 0.0, 13.0, 5.0 ], "texture": "#bin" },
+				"north": { "uv": [ 1.0, 8.0, 6.0, 9.0 ], "texture": "#bin" },
+				"south": { "uv": [ 1.0, 8.0, 6.0, 9.0 ], "texture": "#bin" },
+				"east" : { "uv": [ 1.0, 8.0, 6.0, 9.0 ], "texture": "#bin" },
+				"west" : { "uv": [ 1.0, 8.0, 6.0, 9.0 ], "texture": "#bin" }
+			}
+		},
+		{
+			"name": "bot2",
+			"from": [ 1.75, 0, 1.75 ],
+			"to": [ 5.25, 3.5, 5.25 ],
+			"faces": {
+				"up" : { "uv": [ 9.0, 3.0, 16.0, 10.0 ], "texture": "#bin" },
+				"down" : { "uv": [ 9.0, 9.0, 16.0, 16.0 ], "texture": "#soko" },
+				"north": { "uv": [ 0.0, 9.0, 7.0, 16.0 ], "texture": "#bin" },
+				"south": { "uv": [ 0.0, 9.0, 7.0, 16.0 ], "texture": "#bin" },
+				"east" : { "uv": [ 0.0, 9.0, 7.0, 16.0 ], "texture": "#bin" },
+				"west" : { "uv": [ 0.0, 9.0, 7.0, 16.0 ], "texture": "#bin" }
+			}
+		},
+		{
+			"name": "men",
+			"from": [ 2.25, 0, 2.25 ],
+			"to": [ 4.75, 2.5, 4.75 ],
+			"faces": {
+				"up" : { "uv": [ 10.0, 10.0, 15.0, 15.0 ], "texture": "#bin" }
+			}
+		}
+	]
+}

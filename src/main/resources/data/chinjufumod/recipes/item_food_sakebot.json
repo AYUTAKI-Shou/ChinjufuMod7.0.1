@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_alcohol",
+
+	"pattern": [
+		"X",
+		"X",
+		"X"
+	],
+
+	"key": {
+		"X": { "tag": "forge:glass/colorless" }
+	},
+
+	"result": { "item": "chinjufumod:item_food_sakebot", "count": 3 }
+}

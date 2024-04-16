@@ -1,0 +1,33 @@
+{
+	"variants": {
+		"down=false,facing=north,stage=1": { "model": "chinjufumod:block/okonomi/click_sobacheese_5", "y": 180 },
+		"down=false,facing=south,stage=1": { "model": "chinjufumod:block/okonomi/click_sobacheese_5" },
+		"down=false,facing=west,stage=1": { "model": "chinjufumod:block/okonomi/click_sobacheese_5", "y": 90 },
+		"down=false,facing=east,stage=1": { "model": "chinjufumod:block/okonomi/click_sobacheese_5", "y": 270 },
+
+		"down=false,facing=north,stage=2": { "model": "chinjufumod:block/okonomi/click_sobacheese_6", "y": 180 },
+		"down=false,facing=south,stage=2": { "model": "chinjufumod:block/okonomi/click_sobacheese_6" },
+		"down=false,facing=west,stage=2": { "model": "chinjufumod:block/okonomi/click_sobacheese_6", "y": 90 },
+		"down=false,facing=east,stage=2": { "model": "chinjufumod:block/okonomi/click_sobacheese_6", "y": 270 },
+
+		"down=false,facing=north,stage=3": { "model": "chinjufumod:block/okonomi/click_sobacheese_7", "y": 180 },
+		"down=false,facing=south,stage=3": { "model": "chinjufumod:block/okonomi/click_sobacheese_7" },
+		"down=false,facing=west,stage=3": { "model": "chinjufumod:block/okonomi/click_sobacheese_7", "y": 90 },
+		"down=false,facing=east,stage=3": { "model": "chinjufumod:block/okonomi/click_sobacheese_7", "y": 270 },
+		
+			"down=true,facing=north,stage=1": { "model": "chinjufumod:block/okonomi/click_sobacheese_5d", "y": 180 },
+			"down=true,facing=south,stage=1": { "model": "chinjufumod:block/okonomi/click_sobacheese_5d" },
+			"down=true,facing=west,stage=1": { "model": "chinjufumod:block/okonomi/click_sobacheese_5d", "y": 90 },
+			"down=true,facing=east,stage=1": { "model": "chinjufumod:block/okonomi/click_sobacheese_5d", "y": 270 },
+	
+			"down=true,facing=north,stage=2": { "model": "chinjufumod:block/okonomi/click_sobacheese_6d", "y": 180 },
+			"down=true,facing=south,stage=2": { "model": "chinjufumod:block/okonomi/click_sobacheese_6d" },
+			"down=true,facing=west,stage=2": { "model": "chinjufumod:block/okonomi/click_sobacheese_6d", "y": 90 },
+			"down=true,facing=east,stage=2": { "model": "chinjufumod:block/okonomi/click_sobacheese_6d", "y": 270 },
+	
+			"down=true,facing=north,stage=3": { "model": "chinjufumod:block/okonomi/click_sobacheese_7d", "y": 180 },
+			"down=true,facing=south,stage=3": { "model": "chinjufumod:block/okonomi/click_sobacheese_7d" },
+			"down=true,facing=west,stage=3": { "model": "chinjufumod:block/okonomi/click_sobacheese_7d", "y": 90 },
+			"down=true,facing=east,stage=3": { "model": "chinjufumod:block/okonomi/click_sobacheese_7d", "y": 270 }
+	}
+}

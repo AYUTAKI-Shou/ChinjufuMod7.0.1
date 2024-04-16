@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_okonomiyaki",
+
+	"ingredients": [
+		{ "tag": "forge:foods/cheese" },
+		{ "tag": "forge:eggs" },
+		{ "tag": "forge:crops/cabbage" },
+		{ "tag": "forge:condiments/mayonaise" },
+		{ "tag": "forge:condiments/worcestersauce" },
+		{ "tag": "forge:foods/flour" },
+		{ "tag": "forge:dusts/dashi" },
+		[ { "item": "chinjufumod:item_measurecup_full" }, { "item": "minecraft:potion" } ],
+		{ "item": "minecraft:bowl" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_teppan_n_okonomic", "count" : 1 }
+}

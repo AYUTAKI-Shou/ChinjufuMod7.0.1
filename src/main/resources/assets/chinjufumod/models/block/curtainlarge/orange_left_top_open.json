@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/curtainlarge_left_top_open",
+	"textures": {
+		"particle": "chinjufumod:block/curtain_orange",
+		"cloth": "chinjufumod:block/curtain_orange",
+		"bou": "chinjufumod:block/muku_spruce"
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/bamboo_inside",
+		"side": "chinjufumod:block/bamboo_inside",
+		"front": "chinjufumod:block/bamboo_side"
+	},
+	"elements":[
+		{
+			"name": "side_1",
+			"from": [ 1, 0, 6.5 ],
+			"to": [ 1.99, 9, 7.5 ],
+			"rotation": { "origin": [ 8, 5.5, 13 ], "axis": "x", "angle": -22.5, "rescale": true },
+			"faces": {
+				"up" : { "texture":"#side" },
+				"north": { "texture":"#side" },
+				"south": { "texture":"#front" },
+				"west" : { "texture":"#side" },
+				"east" : { "texture":"#side" }
+			}
+		},
+		{
+			"name": "side_2",
+			"from": [ 0.01, 0, 8.5 ],
+			"to": [ 1, 9, 9.5 ],
+			"rotation": { "origin": [ 8, 5.5, 3 ], "axis": "x", "angle": 22.5, "rescale": true },
+			"faces": {
+				"up" : { "texture":"#side" },
+				"north": { "texture":"#front" },
+				"south": { "texture":"#side" },
+				"west" : { "texture":"#side" },
+				"east" : { "texture":"#side" }
+			}
+		},
+
+		{
+			"name": "side_3",
+			"from": [ 15, 0, 6.5 ],
+			"to": [ 15.99, 9, 7.5 ],
+			"rotation": { "origin": [ 8, 5.5, 13 ], "axis": "x", "angle": -22.5, "rescale": true },
+			"faces": {
+				"up" : { "texture":"#side" },
+				"north": { "texture":"#side" },
+				"south": { "texture":"#front" },
+				"west" : { "texture":"#side" },
+				"east" : { "texture":"#side" }
+			}
+		},
+		{
+			"name": "side_4",
+			"from": [ 14.01, 0, 8.5 ],
+			"to": [ 15, 9, 9.5 ],
+			"rotation": { "origin": [ 8, 5.5, 3 ], "axis": "x", "angle": 22.5, "rescale": true },
+			"faces": {
+				"up" : { "texture":"#side" },
+				"north": { "texture":"#front" },
+				"south": { "texture":"#side" },
+				"west" : { "texture":"#side" },
+				"east" : { "texture":"#side" }
+			}
+		},
+
+		{
+			"name": "top",
+			"from": [ 0.01, 3.2, 7.5 ],
+			"to": [ 15.99, 4.2, 8.5 ],
+			"rotation": { "origin": [ 8, 3.7, 8 ], "axis": "x", "angle": 45, "rescale": false },
+			"faces": {
+				"up" : { "uv": [ 0.0, 0.0, 2.0, 16.0 ], "texture":"#front", "rotation": 90 },
+				"down" : { "uv": [ 3.0, 0.0, 4.0, 16.0 ], "texture":"#side", "rotation": 90 },
+				"north": { "uv": [ 2.0, 0.0, 3.0, 16.0 ], "texture":"#side", "rotation": 90 },
+				"south": { "uv": [ 4.0, 0.0, 5.0, 16.0 ], "texture":"#side", "rotation": 90 },
+				"west" : { "texture":"#side" },
+				"east" : { "texture":"#side" }
+			}
+		}
+	]
+}

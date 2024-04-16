@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "chinjufumod:block_brick_dio_c"
+	},
+	"result": "chinjufumod:block_brick_dio_cr_c",
+	"experience": 0.5,
+	"cookingtime": 200
+}

@@ -1,0 +1,123 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/dish_lightb",
+		"owan": "chinjufumod:block/dish_lightb",
+		"owan2": "chinjufumod:block/dish_white",
+		"miso": "chinjufumod:block/soup_still_n",
+		"hashi": "chinjufumod:block/dish_red",
+		"hashioki": "chinjufumod:block/hashioki"
+	},
+	"elements": [
+		{
+			"name": "owan_naka",
+			"from": [ 6.7, -7.5, 6.7 ],
+			"to": [ 9.3, -7.15, 9.3 ],
+			"faces": {
+				"up" : {"uv": [ 6.7, 6.7, 9.3, 9.3 ], "texture": "#miso", "tintindex": 2 }
+			}
+		},
+
+		{
+			"name": "owan_soko",
+			"from": [ 6.7, -8, 6.7 ],
+			"to": [ 9.3, -7.8, 9.3 ],
+			"faces": {
+				"up" : {"uv": [ 6.7, 6.7, 9.3, 9.3 ], "texture": "#owan2" },
+				"down" : {"uv": [ 6.7, 6.7, 9.3, 9.3 ], "texture": "#owan2" },
+				"north": {"uv": [ 6.7, 15.8, 9.3, 16.0 ], "texture": "#owan2" },
+				"south": {"uv": [ 6.7, 15.8, 9.3, 16.0 ], "texture": "#owan2" },
+				"west" : {"uv": [ 6.7, 15.8, 9.3, 16.0 ], "texture": "#owan2" },
+				"east" : {"uv": [ 6.7, 15.8, 9.3, 16.0 ], "texture": "#owan2" }
+			}
+		},
+		{
+			"name": "owan_n",
+			"from": [ 6.5, -7.8, 6.5 ],
+			"to": [ 9.5, -6, 6.7 ],
+			"faces": {
+				"up" : {"uv": [ 6.5, 6.5, 9.5, 6.7 ], "texture": "#owan2" },
+				"down" : {"uv": [ 6.5, 6.5, 9.5, 6.7 ], "texture": "#owan" },
+				"north": {"uv": [ 6.5, 14.0, 9.5, 15.8 ], "texture": "#owan" },
+				"south": {"uv": [ 6.5, 14.0, 9.5, 15.8 ], "texture": "#owan2" },
+				"west" : {"uv": [ 6.5, 14.0, 6.7, 15.8 ], "texture": "#owan" },
+				"east" : {"uv": [ 6.5, 14.0, 6.7, 15.8 ], "texture": "#owan" }
+			}
+		},
+		{
+			"name": "owan_e",
+			"from": [ 9.3, -7.8, 6.7 ],
+			"to": [ 9.5, -6, 9.3 ],
+			"faces": {
+				"up" : {"uv": [ 9.3, 6.7, 9.5, 9.3 ], "texture": "#owan2" },
+				"down" : {"uv": [ 9.3, 6.7, 9.5, 9.3 ], "texture": "#owan" },
+				"west" : {"uv": [ 6.7, 14.0, 9.3, 15.8 ], "texture": "#owan2" },
+				"east" : {"uv": [ 6.7, 14.0, 9.3, 15.8 ], "texture": "#owan" }
+			}
+		},
+		{
+			"name": "owan_s",
+			"from": [ 6.5, -7.8, 9.3 ],
+			"to": [ 9.5, -6, 9.5 ],
+			"faces": {
+				"up" : {"uv": [ 6.5, 9.3, 9.5, 9.5 ], "texture": "#owan2" },
+				"down" : {"uv": [ 6.5, 9.3, 9.5, 9.5 ], "texture": "#owan" },
+				"north": {"uv": [ 6.5, 14.0, 9.5, 15.8 ], "texture": "#owan2" },
+				"south": {"uv": [ 6.5, 14.0, 9.5, 15.8 ], "texture": "#owan" },
+				"west" : {"uv": [ 9.3, 14.0, 9.5, 15.8 ], "texture": "#owan" },
+				"east" : {"uv": [ 9.3, 14.0, 9.5, 15.8 ], "texture": "#owan" }
+			}
+		},
+		{
+			"name": "owan_w",
+			"from": [ 6.5, -7.8, 6.7 ],
+			"to": [ 6.7, -6, 9.3 ],
+			"faces": {
+				"up" : {"uv": [ 6.5, 6.7, 6.7, 9.3 ], "texture": "#owan2" },
+				"down" : {"uv": [ 6.5, 6.7, 6.7, 9.3 ], "texture": "#owan" },
+				"west" : {"uv": [ 6.7, 14.0, 9.3, 15.8 ], "texture": "#owan" },
+				"east" : {"uv": [ 6.7, 14.0, 9.3, 15.8 ], "texture": "#owan2" }
+			}
+		},
+
+		{
+			"name": "hashioki",
+			"from": [ 5.5, -8, 10.5 ],
+			"to": [ 6, -7.9, 12.5 ],
+			"faces": {
+				"up" : {"uv": [ 5.5, 10.5, 6.0, 12.5 ], "texture": "#hashioki" },
+				"down" : {"uv": [ 5.5, 10.5, 6.0, 12.5 ], "texture": "#hashioki" },
+				"north": {"uv": [ 5.5, 15.9, 6.0, 16.0 ], "texture": "#hashioki" },
+				"south": {"uv": [ 5.5, 15.9, 6.0, 16.0 ], "texture": "#hashioki" },
+				"west" : {"uv": [ 10.5, 15.9, 12.5, 16.0 ], "texture": "#hashioki" },
+				"east" : {"uv": [ 10.5, 15.9, 12.5, 16.0 ], "texture": "#hashioki" }
+			}
+		},
+		{
+			"name": "hashi1",
+			"from": [ 5, -7.9, 11.2 ],
+			"to": [ 11, -7.65, 11.45 ],
+			"faces": {
+				"up" : {"uv": [ 5.0, 11.2, 11.0, 11.45 ], "texture": "#hashi" },
+				"down" : {"uv": [ 5.0, 11.2, 11.0, 11.45 ], "texture": "#hashi" },
+				"north": {"uv": [ 5.0, 15.65, 11.0, 15.9 ], "texture": "#hashi" },
+				"south": {"uv": [ 5.0, 15.65, 11.0, 15.9 ], "texture": "#hashi" },
+				"west" : {"uv": [ 11.2, 15.65, 11.45, 15.9 ], "texture": "#hashi" },
+				"east" : {"uv": [ 11.2, 15.65, 11.45, 15.9 ], "texture": "#hashi" }
+			}
+		},
+		{
+			"name": "hashi2",
+			"from": [ 5, -7.9, 11.5 ],
+			"to": [ 11, -7.65, 11.75 ],
+			"faces": {
+				"up" : {"uv": [ 5.0, 11.5, 11.0, 11.75 ], "texture": "#hashi" },
+				"down" : {"uv": [ 5.0, 11.5, 11.0, 11.75 ], "texture": "#hashi" },
+				"north": {"uv": [ 5.0, 15.65, 11.0, 15.9 ], "texture": "#hashi" },
+				"south": {"uv": [ 5.0, 15.65, 11.0, 15.9 ], "texture": "#hashi" },
+				"west" : {"uv": [ 11.5, 15.65, 11.75, 15.9 ], "texture": "#hashi" },
+				"east" : {"uv": [ 11.5, 15.65, 11.75, 15.9 ], "texture": "#hashi" }
+			}
+		}
+	]
+}

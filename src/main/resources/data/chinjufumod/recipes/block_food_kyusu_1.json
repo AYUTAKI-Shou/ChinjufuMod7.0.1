@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_tea",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_chaba_green" },
+		{ "item": "chinjufumod:item_chaba_green" },
+		{ "item": "chinjufumod:item_kettle_boil" },
+		{ "item": "chinjufumod:block_food_kyusu" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_kyusu_1", "count" : 1 }
+}

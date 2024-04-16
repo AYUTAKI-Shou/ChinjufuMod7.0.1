@@ -1,0 +1,51 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/food_scone",
+		"scone": "chinjufumod:block/food_scone",
+		"scone_top": "chinjufumod:block/food_scone_top",
+		"cream": "chinjufumod:block/food_cream",
+		"berry": "chinjufumod:block/food_strawberry"
+	},
+	"elements": [
+		{
+			"name": "berry",
+			"from": [ 7.5, 2.9, 7.5 ],
+			"to": [ 8.5, 3.02, 8.5 ],
+			"faces": {
+				"up" : { "texture": "#berry" },
+				"down" : { "texture": "#berry" },
+				"north": { "texture": "#berry" },
+				"south": { "texture": "#berry" },
+				"east" : { "texture": "#berry" },
+				"west" : { "texture": "#berry" }
+			}
+		},
+		{
+			"name": "cream",
+			"from": [ 6.5, 1.5, 6.5 ],
+			"to": [ 9.5, 3.0, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#cream" },
+				"down" : { "texture": "#cream" },
+				"north": { "texture": "#cream" },
+				"south": { "texture": "#cream" },
+				"east" : { "texture": "#cream" },
+				"west" : { "texture": "#cream" }
+			}
+		},
+		{
+			"name": "cake",
+			"from": [ 6.5, 0.0, 6.5 ],
+			"to": [ 9.5, 1.5, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#scone_top" },
+				"down" : { "texture": "#scone_top" },
+				"north": { "texture": "#scone" },
+				"south": { "texture": "#scone" },
+				"east" : { "texture": "#scone" },
+				"west" : { "texture": "#scone" }
+			}
+		}
+	]
+}

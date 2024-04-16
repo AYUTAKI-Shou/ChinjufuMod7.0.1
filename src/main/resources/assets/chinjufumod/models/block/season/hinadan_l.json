@@ -1,0 +1,22 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/hina_dai",
+		"dai": "chinjufumod:block/hina_dai"
+	},
+	"elements": [
+		{
+			"name": "dai_shita__________",
+		"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"down": { "texture": "#dai", "cullface": "down" },
+				"up": { "texture": "#dai" },
+				"north": { "texture": "#dai" },
+				"south": { "texture": "#dai" },
+				"west": { "texture": "#dai" },
+				"east": { "texture": "#dai" }
+			}
+		}
+	]
+}

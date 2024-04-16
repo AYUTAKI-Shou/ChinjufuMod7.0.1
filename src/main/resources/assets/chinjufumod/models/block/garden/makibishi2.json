@@ -1,0 +1,103 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/makibishi",
+		"makibishi": "chinjufumod:block/makibishi"
+	},
+	"elements": [
+		{
+			"name": "1",
+			"from": [ 2, 0, 3 ],
+			"to": [ 2, 2, 5 ],
+			"faces": {
+				"west": { "uv": [ 5, 8, 8, 11 ], "texture": "#makibishi" },
+				"east": { "uv": [ 5, 8, 8, 11 ], "texture": "#makibishi" }
+			}
+		},
+		{
+			"name": "1",
+			"from": [ 1, 0, 4 ],
+			"to": [ 3, 2, 4 ],
+			"faces": {
+				"north": { "uv": [ 5, 8, 8, 11 ], "texture": "#makibishi" },
+				"south": { "uv": [ 5, 8, 8, 11 ], "texture": "#makibishi" }
+			}
+		},
+		
+		{
+			"name": "2",
+			"from": [ 13, 0, 2 ],
+			"to": [ 13, 2, 4 ],
+			"faces": {
+				"west": { "uv": [ 5, 8, 8, 11 ], "texture": "#makibishi" },
+				"east": { "uv": [ 5, 8, 8, 11 ], "texture": "#makibishi" }
+			}
+		},
+		{
+			"name": "2",
+			"from": [ 12, 0, 3 ],
+			"to": [ 14, 2, 3 ],
+			"faces": {
+				"north": { "uv": [ 5, 8, 8, 11 ], "texture": "#makibishi" },
+				"south": { "uv": [ 5, 8, 8, 11 ], "texture": "#makibishi" }
+			}
+		},
+		
+		{
+			"name": "3",
+			"from": [ 4, 0, 10 ],
+			"to": [ 4, 2, 12 ],
+			"faces": {
+				"west": { "uv": [ 5, 8, 8, 11 ], "texture": "#makibishi" },
+				"east": { "uv": [ 5, 8, 8, 11 ], "texture": "#makibishi" }
+			}
+		},
+		{
+			"name": "3",
+			"from": [ 3, 0, 11 ],
+			"to": [ 5, 2, 11 ],
+			"faces": {
+				"north": { "uv": [ 5, 8, 8, 11 ], "texture": "#makibishi" },
+				"south": { "uv": [ 5, 8, 8, 11 ], "texture": "#makibishi" }
+			}
+		},
+		
+		{
+			"name": "4",
+			"from": [ 12, 0, 12 ],
+			"to": [ 12, 2, 14 ],
+			"faces": {
+				"west": { "uv": [ 5, 8, 8, 11 ], "texture": "#makibishi" },
+				"east": { "uv": [ 5, 8, 8, 11 ], "texture": "#makibishi" }
+			}
+		},
+		{
+			"name": "4",
+			"from": [ 11, 0, 13 ],
+			"to": [ 13, 2, 13 ],
+			"faces": {
+				"north": { "uv": [ 5, 8, 8, 11 ], "texture": "#makibishi" },
+				"south": { "uv": [ 5, 8, 8, 11 ], "texture": "#makibishi" }
+			}
+		},
+		
+		{
+			"name": "c",
+			"from": [ 9, 0, 7 ],
+			"to": [ 9, 2, 9 ],
+			"faces": {
+				"west": { "uv": [ 5, 8, 8, 11 ], "texture": "#makibishi" },
+				"east": { "uv": [ 5, 8, 8, 11 ], "texture": "#makibishi" }
+			}
+		},
+		{
+			"name": "c",
+			"from": [ 8, 0, 8 ],
+			"to": [ 10, 2, 8 ],
+			"faces": {
+				"north": { "uv": [ 5, 8, 8, 11 ], "texture": "#makibishi" },
+				"south": { "uv": [ 5, 8, 8, 11 ], "texture": "#makibishi" }
+			}
+		}
+	]
+}

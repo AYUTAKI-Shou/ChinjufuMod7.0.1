@@ -1,0 +1,8 @@
+{
+	"parent": "block/slab_top",
+	"textures": {
+		"bottom": "chinjufumod:block/kawara_lime",
+		"top": "chinjufumod:block/kawara_lime",
+		"side": "chinjufumod:block/kawara_lime"
+	}
+}

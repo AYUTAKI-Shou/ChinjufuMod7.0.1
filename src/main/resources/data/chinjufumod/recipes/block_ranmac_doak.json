@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_ranma",
+
+	"pattern": [
+		" Y ",
+		"XZX"
+	],
+
+	"key": {
+		"X": { "tag": "forge:rods/wooden" },
+		"Y": { "item": "minecraft:dark_oak_slab" },
+		"Z": { "tag": "forge:glass_panes/colorless" }
+	},
+
+	"result": { "item": "chinjufumod:block_ranmac_doak", "count": 1 }
+}

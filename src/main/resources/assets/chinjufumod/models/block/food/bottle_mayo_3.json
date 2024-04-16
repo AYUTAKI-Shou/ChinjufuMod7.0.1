@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/sauce_bottle_3",
+	"textures": {
+		"particle": "chinjufumod:block/mayo_bot_3",
+		"bin": "chinjufumod:block/mayo_bot_3",
+		"soko": "chinjufumod:block/mayo_bot_1"
+	}
+}

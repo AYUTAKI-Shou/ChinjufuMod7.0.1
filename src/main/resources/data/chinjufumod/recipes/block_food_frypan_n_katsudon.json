@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_donburi",
+
+	"ingredients": [
+		{ "tag": "forge:eggs" },
+		{ "tag": "forge:sugar" },
+		[ { "item": "chinjufumod:item_measurecup_full" }, { "item": "minecraft:potion" } ],
+		{ "tag": "forge:foods/soysauce" },
+		{ "tag": "forge:dusts/dashi" },
+		{ "tag": "forge:crops/onion" },
+		{ "item": "chinjufumod:block_food_frypan_b_katsu" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_frypan_n_katsudon", "count" : 1 }
+}

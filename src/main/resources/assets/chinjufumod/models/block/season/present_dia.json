@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/present",
+	"textures": {
+		"particle": "chinjufumod:block/wrapping_black",
+		"hako": "chinjufumod:block/wrapping_black",
+		"ribbon": "chinjufumod:block/ribbon_red",
+		"nakami": "minecraft:item/diamond"
+	}
+}

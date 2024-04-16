@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_box",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": [ { "tag": "minecraft:planks" }, { "tag": "forge:planks" } ],
+		"Y": { "item": "chinjufumod:item_workorder" }
+	},
+
+	"result": { "item": "chinjufumod:block_empty_box", "count": 8 }
+}

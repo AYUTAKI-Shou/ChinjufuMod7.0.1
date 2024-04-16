@@ -1,0 +1,9 @@
+{
+	"variants": {
+		"down=false,lit=false": { "model": "chinjufumod:block/candle/cyan" },
+		"down=true,lit=false": { "model": "chinjufumod:block/candle/down_cyan" },
+
+		"down=false,lit=true": { "model": "chinjufumod:block/candle/lit_cyan" },
+		"down=true,lit=true": { "model": "chinjufumod:block/candle/lit_down_cyan" }
+	}
+}

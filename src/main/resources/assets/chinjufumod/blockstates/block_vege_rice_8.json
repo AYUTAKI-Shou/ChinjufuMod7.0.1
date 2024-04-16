@@ -1,0 +1,49 @@
+{
+	"variants": {
+		"age=0": [ 
+			{ "model": "chinjufumod:block/crop/riced_0", "y": 0 },
+			{ "model": "chinjufumod:block/crop/riced_0", "y": 180 },
+			{ "model": "chinjufumod:block/crop/riced_0", "y": 90 },
+			{ "model": "chinjufumod:block/crop/riced_0", "y": 270 } ],
+		"age=1": [ 
+			{ "model": "chinjufumod:block/crop/riced_1", "y": 0 },
+			{ "model": "chinjufumod:block/crop/riced_1", "y": 180 },
+			{ "model": "chinjufumod:block/crop/riced_1", "y": 90 },
+			{ "model": "chinjufumod:block/crop/riced_1", "y": 270 } ],
+		"age=2": [ 
+			{ "model": "chinjufumod:block/crop/riced_2", "y": 0 },
+			{ "model": "chinjufumod:block/crop/riced_2", "y": 180 },
+			{ "model": "chinjufumod:block/crop/riced_2", "y": 90 },
+			{ "model": "chinjufumod:block/crop/riced_2", "y": 270 } ],
+		"age=3": [ 
+			{ "model": "chinjufumod:block/crop/riced_3", "y": 0 },
+			{ "model": "chinjufumod:block/crop/riced_3", "y": 180 },
+			{ "model": "chinjufumod:block/crop/riced_3", "y": 90 },
+			{ "model": "chinjufumod:block/crop/riced_3", "y": 270 } ],
+		"age=4": [ 
+			{ "model": "chinjufumod:block/crop/riced_4", "y": 0 },
+			{ "model": "chinjufumod:block/crop/riced_4", "y": 180 },
+			{ "model": "chinjufumod:block/crop/riced_4", "y": 90 },
+			{ "model": "chinjufumod:block/crop/riced_4", "y": 270 } ],
+		"age=5": [ 
+			{ "model": "chinjufumod:block/crop/riced_5", "y": 0 },
+			{ "model": "chinjufumod:block/crop/riced_5", "y": 180 },
+			{ "model": "chinjufumod:block/crop/riced_5", "y": 90 },
+			{ "model": "chinjufumod:block/crop/riced_5", "y": 270 } ],
+		"age=6": [ 
+			{ "model": "chinjufumod:block/crop/riced_6", "y": 0 },
+			{ "model": "chinjufumod:block/crop/riced_6", "y": 180 },
+			{ "model": "chinjufumod:block/crop/riced_6", "y": 90 },
+			{ "model": "chinjufumod:block/crop/riced_6", "y": 270 } ],
+		"age=7": [ 
+			{ "model": "chinjufumod:block/crop/riced_7", "y": 0 },
+			{ "model": "chinjufumod:block/crop/riced_7", "y": 180 },
+			{ "model": "chinjufumod:block/crop/riced_7", "y": 90 },
+			{ "model": "chinjufumod:block/crop/riced_7", "y": 270 } ],
+		"age=8": [ 
+			{ "model": "chinjufumod:block/crop/riced_8", "y": 0 },
+			{ "model": "chinjufumod:block/crop/riced_8", "y": 180 },
+			{ "model": "chinjufumod:block/crop/riced_8", "y": 90 },
+			{ "model": "chinjufumod:block/crop/riced_8", "y": 270 } ]
+	}
+}

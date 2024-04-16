@@ -1,0 +1,66 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/log_mikan",
+		"ha": "chinjufumod:block/leaves_mikan",
+		"miki": "chinjufumod:block/log_mikan"
+	},
+	"elements": [
+		{
+			"name": "ha",
+			"from": [ 3, 8, 3 ],
+			"to": [ 13, 16, 13 ],
+			"faces": {
+				"up": { "uv": [ 3.0, 3.0, 13.0, 13.0 ], "texture": "#ha" },
+				"down" : { "uv": [ 3.0, 3.0, 13.0, 13.0 ], "texture": "#ha" },
+				"north": { "uv": [ 3.0, 0.0, 13.0, 8.0 ], "texture": "#ha" },
+				"south": { "uv": [ 3.0, 0.0, 13.0, 8.0 ], "texture": "#ha" },
+				"east" : { "uv": [ 3.0, 0.0, 13.0, 8.0 ], "texture": "#ha" },
+				"west" : { "uv": [ 3.0, 0.0, 13.0, 8.0 ], "texture": "#ha" }
+			}
+		},
+
+		{
+			"name": "miki_eda_west",
+			"from": [ 7, 12, 7.49 ],
+			"to": [ 11, 12.5, 8.01 ],
+			"rotation": { "origin": [ 8, 15, 8 ], "axis": "z", "angle": 22.5, "rescale": false },
+			"faces": {
+				"up": { "uv": [ 9.0, 8.0, 14.0, 9.0 ], "texture": "#miki" },
+				"down" : { "uv": [ 9.0, 10.0, 14.0, 11.0 ], "texture": "#miki" },
+				"north": { "uv": [ 9.0, 9.0, 14.0, 10.0 ], "texture": "#miki" },
+				"south": { "uv": [ 9.0, 11.0, 14.0, 12.0 ], "texture": "#miki" },
+				"east" : { "uv": [ 8.0, 0.0, 9.0, 1.0 ], "texture": "#miki" },
+				"west" : { "uv": [ 8.0, 0.0, 9.0, 1.0 ], "texture": "#miki" }
+			}
+		},
+		{
+			"name": "miki_eda_east",
+			"from": [ 5, 11.5, 7.99 ],
+			"to": [ 10, 12, 8.75 ],
+			"rotation": { "origin": [ 5, 15, 8 ], "axis": "z", "angle": -22.5, "rescale": false },
+			"faces": {
+				"up": { "uv": [ 2.0, 12.0, 7.0, 13.0 ], "texture": "#miki" },
+				"down" : { "uv": [ 2.0, 14.0, 7.0, 15.0 ], "texture": "#miki" },
+				"north": { "uv": [ 2.0, 13.0, 7.0, 14.0 ], "texture": "#miki" },
+				"south": { "uv": [ 2.0, 15.0, 7.0, 16.0 ], "texture": "#miki" },
+				"east" : { "uv": [ 12.0, 0.0, 13.0, 1.0 ], "texture": "#miki" },
+				"west" : { "uv": [ 12.0, 0.0, 13.0, 1.0 ], "texture": "#miki" }
+			}
+		},
+
+		{
+			"name": "miki_bot",
+			"from": [ 7.25, 0, 7.25 ],
+			"to": [ 8.75, 15, 8.75 ],
+			"faces": {
+				"up": { "uv": [ 7.0, 7.0, 9.0, 9.0 ], "texture": "#miki" },
+				"down" : { "uv": [ 7.0, 7.0, 9.0, 9.0 ], "texture": "#miki" },
+				"north": { "uv": [ 0.0, 0.0, 2.0, 16.0 ], "texture": "#miki" },
+				"south": { "uv": [ 4.0, 0.0, 6.0, 16.0 ], "texture": "#miki" },
+				"east" : { "uv": [ 1.0, 0.0, 3.0, 16.0 ], "texture": "#miki" },
+				"west" : { "uv": [ 12.0, 0.0, 14.0, 16.0 ], "texture": "#miki" }
+			}
+		}
+	]
+}

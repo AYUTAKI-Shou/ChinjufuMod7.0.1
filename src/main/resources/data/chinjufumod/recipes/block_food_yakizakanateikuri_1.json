@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_gohan",
+
+	"ingredients": [
+		{ "item": "chinjufumod:block_food_jpteacup_1" },
+		{ "tag": "forge:cooked_fishes/cod" },
+		{ "item": "chinjufumod:item_food_sara" },
+		{ "item": "chinjufumod:block_food_gohankuri_1" },
+		{ "item": "chinjufumod:block_food_misosp_1" },
+		{ "item": "chinjufumod:block_food_hsd_1" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_yakizakanateikuri_1", "count" : 1 }
+}

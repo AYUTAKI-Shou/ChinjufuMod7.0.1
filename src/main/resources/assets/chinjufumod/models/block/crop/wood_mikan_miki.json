@@ -1,0 +1,21 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/log_mikan",
+		"miki": "chinjufumod:block/log_mikan"
+	},
+	"elements": [
+		{
+			"name": "miki_bot",
+			"from": [ 7, 0, 7 ],
+			"to": [ 9, 16, 9 ],
+			"faces": {
+				"down" : { "uv": [ 7.0, 7.0, 9.0, 9.0 ], "texture": "#miki" },
+				"north": { "uv": [ 0.0, 0.0, 2.0, 16.0 ], "texture": "#miki" },
+				"south": { "uv": [ 4.0, 0.0, 6.0, 16.0 ], "texture": "#miki" },
+				"east" : { "uv": [ 1.0, 0.0, 3.0, 16.0 ], "texture": "#miki" },
+				"west" : { "uv": [ 12.0, 0.0, 14.0, 16.0 ], "texture": "#miki" }
+			}
+		}
+	]
+}

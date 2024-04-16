@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_hake",
+
+	"pattern": [
+		"X",
+		"Y"
+	],
+
+	"key": {
+		"X": { "tag": "forge:dyes/brown" },
+		"Y": { "item": "chinjufumod:item_hake" }
+	},
+
+	"result": { "item": "chinjufumod:item_hake_brown", "count": 1 }
+}

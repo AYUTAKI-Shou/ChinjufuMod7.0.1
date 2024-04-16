@@ -1,0 +1,8 @@
+{
+	"parent": "block/slab",
+	"textures": {
+		"bottom": "chinjufumod:block/planks_ichoh",
+		"top": "chinjufumod:block/planks_ichoh",
+		"side": "chinjufumod:block/planks_ichoh"
+	}
+}

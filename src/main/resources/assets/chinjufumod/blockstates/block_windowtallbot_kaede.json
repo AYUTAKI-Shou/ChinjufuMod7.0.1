@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:block/windowtallb/bot_close_kaede", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:block/windowtallb/bot_close_kaede" },
+		"facing=west,stage=1": { "model": "chinjufumod:block/windowtallb/bot_close_kaede", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:block/windowtallb/bot_close_kaede", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/windowtallb/bot_2_kaede", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:block/windowtallb/bot_2_kaede" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/windowtallb/bot_2_kaede", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:block/windowtallb/bot_2_kaede", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:block/windowtallb/bot_3_kaede", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:block/windowtallb/bot_3_kaede" },
+		"facing=west,stage=3": { "model": "chinjufumod:block/windowtallb/bot_3_kaede", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:block/windowtallb/bot_3_kaede", "y": 270 }
+	}
+}

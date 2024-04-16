@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_zundou",
+
+	"ingredients": [
+		{ "tag": "forge:buckets/water" },
+		[ { "tag": "forge:dusts/salt" }, { "tag": "forge:foods/salt" }, { "tag": "forge:items/salt" } ],
+		{ "item": "chinjufumod:block_food_zundou" }
+	],
+
+	"result": { "item": "chinjufumod:block_zundou_shiomizu", "count": 1 }
+}

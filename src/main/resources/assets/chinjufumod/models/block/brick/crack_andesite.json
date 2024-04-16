@@ -1,0 +1,6 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "chinjufumod:block/stonebrick_cr_and"
+	}
+}

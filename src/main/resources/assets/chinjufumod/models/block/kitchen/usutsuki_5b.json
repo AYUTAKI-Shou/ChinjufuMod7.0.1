@@ -1,0 +1,123 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/muku_oak",
+		"top": "chinjufumod:block/pillar_oak_top",
+		"side": "chinjufumod:block/pillar_oak_side",
+		"mochi": "chinjufumod:block/food_gohan"
+	},
+	"elements": [
+		{
+			"name": "mochi_________8.75*8.75*2.3=178",
+			"from": [ 4, 8.5, 3.25 ],
+			"to": [ 12.75, 10.825, 12 ],
+			"faces": {
+				"up" : { "texture": "#mochi" },
+				"south": { "texture": "#mochi" },
+	 			"west" : { "texture": "#mochi" }
+			}
+		},
+		
+		{
+			"name": "usu",
+			"from": [ 2, 0, 2 ],
+			"to": [ 14, 5.5, 14 ],
+			"faces": {
+				"up" : { "texture": "#top" },
+				"down" : { "texture": "#top", "cullface": "down" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+	 			"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "te_north",
+			"from": [ 2, 5.5, 2 ],
+			"to": [ 14, 6.5, 6 ],
+			"faces": {
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+	 			"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "usu",
+			"from": [ 2.5, 5.5, 6 ],
+			"to": [ 13.5, 6.5, 10 ],
+			"faces": {
+	 			"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "te_south",
+			"from": [ 2, 5.5, 10 ],
+			"to": [ 14, 6.5, 14 ],
+			"faces": {
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+	 			"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "usu",
+			"from": [ 2, 6.5, 2 ],
+			"to": [ 14, 8.5, 14 ],
+			"faces": {
+				"up" : { "texture": "#top" },
+				"down" : { "texture": "#top" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+	 			"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "usu_north_________4-12-2.5",
+			"from": [ 2, 8.5, 2 ],
+			"to": [ 14, 12, 3.25 ],
+			"faces": {
+				"up" : { "texture": "#side" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+	 			"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "usu_south",
+			"from": [ 2, 8.5, 12.75 ],
+			"to": [ 14, 12, 14 ],
+			"faces": {
+				"up" : { "texture": "#side" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+	 			"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "usu_east",
+			"from": [ 12.75, 8.5, 3.25 ],
+			"to": [ 14, 12, 12.75 ],
+			"faces": {
+				"up" : { "texture": "#side" },
+	 			"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "usu_west",
+			"from": [ 2, 8.5, 3.25 ],
+			"to": [ 3.25, 12, 12.75 ],
+			"faces": {
+				"up" : { "texture": "#side" },
+	 			"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		}
+	]
+}

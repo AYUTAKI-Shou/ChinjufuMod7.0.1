@@ -1,0 +1,180 @@
+{
+	"parent": "block/block",
+	"elements": [
+		{
+			"name": "akari",
+			"from": [ 7.95, 2.1, 2.95 ],
+			"to": [ 8.05, 2.9, 3.05 ],
+			"faces": {
+				"up": { "uv": [ 0.0, 0.0, 2.0, 2.0 ], "texture": "#akari" },
+				"north": { "uv": [ 0.0, 0.0, 2.0, 9.0 ], "texture": "#akari" },
+				"south": { "uv": [ 0.0, 0.0, 2.0, 9.0 ], "texture": "#akari" },
+				"east": { "uv": [ 0.0, 0.0, 2.0, 9.0 ], "texture": "#akari" },
+				"west": { "uv": [ 0.0, 0.0, 2.0, 9.0 ], "texture": "#akari" }
+			}
+		},
+		{
+			"name": "abura",
+			"from": [ 7.5, 2, 2.5 ],
+			"to": [ 8.5, 2.5, 3.5 ],
+			"faces": {
+				"up": { "uv": [ 7.5, 7.5, 8.5, 8.5 ], "texture": "#abura" },
+				"south": { "uv": [ 7.5, 6.0, 8.5, 6.5 ], "texture": "#abura" },
+				"north": { "uv": [ 7.5, 6.0, 8.5, 6.5 ], "texture": "#abura" },
+				"west": { "uv": [ 7.5, 6.0, 8.5, 6.5 ], "texture": "#abura" },
+				"east": { "uv": [ 7.5, 6.0, 8.5, 6.5 ], "texture": "#abura" }
+			}
+		},
+
+		{
+			"name": "take1_t1____________________________________________________",
+			"from": [ 6.5, 2, 1.5 ],
+			"to": [ 9.5, 8, 2 ],
+			"faces": {
+				"up": { "texture": "#take_uchi" },
+				"south": { "texture": "#take_uchi" },
+				"north": { "uv": [ 0.5, 3.0, 3.5, 9.0 ], "texture": "#take" },
+				"west": { "uv": [ 0.5, 3.0, 1.0, 9.0 ], "texture": "#take" },
+				"east": { "uv": [ 3.0, 3.0, 3.5, 9.0 ], "texture": "#take" }
+			}
+		},
+		{
+			"name": "take1_t1_east_shiro",
+			"from": [ 6.5, 2, 2 ],
+			"to": [ 7, 8, 2.5 ],
+			"faces": {
+				"up": { "texture": "#take_uchi" },
+				"south": { "texture": "#take_uchi" },
+				"west": { "uv": [ 1.0, 3.0, 1.5, 9.0 ], "texture": "#take" },
+				"east": { "texture": "#take_uchi" }
+			}
+		},
+		{
+			"name": "take1_t1",
+			"from": [ 9, 2, 2 ],
+			"to": [ 9.5, 8, 2.5 ],
+			"faces": {
+				"up": { "texture": "#take_uchi" },
+				"south": { "texture": "#take_uchi" },
+				"west": { "texture": "#take_uchi" },
+				"east": { "uv": [ 2.5, 3.0, 3.0, 9.0 ], "texture": "#take" }
+			}
+		},
+
+		{
+			"name": "take1_t2_east_shiro",
+			"from": [ 6.5, 2, 2.5 ],
+			"to": [ 7, 6.5, 3.5 ],
+			"faces": {
+				"up": { "texture": "#take_uchi" },
+				"south": { "texture": "#take_uchi" },
+				"west": { "uv": [ 1.5, 4.5, 2.5, 9.0 ], "texture": "#take" },
+				"east": { "texture": "#take_uchi" }
+			}
+		},
+		{
+			"name": "take1_t2",
+			"from": [ 9, 2, 2.5 ],
+			"to": [ 9.5, 6.5, 3.5 ],
+			"faces": {
+				"up": { "texture": "#take_uchi" },
+				"south": { "texture": "#take_uchi" },
+				"west": { "texture": "#take_uchi" },
+				"east": { "uv": [ 1.5, 4.5, 2.5, 9.0 ], "texture": "#take" }
+			}
+		},
+
+		{
+			"name": "take1_t3_east_shiro",
+			"from": [ 6.5, 2, 3.5 ],
+			"to": [ 7, 5, 4 ],
+			"faces": {
+				"up": { "texture": "#take_uchi" },
+				"south": { "texture": "#take_uchi" },
+				"west": { "uv": [ 2.5, 6.0, 3.0, 9.0 ], "texture": "#take" },
+				"east": { "texture": "#take_uchi" }
+			}
+		},
+		{
+			"name": "take1_t3",
+			"from": [ 9, 2, 3.5 ],
+			"to": [ 9.5, 5, 4 ],
+			"faces": {
+				"up": { "texture": "#take_uchi" },
+				"south": { "texture": "#take_uchi" },
+				"west": { "texture": "#take_uchi" },
+				"east": { "uv": [ 1.0, 6.0, 1.5, 9.0 ], "texture": "#take" }
+			}
+		},
+		{
+			"name": "take1_t3",
+			"from": [ 6.5, 2, 4 ],
+			"to": [ 9.5, 5, 4.5 ],
+			"faces": {
+				"up": { "texture": "#take_uchi" },
+				"south": { "uv": [ 0.5, 6.0, 3.5, 9.0 ], "texture": "#take" },
+				"north": { "texture": "#take_uchi" },
+				"west": { "uv": [ 3.0, 6.0, 3.5, 9.0 ], "texture": "#take" },
+				"east": { "uv": [ 0.5, 6.0, 1.0, 9.0 ], "texture": "#take" }
+			}
+		},
+
+		{
+			"name": "fushi",
+			"from": [ 6.5, 1, 1.5 ],
+			"to": [ 9.5, 2, 4.5 ],
+			"faces": {
+				"up": { "texture": "#take_uchi" },
+				"down": { "texture": "#take_uchi" },
+				"south": { "uv": [ 0.5, 9.0, 3.5, 10.0 ], "texture": "#take" },
+				"north": { "uv": [ 0.5, 9.0, 3.5, 10.0 ], "texture": "#take" },
+				"east": { "uv": [ 0.5, 9.0, 3.5, 10.0 ], "texture": "#take" },
+				"west": { "uv": [ 0.5, 9.0, 3.5, 10.0 ], "texture": "#take" }
+			}
+		},
+		{
+			"name": "take1_nor",
+			"from": [ 6.5, 0, 1.5 ],
+			"to": [ 9.5, 1, 2 ],
+			"faces": {
+				"down": { "texture": "#take_uchi" },
+				"south": { "texture": "#take_uchi" },
+				"north": { "uv": [ 0.5, 10.0, 3.5, 11.0 ], "texture": "#take" },
+				"west": { "uv": [ 0.5, 10.0, 1.0, 11.0 ], "texture": "#take" },
+				"east": { "uv": [ 3.0, 10.0, 3.5, 11.0 ], "texture": "#take" }
+			}
+		},
+		{
+			"name": "take1_sou",
+			"from": [ 6.5, 0, 4 ],
+			"to": [ 9.5, 1, 4.5 ],
+			"faces": {
+				"down": { "texture": "#take_uchi" },
+				"south": { "uv": [ 0.5, 10.0, 3.5, 11.0 ], "texture": "#take" },
+				"north": { "texture": "#take_uchi" },
+				"west": { "uv": [ 3.0, 10.0, 3.5, 11.0 ], "texture": "#take" },
+				"east": { "uv": [ 0.5, 10.0, 1.0, 11.0 ], "texture": "#take" }
+			}
+		},
+		{
+			"name": "take1_east",
+			"from": [ 6.5, 0, 2 ],
+			"to": [ 7, 1, 4 ],
+			"faces": {
+				"down": { "texture": "#take_uchi" },
+				"east": { "texture": "#take_uchi" },
+				"west": { "uv": [ 1.0, 10.0, 3.0, 11.0 ], "texture": "#take" }
+			}
+		},
+		{
+			"name": "take1_west",
+			"from": [ 9, 0, 2 ],
+			"to": [ 9.5, 1, 4 ],
+			"faces": {
+				"down": { "texture": "#take_uchi" },
+				"east": { "uv": [ 1.0, 10.0, 3.0, 11.0 ], "texture": "#take" },
+				"west": { "texture": "#take_uchi" }
+			}
+		}
+	]
+}

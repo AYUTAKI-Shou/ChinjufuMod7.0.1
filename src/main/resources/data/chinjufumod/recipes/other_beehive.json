@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"PPP",
+		"HHH",
+		"PPP"
+	],
+	"key": {
+		"P": [ { "tag": "minecraft:planks" }, { "tag": "forge:planks" } ],
+		"H": { "item": "minecraft:honeycomb" }
+	},
+	"result": { "item": "minecraft:beehive" }
+}

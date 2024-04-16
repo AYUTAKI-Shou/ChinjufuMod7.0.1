@@ -1,0 +1,56 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/leaves_cha",
+		"miki": "minecraft:block/jungle_log",
+		"miki_top": "minecraft:block/jungle_log_top",
+		"ha": "minecraft:block/jungle_leaves"
+	},
+	"elements": [
+		{
+			"name": "ha",
+			"from": [ 0.1, 4.0, 0.1 ],
+			"to": [ 15.9, 16.0, 15.9 ],
+			"faces": {
+				"down" : { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#ha", "tintindex": 1 },
+				"north": { "uv": [ 0.0, 0.0, 16.0, 12.0 ], "texture": "#ha", "tintindex": 1 },
+				"south": { "uv": [ 0.0, 0.0, 16.0, 12.0 ], "texture": "#ha", "tintindex": 1 },
+				"east" : { "uv": [ 0.0, 0.0, 16.0, 12.0 ], "texture": "#ha", "tintindex": 1 },
+				"west" : { "uv": [ 0.0, 0.0, 16.0, 12.0 ], "texture": "#ha", "tintindex": 1 }
+			}
+		},
+		{
+			"name": "ha_1",
+			"from": [ 0.1, 4.0, 7.99 ],
+			"to": [ 15.9, 16.0, 8.01 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": true },
+			"faces": {
+				"north": { "uv": [ 0.0, 0.0, 16.0, 12.0 ], "texture": "#ha", "tintindex": 1 },
+				"south": { "uv": [ 0.0, 0.0, 16.0, 12.0 ], "texture": "#ha", "tintindex": 1 }
+			}
+		},
+		{
+			"name": "ha_2",
+			"from": [ 7.99, 4.0, 0.1 ],
+			"to": [ 8.01, 16.0, 15.9 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": true },
+			"faces": {
+				"east" : { "uv": [ 0.0, 0.0, 16.0, 12.0 ], "texture": "#ha", "tintindex": 1 },
+				"west" : { "uv": [ 0.0, 0.0, 16.0, 12.0 ], "texture": "#ha", "tintindex": 1 }
+			}
+		},
+
+		{
+			"name": "miki_bot",
+			"from": [ 7, 0, 7 ],
+			"to": [ 9, 16, 9 ],
+			"faces": {
+				"down" : { "uv": [ 7.0, 7.0, 9.0, 9.0 ], "texture": "#miki_top", "cullface": "down" },
+				"north": { "uv": [ 0.0, 0.0, 2.0, 16.0 ], "texture": "#miki" },
+				"south": { "uv": [ 4.0, 0.0, 6.0, 16.0 ], "texture": "#miki" },
+				"east" : { "uv": [ 1.0, 0.0, 3.0, 16.0 ], "texture": "#miki" },
+				"west" : { "uv": [ 12.0, 0.0, 14.0, 16.0 ], "texture": "#miki" }
+			}
+		}
+	]
+}

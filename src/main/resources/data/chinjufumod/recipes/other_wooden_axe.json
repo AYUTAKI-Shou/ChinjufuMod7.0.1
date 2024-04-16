@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"XX",
+		"XY",
+		" Y"
+	],
+
+	"key": {
+		"X": [ { "tag": "minecraft:planks" }, { "tag": "forge:planks" } ],
+		"Y": { "tag": "forge:rods/wooden" }
+	},
+
+	"result": { "item": "minecraft:wooden_axe", "count": 1 }
+}

@@ -1,0 +1,35 @@
+{
+	"parent": "chinjufumod:block/rensouhou/shigurehou",
+	"gui_light": "front", "display": {
+		"gui": {
+			"rotation": [ 90, 0, 0 ],
+			"translation": [ 0, 2, 0 ],
+			"scale": [ 0.325, 0.325, 0.325 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 0, 180, 90 ],
+			"translation": [ 4.3, -2, 1.25 ],
+			"scale": [ 0.29, 0.29, 0.29 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 180, 90 ],
+			"translation": [ 2, 1, 6.3 ],
+			"scale": [ 0.29, 0.29, 0.29 ]
+		},
+		"fixed": {
+			"rotation": [ 270, 225, 0 ],
+			"translation": [ 1, 1.5, -2.15 ],
+			"scale": [ 0.35, 0.35, 0.35 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 0.29, 0.29, 0.29 ]
+		}
+	},
+	"overrides": [
+		{ "predicate": { "pull": 1 },
+			"model": "chinjufumod:item/item_shigurehou_pull"
+		}
+	]
+}

@@ -1,0 +1,121 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/dish_white",
+		"chickensara": "chinjufumod:block/dish_white",
+		"lettuce": "chinjufumod:block/food_lettuce",
+		"chicken": "chinjufumod:block/food_teri",
+		"chicken2": "chinjufumod:block/food_tori_b",
+		"hourensou": "chinjufumod:block/food_oleracea_b",
+ 		"ninjin": "chinjufumod:block/food_carot_b",
+ 		"tomato": "chinjufumod:block/tomato_crop7"
+	},
+	"elements": [
+		{
+			"name": "chickensara_n_top____________________________________________",
+			"from": [ 3.0, 0.4, 3.0 ],
+			"to": [ 13.0, 0.6, 4.5 ],
+			"faces": {
+				"up" : { "texture": "#chickensara" },
+				"down" : { "texture": "#chickensara" },
+				"north": { "texture": "#chickensara" },
+				"south": { "texture": "#chickensara" },
+				"east" : { "texture": "#chickensara" },
+				"west" : { "texture": "#chickensara" }
+			}
+		},
+		{
+			"name": "chickensara_s_top",
+			"from": [ 3.0, 0.4, 11.5 ],
+			"to": [ 13.0, 0.6, 13.0 ],
+			"faces": {
+				"up" : { "texture": "#chickensara" },
+				"down" : { "texture": "#chickensara" },
+				"north": { "texture": "#chickensara" },
+				"south": { "texture": "#chickensara" },
+				"east" : { "texture": "#chickensara" },
+				"west" : { "texture": "#chickensara" }
+			}
+		},
+		{
+			"name": "chickensara_e_top",
+			"from": [ 11.5, 0.4, 4.5 ],
+			"to": [ 13.0, 0.6, 11.5 ],
+			"faces": {
+				"up" : { "texture": "#chickensara" },
+				"down" : { "texture": "#chickensara" },
+				"east" : { "texture": "#chickensara" },
+				"west" : { "texture": "#chickensara" }
+			}
+		},
+		{
+			"name": "chickensara_w_top",
+			"from": [ 3.0, 0.4, 4.5 ],
+			"to": [ 4.5, 0.6, 11.5 ],
+			"faces": {
+				"up" : { "texture": "#chickensara" },
+				"down" : { "texture": "#chickensara" },
+				"east" : { "texture": "#chickensara" },
+				"west" : { "texture": "#chickensara" }
+			}
+		},
+
+		{
+			"name": "chickensara_top____________________________________________",
+			"from": [ 4.5, 0.3, 4.5 ],
+			"to": [ 11.5, 0.5, 11.5 ],
+			"faces": {
+				"up" : { "texture": "#chickensara" },
+				"down" : { "texture": "#chickensara" },
+				"north": { "texture": "#chickensara" },
+				"south": { "texture": "#chickensara" },
+				"east" : { "texture": "#chickensara" },
+				"west" : { "texture": "#chickensara" }
+			}
+		},
+		{
+			"name": "chickensara_bot_nor",
+			"from": [ 4.5, 0.0, 4.5 ],
+			"to": [ 11.5, 0.3, 4.8 ],
+			"faces": {
+				"down" : { "texture": "#chickensara" },
+				"north": { "texture": "#chickensara" },
+				"south": { "texture": "#chickensara" },
+				"east" : { "texture": "#chickensara" },
+				"west" : { "texture": "#chickensara" }
+			}
+		},
+		{
+			"name": "chickensara_bot_sou",
+			"from": [ 4.5, 0.0, 11.2 ],
+			"to": [ 11.5, 0.3, 11.5 ],
+			"faces": {
+				"down" : { "texture": "#chickensara" },
+				"north": { "texture": "#chickensara" },
+				"south": { "texture": "#chickensara" },
+				"east" : { "texture": "#chickensara" },
+				"west" : { "texture": "#chickensara" }
+			}
+		},
+		{
+			"name": "chickensara_bot_east",
+			"from": [ 4.5, 0.0, 4.8 ],
+			"to": [ 4.8, 0.3, 11.2 ],
+			"faces": {
+				"down" : { "texture": "#chickensara" },
+				"east" : { "texture": "#chickensara" },
+				"west" : { "texture": "#chickensara" }
+			}
+		},
+		{
+			"name": "chickensara_bot_west",
+			"from": [ 11.2, 0.0, 4.8 ],
+			"to": [ 11.5, 0.3, 11.2 ],
+			"faces": {
+				"down" : { "texture": "#chickensara" },
+				"east" : { "texture": "#chickensara" },
+				"west" : { "texture": "#chickensara" }
+			}
+		}
+	]
+}

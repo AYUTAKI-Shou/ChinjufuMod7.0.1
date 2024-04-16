@@ -1,0 +1,20 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "chinjufumod:block/turmeric_2",
+		"cross": "chinjufumod:block/turmeric_2"
+	},
+	"elements": [
+		{ 
+			"name": "x0,y16",
+			"from": [ 1.5, -1, 4 ],
+			"to": [ 14.5, 12, 4 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": -22.5, "rescale": false },
+			"shade": true,
+			"faces": {
+				"north": { "uv": [ 16, 0, 0, 16 ], "texture": "#cross" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross" }
+			}
+		}
+	]
+}

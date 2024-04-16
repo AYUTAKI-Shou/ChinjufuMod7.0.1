@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_sama",
+
+	"pattern": [
+		"X X"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_plaster_yellow" }
+	},
+
+	"result": { "item": "chinjufumod:block_sama_yellow", "count": 4 }
+}

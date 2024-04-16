@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_gohan",
+
+	"ingredients": [
+		{ "tag": "forge:buckets/water" },
+		{ "item": "chinjufumod:item_kome" },
+		{ "item": "chinjufumod:item_kome" },
+		{ "item": "chinjufumod:item_kome" },
+		{ "item": "chinjufumod:block_food_karanabe" },
+		{ "tag": "forge:crops/chestnut" },
+		{ "tag": "forge:crops/chestnut" },
+		{ "tag": "forge:crops/chestnut" },
+		[ { "tag": "forge:dusts/salt" }, { "tag": "forge:foods/salt" }, { "tag": "forge:items/salt" } ]
+	],
+
+	"result": { "item": "chinjufumod:block_food_nabegohankuri_n", "count" : 1 }
+}

@@ -1,0 +1,21 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/take_outside",
+		"bamboo": "chinjufumod:block/take_outside"
+	},
+	"elements": [
+		{
+			"from": [ 7, 0, 7 ],
+			"to": [ 9, 16, 9 ],
+			"faces": {
+				"up": { "uv": [ 12, 2, 14, 2 ], "texture": "#bamboo", "cullface": "up" },
+				"down": { "uv": [ 8, 0, 10, 2 ], "texture": "#bamboo", "cullface": "down" },
+				"north": { "uv": [ 1, 0, 3, 16 ], "texture": "#bamboo" },
+				"south": { "uv": [ 1, 0, 3, 16 ], "texture": "#bamboo" },
+				"west": { "uv": [ 1, 0, 3, 16 ], "texture": "#bamboo" },
+				"east": { "uv": [ 1, 0, 3, 16 ], "texture": "#bamboo" }
+			}
+		}
+	]
+}

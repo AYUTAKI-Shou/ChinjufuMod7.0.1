@@ -1,0 +1,43 @@
+{
+	"parent": "chinjufumod:cm_story/crops/get_curry_roux",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.crops.get_curry.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.crops.get_curry.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_food_curry_1"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_food_curry_1" } ] }
+		},
+		"has_material2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_food_curry_c1" } ] }
+		},
+		"has_material3": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_food_curry_t1" } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material",
+			"has_material2",
+			"has_material3"
+		]
+	],
+	"rewards": { "experience": 10 }
+}

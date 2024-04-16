@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_tansu",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:jungle_planks" },
+		"Y": { "item": "minecraft:jungle_slab" }
+	},
+
+	"result": { "item": "chinjufumod:block_tansu_jungle", "count": 1 }
+}

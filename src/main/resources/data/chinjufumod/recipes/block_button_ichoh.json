@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_button",
+
+	"pattern": [
+		"X"
+	],
+
+	"key": {
+		"X": { "tag": "forge:planks/ginkgo" }
+	},
+
+	"result": { "item": "chinjufumod:block_button_ichoh", "count": 1 }
+}

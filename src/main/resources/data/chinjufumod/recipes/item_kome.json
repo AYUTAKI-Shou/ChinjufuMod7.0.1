@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_gohan",
+
+	"pattern": [
+		"X"
+	],
+
+	"key": {
+		"X": { "tag": "forge:seeds/rice" }
+	},
+
+	"result": { "item": "chinjufumod:item_kome", "count": 1 }
+}

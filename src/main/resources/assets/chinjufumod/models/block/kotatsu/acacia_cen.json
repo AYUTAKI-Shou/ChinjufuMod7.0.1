@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/kotatsu1_cen",
+	"textures": {
+		"particle": "minecraft:block/acacia_planks",
+		"ten": "minecraft:block/acacia_planks",
+		"futon": "chinjufumod:block/kotatsufuton_aca",
+		"leg": "chinjufumod:block/muku_acacia"
+	}
+}

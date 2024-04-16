@@ -1,0 +1,23 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/samon_7",
+		"top": "chinjufumod:block/samon_1",
+		"side": "chinjufumod:block/samon_7"
+	},
+	"elements": [
+		{
+			"name": "base",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"up": { "texture": "#top", "cullface": "up" },
+				"down": { "texture": "#side", "cullface": "down" },
+				"north": { "texture": "#side", "cullface": "north" },
+				"south": { "texture": "#side", "cullface": "south" },
+				"west": { "texture": "#side", "cullface": "west" },
+				"east": { "texture": "#side", "cullface": "east" }
+			}
+		}
+	]
+}

@@ -1,0 +1,66 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "minecraft:block/oak_log",
+		"side": "minecraft:block/oak_log",
+		"top": "minecraft:block/oak_log_top",
+		"kinoko": "minecraft:block/brown_mushroom"
+	},
+	"elements":[
+		{
+			"name": "bot",
+			"from": [ 5, 0, 5 ],
+			"to": [ 11, 12, 11 ],
+			"rotation": { "origin": [ 8, 10.3, 8 ], "axis": "x", "angle": -22.5, "rescale": false },
+			"faces": {
+				"down" : { "texture":"#top" },
+				"north": { "uv": [ 5.0, 4.0, 11.0, 16.0 ], "texture":"#side" },
+				"south": { "uv": [ 5.0, 4.0, 11.0, 16.0 ], "texture":"#side" },
+				"west" : { "uv": [ 5.0, 4.0, 11.0, 16.0 ], "texture":"#side" },
+				"east" : { "uv": [ 5.0, 4.0, 11.0, 16.0 ], "texture":"#side" }
+			}
+		},
+
+		{
+			"name": "kinoko_hidari_b",
+			"from": [ 2, 10, 6.5 ],
+			"to": [ 5, 10, 9.5 ],
+			"rotation": { "origin": [ 8, 10.3, 8 ], "axis": "x", "angle": -22.5, "rescale": false },
+			"faces": {
+				"up" : { "uv": [ 12.0, 16.0, 4.0, 8.0 ], "texture":"#kinoko", "rotation": 90 },
+				"down" : { "uv": [ 12.0, 8.0, 4.0, 16.0 ], "texture":"#kinoko", "rotation": 270 }
+			}
+		},
+		{
+			"name": "kinoko_hidari_b",
+			"from": [ 2, 8.5, 8 ],
+			"to": [ 5, 11.5, 8 ],
+			"rotation": { "origin": [ 8, 10.3, 8 ], "axis": "x", "angle": -22.5, "rescale": false },
+			"faces": {
+				"north" : { "uv": [ 12.0, 16.0, 4.0, 8.0 ], "texture":"#kinoko", "rotation": 270 },
+				"south" : { "uv": [ 12.0, 8.0, 4.0, 16.0 ], "texture":"#kinoko", "rotation": 270 }
+			}
+		},
+
+		{
+			"name": "kinoko_migi_c2",
+			"from": [ 11, 8, 6 ],
+			"to": [ 13, 8, 8 ],
+			"rotation": { "origin": [ 8, 10.3, 8 ], "axis": "x", "angle": -22.5, "rescale": false },
+			"faces": {
+				"up" : { "uv": [ 4.0, 16.0, 12.0, 8.0 ], "texture":"#kinoko", "rotation": 270 },
+				"down" : { "uv": [ 4.0, 8.0, 12.0, 16.0 ], "texture":"#kinoko", "rotation": 90 }
+			}
+		},
+		{
+			"name": "kinoko_migi_c2",
+			"from": [ 11, 7, 7 ],
+			"to": [ 13, 9, 7 ],
+			"rotation": { "origin": [ 8, 10.3, 8 ], "axis": "x", "angle": -22.5, "rescale": false },
+			"faces": {
+				"north" : { "uv": [ 4.0, 16.0, 12.0, 8.0 ], "texture":"#kinoko", "rotation": 90 },
+				"south" : { "uv": [ 4.0, 8.0, 12.0, 16.0 ], "texture":"#kinoko", "rotation": 90 }
+			}
+		}
+	]
+}

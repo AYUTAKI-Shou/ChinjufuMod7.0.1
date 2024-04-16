@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"": [
+			{ "model": "chinjufumod:block/crop/hamaguri" },
+			{ "model": "chinjufumod:block/crop/hamaguri", "y": 90 },
+			{ "model": "chinjufumod:block/crop/hamaguri", "y": 180 },
+			{ "model": "chinjufumod:block/crop/hamaguri", "y": 270 }
+		]
+	}
+}

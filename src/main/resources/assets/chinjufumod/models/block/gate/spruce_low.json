@@ -1,0 +1,44 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/gate_spruce_front",
+		"front": "chinjufumod:block/gate_spruce_front",
+		"side": "chinjufumod:block/gate_spruce_side",
+		"rivet": "chinjufumod:block/gate_spruce_rivet"
+	},
+	"elements": [
+		{
+			"name": "right_low_fuchi_shita____under_0_move",
+			"from": [ 0, 0.2, 8.0 ],
+			"to": [ 11, 5, 12.2 ],
+			"faces": {
+				"up": { "uv": [ 0.4, 5.0, 4.6, 16.0 ], "texture": "#side", "rotation": 90 },
+				"down": { "uv": [ 0.4, 5.0, 4.6, 16.0 ], "texture": "#side", "rotation": 90 },
+				"north": { "uv": [ 0.0, 16.0, 5.0, 5.0 ], "texture": "#side", "rotation": 90 },
+				"south": { "uv": [ 0.0, 5.0, 5.0, 16.0 ], "texture": "#side", "rotation": 90 }
+			}
+		},
+		{
+			"name": "right_low_fuchi_yoko",
+			"from": [ 11, 0.2, 8.0 ],
+			"to": [ 15.9, 16, 12.2 ],
+			"faces": {
+				"down": { "uv": [ 0.0, 11.0, 5.0, 16.0 ], "texture": "#side" },
+				"north": { "uv": [ 0.0, 0.0, 5.0, 16.0 ], "texture": "#side" },
+				"south": { "uv": [ 0.0, 0.0, 5.0, 16.0 ], "texture": "#side" },
+				"east": { "uv": [ 0.4, 0.0, 4.6, 16.0 ], "texture": "#side" },
+				"west": { "uv": [ 0.4, 0.0, 4.6, 16.0 ], "texture": "#side" }
+			}
+		},
+
+		{
+			"name": "right_front_center",
+			"from": [ 0, 5, 8.4 ],
+			"to": [ 11, 16, 11.8 ],
+			"faces": {
+				"north": { "uv": [ 11.0, 0.0, 0.0, 11.0 ], "texture": "#front" },
+				"south": { "uv": [ 0.0, 0.0, 11.0, 11.0 ], "texture": "#front" }
+			}
+		}
+	]
+}

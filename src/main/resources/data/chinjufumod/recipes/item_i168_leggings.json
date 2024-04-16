@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_leggings",
+
+	"ingredients": [
+		{ "item": "minecraft:leather_leggings" },
+		{ "tag": "forge:dyes/magenta" },
+		{ "item": "minecraft:coal" },
+		{ "tag": "forge:ingots/iron" },
+		{ "item": "chinjufumod:item_workorder" }
+	],
+
+	"result": { "item": "chinjufumod:item_i168_leggings", "count": 1 }
+}

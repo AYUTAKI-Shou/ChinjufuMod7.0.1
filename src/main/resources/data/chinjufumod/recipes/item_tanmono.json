@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_sozai",
+
+	"pattern": [
+		" X ",
+		"XXX",
+		" X "
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:item_oriito" }
+	},
+
+	"result": { "item": "chinjufumod:item_tanmono", "count": 1 }
+}

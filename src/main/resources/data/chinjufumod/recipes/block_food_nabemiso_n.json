@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_nabe",
+
+	"ingredients": [
+		{ "tag": "forge:buckets/water" },
+		[ { "tag": "forge:foods/silkentofu" }, { "tag": "forge:foods/silkentoufu" } ],
+		[ { "tag": "forge:foods/silkentofu" }, { "tag": "forge:foods/silkentoufu" } ],
+		{ "tag": "forge:foods/misopaste" },
+		{ "tag": "forge:dusts/dashi" },
+		{ "item": "chinjufumod:block_food_karanabe" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_nabemiso_n", "count" : 1 }
+}

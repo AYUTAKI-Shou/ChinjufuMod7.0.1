@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/okonomiyaki_hand",
+	"textures": {
+		"particle": "chinjufumod:block/okonomic_bake",
+		"sara": "chinjufumod:block/dish_white",
+		"okonomi": "chinjufumod:block/okonomic_bake_re",
+		"okonomi_top": "chinjufumod:block/okonomic_bake"
+	}
+}

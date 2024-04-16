@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_sama",
+
+	"pattern": [
+		"X X"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_dirtwall" }
+	},
+
+	"result": { "item": "chinjufumod:block_dirtwall_sama", "count": 4 }
+}

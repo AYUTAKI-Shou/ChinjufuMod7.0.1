@@ -1,0 +1,23 @@
+{
+	"variants": {
+	"facing=north,stage=1": { "model": "chinjufumod:block/kamoicolor/yellow_ichoh1n" },
+	"facing=south,stage=1": { "model": "chinjufumod:block/kamoicolor/yellow_ichoh1s" },
+	"facing=west,stage=1": { "model": "chinjufumod:block/kamoicolor/yellow_ichoh1w" },
+	"facing=east,stage=1": { "model": "chinjufumod:block/kamoicolor/yellow_ichoh1e" },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/kamoicolor/yellow_ichoh2n" },
+		"facing=south,stage=2": { "model": "chinjufumod:block/kamoicolor/yellow_ichoh2s" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/kamoicolor/yellow_ichoh2w" },
+		"facing=east,stage=2": { "model": "chinjufumod:block/kamoicolor/yellow_ichoh2e" },
+
+	"facing=north,stage=3": { "model": "chinjufumod:block/kamoicolor/yellow_ichoh3n" },
+	"facing=south,stage=3": { "model": "chinjufumod:block/kamoicolor/yellow_ichoh3s" },
+	"facing=west,stage=3": { "model": "chinjufumod:block/kamoicolor/yellow_ichoh3w" },
+	"facing=east,stage=3": { "model": "chinjufumod:block/kamoicolor/yellow_ichoh3e" },
+
+		"facing=north,stage=4": { "model": "chinjufumod:block/kamoicolor/yellow_ichoh4n" },
+		"facing=south,stage=4": { "model": "chinjufumod:block/kamoicolor/yellow_ichoh4s" },
+		"facing=west,stage=4": { "model": "chinjufumod:block/kamoicolor/yellow_ichoh4w" },
+		"facing=east,stage=4": { "model": "chinjufumod:block/kamoicolor/yellow_ichoh4e" }
+	}
+}

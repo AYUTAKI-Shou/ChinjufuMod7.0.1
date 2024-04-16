@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_lamp",
+
+	"pattern": [
+		"ZXZ",
+		"XYX",
+		"ZXZ"
+	],
+
+	"key": {
+		"X": [ { "tag": "forge:ingots/iron" }, { "tag": "forge:ingots/aluminum" }, { "tag": "forge:ingots/aluminium" } ],
+		"Y": { "item": "minecraft:glowstone" },
+		"Z": { "tag": "forge:glass_panes/colorless" }
+	},
+
+	"result": { "item": "chinjufumod:block_lightembed", "count": 4 }
+}

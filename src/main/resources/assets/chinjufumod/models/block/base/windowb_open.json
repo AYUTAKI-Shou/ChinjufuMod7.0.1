@@ -1,0 +1,235 @@
+{
+	"parent": "block/block",
+	"elements": [
+		{
+			"name": "waku_hidari",
+			"from": [ 0, 0, 6.75 ],
+			"to": [ 1.5, 16, 8.75 ],
+			"faces": {
+				"up": { "uv": [ 2.0, 8.75, 0.0, 7.25 ], "texture": "#side", "rotation": 90 },
+				"down": { "uv": [ 0.0, 7.25, 2.0, 8.75 ], "texture": "#side", "rotation": 90 },
+				"north": { "uv": [ 7.25, 0.0, 8.75, 16.0 ], "texture": "#side" },
+				"south": { "uv": [ 7.25, 0.0, 8.75, 16.0 ], "texture": "#side" },
+				"east": { "uv": [ 0.0, 0.0, 2.0, 16.0 ], "texture": "#front" },
+				"west": { "uv": [ 14.0, 0.0, 16.0, 16.0 ], "texture": "#front" }
+			}
+		},
+		{
+			"name": "waku_hidari_shita",
+			"from": [ 0, 0, 2.75 ],
+			"to": [ 1.5, 2, 6.75 ],
+			"faces": {
+				"up": { "uv": [ 6.0, 8.75, 2.0, 7.25 ], "texture": "#side", "rotation": 90 },
+				"down": { "uv": [ 2.0, 7.25, 6.0, 8.75 ], "texture": "#side", "rotation": 90 },
+				"east": { "uv": [ 2.0, 14.0, 6.0, 16.0 ], "texture": "#front" },
+				"west": { "uv": [ 10.0, 14.0, 14.0, 16.0 ], "texture": "#front" }
+			}
+		},
+		{
+			"name": "waku_hidari_naka",
+			"from": [ 0, 7, 2.75 ],
+			"to": [ 1.5, 9, 6.75 ],
+			"faces": {
+				"up": { "uv": [ 6.0, 8.75, 2.0, 7.25 ], "texture": "#side", "rotation": 90 },
+				"down": { "uv": [ 2.0, 7.25, 6.0, 8.75 ], "texture": "#side", "rotation": 90 },
+				"east": { "uv": [ 2.0, 7.25, 6.0, 8.75 ], "texture": "#front" },
+				"west": { "uv": [ 10.0, 7.25, 14.0, 8.75 ], "texture": "#front" }
+			}
+		},
+		{
+			"name": "waku_hidari_ue",
+			"from": [ 0, 14, 2.75 ],
+			"to": [ 1.5, 16, 6.75 ],
+			"faces": {
+				"up": { "uv": [ 6.0, 8.75, 2.0, 7.25 ], "texture": "#side", "rotation": 90 },
+				"down": { "uv": [ 2.0, 7.25, 6.0, 8.75 ], "texture": "#side", "rotation": 90 },
+				"east": { "uv": [ 2.0, 0.0, 6.0, 2.0 ], "texture": "#front" },
+				"west": { "uv": [ 10.0, 0.0, 14.0, 2.0 ], "texture": "#front" }
+			}
+		},
+
+		{
+			"name": "waku_hidari_naka_shita_______________________________",
+			"from": [ 0, 0, 0.75 ],
+			"to": [ 1.5, 6.5, 2.75 ],
+			"faces": {
+				"up": { "uv": [ 6.0, 8.75, 8.0, 7.25 ], "texture": "#side", "rotation": 90 },
+				"down": { "uv": [ 6.0, 7.25, 8.0, 8.75 ], "texture": "#side", "rotation": 90 },
+				"north": { "uv": [ 7.25, 9.5, 8.75, 16.0 ], "texture": "#side" },
+				"south": { "uv": [ 7.25, 9.5, 8.75, 16.0 ], "texture": "#side" },
+				"east": { "uv": [ 6.0, 9.5, 8.0, 16.0 ], "texture": "#front" },
+				"west": { "uv": [ 8.0, 9.5, 10.0, 16.0 ], "texture": "#front" }
+			}
+		},
+		{
+			"name": "waku_hidari_naka_ue",
+			"from": [ 0, 9.5, 0.75 ],
+			"to": [ 1.5, 16, 2.75 ],
+			"faces": {
+				"up": { "uv": [ 6.0, 8.75, 8.0, 7.25 ], "texture": "#side", "rotation": 90 },
+				"down": { "uv": [ 6.0, 7.25, 8.0, 8.75 ], "texture": "#side", "rotation": 90 },
+				"north": { "uv": [ 7.25, 0.0, 8.75, 6.5 ], "texture": "#side" },
+				"south": { "uv": [ 7.25, 0.0, 8.75, 6.5 ], "texture": "#side" },
+				"east": { "uv": [ 6.0, 0.0, 8.0, 6.5 ], "texture": "#front" },
+				"west": { "uv": [ 8.0, 0.0, 10.0, 6.5 ], "texture": "#front" }
+			}
+		},
+
+		{
+			"name": "waku_hidari_naka1",
+			"from": [ 0, 6.5, 2.25 ],
+			"to": [ 1.5, 9.5, 2.75 ],
+			"faces": {
+				"north": { "uv": [ 7.25, 6.5, 8.75, 9.5 ], "texture": "#side" },
+				"south": { "uv": [ 7.25, 6.5, 8.75, 9.5 ], "texture": "#side" },
+				"east": { "uv": [ 6.0, 6.5, 6.5, 9.5 ], "texture": "#front" },
+				"west": { "uv": [ 10.0, 6.5, 9.5, 9.5 ], "texture": "#front" }
+			}
+		},
+		{
+			"name": "waku_hidari_naka2",
+			"from": [ 0, 6.5, 0.75 ],
+			"to": [ 1.5, 9.5, 1.25 ],
+			"faces": {
+				"north": { "uv": [ 7.25, 6.5, 8.75, 9.5 ], "texture": "#side" },
+				"south": { "uv": [ 7.25, 6.5, 8.75, 9.5 ], "texture": "#side" },
+				"east": { "uv": [ 7.5, 6.5, 8.0, 9.5 ], "texture": "#front" },
+				"west": { "uv": [ 8.0, 6.5, 8.5, 9.5 ], "texture": "#front" }
+			}
+		},
+		{
+			"name": "totte",
+			"from": [ 0.25, 6.5, 1.25 ],
+			"to": [ 1.25, 9.5, 2.25 ],
+			"faces": {
+				"east": { "uv": [ 6.5, 6.5, 7.5, 9.5 ], "texture": "#totte" },
+				"west": { "uv": [ 8.5, 6.5, 9.5, 9.5 ], "texture": "#totte" }
+			}
+		},
+		{
+			"name": "glass",
+			"from": [ 0.5, 1.5, 2.25 ],
+			"to": [ 1, 14.5, 7.25 ],
+			"faces": {
+				"east": { "uv": [ 1.5, 1.5, 6.5, 14.5 ], "texture": "#glass" },
+				"west": { "uv": [ 9.5, 1.5, 14.5, 14.5 ], "texture": "#glass" }
+			}
+		},
+
+		{
+			"name": "waku_migi_naka_shita____________________________migi",
+			"from": [ 14.5, 0, 0.75 ],
+			"to": [ 16, 6.5, 2.75 ],
+			"faces": {
+				"up": { "uv": [ 8.0, 7.25, 10.0, 8.75 ], "texture": "#side", "rotation": 90 },
+				"down": { "uv": [ 10.0, 8.75, 8.0, 7.25 ], "texture": "#side", "rotation": 90 },
+				"north": { "uv": [ 7.25, 9.5, 8.75, 16.0 ], "texture": "#side" },
+				"south": { "uv": [ 7.25, 9.5, 8.75, 16.0 ], "texture": "#side" },
+				"east": { "uv": [ 6.0, 9.5, 8.0, 16.0 ], "texture": "#front" },
+				"west": { "uv": [ 8.0, 9.5, 10.0, 16.0 ], "texture": "#front" }
+			}
+		},
+		{
+			"name": "waku_migi_naka_ue",
+			"from": [ 14.5, 9.5, 0.75 ],
+			"to": [ 16, 16, 2.75 ],
+			"faces": {
+				"up": { "uv": [ 8.0, 7.25, 10.0, 8.75 ], "texture": "#side", "rotation": 90 },
+				"down": { "uv": [ 10.0, 8.75, 8.0, 7.25 ], "texture": "#side", "rotation": 90 },
+				"north": { "uv": [ 7.25, 0.0, 8.75, 6.5 ], "texture": "#side" },
+				"south": { "uv": [ 7.25, 0.0, 8.75, 6.5 ], "texture": "#side" },
+				"east": { "uv": [ 6.0, 0.0, 8.0, 6.5 ], "texture": "#front" },
+				"west": { "uv": [ 8.0, 0.0, 10.0, 6.5 ], "texture": "#front" }
+			}
+		},
+
+		{
+			"name": "waku_migi_naka1",
+			"from": [ 14.5, 6.5, 0.75 ],
+			"to": [ 16, 9.5, 1.25 ],
+			"faces": {
+				"north": { "uv": [ 7.25, 6.5, 8.75, 9.5 ], "texture": "#side" },
+				"south": { "uv": [ 7.25, 6.5, 8.75, 9.5 ], "texture": "#side" },
+				"east": { "uv": [ 7.5, 6.5, 8.0, 9.5 ], "texture": "#front" },
+				"west": { "uv": [ 8.0, 6.5, 8.5, 9.5 ], "texture": "#front" }
+			}
+		},
+		{
+			"name": "waku_migi_naka2",
+			"from": [ 14.5, 6.5, 2.25 ],
+			"to": [ 16, 9.5, 2.75 ],
+			"faces": {
+				"north": { "uv": [ 7.25, 6.5, 8.75, 9.5 ], "texture": "#side" },
+				"south": { "uv": [ 7.25, 6.5, 8.75, 9.5 ], "texture": "#side" },
+				"east": { "uv": [ 6.0, 6.5, 6.5, 9.5 ], "texture": "#front" },
+				"west": { "uv": [ 9.5, 6.5, 10.0, 9.5 ], "texture": "#front" }
+			}
+		},
+		{
+			"name": "totte",
+			"from": [ 14.75, 6.5, 1.25 ],
+			"to": [ 15.75, 9.5, 2.25 ],
+			"faces": {
+				"east": { "uv": [ 6.5, 6.5, 7.5, 9.5 ], "texture": "#totte" },
+				"west": { "uv": [ 8.5, 6.5, 9.5, 9.5 ], "texture": "#totte" }
+			}
+		},
+
+		{
+			"name": "waku_migi_______________________________",
+			"from": [ 14.5, 0, 6.75 ],
+			"to": [ 16, 16, 8.75 ],
+			"faces": {
+				"up": { "uv": [ 14.0, 7.25, 16.0, 8.75 ], "texture": "#side", "rotation": 90 },
+				"down": { "uv": [ 16.0, 8.75, 14.0, 7.25 ], "texture": "#side", "rotation": 90 },
+				"north": { "uv": [ 7.25, 0.0, 8.75, 16.0 ], "texture": "#side" },
+				"south": { "uv": [ 7.25, 0.0, 8.75, 16.0 ], "texture": "#side" },
+				"east": { "uv": [ 0.0, 0.0, 2.0, 16.0 ], "texture": "#front" },
+				"west": { "uv": [ 14.0, 0.0, 16.0, 16.0 ], "texture": "#front" }
+			}
+		},
+		{
+			"name": "waku_migi_shita",
+			"from": [ 14.5, 0, 2.75 ],
+			"to": [ 16, 2, 6.75 ],
+			"faces": {
+				"up": { "uv": [ 10.0, 7.25, 14.0, 8.75 ], "texture": "#side", "rotation": 90 },
+				"down": { "uv": [ 14.0, 8.75, 10.0, 7.25 ], "texture": "#side", "rotation": 90 },
+				"east": { "uv": [ 2.0, 14.0, 6.0, 16.0 ], "texture": "#front" },
+				"west": { "uv": [ 10.0, 14.0, 14.0, 16.0 ], "texture": "#front" }
+			}
+		},
+		{
+			"name": "waku_migi_naka",
+			"from": [ 14.5, 7, 2.75 ],
+			"to": [ 16, 9, 6.75 ],
+			"faces": {
+				"up": { "uv": [ 10.0, 7.25, 14.0, 8.75 ], "texture": "#side", "rotation": 90 },
+				"down": { "uv": [ 14.0, 8.75, 10.0, 7.25 ], "texture": "#side", "rotation": 90 },
+				"east": { "uv": [ 2.0, 7.25, 6.0, 8.75 ], "texture": "#front" },
+				"west": { "uv": [ 10.0, 7.25, 14.0, 8.75 ], "texture": "#front" }
+			}
+		},
+		{
+			"name": "waku_migi_ue",
+			"from": [ 14.5, 14, 2.75 ],
+			"to": [ 16, 16, 6.75 ],
+			"faces": {
+				"up": { "uv": [ 10.0, 7.25, 14.0, 8.75 ], "texture": "#side", "rotation": 90 },
+				"down": { "uv": [ 14.0, 8.75, 10.0, 7.25 ], "texture": "#side", "rotation": 90 },
+				"east": { "uv": [ 2.0, 0.0, 6.0, 2.0 ], "texture": "#front" },
+				"west": { "uv": [ 10.0, 0.0, 14.0, 2.0 ], "texture": "#front" }
+			}
+		},
+
+		{
+			"name": "glass_migi",
+			"from": [ 15, 1.5, 2.25 ],
+			"to": [ 15.5, 14.5, 7.25 ],
+			"faces": {
+				"east": { "uv": [ 1.5, 1.5, 6.5, 14.5 ], "texture": "#glass" },
+				"west": { "uv": [ 9.5, 1.5, 14.5, 14.5 ], "texture": "#glass" }
+			}
+		}
+	]
+}

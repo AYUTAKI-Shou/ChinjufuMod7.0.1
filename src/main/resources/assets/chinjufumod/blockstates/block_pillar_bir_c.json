@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"axis=y": { "model": "chinjufumod:block/pillar/birch" },
+		"axis=z": { "model": "chinjufumod:block/pillar/birch", "x": 90 },
+		"axis=x": { "model": "chinjufumod:block/pillar/birch", "x": 90, "y": 90 }
+	}
+}

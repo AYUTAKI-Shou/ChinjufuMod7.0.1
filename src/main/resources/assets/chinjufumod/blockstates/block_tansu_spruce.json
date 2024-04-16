@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"facing=north,open=false": { "model": "chinjufumod:block/tansu/spruce", "y": 180 },
+		"facing=south,open=false": { "model": "chinjufumod:block/tansu/spruce", "y": 0 },
+		"facing=west,open=false": { "model": "chinjufumod:block/tansu/spruce", "y": 90 },
+		"facing=east,open=false": { "model": "chinjufumod:block/tansu/spruce", "y": 270 },
+		
+		"facing=north,open=true": { "model": "chinjufumod:block/tansu/open_spruce", "y": 180 },
+		"facing=south,open=true": { "model": "chinjufumod:block/tansu/open_spruce", "y": 0 },
+		"facing=west,open=true": { "model": "chinjufumod:block/tansu/open_spruce", "y": 90 },
+		"facing=east,open=true": { "model": "chinjufumod:block/tansu/open_spruce", "y": 270 }
+	}
+}

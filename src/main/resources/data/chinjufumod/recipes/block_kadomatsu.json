@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_seasonal",
+
+	"pattern": [
+		"XXX",
+		"YZY",
+		"BAB"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:bamboo" },
+		"Y": { "item": "minecraft:spruce_sapling" },
+		"Z": { "item": "minecraft:rose_bush" },
+		"A": { "item": "minecraft:dirt" },
+		"B": [ { "tag": "forge:crops/wheat" }, { "item": "chinjufumod:item_inewara" } ]
+	},
+
+	"result": { "item": "chinjufumod:block_kadomatsu", "count": 1 }
+}

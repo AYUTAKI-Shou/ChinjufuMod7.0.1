@@ -1,0 +1,19 @@
+{
+	"parent": "block/block",
+	"elements":[
+		{
+			"name": "base",
+			"from": [ 2.5, 0, 2.5 ],
+			"to": [ 13.5, 12, 13.5 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": false },
+			"faces": {
+				"up": { "uv": [ 2.5, 2.5, 13.5, 13.5 ], "texture": "#rock" },
+				"down": { "uv": [ 2.5, 2.5, 13.5, 13.5 ], "texture": "#rock" },
+				"north": { "uv": [ 2.5, 3.0, 13.5, 15.0 ], "texture": "#rock" },
+				"south": { "uv": [ 2.5, 3.0, 13.5, 15.0 ], "texture": "#rock" },
+				"west": { "uv": [ 2.5, 3.0, 13.5, 15.0 ], "texture": "#rock" },
+				"east": { "uv": [ 2.5, 3.0, 13.5, 15.0 ], "texture": "#rock" }
+			}
+		}
+	]
+}

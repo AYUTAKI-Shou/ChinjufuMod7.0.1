@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"cor=false,facing=north": { "model": "chinjufumod:block/taba/kaya", "y": 90 },
+		"cor=false,facing=south": { "model": "chinjufumod:block/taba/kaya", "y": 270 },
+		"cor=false,facing=west" : { "model": "chinjufumod:block/taba/kaya", "y": 0 },
+		"cor=false,facing=east" : { "model": "chinjufumod:block/taba/kaya", "y": 180 },
+
+		"cor=true,facing=north": { "model": "chinjufumod:block/taba/kaya_cor", "y": 180 },
+		"cor=true,facing=south": { "model": "chinjufumod:block/taba/kaya_cor", "y": 0 },
+		"cor=true,facing=west" : { "model": "chinjufumod:block/taba/kaya_cor", "y": 90 },
+		"cor=true,facing=east" : { "model": "chinjufumod:block/taba/kaya_cor", "y": 270 }
+	}
+}

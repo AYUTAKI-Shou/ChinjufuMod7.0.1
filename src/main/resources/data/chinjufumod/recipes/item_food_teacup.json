@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "chinjufumod:item_clay_teacup"
+	},
+	"result": "chinjufumod:item_food_teacup",
+	"experience": 0.5,
+	"cookingtime": 200
+}

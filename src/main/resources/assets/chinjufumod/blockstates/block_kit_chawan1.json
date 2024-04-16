@@ -1,0 +1,33 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:block/shelfdish/chawan1", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:block/shelfdish/chawan1", "y": 0 },
+		"facing=west,stage=1": { "model": "chinjufumod:block/shelfdish/chawan1", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:block/shelfdish/chawan1", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/shelfdish/chawan2", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:block/shelfdish/chawan2", "y": 0 },
+		"facing=west,stage=2": { "model": "chinjufumod:block/shelfdish/chawan2", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:block/shelfdish/chawan2", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:block/shelfdish/chawan3", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:block/shelfdish/chawan3", "y": 0 },
+		"facing=west,stage=3": { "model": "chinjufumod:block/shelfdish/chawan3", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:block/shelfdish/chawan3", "y": 270 },
+
+		"facing=north,stage=4": { "model": "chinjufumod:block/shelfdish/chawan4", "y": 180 },
+		"facing=south,stage=4": { "model": "chinjufumod:block/shelfdish/chawan4", "y": 0 },
+		"facing=west,stage=4": { "model": "chinjufumod:block/shelfdish/chawan4", "y": 90 },
+		"facing=east,stage=4": { "model": "chinjufumod:block/shelfdish/chawan4", "y": 270 },
+
+		"facing=north,stage=5": { "model": "chinjufumod:block/shelfdish/chawana", "y": 180 },
+		"facing=south,stage=5": { "model": "chinjufumod:block/shelfdish/chawana", "y": 0 },
+		"facing=west,stage=5": { "model": "chinjufumod:block/shelfdish/chawana", "y": 90 },
+		"facing=east,stage=5": { "model": "chinjufumod:block/shelfdish/chawana", "y": 270 },
+
+		"facing=north,stage=6": { "model": "chinjufumod:block/shelfdish/chawanb", "y": 180 },
+		"facing=south,stage=6": { "model": "chinjufumod:block/shelfdish/chawanb", "y": 0 },
+		"facing=west,stage=6": { "model": "chinjufumod:block/shelfdish/chawanb", "y": 90 },
+		"facing=east,stage=6": { "model": "chinjufumod:block/shelfdish/chawanb", "y": 270 }
+	}
+}

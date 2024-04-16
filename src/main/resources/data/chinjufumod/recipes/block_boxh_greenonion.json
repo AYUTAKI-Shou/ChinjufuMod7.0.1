@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_boxh2",
+
+	"ingredients": [
+		{ "tag": "forge:crops/greenonion" },
+		{ "tag": "forge:crops/greenonion" },
+		{ "tag": "forge:crops/greenonion" },
+		{ "tag": "forge:crops/greenonion" },
+		{ "item": "chinjufumod:block_boxh_empty" }
+	],
+
+	"result": { "item": "chinjufumod:block_boxh_greenonion", "count": 1 }
+}

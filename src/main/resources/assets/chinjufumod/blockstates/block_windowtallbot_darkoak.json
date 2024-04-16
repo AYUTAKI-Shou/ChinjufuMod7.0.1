@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:block/windowtallb/bot_close_darkoak", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:block/windowtallb/bot_close_darkoak" },
+		"facing=west,stage=1": { "model": "chinjufumod:block/windowtallb/bot_close_darkoak", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:block/windowtallb/bot_close_darkoak", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/windowtallb/bot_2_darkoak", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:block/windowtallb/bot_2_darkoak" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/windowtallb/bot_2_darkoak", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:block/windowtallb/bot_2_darkoak", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:block/windowtallb/bot_3_darkoak", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:block/windowtallb/bot_3_darkoak" },
+		"facing=west,stage=3": { "model": "chinjufumod:block/windowtallb/bot_3_darkoak", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:block/windowtallb/bot_3_darkoak", "y": 270 }
+	}
+}

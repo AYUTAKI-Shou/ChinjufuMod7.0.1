@@ -1,0 +1,47 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_alumi_block",
+			
+			"chinjufumod:block_food_zundou",
+			"chinjufumod:block_food_frypan",
+			"chinjufumod:item_kettle_kara",
+			"chinjufumod:block_food_teastand",
+			
+			"chinjufumod:item_kk_type97",
+			"chinjufumod:item_kk_tenzan",
+			"chinjufumod:item_kk_ryusei",
+			"chinjufumod:item_kk_swordfish", 
+			"chinjufumod:item_kk_barracuda",
+			"chinjufumod:item_kk_mosquito",
+			"chinjufumod:item_kk_tbf",
+
+			"chinjufumod:item_kb_type99",
+			"chinjufumod:item_kb_suisei",
+			"chinjufumod:item_kb_typezero",
+			"chinjufumod:item_kb_re2001",
+			"chinjufumod:item_kb_ju87",
+			"chinjufumod:item_kb_sbd",
+			"chinjufumod:item_kb_f4u"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "tag": "forge:ingots/aluminum" } ] }
+		},
+		"has_material2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "tag": "forge:ingots/aluminium" } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material",
+			"has_material2"
+		]
+	]
+}

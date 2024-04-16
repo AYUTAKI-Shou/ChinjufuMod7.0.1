@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_kitchen",
+
+	"ingredients": [
+		{ "tag": "forge:dusts/redstone" },
+		{ "item": "chinjufumod:block_kit_duct" },
+		{ "item": "minecraft:feather" },
+		{ "item": "minecraft:feather" },
+		{ "item": "minecraft:feather" },
+		{ "item": "minecraft:feather" },
+		{ "item": "minecraft:feather" },
+		[ { "tag": "forge:ingots/aluminum" }, { "tag": "forge:ingots/aluminium" } ]
+	],
+
+	"result": { "item": "chinjufumod:block_kit_kanki", "count" : 1 }
+}

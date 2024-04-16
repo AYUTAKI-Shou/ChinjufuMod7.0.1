@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_boxh",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "tag": "forge:crops/carrot" },
+		"Y": { "item": "chinjufumod:block_boxh_empty" }
+	},
+
+	"result": { "item": "chinjufumod:block_boxh_carrot", "count": 1 }
+}

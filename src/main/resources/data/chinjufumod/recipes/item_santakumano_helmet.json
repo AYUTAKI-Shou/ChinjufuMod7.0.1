@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_santa",
+
+	"pattern": [
+		"XXX",
+		"Y Z"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:red_carpet" },
+		"Y": { "item": "minecraft:white_carpet" },
+		"Z": { "tag": "forge:dyes/orange" }
+	},
+
+	"result": { "item": "chinjufumod:item_santakumano_helmet", "count": 1 }
+}

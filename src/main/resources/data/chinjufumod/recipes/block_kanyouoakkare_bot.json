@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_bonsai",
+
+	"ingredients": [
+		{ "tag": "forge:saplings/autumn_oak" },
+		{ "tag": "forge:saplings/autumn_oak" },
+		{ "item": "minecraft:dirt" },
+		{ "item": "minecraft:flower_pot" }
+	],
+
+	"result": { "item": "chinjufumod:block_kanyouoakkare_bot", "count": 1 }
+}

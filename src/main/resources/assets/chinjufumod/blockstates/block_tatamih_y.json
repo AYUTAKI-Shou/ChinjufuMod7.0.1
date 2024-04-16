@@ -1,0 +1,63 @@
+{
+	"variants": {
+		"facing=north,type=bottom": { "model": "chinjufumod:block/tatami2/less_bot", "y": 0 },
+		"facing=south,type=bottom": { "model": "chinjufumod:block/tatami2/less_bot", "y": 0 },
+		"facing=west,type=bottom": { "model": "chinjufumod:block/tatami2/less_bot", "y": 90 },
+		"facing=east,type=bottom": { "model": "chinjufumod:block/tatami2/less_bot", "y": 90 },
+
+		"facing=north,type=top": { "model": "chinjufumod:block/tatami2/less_top", "y": 0 },
+		"facing=south,type=top": { "model": "chinjufumod:block/tatami2/less_top", "y": 0 },
+		"facing=west,type=top": { "model": "chinjufumod:block/tatami2/less_top", "y": 90 },
+		"facing=east,type=top": { "model": "chinjufumod:block/tatami2/less_top", "y": 90 },
+
+		"facing=north,type=double": { "model": "chinjufumod:block/tatami2/less_double", "y": 0 },
+		"facing=south,type=double": { "model": "chinjufumod:block/tatami2/less_double", "y": 0 },
+		"facing=west,type=double": { "model": "chinjufumod:block/tatami2/less_double", "y": 90 },
+		"facing=east,type=double": { "model": "chinjufumod:block/tatami2/less_double", "y": 90 },
+		
+		"facing=north,type=oak": { "model": "chinjufumod:block/tatami2_wood/less_oak_n", "y": 0 },
+		"facing=south,type=oak": { "model": "chinjufumod:block/tatami2_wood/less_oak_n", "y": 0 },
+		"facing=west,type=oak": { "model": "chinjufumod:block/tatami2_wood/less_oak_e", "y": 90 },
+		"facing=east,type=oak": { "model": "chinjufumod:block/tatami2_wood/less_oak_e", "y": 90 },
+
+		"facing=north,type=spruce": { "model": "chinjufumod:block/tatami2_wood/less_spruce_n", "y": 0 },
+		"facing=south,type=spruce": { "model": "chinjufumod:block/tatami2_wood/less_spruce_n", "y": 0 },
+		"facing=west,type=spruce": { "model": "chinjufumod:block/tatami2_wood/less_spruce_e", "y": 90 },
+		"facing=east,type=spruce": { "model": "chinjufumod:block/tatami2_wood/less_spruce_e", "y": 90 },
+
+		"facing=north,type=birch": { "model": "chinjufumod:block/tatami2_wood/less_birch_n", "y": 0 },
+		"facing=south,type=birch": { "model": "chinjufumod:block/tatami2_wood/less_birch_n", "y": 0 },
+		"facing=west,type=birch": { "model": "chinjufumod:block/tatami2_wood/less_birch_e", "y": 90 },
+		"facing=east,type=birch": { "model": "chinjufumod:block/tatami2_wood/less_birch_e", "y": 90 },
+		
+		"facing=north,type=jungle": { "model": "chinjufumod:block/tatami2_wood/less_jungle_n", "y": 0 },
+		"facing=south,type=jungle": { "model": "chinjufumod:block/tatami2_wood/less_jungle_n", "y": 0 },
+		"facing=west,type=jungle": { "model": "chinjufumod:block/tatami2_wood/less_jungle_e", "y": 90 },
+		"facing=east,type=jungle": { "model": "chinjufumod:block/tatami2_wood/less_jungle_e", "y": 90 },
+
+		"facing=north,type=acacia": { "model": "chinjufumod:block/tatami2_wood/less_acacia_n", "y": 0 },
+		"facing=south,type=acacia": { "model": "chinjufumod:block/tatami2_wood/less_acacia_n", "y": 0 },
+		"facing=west,type=acacia": { "model": "chinjufumod:block/tatami2_wood/less_acacia_e", "y": 90 },
+		"facing=east,type=acacia": { "model": "chinjufumod:block/tatami2_wood/less_acacia_e", "y": 90 },
+
+		"facing=north,type=darkoak": { "model": "chinjufumod:block/tatami2_wood/less_darkoak_n", "y": 0 },
+		"facing=south,type=darkoak": { "model": "chinjufumod:block/tatami2_wood/less_darkoak_n", "y": 0 },
+		"facing=west,type=darkoak": { "model": "chinjufumod:block/tatami2_wood/less_darkoak_e", "y": 90 },
+		"facing=east,type=darkoak": { "model": "chinjufumod:block/tatami2_wood/less_darkoak_e", "y": 90 },
+		
+		"facing=north,type=sakura": { "model": "chinjufumod:block/tatami2_wood/less_sakura_n", "y": 0 },
+		"facing=south,type=sakura": { "model": "chinjufumod:block/tatami2_wood/less_sakura_n", "y": 0 },
+		"facing=west,type=sakura": { "model": "chinjufumod:block/tatami2_wood/less_sakura_e", "y": 90 },
+		"facing=east,type=sakura": { "model": "chinjufumod:block/tatami2_wood/less_sakura_e", "y": 90 },
+
+		"facing=north,type=kaede": { "model": "chinjufumod:block/tatami2_wood/less_kaede_n", "y": 0 },
+		"facing=south,type=kaede": { "model": "chinjufumod:block/tatami2_wood/less_kaede_n", "y": 0 },
+		"facing=west,type=kaede": { "model": "chinjufumod:block/tatami2_wood/less_kaede_e", "y": 90 },
+		"facing=east,type=kaede": { "model": "chinjufumod:block/tatami2_wood/less_kaede_e", "y": 90 },
+
+		"facing=north,type=ichoh": { "model": "chinjufumod:block/tatami2_wood/less_ichoh_n", "y": 0 },
+		"facing=south,type=ichoh": { "model": "chinjufumod:block/tatami2_wood/less_ichoh_n", "y": 0 },
+		"facing=west,type=ichoh": { "model": "chinjufumod:block/tatami2_wood/less_ichoh_e", "y": 90 },
+		"facing=east,type=ichoh": { "model": "chinjufumod:block/tatami2_wood/less_ichoh_e", "y": 90 }
+	}
+}

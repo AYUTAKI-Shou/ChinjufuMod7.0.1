@@ -1,0 +1,85 @@
+{
+	"variants": {
+		"stage=0,half=lower": [ 
+			{ "model": "chinjufumod:block/spice/pepper_0", "y": 0 },
+			{ "model": "chinjufumod:block/spice/pepper_0", "y": 180 },
+			{ "model": "chinjufumod:block/spice/pepper_0", "y": 90 },
+			{ "model": "chinjufumod:block/spice/pepper_0", "y": 270 } ],
+		"stage=1,half=lower": [ 
+			{ "model": "chinjufumod:block/spice/pepper_1", "y": 0 },
+			{ "model": "chinjufumod:block/spice/pepper_1", "y": 180 },
+			{ "model": "chinjufumod:block/spice/pepper_1", "y": 90 },
+			{ "model": "chinjufumod:block/spice/pepper_1", "y": 270 } ],
+		"stage=2,half=lower": [ 
+			{ "model": "chinjufumod:block/spice/pepper_2", "y": 0 },
+			{ "model": "chinjufumod:block/spice/pepper_2", "y": 180 },
+			{ "model": "chinjufumod:block/spice/pepper_2", "y": 90 },
+			{ "model": "chinjufumod:block/spice/pepper_2", "y": 270 } ],
+		"stage=3,half=lower": [ 
+			{ "model": "chinjufumod:block/spice/pepper_3", "y": 0 },
+			{ "model": "chinjufumod:block/spice/pepper_3", "y": 180 },
+			{ "model": "chinjufumod:block/spice/pepper_3", "y": 90 },
+			{ "model": "chinjufumod:block/spice/pepper_3", "y": 270 } ],
+		"stage=4,half=lower": [ 
+			{ "model": "chinjufumod:block/spice/pepper_4", "y": 0 },
+			{ "model": "chinjufumod:block/spice/pepper_4", "y": 180 },
+			{ "model": "chinjufumod:block/spice/pepper_4", "y": 90 },
+			{ "model": "chinjufumod:block/spice/pepper_4", "y": 270 } ],
+		"stage=5,half=lower": [ 
+			{ "model": "chinjufumod:block/spice/pepper_5", "y": 0 },
+			{ "model": "chinjufumod:block/spice/pepper_5", "y": 180 },
+			{ "model": "chinjufumod:block/spice/pepper_5", "y": 90 },
+			{ "model": "chinjufumod:block/spice/pepper_5", "y": 270 } ],
+		"stage=6,half=lower": [ 
+			{ "model": "chinjufumod:block/spice/pepper_6", "y": 0 },
+			{ "model": "chinjufumod:block/spice/pepper_6", "y": 180 },
+			{ "model": "chinjufumod:block/spice/pepper_6", "y": 90 },
+			{ "model": "chinjufumod:block/spice/pepper_6", "y": 270 } ],
+		"stage=7,half=lower": [ 
+			{ "model": "chinjufumod:block/spice/pepper_6", "y": 0 },
+			{ "model": "chinjufumod:block/spice/pepper_6", "y": 180 },
+			{ "model": "chinjufumod:block/spice/pepper_6", "y": 90 },
+			{ "model": "chinjufumod:block/spice/pepper_6", "y": 270 } ],
+			
+		"stage=0,half=upper": [ 
+			{ "model": "chinjufumod:block/spice/pepper_top0", "y": 0 },
+			{ "model": "chinjufumod:block/spice/pepper_top0", "y": 180 },
+			{ "model": "chinjufumod:block/spice/pepper_top0", "y": 90 },
+			{ "model": "chinjufumod:block/spice/pepper_top0", "y": 270 } ],
+		"stage=1,half=upper": [ 
+			{ "model": "chinjufumod:block/spice/pepper_top1", "y": 0 },
+			{ "model": "chinjufumod:block/spice/pepper_top1", "y": 180 },
+			{ "model": "chinjufumod:block/spice/pepper_top1", "y": 90 },
+			{ "model": "chinjufumod:block/spice/pepper_top1", "y": 270 } ],
+		"stage=2,half=upper": [ 
+			{ "model": "chinjufumod:block/spice/pepper_top2", "y": 0 },
+			{ "model": "chinjufumod:block/spice/pepper_top2", "y": 180 },
+			{ "model": "chinjufumod:block/spice/pepper_top2", "y": 90 },
+			{ "model": "chinjufumod:block/spice/pepper_top2", "y": 270 } ],
+		"stage=3,half=upper": [ 
+			{ "model": "chinjufumod:block/spice/pepper_top3", "y": 0 },
+			{ "model": "chinjufumod:block/spice/pepper_top3", "y": 180 },
+			{ "model": "chinjufumod:block/spice/pepper_top3", "y": 90 },
+			{ "model": "chinjufumod:block/spice/pepper_top3", "y": 270 } ],
+		"stage=4,half=upper": [ 
+			{ "model": "chinjufumod:block/spice/pepper_top4", "y": 0 },
+			{ "model": "chinjufumod:block/spice/pepper_top4", "y": 180 },
+			{ "model": "chinjufumod:block/spice/pepper_top4", "y": 90 },
+			{ "model": "chinjufumod:block/spice/pepper_top4", "y": 270 } ],
+		"stage=5,half=upper": [ 
+			{ "model": "chinjufumod:block/spice/pepper_top5", "y": 0 },
+			{ "model": "chinjufumod:block/spice/pepper_top5", "y": 180 },
+			{ "model": "chinjufumod:block/spice/pepper_top5", "y": 90 },
+			{ "model": "chinjufumod:block/spice/pepper_top5", "y": 270 } ],
+		"stage=6,half=upper": [ 
+			{ "model": "chinjufumod:block/spice/pepper_top6", "y": 0 },
+			{ "model": "chinjufumod:block/spice/pepper_top6", "y": 180 },
+			{ "model": "chinjufumod:block/spice/pepper_top6", "y": 90 },
+			{ "model": "chinjufumod:block/spice/pepper_top6", "y": 270 } ],
+		"stage=7,half=upper": [ 
+			{ "model": "chinjufumod:block/spice/pepper_top6", "y": 0 },
+			{ "model": "chinjufumod:block/spice/pepper_top6", "y": 180 },
+			{ "model": "chinjufumod:block/spice/pepper_top6", "y": 90 },
+			{ "model": "chinjufumod:block/spice/pepper_top6", "y": 270 } ]
+	}
+}

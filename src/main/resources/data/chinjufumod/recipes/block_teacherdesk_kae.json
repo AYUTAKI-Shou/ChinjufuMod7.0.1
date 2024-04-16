@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_school",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"X X"
+	],
+
+	"key": {
+		"X": { "tag": "forge:planks/acer" },
+		"Y": { "tag": "forge:wooden_slabs/acer" }
+	},
+
+	"result": { "item": "chinjufumod:block_teacherdesk_kae", "count": 3 }
+}

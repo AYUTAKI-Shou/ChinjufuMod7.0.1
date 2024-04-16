@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_nabe",
+
+	"ingredients": [
+		{ "tag": "forge:buckets/milk" },
+		[ { "tag": "forge:dusts/salt" }, { "tag": "forge:foods/salt" }, { "tag": "forge:items/salt" } ],
+		[ { "tag": "forge:dusts/blackpepper" }, { "tag": "forge:foods/blackpepper" }, { "tag": "forge:spices/blackpepper" }, 
+		{ "tag": "forge:dusts/pepper" }, { "tag": "forge:foods/pepper" }, { "tag": "forge:spices/pepper" } ],
+		{ "tag": "forge:foods/butter" },
+		{ "tag": "forge:crops/corn" },
+		{ "item": "chinjufumod:block_food_karanabe" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_nabecorns_n", "count" : 1 }
+}

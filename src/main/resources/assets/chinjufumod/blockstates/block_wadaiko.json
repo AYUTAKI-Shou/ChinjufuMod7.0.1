@@ -1,0 +1,33 @@
+{
+	"variants": {
+		"facing=north,half=lower,stage=1": { "model": "chinjufumod:block/wadaiko/bot" },
+		"facing=south,half=lower,stage=1": { "model": "chinjufumod:block/wadaiko/bot", "y": 180 },
+		"facing=west,half=lower,stage=1": { "model": "chinjufumod:block/wadaiko/bot", "y": 270 },
+		"facing=east,half=lower,stage=1": { "model": "chinjufumod:block/wadaiko/bot", "y": 90 },
+
+		"facing=north,half=upper,stage=1": { "model": "chinjufumod:block/wadaiko/top" },
+		"facing=south,half=upper,stage=1": { "model": "chinjufumod:block/wadaiko/top", "y": 180 },
+		"facing=west,half=upper,stage=1": { "model": "chinjufumod:block/wadaiko/top", "y": 270 },
+		"facing=east,half=upper,stage=1": { "model": "chinjufumod:block/wadaiko/top", "y": 90 },
+
+		"facing=north,half=lower,stage=2": { "model": "chinjufumod:block/wadaiko/bot_2" },
+		"facing=south,half=lower,stage=2": { "model": "chinjufumod:block/wadaiko/bot_2", "y": 180 },
+		"facing=west,half=lower,stage=2": { "model": "chinjufumod:block/wadaiko/bot_2", "y": 270 },
+		"facing=east,half=lower,stage=2": { "model": "chinjufumod:block/wadaiko/bot_2", "y": 90 },
+
+		"facing=north,half=upper,stage=2": { "model": "chinjufumod:block/wadaiko/top_2" },
+		"facing=south,half=upper,stage=2": { "model": "chinjufumod:block/wadaiko/top_2", "y": 180 },
+		"facing=west,half=upper,stage=2": { "model": "chinjufumod:block/wadaiko/top_2", "y": 270 },
+		"facing=east,half=upper,stage=2": { "model": "chinjufumod:block/wadaiko/top_2", "y": 90 },
+
+		"facing=north,half=lower,stage=3": { "model": "chinjufumod:block/wadaiko/jikaoki" },
+		"facing=south,half=lower,stage=3": { "model": "chinjufumod:block/wadaiko/jikaoki" },
+		"facing=west,half=lower,stage=3": { "model": "chinjufumod:block/wadaiko/jikaoki" },
+		"facing=east,half=lower,stage=3": { "model": "chinjufumod:block/wadaiko/jikaoki" },
+
+		"facing=north,half=upper,stage=3": { "model": "minecraft:block/air" },
+		"facing=south,half=upper,stage=3": { "model": "minecraft:block/air" },
+		"facing=west,half=upper,stage=3": { "model": "minecraft:block/air" },
+		"facing=east,half=upper,stage=3": { "model": "minecraft:block/air" }
+	}
+}

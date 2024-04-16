@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"lit=false": { "model": "chinjufumod:block/ishitourou/diorite" },
+		"lit=true": { "model": "chinjufumod:block/ishitourou/lit_diorite" }
+	}
+}

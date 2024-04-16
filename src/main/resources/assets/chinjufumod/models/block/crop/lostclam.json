@@ -1,0 +1,22 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "minecraft:block/sand",
+		"all": "minecraft:block/sand"
+	},
+	"elements": [
+		{
+			"name": "mizu",
+			"from": [ 0.0, 0.0, 0.0 ],
+			"to": [ 16.0, 16.0, 16.0 ],
+			"faces": {
+				"up" : { "texture": "#all", "cullface": "up", "tintindex": 1 },
+				"down": { "texture": "#all", "cullface": "down" },
+				"north": { "texture": "#all", "cullface": "north" },
+				"south": { "texture": "#all", "cullface": "south" },
+				"east": { "texture": "#all", "cullface": "east" },
+				"west": { "texture": "#all", "cullface": "west" }
+			}
+		}
+	]
+}

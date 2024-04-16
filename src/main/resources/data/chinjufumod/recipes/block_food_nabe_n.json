@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_nabe",
+
+	"ingredients": [
+		{ "tag": "forge:buckets/water" },
+		{ "item": "minecraft:brown_mushroom" },
+		{ "item": "minecraft:brown_mushroom" },
+		[ { "tag": "forge:raw_chicken" }, { "tag": "forge:rawchicken" } ],
+		{ "tag": "forge:crops/carrot" },
+		{ "tag": "forge:dusts/dashi" },
+		{ "tag": "forge:foods/misopaste" },
+		{ "tag": "forge:crops/chinesecabbage" },
+		{ "item": "chinjufumod:block_food_karanabe" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_nabe_n", "count" : 1 }
+}

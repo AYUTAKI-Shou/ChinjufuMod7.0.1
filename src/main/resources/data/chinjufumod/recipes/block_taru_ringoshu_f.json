@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_alcohol",
+
+	"ingredients": [
+		{ "tag": "forge:fruits/apple" },
+		{ "tag": "forge:fruits/apple" },
+		{ "tag": "forge:fruits/apple" },
+		{ "tag": "forge:fruits/apple" },
+		{ "tag": "forge:fruits/apple" },
+		{ "tag": "forge:fruits/apple" },
+		{ "tag": "forge:fruits/apple" },
+		{ "tag": "forge:items/yeast" },
+		{ "item": "chinjufumod:block_taru_hakkou" }
+	],
+
+	"result": { "item": "chinjufumod:block_taru_ringoshu_f", "count": 1 }
+}

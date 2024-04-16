@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_gohan",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_mushigome" },
+		{ "item": "chinjufumod:item_food_noriita" },
+		{ "item": "chinjufumod:item_food_noriita" },
+		[ { "tag": "forge:dusts/salt" }, { "tag": "forge:foods/salt" }, { "tag": "forge:items/salt" } ]
+	],
+
+	"result": { "item": "chinjufumod:item_food_onigiri", "count" : 4 }
+}

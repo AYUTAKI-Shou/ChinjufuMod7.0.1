@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_kitchen",
+
+	"pattern": [
+		" X ",
+		"YZY",
+		"YYY"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:charcoal" },
+		"Y": { "tag": "forge:ingots/iron" },
+		"Z": { "item": "minecraft:gravel" }
+	},
+
+	"result": { "item": "chinjufumod:block_irori", "count": 1 }
+}

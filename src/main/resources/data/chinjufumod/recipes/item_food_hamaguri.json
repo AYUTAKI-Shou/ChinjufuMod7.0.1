@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"tag": "forge:raw_fishes/clam"
+	},
+	"result": "chinjufumod:item_food_hamaguri",
+	"experience": 0.1,
+	"cookingtime": 100
+}

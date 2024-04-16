@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_andon",
+
+	"pattern": [
+		"XAX",
+		"XBX",
+		"XCX"
+	],
+
+	"key": {
+		"X": { "tag": "forge:rods/wooden" },
+		"A": { "item": "minecraft:paper" },
+		"B": [ { "item": "chinjufumod:item_oriito" }, { "tag": "forge:string" } ],
+		"C": [ { "item": "chinjufumod:item_soy" }, { "tag": "forge:slimeballs" } ]
+	},
+
+	"result": { "item": "chinjufumod:block_andon_white", "count" : 1 }
+}

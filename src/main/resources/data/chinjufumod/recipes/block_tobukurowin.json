@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_tobukuro",
+
+	"pattern": [
+		"XX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_tobukuro" }
+	},
+
+	"result": { "item": "chinjufumod:block_tobukurowin", "count": 4 }
+}

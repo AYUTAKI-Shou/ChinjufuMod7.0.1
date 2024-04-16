@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/wallpanel_wide",
+	"textures": {
+		"particle": "minecraft:block/netherrack",
+		"front": "minecraft:block/netherrack",
+		"back": "minecraft:block/netherrack",
+		"side": "minecraft:block/netherrack"
+	}
+}

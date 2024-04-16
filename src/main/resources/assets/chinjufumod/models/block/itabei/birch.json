@@ -1,0 +1,7 @@
+{
+	"parent": "chinjufumod:block/base/itabei_hand",
+	"textures": {
+		"particle": "chinjufumod:block/muku_birch",
+		"planks": "chinjufumod:block/muku_birch"
+	}
+}

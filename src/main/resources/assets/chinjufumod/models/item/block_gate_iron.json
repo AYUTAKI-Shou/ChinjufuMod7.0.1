@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:block/gate/iron",
+	"display": {
+		"gui": {
+			"rotation": [ 0, -40, 0 ],
+			"translation": [ -2, 0, 0 ],
+			"scale": [ 0.4, 0.3, 0.3 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 70, -90, 0 ],
+			"translation": [ 0, 7, 0 ],
+			"scale": [ 0.3, 0.3, 0.3 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, -90, 0 ],
+			"translation": [ 0, 2, 0 ],
+			"scale": [ 0.3, 0.3, 0.3 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 180, 0 ],
+			"translation": [ 2, 0, 1.5 ],
+			"scale": [ 0.3, 0.3, 0.3 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 0.2, 0.2, 0.2 ]
+		}
+	}
+}

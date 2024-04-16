@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/click_yakisoba_1d",
+	"textures": {
+		"particle": "chinjufumod:block/yasaiitame_raw",
+		"yasai": "chinjufumod:block/yasaiitame_raw",
+		"soba": "chinjufumod:block/ramen_boil",
+		"kote": "chinjufumod:block/dish_lightg"
+	}
+}

@@ -1,0 +1,24 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_logchair_ichoh",
+		
+			"chinjufumod:block_planks_ichoh",
+			"chinjufumod:block_pillar_ichoh",
+			"chinjufumod:block_wp_log_ichoh"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "tag": "forge:logs/ginkgo" } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:block/windowtallb/top_close_oak", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:block/windowtallb/top_close_oak" },
+		"facing=west,stage=1": { "model": "chinjufumod:block/windowtallb/top_close_oak", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:block/windowtallb/top_close_oak", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/windowtallb/top_2_oak", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:block/windowtallb/top_2_oak" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/windowtallb/top_2_oak", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:block/windowtallb/top_2_oak", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:block/windowtallb/top_3_oak", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:block/windowtallb/top_3_oak" },
+		"facing=west,stage=3": { "model": "chinjufumod:block/windowtallb/top_3_oak", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:block/windowtallb/top_3_oak", "y": 270 }
+	}
+}

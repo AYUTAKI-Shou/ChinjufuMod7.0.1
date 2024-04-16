@@ -1,0 +1,43 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "chinjufumod:item/chisel"
+	},
+	"display": {
+		"gui": {
+			"rotation": [ 0, 0, -45 ],
+			"translation": [ 0, -1, 0 ],
+			"scale": [ 0.8, 0.8, 0.8 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 0, -90, 0 ],
+			"translation": [ 0, 3.0, 1 ],
+			"scale": [ 0.45, 0.45, 0.45 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [ 0, 90, 0 ],
+			"translation": [ 0, 3.0, 1 ],
+			"scale": [ 0.45, 0.45, 0.45 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, -90, 25 ],
+			"translation": [ 1, 2, 1 ],
+			"scale": [ 0.45, 0.45, 0.45 ]
+		},
+		"firstperson_lefthand": {
+			"rotation": [ 0, 90, -25 ],
+			"translation": [ 1, 2, 1 ],
+			"scale": [ 0.45, 0.45, 0.45 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 180, -45 ],
+			"translation": [ 0, 0, 1 ],
+			"scale": [ 0.8, 0.8, 0.8 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 0.35, 0.35, 0.35 ]
+		}
+	}
+}

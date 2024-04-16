@@ -1,0 +1,19 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/lightembed_none",
+		"light": "chinjufumod:block/lightembed_none",
+		"side": "minecraft:block/iron_block"
+	},
+	"elements": [
+		{
+			"name": "down",
+			"from": [ 0, -11.5, 0 ],
+			"to": [ 16, -7.5, 16 ],
+			"faces": {
+				"up": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#light" },
+				"down": { "uv": [ 0.0, 16.0, 16.0, 0.0 ], "texture": "#side" }
+			}
+		}
+	]
+}

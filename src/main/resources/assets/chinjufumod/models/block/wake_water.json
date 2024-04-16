@@ -1,0 +1,17 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "minecraft:block/snow",
+		"mizu": "chinjufumod:block/wake_water"
+	},
+	"elements": [
+		{
+			"name": "mizu",
+			"from": [ 0.0, -16.0, 0.0 ],
+			"to": [ 16.0, -1.5, 16.0 ],
+			"faces": {
+				"up" : { "texture": "#mizu" }
+			}
+		}
+	]
+}

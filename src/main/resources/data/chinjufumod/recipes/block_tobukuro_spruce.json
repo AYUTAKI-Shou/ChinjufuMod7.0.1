@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_tobukuro",
+
+	"pattern": [
+		"XYY",
+		" YY"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:spruce_planks" },
+		"Y": { "item": "minecraft:spruce_slab" }
+	},
+
+	"result": { "item": "chinjufumod:block_tobukuro_spruce", "count": 2 }
+}

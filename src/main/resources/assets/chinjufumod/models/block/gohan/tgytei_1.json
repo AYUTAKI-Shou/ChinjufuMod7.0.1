@@ -1,0 +1,19 @@
+{
+	"parent": "chinjufumod:block/base/tamagoyakitei_1",
+	"textures": {
+		"particle": "chinjufumod:block/dish_white",
+		"tea": "minecraft:block/water_still",
+		"yunomi": "chinjufumod:block/dish_green",
+		"miso": "chinjufumod:block/soup_still_n",
+		"shikki": "chinjufumod:block/dish_black",
+		"shikki2": "chinjufumod:block/dish_red",
+		"kome": "chinjufumod:block/food_gohan",
+		"chawan": "chinjufumod:block/dish_blue",
+		"chawan2": "chinjufumod:block/dish_white",
+		"egg": "chinjufumod:block/egg_bake",
+		"hakusai": "chinjufumod:block/hakusaiduke_1",
+		"sara": "chinjufumod:block/dish_white",
+		"hashi": "chinjufumod:block/dish_red",
+		"hashioki": "chinjufumod:block/hashioki"
+	}
+}

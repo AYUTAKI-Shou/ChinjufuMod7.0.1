@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_fence",
+
+	"pattern": [
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_steel_block" }
+	},
+
+	"result": { "item": "chinjufumod:block_ironfence_bot", "count": 10 }
+}

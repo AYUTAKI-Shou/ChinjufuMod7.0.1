@@ -1,0 +1,65 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/haiki_duct",
+		"long": "chinjufumod:block/haiki_duct"
+	},
+	"elements": [
+		{
+			"name": "north_________________________________________",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 1 ],
+			"faces": {
+				"north": { "texture": "#long" },
+				"south": { "texture": "#long" }
+			}
+		},
+		{
+			"name": "south",
+			"from": [ 0, 0, 15 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"north": { "texture": "#long" },
+				"south": { "texture": "#long" }
+			}
+		},
+
+		{
+			"name": "up_1",
+			"from": [ 15, 15, 1 ],
+			"to": [ 16, 16, 15 ],
+			"faces": {
+				"down": { "texture": "#long" },
+				"west": { "texture": "#long" }
+			}
+		},
+		{
+			"name": "up_2",
+			"from": [ 0, 15, 1 ],
+			"to": [ 1, 16, 15 ],
+			"faces": {
+				"down": { "texture": "#long" },
+				"east": { "texture": "#long" }
+			}
+		},
+
+		{
+			"name": "down_1",
+			"from": [ 15, 0, 1 ],
+			"to": [ 16, 1, 15 ],
+			"faces": {
+				"up": { "texture": "#long" },
+				"west": { "texture": "#long" }
+			}
+		},
+		{
+			"name": "down_2",
+			"from": [ 0, 0, 1 ],
+			"to": [ 1, 1, 15 ],
+			"faces": {
+				"up": { "texture": "#long" },
+				"east": { "texture": "#long" }
+			}
+		}
+	]
+}

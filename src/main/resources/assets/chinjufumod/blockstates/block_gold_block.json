@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"facing=north,type=bottom": { "model": "chinjufumod:block/storage/gold" },
+		"facing=south,type=bottom": { "model": "chinjufumod:block/storage/gold" },
+		"facing=west,type=bottom": { "model": "chinjufumod:block/storage/gold_we", "y": 90 },
+		"facing=east,type=bottom": { "model": "chinjufumod:block/storage/gold_we", "y": 90 },
+
+		"facing=north,type=double": { "model": "chinjufumod:block/storage/goldw" },
+		"facing=south,type=double": { "model": "chinjufumod:block/storage/goldw" },
+		"facing=west,type=double": { "model": "chinjufumod:block/storage/goldw_we", "y": 90 },
+		"facing=east,type=double": { "model": "chinjufumod:block/storage/goldw_we", "y": 90 }
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "chinjufumod:block/base/wall_sama",
+	"textures": {
+		"wall": "chinjufumod:block/plaster_cr_magenta"
+	}
+}

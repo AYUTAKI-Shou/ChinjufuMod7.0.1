@@ -1,0 +1,17 @@
+{
+	"variants": {
+		"facing=up,lit=false": { "model": "chinjufumod:block/lamp/marinelamp" },
+		"facing=down,lit=false": { "model": "chinjufumod:block/lamp/marinelamp", "x": 180 },
+		"facing=north,lit=false": { "model": "chinjufumod:block/lamp/marinelamp", "x": 270, "y": 180 },
+		"facing=south,lit=false": { "model": "chinjufumod:block/lamp/marinelamp", "x": 270, "y": 0 },
+		"facing=west,lit=false": { "model": "chinjufumod:block/lamp/marinelamp", "x": 270, "y": 90 },
+		"facing=east,lit=false": { "model": "chinjufumod:block/lamp/marinelamp", "x": 270, "y": 270 },
+
+		"facing=up,lit=true": { "model": "chinjufumod:block/lamp/lit_marinelamp" },
+		"facing=down,lit=true": { "model": "chinjufumod:block/lamp/lit_marinelamp", "x": 180 },
+		"facing=north,lit=true": { "model": "chinjufumod:block/lamp/lit_marinelamp", "x": 270, "y": 180 },
+		"facing=south,lit=true": { "model": "chinjufumod:block/lamp/lit_marinelamp", "x": 270, "y": 0 },
+		"facing=west,lit=true": { "model": "chinjufumod:block/lamp/lit_marinelamp", "x": 270, "y": 90 },
+		"facing=east,lit=true": { "model": "chinjufumod:block/lamp/lit_marinelamp", "x": 270, "y": 270 }
+	}
+}

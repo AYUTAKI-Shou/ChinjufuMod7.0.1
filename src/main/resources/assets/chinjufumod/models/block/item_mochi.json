@@ -1,0 +1,70 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/mochi",
+		"mochi": "chinjufumod:block/mochi"
+	},
+	"elements": [
+		{
+			"name": "mochi-c__________6*6=36___6*6*0.5=18",
+			"from": [ 5, 0, 5 ],
+			"to": [ 11, 3.16, 11 ],
+			"faces": {
+				"up": { "texture": "#mochi" },
+				"down": { "texture": "#mochi" },
+				"north": { "texture": "#mochi" },
+				"south": { "texture": "#mochi" },
+				"east": { "texture": "#mochi" },
+				"west": { "texture": "#mochi" }
+			}
+		},
+		{
+			"name": "mochi-n__________6*1*4=24___160/60=2.66",
+			"from": [ 5, 0, 4 ],
+			"to": [ 11, 2.26, 5 ],
+			"faces": {
+				"up": { "texture": "#mochi" },
+				"down": { "texture": "#mochi" },
+				"north": { "texture": "#mochi" },
+				"east": { "texture": "#mochi" },
+				"west": { "texture": "#mochi" }
+			}
+		},
+		{
+			"name": "mochi-s",
+			"from": [ 5, 0, 11 ],
+			"to": [ 11, 2.26, 12 ],
+			"faces": {
+				"up": { "texture": "#mochi" },
+				"down": { "texture": "#mochi" },
+				"south": { "texture": "#mochi" },
+				"east": { "texture": "#mochi" },
+				"west": { "texture": "#mochi" }
+			}
+		},
+		{
+			"name": "mochi-w",
+			"from": [ 4, 0, 5 ],
+			"to": [ 5, 2.26, 11 ],
+			"faces": {
+				"up": { "texture": "#mochi" },
+				"down": { "texture": "#mochi" },
+				"north": { "texture": "#mochi" },
+				"south": { "texture": "#mochi" },
+				"west": { "texture": "#mochi" }
+			}
+		},
+		{
+			"name": "mochi-e",
+			"from": [ 11, 0, 5 ],
+			"to": [ 12, 2.26, 11 ],
+			"faces": {
+				"up": { "texture": "#mochi" },
+				"down": { "texture": "#mochi" },
+				"north": { "texture": "#mochi" },
+				"south": { "texture": "#mochi" },
+				"east": { "texture": "#mochi" }
+			}
+		}
+	]
+}

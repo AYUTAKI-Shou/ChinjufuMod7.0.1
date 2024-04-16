@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:block/food/mikan_1",
+	"display": {
+		"gui": {
+			"rotation": [ 30, 40, 0 ],
+			"translation": [ 0, 5, 0 ],
+			"scale": [ 1.4, 1.4, 1.4 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 70, 0, 0 ],
+			"translation": [ 0, 4.5, 6 ],
+			"scale": [ 0.8, 0.8, 0.8 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 7, 0 ],
+			"scale": [ 1.0, 1.0, 1.0 ]
+		},
+		"fixed": {
+			"rotation": [ 270, 180, 0 ],
+			"translation": [ 0, 0, -8.5 ],
+			"scale": [ 1.2, 1.2, 1.2 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 0.8, 0.8, 0.8 ]
+		}
+	}
+}

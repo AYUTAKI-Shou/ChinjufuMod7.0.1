@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/kamoi_1north",
+	"textures": {
+		"particle": "chinjufumod:block/pillar_oak_side",
+		"ki": "chinjufumod:block/pillar_oak_side",
+		"ki_top": "chinjufumod:block/pillar_oak_top",
+		"ki_inside": "chinjufumod:block/pillar_oak_inside"
+	}
+}

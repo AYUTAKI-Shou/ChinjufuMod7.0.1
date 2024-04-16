@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/ingotw",
+	"textures": {
+		"particle": "chinjufumod:block/netherite_side",
+		"up": "chinjufumod:block/netherite_up",
+		"down": "chinjufumod:block/netherite_down_we",
+		"side": "chinjufumod:block/netherite_side"
+	 }
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/tatami_wood_east",
+	"textures": {
+		"particle": "chinjufumod:block/tatami_gray",
+		"top": "chinjufumod:block/tatami_gray",
+		"side": "chinjufumod:block/tatami_side_gray",
+		"wood": "chinjufumod:block/planks_ichoh"
+	}
+}

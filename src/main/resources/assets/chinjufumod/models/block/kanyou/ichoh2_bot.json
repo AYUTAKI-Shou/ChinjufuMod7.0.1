@@ -1,0 +1,67 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/log_ichoh",
+		"miki": "chinjufumod:block/log_ichoh",
+		"miki_top": "chinjufumod:block/log_ichoh_top",
+		"ha": "chinjufumod:block/leaf_ichoh"
+	},
+	"elements": [
+		{
+			"name": "ha",
+			"from": [ 2.0, 14.0, 2.0 ],
+			"to": [ 14.0, 16.0, 14.0 ],
+			"faces": {
+				"down" : { "uv": [ 2.0, 2.0, 14.0, 14.0 ], "texture": "#ha" },
+				"north": { "uv": [ 0.0, 14.0, 12.0, 16.0 ], "texture": "#ha" },
+				"south": { "uv": [ 15.0, 14.0, 3.0, 16.0 ], "texture": "#ha" },
+				"east" : { "uv": [ 1.0, 14.0, 13.0, 16.0 ], "texture": "#ha" },
+				"west" : { "uv": [ 16.0, 14.0, 4.0, 16.0 ], "texture": "#ha" }
+			}
+		},
+		{
+			"name": "ha_1",
+			"from": [ 2.0, 14.0, 7.99 ],
+			"to": [ 14.0, 16.0, 8.01 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": true },
+			"faces": {
+				"north": { "uv": [ 0.0, 14.0, 16.0, 16.0 ], "texture": "#ha" },
+				"south": { "uv": [ 0.0, 14.0, 16.0, 16.0 ], "texture": "#ha" }
+			}
+		},
+		{
+			"name": "ha_2",
+			"from": [ 7.99, 14.0, 2.0 ],
+			"to": [ 8.01, 16.0, 14.0 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": true },
+			"faces": {
+				"east" : { "uv": [ 0.0, 14.0, 16.0, 16.0 ], "texture": "#ha" },
+				"west" : { "uv": [ 0.0, 14.0, 16.0, 16.0 ], "texture": "#ha" }
+			}
+		},
+
+		{
+			"name": "miki_mid",
+			"from": [ 7, 14, 7 ],
+			"to": [ 9, 16, 9 ],
+			"faces": {
+				"north": { "uv": [ 0.0, 14.0, 2.0, 16.0 ], "texture": "#miki" },
+				"south": { "uv": [ 4.0, 14.0, 6.0, 16.0 ], "texture": "#miki" },
+				"east" : { "uv": [ 1.0, 14.0, 3.0, 16.0 ], "texture": "#miki" },
+				"west" : { "uv": [ 12.0, 14.0, 14.0, 16.0 ], "texture": "#miki" }
+			}
+		},
+		{
+			"name": "miki_bot",
+			"from": [ 7, 0, 7 ],
+			"to": [ 9, 14, 9 ],
+			"faces": {
+				"down" : { "uv": [ 7.0, 7.0, 9.0, 9.0 ], "texture": "#miki_top", "cullface": "down" },
+				"north": { "uv": [ 0.0, 0.0, 2.0, 14.0 ], "texture": "#miki" },
+				"south": { "uv": [ 4.0, 0.0, 6.0, 14.0 ], "texture": "#miki" },
+				"east" : { "uv": [ 1.0, 0.0, 3.0, 14.0 ], "texture": "#miki" },
+				"west" : { "uv": [ 12.0, 0.0, 14.0, 14.0 ], "texture": "#miki" }
+			}
+		}
+	]
+}

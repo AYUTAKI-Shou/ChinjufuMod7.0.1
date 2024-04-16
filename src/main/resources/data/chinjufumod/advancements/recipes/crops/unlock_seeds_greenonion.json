@@ -1,0 +1,26 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:item_seeds_greenonion",
+			
+			"chinjufumod:item_food_shouyu_don",
+			"chinjufumod:block_food_rsoup_n",
+			"chinjufumod:item_food_tare_shouyu",
+			"chinjufumod:item_food_tare_miso",
+			"chinjufumod:item_food_tare_shio"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "tag": "forge:crops/greenonion" } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_ishitourou",
+
+	"pattern": [
+		"X",
+		"Y",
+		"Z"
+	],
+
+	"key": {
+		"X": [ { "item": "chinjufumod:item_oriito" }, { "tag": "forge:string" } ],
+		"Y": [ { "item": "chinjufumod:item_soy" }, { "tag": "forge:slimeballs" } ],
+		"Z": { "item": "minecraft:andesite" }
+	},
+
+	"result": { "item": "chinjufumod:block_ishitourou_and", "count": 1 }
+}

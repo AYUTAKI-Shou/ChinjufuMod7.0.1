@@ -1,0 +1,40 @@
+{
+	"parent": "chinjufumod:block/item_kaihori",
+	"gui_light": "front", "display": {
+		"gui": {
+			"rotation": [ 0, -30, -50 ],
+			"translation": [ 2, 1, 0 ],
+			"scale": [ 1.25, 1.25, 1.25 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 0, 45, 0 ],
+			"translation": [ 0, 4, 1 ],
+			"scale": [ 0.7, 0.7, 0.7 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [ 0, 45, 0 ],
+			"translation": [ 0, 4, 1 ],
+			"scale": [ 0.7, 0.7, 0.7 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ -30, 45, 0 ],
+			"translation": [ 0, 2, 2 ],
+			"scale": [ 0.6, 0.6, 0.6 ]
+		},
+		"firstperson_lefthand": {
+			"rotation": [ -30, 45, 0 ],
+			"translation": [ 0, 2, 2 ],
+			"scale": [ 0.6, 0.6, 0.6 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 0, 45 ],
+			"translation": [ -2, 2, 0 ],
+			"scale": [ 1.25, 1.25, 1.25 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		}
+	}
+}

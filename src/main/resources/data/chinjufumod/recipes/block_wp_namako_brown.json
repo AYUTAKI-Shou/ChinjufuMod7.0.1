@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_wp",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:paper" },
+		"Y": { "item": "chinjufumod:block_namako_brown" }
+	},
+
+	"result": { "item": "chinjufumod:block_wp_namako_brown", "count": 8 }
+}

@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:block/item_kirimi_salmon",
+	"gui_light": "front", "display": {
+		"gui": {
+			"rotation": [ 90, 90, 0 ],
+			"translation": [ -16, -2, 0 ],
+			"scale": [ 2.8, 2.8, 2.8 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 90, 90, 0 ],
+			"translation": [ -5.75, 0.8, 8 ],
+			"scale": [ 1.0, 1.0, 1.0 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 90, 0 ],
+			"translation": [ 0, 3.5, -6 ],
+			"scale": [ 1.0, 1.0, 1.0 ]
+		},
+		"fixed": {
+			"rotation": [ 270, 270, 0 ],
+			"translation": [ 14, 0, -17 ],
+			"scale": [ 2.5, 2.5, 2.5 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, -4 ],
+			"scale": [ 0.8, 0.8, 0.8 ]
+		}
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:block/samon/white_0" },
+		"stage=1": { "model": "chinjufumod:block/samon/white_1" },
+		"stage=2": { "model": "chinjufumod:block/samon/white_2" },
+		"stage=3": { "model": "chinjufumod:block/samon/white_3" },
+		"stage=4": { "model": "chinjufumod:block/samon/white_4" },
+		"stage=5": { "model": "chinjufumod:block/samon/white_5" },
+		"stage=6": { "model": "chinjufumod:block/samon/white_6" },
+		"stage=7": { "model": "chinjufumod:block/samon/white_7" }
+	}
+}

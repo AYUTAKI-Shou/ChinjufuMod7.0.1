@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/stone_pillar",
+	"textures": {
+		"particle": "chinjufumod:block/log_ichoh",
+		"top": "chinjufumod:block/log_ichoh_top",
+		"side": "chinjufumod:block/log_ichoh"
+	}
+}

@@ -1,0 +1,43 @@
+{
+	"parent": "chinjufumod:cm_story/jpblock/get_sekkai",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.jpblock.get_jpblock.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.jpblock.get_jpblock.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_kawara_gray"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_kawara_black" } ] }
+		},
+		"has_material2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_plaster_white" } ] }
+		},
+		"has_material3": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_dirtwall" } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material",
+			"has_material2",
+			"has_material3"
+		]
+	],
+	"rewards": { "experience": 3 }
+}
