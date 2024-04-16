@@ -1,0 +1,6 @@
+{
+	"parent": "block/fence_post",
+	"textures": {
+		"texture": "chinjufumod:block/planks_kaede"
+	}
+}

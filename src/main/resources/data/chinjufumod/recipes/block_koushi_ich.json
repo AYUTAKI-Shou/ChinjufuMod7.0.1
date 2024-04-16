@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_ranma",
+
+	"pattern": [
+		" X ",
+		"YYY",
+		"YYY"
+	],
+
+	"key": {
+		"X": { "tag": "forge:wooden_slabs/ginkgo" },
+		"Y": { "tag": "forge:rods/wooden" }
+	},
+
+	"result": { "item": "chinjufumod:block_koushi_ich", "count": 1 }
+}

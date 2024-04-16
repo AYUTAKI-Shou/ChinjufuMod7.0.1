@@ -1,0 +1,49 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/muku_oak",
+		"geta": "chinjufumod:block/muku_oak"
+	},
+	"elements": [
+
+		{
+			"name": "geta",
+			"from": [ 1.0, 0.75, 8.0 ],
+			"to": [ 10.0, 1.5, 13.5 ],
+			"faces": {
+				"up" : { "texture": "#geta" },
+				"down" : { "texture": "#geta" },
+				"north": { "texture": "#geta" },
+				"south": { "texture": "#geta" },
+				"east" : { "texture": "#geta" },
+				"west" : { "texture": "#geta" }
+			}
+		},
+		{
+			"name": "geta_1",
+			"from": [ 2.5, 0.01, 7.9 ],
+			"to": [ 3.5, 1.0, 13.6 ],
+			"faces": {
+				"up" : { "texture": "#geta" },
+				"down" : { "texture": "#geta" },
+				"north": { "texture": "#geta" },
+				"south": { "texture": "#geta" },
+				"east" : { "texture": "#geta" },
+				"west" : { "texture": "#geta" }
+			}
+		},
+		{
+			"name": "geta_2",
+			"from": [ 7.5, 0.01, 7.9 ],
+			"to": [ 8.5, 1.0, 13.6 ],
+			"faces": {
+				"up" : { "texture": "#geta" },
+				"down" : { "texture": "#geta" },
+				"north": { "texture": "#geta" },
+				"south": { "texture": "#geta" },
+				"east" : { "texture": "#geta" },
+				"west" : { "texture": "#geta" }
+			}
+		}
+	]
+}

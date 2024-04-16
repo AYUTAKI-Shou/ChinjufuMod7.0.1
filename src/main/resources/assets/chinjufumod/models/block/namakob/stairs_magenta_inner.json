@@ -1,0 +1,8 @@
+{
+	"parent": "block/inner_stairs",
+	"textures": {
+		"bottom": "chinjufumod:block/namakowall_b_magenta",
+		"top": "chinjufumod:block/namakowall_b_magenta",
+		"side": "chinjufumod:block/namakowall_b_magenta"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_bootskai",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_shigure_boots" },
+		{ "item": "chinjufumod:item_workorder" }
+	],
+
+	"result": { "item": "chinjufumod:item_shigure_bootskai", "count": 1 }
+}

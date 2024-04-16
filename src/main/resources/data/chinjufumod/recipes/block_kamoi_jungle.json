@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_kamoi",
+
+	"pattern": [
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_pillar_jun_c" }
+	},
+
+	"result": { "item": "chinjufumod:block_kamoi_jungle", "count": 6 }
+}

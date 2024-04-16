@@ -1,0 +1,31 @@
+{
+	"parent": "chinjufumod:cm_story/fishing/get_squid",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.fishing.shikake.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.fishing.shikake.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_ami_shikake"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_ami_shikake"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

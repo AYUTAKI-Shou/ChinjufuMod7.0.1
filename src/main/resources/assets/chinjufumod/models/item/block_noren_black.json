@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:block/noren/black_default",
+	"display": {
+		"gui": {
+			"rotation": [ 0, -40, 0 ],
+			"translation": [ -3.5, 0, 0 ],
+			"scale": [ 0.9, 0.8, 0.8 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 70, 0, 0 ],
+			"translation": [ 0, -3, 0 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 4, -6, 0 ],
+			"scale": [ 0.8, 0.8, 0.8 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 0, 6.5 ],
+			"scale": [ 0.8, 0.8, 0.8 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		}
+	}
+}

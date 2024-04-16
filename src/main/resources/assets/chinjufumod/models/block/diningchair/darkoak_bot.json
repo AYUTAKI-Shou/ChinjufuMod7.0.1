@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/diningchair_bot",
+	"textures": {
+		"particle": "minecraft:block/dark_oak_planks",
+		"leg": "chinjufumod:block/muku_bigoak",
+		"side": "minecraft:block/dark_oak_planks",
+		"top": "minecraft:block/dark_oak_planks"
+		}
+}

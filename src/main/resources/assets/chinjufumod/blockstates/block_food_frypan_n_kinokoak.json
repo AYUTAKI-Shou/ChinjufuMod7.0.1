@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:block/sushi/frypan_n_kinokoak", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:block/sushi/frypan_n_kinokoak" },
+		"facing=west,stage=1": { "model": "chinjufumod:block/sushi/frypan_n_kinokoak", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:block/sushi/frypan_n_kinokoak", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/sushi/frypan_b_kinokoak", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:block/sushi/frypan_b_kinokoak" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/sushi/frypan_b_kinokoak", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:block/sushi/frypan_b_kinokoak", "y": 270 }
+	}
+}

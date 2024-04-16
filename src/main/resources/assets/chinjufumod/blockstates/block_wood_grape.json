@@ -1,0 +1,113 @@
+{
+	"variants": {
+		"facing=north,half=lower,stage=1": { "model": "chinjufumod:block/crop/wood_grape_1", "y": 180 },
+		"facing=south,half=lower,stage=1": { "model": "chinjufumod:block/crop/wood_grape_1" },
+		"facing=west,half=lower,stage=1": { "model": "chinjufumod:block/crop/wood_grape_1", "y": 90 },
+		"facing=east,half=lower,stage=1": { "model": "chinjufumod:block/crop/wood_grape_1", "y": 270 },
+
+		"facing=north,half=lower,stage=2": { "model": "chinjufumod:block/crop/wood_grape_2", "y": 180 },
+		"facing=south,half=lower,stage=2": { "model": "chinjufumod:block/crop/wood_grape_2" },
+		"facing=west,half=lower,stage=2": { "model": "chinjufumod:block/crop/wood_grape_2", "y": 90 },
+		"facing=east,half=lower,stage=2": { "model": "chinjufumod:block/crop/wood_grape_2", "y": 270 },
+
+		"facing=north,half=lower,stage=3": { "model": "chinjufumod:block/crop/wood_grape_3", "y": 180 },
+		"facing=south,half=lower,stage=3": { "model": "chinjufumod:block/crop/wood_grape_3" },
+		"facing=west,half=lower,stage=3": { "model": "chinjufumod:block/crop/wood_grape_3", "y": 90 },
+		"facing=east,half=lower,stage=3": { "model": "chinjufumod:block/crop/wood_grape_3", "y": 270 },
+
+		"facing=north,half=lower,stage=4": { "model": "chinjufumod:block/crop/wood_grape_4", "y": 180 },
+		"facing=south,half=lower,stage=4": { "model": "chinjufumod:block/crop/wood_grape_4" },
+		"facing=west,half=lower,stage=4": { "model": "chinjufumod:block/crop/wood_grape_4", "y": 90 },
+		"facing=east,half=lower,stage=4": { "model": "chinjufumod:block/crop/wood_grape_4", "y": 270 },
+
+		"facing=north,half=lower,stage=5": { "model": "chinjufumod:block/crop/wood_grape_a", "y": 180 },
+		"facing=south,half=lower,stage=5": { "model": "chinjufumod:block/crop/wood_grape_a" },
+		"facing=west,half=lower,stage=5": { "model": "chinjufumod:block/crop/wood_grape_a", "y": 90 },
+		"facing=east,half=lower,stage=5": { "model": "chinjufumod:block/crop/wood_grape_a", "y": 270 },
+
+		"facing=north,half=lower,stage=6": { "model": "chinjufumod:block/crop/wood_grape_b", "y": 180 },
+		"facing=south,half=lower,stage=6": { "model": "chinjufumod:block/crop/wood_grape_b" },
+		"facing=west,half=lower,stage=6": { "model": "chinjufumod:block/crop/wood_grape_b", "y": 90 },
+		"facing=east,half=lower,stage=6": { "model": "chinjufumod:block/crop/wood_grape_b", "y": 270 },
+
+		"facing=north,half=lower,stage=7": { "model": "chinjufumod:block/crop/wood_grape_c", "y": 180 },
+		"facing=south,half=lower,stage=7": { "model": "chinjufumod:block/crop/wood_grape_c" },
+		"facing=west,half=lower,stage=7": { "model": "chinjufumod:block/crop/wood_grape_c", "y": 90 },
+		"facing=east,half=lower,stage=7": { "model": "chinjufumod:block/crop/wood_grape_c", "y": 270 },
+
+		"facing=north,half=lower,stage=8": { "model": "chinjufumod:block/crop/wood_grape_d", "y": 180 },
+		"facing=south,half=lower,stage=8": { "model": "chinjufumod:block/crop/wood_grape_d" },
+		"facing=west,half=lower,stage=8": { "model": "chinjufumod:block/crop/wood_grape_d", "y": 90 },
+		"facing=east,half=lower,stage=8": { "model": "chinjufumod:block/crop/wood_grape_d", "y": 270 },
+
+		"facing=north,half=lower,stage=9": { "model": "chinjufumod:block/crop/wood_grape_e", "y": 180 },
+		"facing=south,half=lower,stage=9": { "model": "chinjufumod:block/crop/wood_grape_e" },
+		"facing=west,half=lower,stage=9": { "model": "chinjufumod:block/crop/wood_grape_e", "y": 90 },
+		"facing=east,half=lower,stage=9": { "model": "chinjufumod:block/crop/wood_grape_e", "y": 270 },
+
+		"facing=north,half=lower,stage=10": { "model": "chinjufumod:block/crop/wood_grape_kare", "y": 180 },
+		"facing=south,half=lower,stage=10": { "model": "chinjufumod:block/crop/wood_grape_kare" },
+		"facing=west,half=lower,stage=10": { "model": "chinjufumod:block/crop/wood_grape_kare", "y": 90 },
+		"facing=east,half=lower,stage=10": { "model": "chinjufumod:block/crop/wood_grape_kare", "y": 270 },
+
+		"facing=north,half=lower,stage=11": { "model": "chinjufumod:block/crop/wood_grape_4b", "y": 180 },
+		"facing=south,half=lower,stage=11": { "model": "chinjufumod:block/crop/wood_grape_4b" },
+		"facing=west,half=lower,stage=11": { "model": "chinjufumod:block/crop/wood_grape_4b", "y": 90 },
+		"facing=east,half=lower,stage=11": { "model": "chinjufumod:block/crop/wood_grape_4b", "y": 270 },
+
+			"facing=north,half=upper,stage=1": { "model": "chinjufumod:block/crop/wood_grapetop_1", "y": 180 },
+			"facing=south,half=upper,stage=1": { "model": "chinjufumod:block/crop/wood_grapetop_1" },
+			"facing=west,half=upper,stage=1": { "model": "chinjufumod:block/crop/wood_grapetop_1", "y": 90 },
+			"facing=east,half=upper,stage=1": { "model": "chinjufumod:block/crop/wood_grapetop_1", "y": 270 },
+
+			"facing=north,half=upper,stage=2": { "model": "chinjufumod:block/crop/wood_grapetop_2", "y": 180 },
+			"facing=south,half=upper,stage=2": { "model": "chinjufumod:block/crop/wood_grapetop_2" },
+			"facing=west,half=upper,stage=2": { "model": "chinjufumod:block/crop/wood_grapetop_2", "y": 90 },
+			"facing=east,half=upper,stage=2": { "model": "chinjufumod:block/crop/wood_grapetop_2", "y": 270 },
+
+			"facing=north,half=upper,stage=3": { "model": "chinjufumod:block/crop/wood_grapetop_3", "y": 180 },
+			"facing=south,half=upper,stage=3": { "model": "chinjufumod:block/crop/wood_grapetop_3" },
+			"facing=west,half=upper,stage=3": { "model": "chinjufumod:block/crop/wood_grapetop_3", "y": 90 },
+			"facing=east,half=upper,stage=3": { "model": "chinjufumod:block/crop/wood_grapetop_3", "y": 270 },
+
+			"facing=north,half=upper,stage=4": { "model": "chinjufumod:block/crop/wood_grapetop_4", "y": 180 },
+			"facing=south,half=upper,stage=4": { "model": "chinjufumod:block/crop/wood_grapetop_4" },
+			"facing=west,half=upper,stage=4": { "model": "chinjufumod:block/crop/wood_grapetop_4", "y": 90 },
+			"facing=east,half=upper,stage=4": { "model": "chinjufumod:block/crop/wood_grapetop_4", "y": 270 },
+
+			"facing=north,half=upper,stage=5": { "model": "chinjufumod:block/crop/wood_grapetop_a", "y": 180 },
+			"facing=south,half=upper,stage=5": { "model": "chinjufumod:block/crop/wood_grapetop_a" },
+			"facing=west,half=upper,stage=5": { "model": "chinjufumod:block/crop/wood_grapetop_a", "y": 90 },
+			"facing=east,half=upper,stage=5": { "model": "chinjufumod:block/crop/wood_grapetop_a", "y": 270 },
+
+			"facing=north,half=upper,stage=6": { "model": "chinjufumod:block/crop/wood_grapetop_b", "y": 180 },
+			"facing=south,half=upper,stage=6": { "model": "chinjufumod:block/crop/wood_grapetop_b" },
+			"facing=west,half=upper,stage=6": { "model": "chinjufumod:block/crop/wood_grapetop_b", "y": 90 },
+			"facing=east,half=upper,stage=6": { "model": "chinjufumod:block/crop/wood_grapetop_b", "y": 270 },
+
+			"facing=north,half=upper,stage=7": { "model": "chinjufumod:block/crop/wood_grapetop_c", "y": 180 },
+			"facing=south,half=upper,stage=7": { "model": "chinjufumod:block/crop/wood_grapetop_c" },
+			"facing=west,half=upper,stage=7": { "model": "chinjufumod:block/crop/wood_grapetop_c", "y": 90 },
+			"facing=east,half=upper,stage=7": { "model": "chinjufumod:block/crop/wood_grapetop_c", "y": 270 },
+
+			"facing=north,half=upper,stage=8": { "model": "chinjufumod:block/crop/wood_grapetop_d", "y": 180 },
+			"facing=south,half=upper,stage=8": { "model": "chinjufumod:block/crop/wood_grapetop_d" },
+			"facing=west,half=upper,stage=8": { "model": "chinjufumod:block/crop/wood_grapetop_d", "y": 90 },
+			"facing=east,half=upper,stage=8": { "model": "chinjufumod:block/crop/wood_grapetop_d", "y": 270 },
+
+			"facing=north,half=upper,stage=9": { "model": "chinjufumod:block/crop/wood_grapetop_e", "y": 180 },
+			"facing=south,half=upper,stage=9": { "model": "chinjufumod:block/crop/wood_grapetop_e" },
+			"facing=west,half=upper,stage=9": { "model": "chinjufumod:block/crop/wood_grapetop_e", "y": 90 },
+			"facing=east,half=upper,stage=9": { "model": "chinjufumod:block/crop/wood_grapetop_e", "y": 270 },
+
+			"facing=north,half=upper,stage=10": { "model": "chinjufumod:block/crop/wood_grapetop_kare", "y": 180 },
+			"facing=south,half=upper,stage=10": { "model": "chinjufumod:block/crop/wood_grapetop_kare" },
+			"facing=west,half=upper,stage=10": { "model": "chinjufumod:block/crop/wood_grapetop_kare", "y": 90 },
+			"facing=east,half=upper,stage=10": { "model": "chinjufumod:block/crop/wood_grapetop_kare", "y": 270 },
+
+			"facing=north,half=upper,stage=11": { "model": "chinjufumod:block/crop/wood_grapetop_4b", "y": 180 },
+			"facing=south,half=upper,stage=11": { "model": "chinjufumod:block/crop/wood_grapetop_4b" },
+			"facing=west,half=upper,stage=11": { "model": "chinjufumod:block/crop/wood_grapetop_4b", "y": 90 },
+			"facing=east,half=upper,stage=11": { "model": "chinjufumod:block/crop/wood_grapetop_4b", "y": 270 }
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_choco",
+
+	"ingredients": [
+		{ "tag": "forge:sugar" },
+		{ "tag": "forge:buckets/milk" },
+		{ "item": "chinjufumod:item_cocoa_mass" }
+	],
+
+	"result": { "item": "chinjufumod:item_choco_raw", "count": 1 }
+}

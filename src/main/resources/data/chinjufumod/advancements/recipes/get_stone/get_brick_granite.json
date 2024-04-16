@@ -1,0 +1,27 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_brick_gra_cr_c",
+			"chinjufumod:block_brick_gra_mos_c",
+			
+			"chinjufumod:block_brickstairs_gra_c",
+			"chinjufumod:block_bgc_slabhalf",
+			"chinjufumod:block_brick_gra_pil_c",
+			
+			"chinjufumod:block_wp_stone_grab"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_brick_gra_c"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

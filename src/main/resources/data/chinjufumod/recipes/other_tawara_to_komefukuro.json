@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_boxh",
+
+	"ingredients": [
+		{ "item": "chinjufumod:block_tawara_cm" }
+	],
+
+	"result": { "item": "chinjufumod:block_boxh_rice", "count": 8 }
+}

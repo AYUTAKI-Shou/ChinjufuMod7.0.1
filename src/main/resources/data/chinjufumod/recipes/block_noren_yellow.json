@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_noren",
+
+	"pattern": [
+		"X",
+		"Y"
+	],
+
+	"key": {
+		"X": { "tag": "forge:rods/wooden" },
+		"Y": { "item": "minecraft:yellow_carpet" }
+	},
+
+	"result": { "item": "chinjufumod:block_noren_yellow", "count": 1 }
+}

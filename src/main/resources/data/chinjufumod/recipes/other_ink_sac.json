@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_other",
+
+	"pattern": [
+		"X"
+	],
+
+	"key": {
+		"X": { "tag": "forge:raw_fishes/squid" }
+	},
+
+	"result": { "item": "minecraft:ink_sac", "count": 2 }
+}

@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"X",
+		"X"
+	],
+
+	"key": {
+		"X": [ { "tag": "minecraft:planks" }, { "tag": "forge:planks" } ]
+	},
+
+	"result": { "item": "minecraft:stick", "count": 4 }
+}

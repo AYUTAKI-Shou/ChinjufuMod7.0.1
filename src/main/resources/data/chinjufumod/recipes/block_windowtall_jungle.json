@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_window",
+
+	"pattern": [
+		"XY",
+		"XY"
+	],
+
+	"key": {
+		"X": { "tag": "forge:glass/colorless" },
+		"Y": { "item": "minecraft:jungle_planks" }
+	},
+
+	"result": { "item": "chinjufumod:block_windowtall_jungle", "count": 8 }
+}

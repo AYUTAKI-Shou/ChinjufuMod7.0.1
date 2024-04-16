@@ -1,0 +1,8 @@
+{
+	"parent": "block/cube_column",
+	"textures": {
+		"particle": "chinjufumod:block/tawara_front",
+		"end" : "chinjufumod:block/tawara_front",
+		"side": "chinjufumod:block/tawara_side"
+	}
+}

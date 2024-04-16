@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/kotatsu1_none_n",
+	"textures": {
+		"particle": "chinjufumod:block/planks_ichoh",
+		"ten": "chinjufumod:block/planks_ichoh",
+		"futon": "chinjufumod:block/kotatsufuton_ich",
+		"leg": "chinjufumod:block/muku_ichoh"
+	}
+}

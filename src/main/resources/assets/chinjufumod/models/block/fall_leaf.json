@@ -1,0 +1,34 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/fall_leaf_top",
+		"dirt": "minecraft:block/dirt",
+		"top": "chinjufumod:block/grass_kare_top",
+		"side": "chinjufumod:block/grass_kare_side",
+		"ha": "chinjufumod:block/fall_leaf_top"
+	},
+	"elements": [
+		{
+			"name": "dirt",
+			"from": [ 0.0, 0.0, 0.0 ],
+			"to": [ 16.0, 16.0, 16.0 ],
+			"faces": {
+				"up": { "texture": "#top", "cullface": "top" },
+				"down" : { "texture": "#dirt", "cullface": "down" },
+				"north": { "texture": "#side", "cullface": "north" },
+				"south": { "texture": "#side", "cullface": "south" },
+				"west" : { "texture": "#side", "cullface": "west" },
+				"east" : { "texture": "#side", "cullface": "east" }
+			}
+		},
+		{
+			"name": "ha",
+			"from": [ 0.0, 16.09, 0.0 ],
+			"to": [ 16.0, 16.1, 16.0 ],
+			"faces": {
+				"up": { "uv": [ 0, 0, 16, 16 ], "texture": "#ha" },
+				"down" : { "uv": [ 0, 16, 16, 0 ], "texture": "#ha" }
+			}
+		}
+	]
+}

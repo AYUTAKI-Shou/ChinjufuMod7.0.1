@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_food",
+
+	"ingredients": [
+		{ "tag": "forge:sugar" },
+		{ "tag": "forge:buckets/milk" },
+		[ { "tag": "forge:dusts/salt" }, { "tag": "forge:foods/salt" }, { "tag": "forge:items/salt" } ],
+		{ "tag": "forge:items/yeast" },
+		{ "tag": "forge:foods/butter" },
+		{ "tag": "forge:foods/flour" },
+		{ "tag": "forge:foods/flour" },
+		{ "tag": "forge:foods/flour" }
+	],
+
+	"result": { "item": "chinjufumod:item_kiji_bun", "count" : 3 }
+}

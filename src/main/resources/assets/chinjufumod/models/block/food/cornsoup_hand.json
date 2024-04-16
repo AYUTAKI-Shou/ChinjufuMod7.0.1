@@ -1,0 +1,175 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/soup_corn",
+		"sara": "chinjufumod:block/dish_white",
+		"soup": "chinjufumod:block/soup_still_n"
+	},
+	"elements": [
+		{
+			"name": "sara_n_top____________________________________________",
+			"from": [ 5.5, 0.8, 5.5 ],
+			"to": [ 10.5, 1.0, 6.3 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_s_top",
+			"from": [ 5.5, 0.8, 9.7 ],
+			"to": [ 10.5, 1.0, 10.5 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_e_top",
+			"from": [ 9.7, 0.8, 6.3 ],
+			"to": [ 10.5, 1.0, 9.8 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_w_top",
+			"from": [ 5.5, 0.8, 6.3 ],
+			"to": [ 6.3, 1.0, 9.8 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+
+		{
+			"name": "sara_n_mid____________________________________________",
+			"from": [ 6.3, 0.4, 6.3 ],
+			"to": [ 9.7, 0.8, 6.5 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_s_mid",
+			"from": [ 6.3, 0.4, 9.5 ],
+			"to": [ 9.7, 0.8, 9.7 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_e_mid",
+			"from": [ 9.5, 0.4, 6.5 ],
+			"to": [ 9.7, 0.8, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_w_mid",
+			"from": [ 6.3, 0.4, 6.5 ],
+			"to": [ 6.5, 0.8, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+
+		{
+			"name": "sara_bot_top_________________________________________",
+			"from": [ 6.5, 0.3, 6.5 ],
+			"to": [ 9.5, 0.5, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_bot_nor",
+			"from": [ 6.5, 0.0, 6.5 ],
+			"to": [ 9.5, 0.3, 6.7 ],
+			"faces": {
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_bot_sou",
+			"from": [ 6.5, 0.0, 9.3 ],
+			"to": [ 9.5, 0.3, 9.5 ],
+			"faces": {
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_bot_east",
+			"from": [ 6.5, 0.0, 6.7 ],
+			"to": [ 6.7, 0.3, 9.3 ],
+			"faces": {
+				"down" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_bot_west",
+			"from": [ 9.3, 0.0, 6.7 ],
+			"to": [ 9.5, 0.3, 9.3 ],
+			"faces": {
+				"down" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+
+		{
+			"name": "soup____________________________________________",
+			"from": [ 6.5, 0.51, 6.5 ],
+			"to": [ 9.5, 0.7, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#soup", "tintindex": 2 }
+			}
+		}
+
+	]
+}

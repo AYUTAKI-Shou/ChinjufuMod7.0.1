@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [
+				{ "type": "minecraft:alternatives",
+
+					"children": [
+						{ "type": "minecraft:item",
+							"conditions": [ { "condition": "minecraft:match_tool", "predicate": { "enchantments": [ { "enchantment": "minecraft:silk_touch", "levels": { "min": 1 } } ] } } ],
+							"name": "chinjufumod:block_zundou_milk" },
+
+						{ "type": "minecraft:item", "name": "chinjufumod:block_food_zundou" }
+					]
+				}
+			]
+		}
+	],
+
+	"functions": [ { "function": "minecraft:explosion_decay" } ]
+}

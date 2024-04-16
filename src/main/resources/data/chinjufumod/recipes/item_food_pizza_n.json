@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_pizza",
+
+	"ingredients": [
+		{ "tag": "forge:foods/freshcheese" },
+		{ "tag": "forge:foods/cheese" },
+		{ "tag": "forge:crops/spinach" },
+		{ "tag": "forge:crops/tomato" },
+		{ "tag": "forge:crops/tomato" },
+		{ "item": "chinjufumod:item_kiji_pizza" }
+	],
+
+	"result": { "item": "chinjufumod:item_food_pizza_n", "count" : 1 }
+}

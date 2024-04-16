@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_nsh_lightg" } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_nsh_lightg" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_nsh_lightg", "properties": { "type": "double" } } ] }
+	]
+}

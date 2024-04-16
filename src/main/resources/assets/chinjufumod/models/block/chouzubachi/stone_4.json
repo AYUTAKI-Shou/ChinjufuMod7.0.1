@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/chouzubachi_4",
+	"textures": {
+ 		"particle": "minecraft:block/stone",
+ 		"ishi": "minecraft:block/stone",
+ 		"mizu": "minecraft:block/water_still",
+		 "flow": "minecraft:block/water_flow"
+	}
+}

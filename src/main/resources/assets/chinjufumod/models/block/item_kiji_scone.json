@@ -1,0 +1,22 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/flour_kiji",
+		"scone": "chinjufumod:block/flour_kiji"
+	},
+	"elements": [
+		{
+			"name": "scone_kiji",
+			"from": [ 6.5, 0.0, 6.5 ],
+			"to": [ 9.5, 3.0, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#scone" },
+				"down" : { "texture": "#scone" },
+				"north": { "texture": "#scone" },
+				"south": { "texture": "#scone" },
+				"east" : { "texture": "#scone" },
+				"west" : { "texture": "#scone" }
+			}
+		}
+	]
+}

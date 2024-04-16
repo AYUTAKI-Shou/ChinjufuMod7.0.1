@@ -1,0 +1,43 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:item_santaakashi_helmet",
+			"chinjufumod:item_santaakashi_chestplate",
+			"chinjufumod:item_santaakashi_leggings",
+			"chinjufumod:item_santaakashi_boots",
+			
+			"chinjufumod:item_santasuzuya_helmet",
+			"chinjufumod:item_santasuzuya_chestplate",
+			"chinjufumod:item_santasuzuya_leggings",
+			"chinjufumod:item_santasuzuya_boots",
+			
+			"chinjufumod:item_santakumano_helmet",
+			"chinjufumod:item_santakumano_chestplate",
+			"chinjufumod:item_santakumano_leggings",
+			"chinjufumod:item_santakumano_boots",
+			
+			"chinjufumod:item_santaryujou_helmet",
+			"chinjufumod:item_santaryujou_chestplate",
+			"chinjufumod:item_santaryujou_leggings",
+			"chinjufumod:item_santaryujou_boots",
+			
+			"chinjufumod:item_santattk_helmet",
+			"chinjufumod:item_santattk_chestplate",
+			"chinjufumod:item_santattk_leggings",
+			"chinjufumod:item_santattk_boots"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["minecraft:white_carpet"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

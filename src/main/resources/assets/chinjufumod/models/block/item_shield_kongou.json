@@ -1,0 +1,66 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:item/shield_kongou_front",
+		"soukou": "chinjufumod:item/shield_kongou_front",
+		"side": "chinjufumod:item/shield_kongou_side",
+		"back": "chinjufumod:item/shield_kongou_back"
+	},
+	"elements": [
+		{
+			"name": "shield_left_soukou",
+			"from": [ -2.2, 0, 2 ],
+			"to": [ -2.1, 18, 20 ],
+			"faces": {
+				"west" : { "uv": [ 16.0, 0.0, 0.0, 16.0 ], "texture":"#soukou" },
+				"east" : { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture":"#soukou" }
+			}
+		},
+		{
+			"name": "shield_left_side",
+			"from": [ -2.0, 0, 4 ],
+			"to": [ -1.9, 16, 15 ],
+			"faces": {
+				"west" : { "uv": [ 11.0, 0.0, 0.0, 16.0 ], "texture":"#side" },
+				"east" : { "uv": [ 0.0, 0.0, 11.0, 16.0 ], "texture":"#side" }
+			}
+		},
+		{
+			"name": "shield_left_back",
+			"from": [ -2.0, 0, 14.9 ],
+			"to": [ 8.0, 16, 15 ],
+			"faces": {
+				"north" : { "uv": [ 10.0, 0.0, 0.0, 16.0 ], "texture":"#back" },
+				"south" : { "uv": [ 0.0, 0.0, 10.0, 16.0 ], "texture":"#back" }
+			}
+		},
+
+		{
+			"name": "shield_right_soukou",
+			"from": [ 18.1, 0, 2 ],
+			"to": [ 18.2, 18, 20 ],
+			"faces": {
+				"west" : { "uv": [ 16.0, 0.0, 0.0, 16.0 ], "texture":"#soukou" },
+				"east" : { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture":"#soukou" }
+			}
+		},
+		{
+			"name": "shield_right_side",
+			"from": [ 17.9, 0, 4 ],
+			"to": [ 18, 16, 15 ],
+			"faces": {
+				"west" : { "uv": [ 11.0, 0.0, 0.0, 16.0 ], "texture":"#side" },
+				"east" : { "uv": [ 0.0, 0.0, 11.0, 16.0 ], "texture":"#side" }
+			}
+		},
+		{
+			"name": "shield_right_back",
+			"from": [ 8.0, 0, 14.9 ],
+			"to": [ 18.0, 16, 15 ],
+			"faces": {
+				"north" : { "uv": [ 0.0, 0.0, 10.0, 16.0 ], "texture":"#back" },
+				"south" : { "uv": [ 10.0, 0.0, 0.0, 16.0 ], "texture":"#back" }
+			}
+		}
+	]
+}

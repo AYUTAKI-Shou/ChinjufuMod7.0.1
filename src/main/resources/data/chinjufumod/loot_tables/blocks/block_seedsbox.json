@@ -1,0 +1,32 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{
+			"rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:group",
+
+					"children": [ { "type": "minecraft:item", "name": "chinjufumod:item_seeds_cabbage", "weight": 9 },
+							{ "type": "minecraft:item", "name": "chinjufumod:item_seeds_hakusai", "weight": 9 },
+							{ "type": "minecraft:item", "name": "chinjufumod:item_seeds_corn", "weight": 9 },
+							{ "type": "minecraft:item", "name": "chinjufumod:item_seeds_onion", "weight": 9 },
+							{ "type": "minecraft:item", "name": "chinjufumod:item_seeds_rice", "weight": 9 },
+							{ "type": "minecraft:item", "name": "chinjufumod:item_seeds_soy", "weight": 9 },
+							{ "type": "minecraft:item", "name": "chinjufumod:item_seeds_spinach", "weight": 9 },
+							{ "type": "minecraft:item", "name": "chinjufumod:item_seeds_tomato", "weight": 9 },
+							{ "type": "minecraft:item", "name": "chinjufumod:block_wood_chanoki_nae", "weight": 9 },
+							{ "type": "minecraft:item", "name": "chinjufumod:block_wood_grape_nae", "weight": 9 },
+							{ "type": "minecraft:item", "name": "chinjufumod:block_wood_mikan", "weight": 9 },
+							
+							{ "type": "minecraft:item", "name": "chinjufumod:item_seeds_pepper", "weight": 9 },
+							{ "type": "minecraft:item", "name": "chinjufumod:item_seeds_cumin", "weight": 9 },
+							{ "type": "minecraft:item", "name": "chinjufumod:item_seeds_turmeric", "weight": 9 },
+							{ "type": "minecraft:item", "name": "chinjufumod:item_seeds_chilipepper", "weight": 9 },
+							{ "type": "minecraft:item", "name": "chinjufumod:item_seeds_greenonion", "weight": 9 },
+							{ "type": "minecraft:item", "name": "minecraft:air", "weight": 1 } ]
+				}
+			]
+		}
+	],
+
+	"functions": [ { "function": "minecraft:explosion_decay" } ]
+}

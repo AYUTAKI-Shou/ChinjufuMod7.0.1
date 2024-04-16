@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"cra=false": { "model": "chinjufumod:block/plaster/cyan" },
+		"cra=true": { "model": "chinjufumod:block/plaster/crack_cyan" }
+	}
+}

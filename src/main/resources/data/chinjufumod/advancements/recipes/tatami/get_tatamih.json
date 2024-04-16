@@ -1,0 +1,37 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_tatamih_white",
+			"chinjufumod:block_tatamih_orange",
+			"chinjufumod:block_tatamih_magenta",
+			"chinjufumod:block_tatamih_lightb",
+			"chinjufumod:block_tatamih_yellow",
+			"chinjufumod:block_tatamih_lime",
+			"chinjufumod:block_tatamih_pink",
+			"chinjufumod:block_tatamih_gray",
+			"chinjufumod:block_tatamih_lightg",
+			"chinjufumod:block_tatamih_cyan",
+			"chinjufumod:block_tatamih_purple",
+			"chinjufumod:block_tatamih_blue",
+			"chinjufumod:block_tatamih_brown",
+			"chinjufumod:block_tatamih_green",
+			"chinjufumod:block_tatamih_red",
+			"chinjufumod:block_tatamih_black",
+			
+			"chinjufumod:block_tatamih_y"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_tatamih"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

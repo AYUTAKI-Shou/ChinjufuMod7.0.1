@@ -1,0 +1,31 @@
+{
+	"parent": "chinjufumod:cm_story/season/get_1_newyear",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.season.get_2_valentine.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.season.get_2_valentine.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_food_choco_heart"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:item_food_choco_heart"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

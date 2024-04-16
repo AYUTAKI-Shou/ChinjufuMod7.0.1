@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_shield",
+
+	"pattern": [
+		"AZY",
+		"YXY",
+		"YX "
+	],
+
+	"key": {
+		"X": [ { "tag": "minecraft:planks" }, { "tag": "forge:planks" } ],
+		"Y": { "tag": "forge:ingots/iron" },
+		"Z": { "tag": "forge:dyes/brown" },
+		"A": { "item": "chinjufumod:item_workorder" }
+	},
+
+	"result": { "item": "chinjufumod:item_shield_mogami", "count": 1 }
+}

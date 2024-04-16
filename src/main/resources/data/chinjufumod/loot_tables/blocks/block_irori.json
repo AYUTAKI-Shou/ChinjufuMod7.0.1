@@ -1,0 +1,78 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_irori" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori", "properties": { "stage": "0" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_irori" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori", "properties": { "stage": "1" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:charcoal" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori", "properties": { "stage": "1" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_irori" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori", "properties": { "stage": "2" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bone_meal" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori", "properties": { "stage": "2" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_irori" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori", "properties": { "stage": "3" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bone_meal" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori", "properties": { "stage": "3" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_irori" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori", "properties": { "stage": "4" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bone_meal" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori", "properties": { "stage": "4" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_irori" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori", "properties": { "stage": "5" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bone_meal" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori", "properties": { "stage": "5" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_irori" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori", "properties": { "stage": "6" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bone_meal" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori", "properties": { "stage": "6" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_irori" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori", "properties": { "stage": "7" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bone_meal" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori", "properties": { "stage": "7" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_irori" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori", "properties": { "stage": "8" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bone_meal" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori", "properties": { "stage": "8" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_irori" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori", "properties": { "stage": "9" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bone_meal" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori", "properties": { "stage": "9" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_irori" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori", "properties": { "stage": "10" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bone_meal" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori", "properties": { "stage": "10" } } ] }
+	]
+}

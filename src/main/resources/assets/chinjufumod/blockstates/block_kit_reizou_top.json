@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"facing=north,open=false,right=false": { "model": "chinjufumod:block/kitchen/reizoutop_closeleft", "y": 180 },
+		"facing=south,open=false,right=false": { "model": "chinjufumod:block/kitchen/reizoutop_closeleft", "y": 0 },
+		"facing=west,open=false,right=false": { "model": "chinjufumod:block/kitchen/reizoutop_closeleft", "y": 90 },
+		"facing=east,open=false,right=false": { "model": "chinjufumod:block/kitchen/reizoutop_closeleft", "y": 270 },
+
+		"facing=north,open=true,right=false": { "model": "chinjufumod:block/kitchen/reizoutop_openleft", "y": 180 },
+		"facing=south,open=true,right=false": { "model": "chinjufumod:block/kitchen/reizoutop_openleft", "y": 0 },
+		"facing=west,open=true,right=false": { "model": "chinjufumod:block/kitchen/reizoutop_openleft", "y": 90 },
+		"facing=east,open=true,right=false": { "model": "chinjufumod:block/kitchen/reizoutop_openleft", "y": 270 },
+
+			"facing=north,open=false,right=true": { "model": "chinjufumod:block/kitchen/reizoutop_closeright", "y": 180 },
+			"facing=south,open=false,right=true": { "model": "chinjufumod:block/kitchen/reizoutop_closeright", "y": 0 },
+			"facing=west,open=false,right=true": { "model": "chinjufumod:block/kitchen/reizoutop_closeright", "y": 90 },
+			"facing=east,open=false,right=true": { "model": "chinjufumod:block/kitchen/reizoutop_closeright", "y": 270 },
+	
+			"facing=north,open=true,right=true": { "model": "chinjufumod:block/kitchen/reizoutop_openright", "y": 180 },
+			"facing=south,open=true,right=true": { "model": "chinjufumod:block/kitchen/reizoutop_openright", "y": 0 },
+			"facing=west,open=true,right=true": { "model": "chinjufumod:block/kitchen/reizoutop_openright", "y": 90 },
+			"facing=east,open=true,right=true": { "model": "chinjufumod:block/kitchen/reizoutop_openright", "y": 270 }
+	}
+}

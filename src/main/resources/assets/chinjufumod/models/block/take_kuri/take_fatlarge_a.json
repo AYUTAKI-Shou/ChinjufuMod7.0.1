@@ -1,0 +1,40 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/take_outside",
+		"bamboo": "chinjufumod:block/take_outside",
+		"leaves": "chinjufumod:block/take_large_leaves"
+	},
+	"elements": [
+		{
+			"from": [ 6.5, 0, 6.5 ],
+			"to": [ 9.5, 16, 9.5 ],
+			"faces": {
+				"up":	{ "uv": [ 12, 4, 16, 8 ], "texture": "#bamboo", "cullface": "up" },
+				"down": { "uv": [ 8, 8, 12, 12 ], "texture": "#bamboo", "cullface": "down" },
+				"north": { "uv": [ 0, 0, 4, 16 ], "texture": "#bamboo" },
+				"south": { "uv": [ 0, 0, 4, 16 ], "texture": "#bamboo" },
+				"west": { "uv": [ 0, 0, 4, 16 ], "texture": "#bamboo" },
+				"east": { "uv": [ 0, 0, 4, 16 ], "texture": "#bamboo" }
+			}
+		},
+		{
+			"from": [ 0.5, 0, 8 ],
+			"to": [ 15.5, 16, 8 ],
+			"shade": true,
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#leaves" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#leaves" }
+			}
+		},
+		{
+			"from": [ 8, 0, 0.5 ],
+			"to": [ 8, 16, 15.5 ],
+			"shade": true,
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#leaves" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#leaves" }
+			}
+		}
+	]
+}

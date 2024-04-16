@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_tea",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_chaba_green" },
+		{ "item": "chinjufumod:item_chaba_green" },
+		{ "item": "chinjufumod:item_chaba_green" },
+		{ "item": "chinjufumod:item_chaba_green" },
+		{ "item": "chinjufumod:item_chaba_green" },
+		{ "item": "chinjufumod:item_chaba_green" },
+		{ "item": "chinjufumod:item_chaba_green" },
+		{ "item": "chinjufumod:item_chaba_green" },
+		{ "item": "chinjufumod:block_taru_hakkou" }
+	],
+
+	"result": { "item": "chinjufumod:block_taru_koucha_f", "count": 1 }
+}

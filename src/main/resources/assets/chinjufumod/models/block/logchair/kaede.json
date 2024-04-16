@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/logchair",
+	"textures": {
+		"particle": "chinjufumod:block/log_kaede",
+		"side": "chinjufumod:block/log_kaede",
+		"top": "chinjufumod:block/log_kaede_top"
+	}
+}

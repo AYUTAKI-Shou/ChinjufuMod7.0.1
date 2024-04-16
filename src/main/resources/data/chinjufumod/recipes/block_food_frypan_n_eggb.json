@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_eggb",
+
+	"ingredients": [
+		{ "tag": "forge:eggs" },
+		{ "tag": "forge:eggs" },
+		{ "item": "chinjufumod:item_kiji_burg" },
+		{ "item": "chinjufumod:block_food_frypan" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_frypan_n_eggb", "count" : 1 }
+}

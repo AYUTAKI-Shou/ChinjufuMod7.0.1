@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_pasta",
+
+	"ingredients": [
+		{ "tag": "forge:foods/freshcheese" },
+		{ "tag": "forge:foods/cheese" },
+		{ "item": "chinjufumod:item_food_pasta_s" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_pastacheese_1", "count" : 1 }
+}

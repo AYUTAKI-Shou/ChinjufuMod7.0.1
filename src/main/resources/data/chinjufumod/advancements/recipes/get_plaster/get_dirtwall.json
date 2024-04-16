@@ -1,0 +1,24 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_dirtwall_st",
+			"chinjufumod:block_dirtwall_sh",
+			"chinjufumod:block_dirtwall_wall",
+			"chinjufumod:block_dirtwall_sama",
+			"chinjufumod:block_wp_dirtwall"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_dirtwall"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

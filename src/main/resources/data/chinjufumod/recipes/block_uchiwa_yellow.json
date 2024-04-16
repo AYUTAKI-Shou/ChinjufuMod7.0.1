@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_uchiwa",
+
+	"ingredients": [
+		{ "tag": "forge:rods/wooden" },
+		{ "item": "minecraft:paper" },
+		{ "item": "minecraft:paper" },
+		{ "tag": "forge:dyes/yellow" }
+	],
+
+	"result": { "item": "chinjufumod:block_uchiwa_yellow", "count" : 1 }
+}

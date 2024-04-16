@@ -1,0 +1,34 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_ctruss_white",
+			"chinjufumod:block_ctruss_orange",
+			"chinjufumod:block_ctruss_magenta",
+			"chinjufumod:block_ctruss_lightb",
+			"chinjufumod:block_ctruss_yellow",
+			"chinjufumod:block_ctruss_lime",
+			"chinjufumod:block_ctruss_pink",
+			"chinjufumod:block_ctruss_gray",
+			"chinjufumod:block_ctruss_cyan",
+			"chinjufumod:block_ctruss_purple",
+			"chinjufumod:block_ctruss_blue", 
+			"chinjufumod:block_ctruss_brown",
+			"chinjufumod:block_ctruss_green",
+			"chinjufumod:block_ctruss_red",
+			"chinjufumod:block_ctruss_black"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_ctruss"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:block/irori_sakana/crec" },
+		"stage=1": { "model": "chinjufumod:block/irori_sakana/crre" },
+		"stage=2": { "model": "chinjufumod:block/irori_sakana/crrr" },
+		"stage=3": { "model": "chinjufumod:block/irori_sakana/crrc" },
+		"stage=4": { "model": "chinjufumod:block/irori_sakana/crce" },
+		"stage=5": { "model": "chinjufumod:block/irori_sakana/crcr" },
+		"stage=6": { "model": "chinjufumod:block/irori_sakana/crcc" },
+		"stage=7": { "model": "chinjufumod:block/irori_sakana/ccee" },
+		"stage=8": { "model": "chinjufumod:block/irori_sakana/ccer" },
+		"stage=9": { "model": "chinjufumod:block/irori_sakana/ccec" },
+		"stage=10": { "model": "chinjufumod:block/irori_sakana/ccre" },
+		"stage=11": { "model": "chinjufumod:block/irori_sakana/ccrr" },
+		"stage=12": { "model": "chinjufumod:block/irori_sakana/ccrc" },
+		"stage=13": { "model": "chinjufumod:block/irori_sakana/ccce" },
+		"stage=14": { "model": "chinjufumod:block/irori_sakana/cccr" },
+		"stage=15": { "model": "chinjufumod:block/irori_sakana/cccc" }
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"variants": {
+		"down=false,stage=0": { "model": "chinjufumod:block/glass/cider_1" },
+		"down=false,stage=1": { "model": "chinjufumod:block/glass/cider_2" },
+		"down=false,stage=2": { "model": "chinjufumod:block/glass/cider_empty" },
+
+		"down=true,stage=0": { "model": "chinjufumod:block/glass/cider_down1" },
+		"down=true,stage=1": { "model": "chinjufumod:block/glass/cider_down2" },
+		"down=true,stage=2": { "model": "chinjufumod:block/glass/cider_downempty" }
+	}
+}

@@ -1,0 +1,80 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/gate_irongrill",
+		"grill": "chinjufumod:block/gate_irongrill"
+	},
+	"elements": [
+		{
+			"name": "left_low_yoko_shita",
+			"from": [ 0.09, 0, 7.49 ],
+			"to": [ 16, 2, 8.51 ],
+			"faces": {
+				"up": { "uv": [ 14.0, 0.0, 15.0, 16.0 ], "texture": "#grill", "rotation": 90 },
+				"down": { "uv": [ 14.0, 0.0, 15.0, 16.0 ], "texture": "#grill", "rotation": 90 },
+				"north": { "uv": [ 14.0, 16.0, 16.0, 0.0 ], "texture": "#grill", "rotation": 90 },
+				"south": { "uv": [ 14.0, 0.0, 16.0, 16.0 ], "texture": "#grill", "rotation": 90 },
+				"east": { "uv": [ 0.0, 14.0, 1.0, 16.0 ], "texture": "#grill", "rotation": 90 },
+				"west": { "uv": [ 0.0, 14.0, 1.0, 16.0 ], "texture": "#grill", "rotation": 90 }
+			}
+		},
+		{
+			"name": "left_low_yoko_ue",
+			"from": [ 0.09, 10, 7.49 ],
+			"to": [ 16, 11, 8.51 ],
+			"faces": {
+				"up": { "uv": [ 13.0, 0.0, 14.0, 16.0 ], "texture": "#grill", "rotation": 90 },
+				"down": { "uv": [ 13.0, 0.0, 14.0, 16.0 ], "texture": "#grill", "rotation": 90 },
+				"north": { "uv": [ 13.0, 16.0, 14.0, 0.0 ], "texture": "#grill", "rotation": 90 },
+				"south": { "uv": [ 13.0, 0.0, 14.0, 16.0 ], "texture": "#grill", "rotation": 90 },
+				"east": { "uv": [ 0.0, 13.0, 1.0, 14.0 ], "texture": "#grill", "rotation": 90 },
+				"west": { "uv": [ 0.0, 13.0, 1.0, 14.0 ], "texture": "#grill", "rotation": 90 }
+			}
+		},
+
+		{
+			"name": "low_tate_6",
+			"from": [ 11.625, 2, 7.5 ],
+			"to": [ 12.625, 16, 8.5 ],
+			"faces": {
+				"north": { "uv": [ 4.0, 0.0, 3.0, 14.0 ], "texture": "#grill" },
+				"south": { "uv": [ 3.0, 0.0, 4.0, 14.0 ], "texture": "#grill" },
+				"east": { "uv": [ 3.0, 0.0, 4.0, 14.0 ], "texture": "#grill" },
+				"west": { "uv": [ 3.0, 0.0, 4.0, 14.0 ], "texture": "#grill" }
+			}
+		},
+		{
+			"name": "low_tate_7",
+			"from": [ 7.75, 2, 7.5 ],
+			"to": [ 8.75, 16, 8.5 ],
+			"faces": {
+				"north": { "uv": [ 3.0, 0.0, 2.0, 14.0 ], "texture": "#grill" },
+				"south": { "uv": [ 2.0, 0.0, 3.0, 14.0 ], "texture": "#grill" },
+				"east": { "uv": [ 2.0, 0.0, 3.0, 14.0 ], "texture": "#grill" },
+				"west": { "uv": [ 2.0, 0.0, 3.0, 14.0 ], "texture": "#grill" }
+			}
+		},
+		{
+			"name": "low_tate_8",
+			"from": [ 3.875, 2, 7.5 ],
+			"to": [ 4.875, 16, 8.5 ],
+			"faces": {
+				"north": { "uv": [ 2.0, 0.0, 1.0, 14.0 ], "texture": "#grill" },
+				"south": { "uv": [ 1.0, 0.0, 2.0, 14.0 ], "texture": "#grill" },
+				"east": { "uv": [ 1.0, 0.0, 2.0, 14.0 ], "texture": "#grill" },
+				"west": { "uv": [ 1.0, 0.0, 2.0, 14.0 ], "texture": "#grill" }
+			}
+		},
+		{
+			"name": "low_tate_9",
+			"from": [ 0.1, 2, 7.5 ],
+			"to": [ 1.1, 16, 8.5 ],
+			"faces": {
+				"north": { "uv": [ 1.0, 0.0, 0.0, 14.0 ], "texture": "#grill" },
+				"south": { "uv": [ 0.0, 0.0, 1.0, 14.0 ], "texture": "#grill" },
+				"east": { "uv": [ 0.0, 0.0, 1.0, 14.0 ], "texture": "#grill" },
+				"west": { "uv": [ 0.0, 0.0, 1.0, 14.0 ], "texture": "#grill" }
+			}
+		}
+	]
+}

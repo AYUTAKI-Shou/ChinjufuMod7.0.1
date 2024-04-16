@@ -1,0 +1,32 @@
+{
+	"parent": "chinjufumod:cm_story/root",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.weapon.get_workorder.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.weapon.get_workorder.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_workorder"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:item_workorder"] } ]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

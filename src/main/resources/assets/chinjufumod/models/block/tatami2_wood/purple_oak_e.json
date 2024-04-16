@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/tatami_wood_east",
+	"textures": {
+		"particle": "chinjufumod:block/tatami2_purple",
+		"top": "chinjufumod:block/tatami2_purple",
+		"side": "chinjufumod:block/tatami2_side_purple",
+		"wood": "minecraft:block/oak_planks"
+	}
+}

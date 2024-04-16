@@ -1,0 +1,10 @@
+{
+	"parent": "chinjufumod:block/base/ramen_d2",
+	"textures": {
+		"particle": "chinjufumod:block/dish_white",
+		"ramen": "chinjufumod:block/ramen_shouyu_2",
+		"donburi": "chinjufumod:block/dish_white",
+		"hashi": "chinjufumod:block/dish_red",
+		"hashioki": "chinjufumod:block/hashioki"
+	}
+}

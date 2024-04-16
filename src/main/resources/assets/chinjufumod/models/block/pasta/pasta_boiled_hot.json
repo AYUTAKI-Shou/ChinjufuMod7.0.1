@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/pastaboiled_hot",
+	"textures": {
+		"particle": "chinjufumod:block/dish_lightg",
+		"mizu": "minecraft:block/water_flow",
+		"pasta": "chinjufumod:block/pasta_boil_flow",
+		"nabe": "chinjufumod:block/dish_lightg"
+	}
+}

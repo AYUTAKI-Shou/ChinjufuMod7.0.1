@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"axis=y": { "model": "chinjufumod:block/tree/sakura_log" },
+		"axis=z": { "model": "chinjufumod:block/tree/sakura_log", "x": 90 },
+		"axis=x": { "model": "chinjufumod:block/tree/sakura_log", "x": 90, "y": 90 }
+	}
+}

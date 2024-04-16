@@ -1,0 +1,40 @@
+{
+	"parent": "chinjufumod:block/item_kushi_sakana",
+	"display": {
+		"gui": {
+			"rotation": [ 0, -30, -45 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 2.5, 2.5, 2.5 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 0, 120, 0 ],
+			"translation": [ -1, 4, 1 ],
+			"scale": [ 1.5, 1.5, 1.5 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [ 0, 300, 0 ],
+			"translation": [ 1, 4, 0 ],
+			"scale": [ 1.5, 1.5, 1.5 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ -30, 120, 0 ],
+			"translation": [ 0, 2, 1 ],
+			"scale": [ 1.0, 1.0, 1.0 ]
+		},
+		"firstperson_lefthand": {
+			"rotation": [ -30, 300, 0 ],
+			"translation": [ 0, 2, 1 ],
+			"scale": [ 1.0, 1.0, 1.0 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 180, -45 ],
+			"translation": [ 0, -1, 2.5 ],
+			"scale": [ 2.0, 2.0, 2.0 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 1.0, 1.0, 1.0 ]
+		}
+	}
+}

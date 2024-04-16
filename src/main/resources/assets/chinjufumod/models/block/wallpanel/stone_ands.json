@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/wallpanel_wide",
+	"textures": {
+		"particle": "minecraft:block/polished_andesite",
+		"front": "minecraft:block/polished_andesite",
+		"back": "minecraft:block/polished_andesite",
+		"side": "minecraft:block/polished_andesite"
+	}
+}

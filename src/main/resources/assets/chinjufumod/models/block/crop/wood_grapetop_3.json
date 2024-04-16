@@ -1,0 +1,106 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/log_grape",
+		"leaves": "chinjufumod:block/leaves_grape",
+		"log_top": "chinjufumod:block/log_grape_top",
+		"log": "chinjufumod:block/log_grape",
+		"stem": "chinjufumod:block/muku_bigoak"
+	},
+	"elements": [
+		{
+			"name": "eda_1__19, 8, 8_________________________________",
+			"from": [ 2.1, 5, 8.1 ],
+			"to": [ 2.9, 11, 8.9 ],
+			"rotation": { "origin": [ -21, 0, 8 ], "axis": "z", "angle": -22.5, "rescale": false },
+			"faces": {
+				"up" : { "texture": "#log" },
+				"down" : { "texture": "#log" },
+				"north": { "texture": "#log" },
+				"south": { "texture": "#log" },
+				"east" : { "texture": "#log" },
+				"west" : { "texture": "#log" }
+			}
+		},
+		{
+			"name": "eda_2",
+			"from": [ 7.1, 7.7, 8.1 ],
+			"to": [ 7.9, 11, 8.9 ],
+			"rotation": { "origin": [ -15.5, 0.5, 8 ], "axis": "z", "angle": -22.5, "rescale": false },
+			"faces": {
+				"up" : { "texture": "#log" },
+				"down" : { "texture": "#log" },
+				"north": { "texture": "#log" },
+				"south": { "texture": "#log" },
+				"east" : { "texture": "#log" },
+				"west" : { "texture": "#log" }
+			}
+		},
+
+		{
+			"name": "miki",
+			"from": [ 3, 7, 8.01 ],
+			"to": [ 14, 8, 9.01 ],
+			"rotation": { "origin": [ 32, 1, 8 ], "axis": "z", "angle": 22.5, "rescale": false },
+			"faces": {
+				"up" : { "texture": "#log" },
+				"down" : { "texture": "#log" },
+				"north": { "texture": "#log" },
+				"south": { "texture": "#log" },
+				"east" : { "texture": "#log" },
+				"west" : { "texture": "#log" }
+			}
+		},
+
+		{
+			"name": "leaves",
+			"from": [ 0.01, 0, 6 ],
+			"to": [ 13.99, 3, 11 ],
+			"faces": {
+				"up" : { "uv": [ 0.0, 6.0, 14.0, 11.0 ], "texture": "#leaves" },
+				"north": { "uv": [ 0.0, 13.0, 14.0, 16.0 ], "texture": "#leaves" },
+				"south": { "uv": [ 0.0, 13.0, 14.0, 16.0 ], "texture": "#leaves" },
+				"east" : { "uv": [ 6.0, 13.0, 11.0, 16.0 ], "texture": "#leaves" },
+				"west" : { "uv": [ 6.0, 13.0, 11.0, 16.0 ], "texture": "#leaves" }
+			}
+		},
+
+		{
+			"name": "stem_ue1___________________________________",
+			"from": [ 3, 0, 6.5 ],
+			"to": [ 4, 7, 7.5 ],
+			"faces": {
+				"up" : { "texture": "#stem" },
+				"north": { "texture": "#stem" },
+				"south": { "texture": "#stem" },
+				"east" : { "texture": "#stem" },
+				"west" : { "texture": "#stem" }
+			}
+		},
+		{
+			"name": "stem_ue2",
+			"from": [ 11, 0, 6.5 ],
+			"to": [ 12, 7, 7.5 ],
+			"faces": {
+				"up" : { "texture": "#stem" },
+				"north": { "texture": "#stem" },
+				"south": { "texture": "#stem" },
+				"east" : { "texture": "#stem" },
+				"west" : { "texture": "#stem" }
+			}
+		},
+		{
+			"name": "stem_yoko1",
+			"from": [ 0, 4, 6.99 ],
+			"to": [ 16, 5, 7.99 ],
+			"faces": {
+				"up" : { "texture": "#stem" },
+				"down" : { "texture": "#stem" },
+				"north": { "texture": "#stem" },
+				"south": { "texture": "#stem" },
+				"east" : { "texture": "#stem" },
+				"west" : { "texture": "#stem" }
+			}
+		}
+	]
+}

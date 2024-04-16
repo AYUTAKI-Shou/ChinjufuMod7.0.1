@@ -1,0 +1,43 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_andon_white",
+			
+			"chinjufumod:block_candle_white",
+			"chinjufumod:block_candle_orange",
+			"chinjufumod:block_candle_magenta",
+			"chinjufumod:block_candle_lightb",
+			"chinjufumod:block_candle_yellow",
+			"chinjufumod:block_candle_lime",
+			"chinjufumod:block_candle_pink", 
+			"chinjufumod:block_candle_gray",
+			"chinjufumod:block_candle_lightg",
+			"chinjufumod:block_candle_cyan",
+			"chinjufumod:block_candle_purple",
+			"chinjufumod:block_candle_blue",
+			"chinjufumod:block_candle_brown",
+			"chinjufumod:block_candle_green",
+			"chinjufumod:block_candle_red",
+			"chinjufumod:block_candle_black"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "tag": "forge:slimeballs" } ] }
+		},
+		"has_material2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:item_soy"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material",
+			"has_material2"
+		]
+	]
+}

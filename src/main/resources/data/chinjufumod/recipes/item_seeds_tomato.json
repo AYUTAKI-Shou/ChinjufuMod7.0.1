@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_seeds",
+
+	"pattern": [
+		"X"
+	],
+
+	"key": {
+		"X": { "tag": "forge:crops/tomato" }
+	},
+
+	"result": { "item": "chinjufumod:item_seeds_tomato", "count": 1 }
+}

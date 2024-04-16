@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:spruce_slab" } ]
+		},
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_kamoi_spruce" } ]
+		}
+	],
+
+	"functions": [ { "function": "minecraft:explosion_decay" } ]
+}

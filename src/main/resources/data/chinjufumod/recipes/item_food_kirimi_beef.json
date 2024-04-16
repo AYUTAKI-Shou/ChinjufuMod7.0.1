@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_sushi",
+
+	"ingredients": [
+		[ { "tag": "forge:raw_beef" }, { "tag": "forge:rawbeef" } ]
+	],
+
+	"result": { "item": "chinjufumod:item_food_kirimi_beef", "count": 4 }
+}

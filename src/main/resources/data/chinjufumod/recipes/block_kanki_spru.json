@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_ranma",
+
+	"pattern": [
+		"XYX",
+		"XYX",
+		"XYX"
+	],
+
+	"key": {
+		"X": { "tag": "forge:rods/wooden" },
+		"Y": { "item": "minecraft:spruce_slab" }
+	},
+
+	"result": { "item": "chinjufumod:block_kanki_spru", "count": 3 }
+}

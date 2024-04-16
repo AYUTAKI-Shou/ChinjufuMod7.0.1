@@ -1,0 +1,31 @@
+{
+	"parent": "chinjufumod:cm_story/taru/get_koubo",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.taru.get_taru.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.taru.get_taru.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_taru_hakkou"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_taru_hakkou"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

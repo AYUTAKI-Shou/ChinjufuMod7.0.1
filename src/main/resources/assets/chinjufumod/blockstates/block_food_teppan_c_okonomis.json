@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"down=false,facing=north,stage=1": { "model": "chinjufumod:block/okonomi/click_squid_1", "y": 180 },
+		"down=false,facing=south,stage=1": { "model": "chinjufumod:block/okonomi/click_squid_1" },
+		"down=false,facing=west,stage=1": { "model": "chinjufumod:block/okonomi/click_squid_1", "y": 90 },
+		"down=false,facing=east,stage=1": { "model": "chinjufumod:block/okonomi/click_squid_1", "y": 270 },
+
+		"down=false,facing=north,stage=2": { "model": "chinjufumod:block/okonomi/click_squid_2", "y": 180 },
+		"down=false,facing=south,stage=2": { "model": "chinjufumod:block/okonomi/click_squid_2" },
+		"down=false,facing=west,stage=2": { "model": "chinjufumod:block/okonomi/click_squid_2", "y": 90 },
+		"down=false,facing=east,stage=2": { "model": "chinjufumod:block/okonomi/click_squid_2", "y": 270 },
+
+			"down=true,facing=north,stage=1": { "model": "chinjufumod:block/okonomi/click_squid_1d", "y": 180 },
+			"down=true,facing=south,stage=1": { "model": "chinjufumod:block/okonomi/click_squid_1d" },
+			"down=true,facing=west,stage=1": { "model": "chinjufumod:block/okonomi/click_squid_1d", "y": 90 },
+			"down=true,facing=east,stage=1": { "model": "chinjufumod:block/okonomi/click_squid_1d", "y": 270 },
+	
+			"down=true,facing=north,stage=2": { "model": "chinjufumod:block/okonomi/click_squid_2d", "y": 180 },
+			"down=true,facing=south,stage=2": { "model": "chinjufumod:block/okonomi/click_squid_2d" },
+			"down=true,facing=west,stage=2": { "model": "chinjufumod:block/okonomi/click_squid_2d", "y": 90 },
+			"down=true,facing=east,stage=2": { "model": "chinjufumod:block/okonomi/click_squid_2d", "y": 270 }
+	}
+}

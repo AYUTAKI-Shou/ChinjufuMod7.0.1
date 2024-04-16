@@ -1,0 +1,46 @@
+{
+	"parent": "chinjufumod:cm_story/weapon/get_ammo",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.weapon.get_kansaiki.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.weapon.get_kansaiki.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_kk_type97"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": [
+			"chinjufumod:item_kk_type97",
+			"chinjufumod:item_kk_tenzan",
+			"chinjufumod:item_kk_ryusei",
+			"chinjufumod:item_kk_swordfish", 
+			"chinjufumod:item_kk_barracuda",
+			"chinjufumod:item_kk_mosquito",
+			"chinjufumod:item_kk_tbf",
+
+			"chinjufumod:item_kb_type99",
+			"chinjufumod:item_kb_suisei",
+			"chinjufumod:item_kb_typezero",
+			"chinjufumod:item_kb_re2001",
+			"chinjufumod:item_kb_ju87",
+			"chinjufumod:item_kb_sbd",
+			"chinjufumod:item_kb_f4u" ] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience":5 }
+}

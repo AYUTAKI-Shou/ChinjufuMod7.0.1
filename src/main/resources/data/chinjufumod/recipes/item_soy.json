@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_food",
+
+	"pattern": [
+		"X"
+	],
+
+	"key": {
+		"X": { "tag": "forge:seeds/soy" }
+	},
+
+	"result": { "item": "chinjufumod:item_soy", "count": 1 }
+}

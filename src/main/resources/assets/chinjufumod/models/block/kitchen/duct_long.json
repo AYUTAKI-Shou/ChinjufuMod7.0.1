@@ -1,0 +1,57 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/haiki_duct",
+		"long": "chinjufumod:block/haiki_duct"
+	},
+	"elements": [
+		{
+			"name": "north_t_________________________________________",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 1 ],
+			"faces": {
+				"up": { "texture": "#long" },
+				"down": { "texture": "#long" },
+				"north": { "texture": "#long" },
+				"south": { "texture": "#long" },
+				"west": { "texture": "#long" },
+				"east": { "texture": "#long" }
+			}
+		},
+		{
+			"name": "south_t",
+			"from": [ 0, 0, 15 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"up": { "texture": "#long" },
+				"down": { "texture": "#long" },
+				"north": { "texture": "#long" },
+				"south": { "texture": "#long" },
+				"west": { "texture": "#long" },
+				"east": { "texture": "#long" }
+			}
+		},
+		{
+			"name": "west_t",
+			"from": [ 15, 0, 1 ],
+			"to": [ 16, 16, 15 ],
+			"faces": {
+				"up": { "texture": "#long" },
+				"down": { "texture": "#long" },
+				"west": { "texture": "#long" },
+				"east": { "texture": "#long" }
+			}
+		},
+		{
+			"name": "east_t",
+			"from": [ 0, 0, 1 ],
+			"to": [ 1, 16, 15 ],
+			"faces": {
+				"up": { "texture": "#long" },
+				"down": { "texture": "#long" },
+				"west": { "texture": "#long" },
+				"east": { "texture": "#long" }
+			}
+		}
+	]
+}

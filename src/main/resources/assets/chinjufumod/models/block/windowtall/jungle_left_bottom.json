@@ -1,0 +1,10 @@
+{
+	"parent": "chinjufumod:block/base/windowtall_left_bottom",
+	"textures": {
+		"particle": "chinjufumod:block/window_bot_jungle",
+		"front": "chinjufumod:block/window_bot_jungle",
+		"side": "chinjufumod:block/muku_jungle",
+		"totte": "chinjufumod:block/window_bot_oak",
+		"glass": "minecraft:block/glass"
+	}
+}

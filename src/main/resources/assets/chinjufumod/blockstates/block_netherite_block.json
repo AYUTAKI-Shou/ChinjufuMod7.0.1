@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"facing=north,type=bottom": { "model": "chinjufumod:block/storage/netherite" },
+		"facing=south,type=bottom": { "model": "chinjufumod:block/storage/netherite" },
+		"facing=west,type=bottom": { "model": "chinjufumod:block/storage/netherite_we", "y": 90 },
+		"facing=east,type=bottom": { "model": "chinjufumod:block/storage/netherite_we", "y": 90 },
+
+		"facing=north,type=double": { "model": "chinjufumod:block/storage/netheritew" },
+		"facing=south,type=double": { "model": "chinjufumod:block/storage/netheritew" },
+		"facing=west,type=double": { "model": "chinjufumod:block/storage/netheritew_we", "y": 90 },
+		"facing=east,type=double": { "model": "chinjufumod:block/storage/netheritew_we", "y": 90 }
+	}
+}

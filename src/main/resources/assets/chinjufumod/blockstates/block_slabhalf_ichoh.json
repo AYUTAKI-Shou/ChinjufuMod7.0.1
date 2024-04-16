@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"type=bottom": { "model": "chinjufumod:block/wooden/slabhalf_ichoh_bottom" },
+		"type=top": { "model": "chinjufumod:block/wooden/slabhalf_ichoh_top" },
+
+		"type=double": { "model": "chinjufumod:block/wooden/planks_ichoh" }
+	}
+}

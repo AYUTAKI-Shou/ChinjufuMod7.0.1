@@ -1,0 +1,8 @@
+{
+	"parent": "block/slab",
+	"textures": {
+		"bottom": "chinjufumod:block/dirtwall_cr",
+		"top": "chinjufumod:block/dirtwall_cr",
+		"side": "chinjufumod:block/dirtwall_cr"
+	}
+}

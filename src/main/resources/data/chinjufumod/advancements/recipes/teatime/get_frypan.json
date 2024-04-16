@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_food_frypan_n_tamago",
+			"chinjufumod:block_food_frypan_n_gyudon",
+			"chinjufumod:block_food_frypan_n_oyakodon",
+			"chinjufumod:block_food_frypan_n_katsu",
+			"chinjufumod:block_food_frypan_n_eggb",
+			"chinjufumod:block_food_frypan_n_tomatos",
+			"chinjufumod:block_food_frypan_n_kinokos",
+			"chinjufumod:block_food_frypan_n_kinokoak",
+			"chinjufumod:block_food_frypan_n_seafood",
+			"chinjufumod:block_food_frypan_n_roux",
+			"chinjufumod:block_food_frypan_n_osauce"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_food_frypan"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

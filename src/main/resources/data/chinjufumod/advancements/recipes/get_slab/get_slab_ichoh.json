@@ -1,0 +1,38 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_dressingtable_ich",
+			"chinjufumod:block_unitdesk_ichoh",
+			"chinjufumod:block_cafetable_ichoh",
+			"chinjufumod:block_diningchair_ich",
+			"chinjufumod:block_bench_ich",
+			"chinjufumod:block_schoolchair_ich",
+			"chinjufumod:block_schooldesk_ich",
+			"chinjufumod:block_teacherdesk_ich",
+			"chinjufumod:block_lowdesk_ichoh",
+			
+			"chinjufumod:block_mizuoke",
+			
+			"chinjufumod:block_ranma_ich",
+			"chinjufumod:block_ranmab_ich",
+			"chinjufumod:block_ranmac_ich",
+			"chinjufumod:block_kanki_ich",
+			"chinjufumod:block_koushi_ich",
+			"chinjufumod:block_itabei_ichoh",
+			"chinjufumod:block_kido_ichoh"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "tag": "forge:wooden_slabs/ginkgo" } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

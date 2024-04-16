@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_choco",
+
+	"ingredients": [
+		[ { "tag": "forge:crops/grape" }, { "tag": "forge:fruits/grape" } ],
+		{ "item": "chinjufumod:item_choco_raw" }
+	],
+
+	"result": { "item": "chinjufumod:item_food_choco_grape", "count": 3 }
+}

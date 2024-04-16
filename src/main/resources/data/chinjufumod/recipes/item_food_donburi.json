@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "chinjufumod:item_clay_donburi"
+	},
+	"result": "chinjufumod:item_food_donburi",
+	"experience": 0.5,
+	"cookingtime": 200
+}

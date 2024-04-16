@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_choco",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_chaba_green" },
+		{ "item": "chinjufumod:item_choco_raw" }
+	],
+
+	"result": { "item": "chinjufumod:item_food_choco_greentea", "count": 3 }
+}

@@ -1,0 +1,22 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/nyusan",
+		"eki": "chinjufumod:block/nyusan"
+	},
+	"elements": [
+		{
+			"name": "apple",
+			"from": [ 1.5, 0, 1.5 ],
+			"to": [ 6.5, 7, 6.5 ],
+			"faces": {
+				"up" : { "uv": [ 0.0, 0.0, 5.0, 5.0 ], "texture": "#eki" },
+				"down" : { "uv": [ 6.5, 10.5, 11.5, 15.5 ], "texture": "#eki" },
+				"north": { "uv": [ 0.5, 8.5, 5.5, 15.5 ], "texture": "#eki" },
+				"south": { "uv": [ 5.5, 8.5, 0.5, 15.5 ], "texture": "#eki" },
+				"east" : { "uv": [ 6.5, 8.5, 11.5, 15.5 ], "texture": "#eki" },
+				"west" : { "uv": [ 6.5, 8.5, 11.5, 15.5 ], "texture": "#eki" }
+			}
+		}
+	]
+}

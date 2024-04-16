@@ -1,0 +1,111 @@
+{
+	"parent": "chinjufumod:cm_story/weapon/get_workorder",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.weapon.get_armor.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.weapon.get_armor.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_fubuki_chestplate"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": [
+				"chinjufumod:item_fubuki_helmet",
+				"chinjufumod:item_fubuki_chestplate",
+				"chinjufumod:item_fubuki_leggings",
+				"chinjufumod:item_fubuki_boots",
+				
+				"chinjufumod:item_kasumi_helmet",
+				"chinjufumod:item_kasumi_chestplate",
+				"chinjufumod:item_kasumi_leggings",
+				"chinjufumod:item_kasumi_boots",
+				
+				"chinjufumod:item_shiratsuyu_helmet",
+				"chinjufumod:item_shiratsuyu_chestplate",
+				"chinjufumod:item_shiratsuyu_leggings",
+				"chinjufumod:item_shiratsuyu_boots",
+				
+				"chinjufumod:item_shigure_helmet",
+				"chinjufumod:item_shigure_chestplate",
+				"chinjufumod:item_shigure_leggings",
+				"chinjufumod:item_shigure_boots",
+				
+				"chinjufumod:item_sendai_helmet",
+				"chinjufumod:item_sendai_chestplate",
+				"chinjufumod:item_sendai_leggings",
+				"chinjufumod:item_sendai_boots",
+				
+				"chinjufumod:item_yura_helmet",
+				"chinjufumod:item_yura_chestplate",
+				"chinjufumod:item_yura_leggings",
+				"chinjufumod:item_yura_boots",
+				
+				"chinjufumod:item_mogami_helmet",
+				"chinjufumod:item_mogami_chestplate",
+				"chinjufumod:item_mogami_leggings",
+				"chinjufumod:item_mogami_boots",
+				
+				"chinjufumod:item_tone_helmet",
+				"chinjufumod:item_tone_chestplate",
+				"chinjufumod:item_tone_leggings",
+				"chinjufumod:item_tone_boots",
+				
+				"chinjufumod:item_ryujou_helmet",
+				"chinjufumod:item_ryujou_chestplate",
+				"chinjufumod:item_ryujou_leggings",
+				"chinjufumod:item_ryujou_boots",
+				
+				"chinjufumod:item_zuihou_helmet",
+				"chinjufumod:item_zuihou_chestplate",
+				"chinjufumod:item_zuihou_leggings",
+				"chinjufumod:item_zuihou_boots",
+				
+				"chinjufumod:item_akagi_helmet",
+				"chinjufumod:item_akagi_chestplate",
+				"chinjufumod:item_akagi_leggings",
+				"chinjufumod:item_akagi_boots",
+				
+				"chinjufumod:item_kaga_helmet",
+				"chinjufumod:item_kaga_chestplate",
+				"chinjufumod:item_kaga_leggings",
+				"chinjufumod:item_kaga_boots",
+				
+				"chinjufumod:item_kongou_helmet",
+				"chinjufumod:item_kongou_chestplate",
+				"chinjufumod:item_kongou_leggings",
+				"chinjufumod:item_kongou_boots",
+				
+				"chinjufumod:item_akatsuki_helmet",
+				"chinjufumod:item_akatsuki_chestplate",
+				"chinjufumod:item_akatsuki_leggings",
+				"chinjufumod:item_akatsuki_boots",
+				
+				"chinjufumod:item_fusou_helmet",
+				"chinjufumod:item_fusou_chestplate",
+				"chinjufumod:item_fusou_leggings",
+				"chinjufumod:item_fusou_boots",
+				
+				"chinjufumod:item_nagato_helmet",
+				"chinjufumod:item_nagato_chestplate",
+				"chinjufumod:item_nagato_leggings",
+				"chinjufumod:item_nagato_boots"
+				] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

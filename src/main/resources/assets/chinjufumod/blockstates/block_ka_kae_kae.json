@@ -1,0 +1,23 @@
+{
+	"variants": {
+	"facing=north,stage=1": { "model": "chinjufumod:block/kamoiwood/kaede_kaede1n" },
+	"facing=south,stage=1": { "model": "chinjufumod:block/kamoiwood/kaede_kaede1s" },
+	"facing=west,stage=1": { "model": "chinjufumod:block/kamoiwood/kaede_kaede1w" },
+	"facing=east,stage=1": { "model": "chinjufumod:block/kamoiwood/kaede_kaede1e" },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/kamoiwood/kaede_kaede2n" },
+		"facing=south,stage=2": { "model": "chinjufumod:block/kamoiwood/kaede_kaede2s" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/kamoiwood/kaede_kaede2w" },
+		"facing=east,stage=2": { "model": "chinjufumod:block/kamoiwood/kaede_kaede2e" },
+
+	"facing=north,stage=3": { "model": "chinjufumod:block/kamoiwood/kaede_kaede3n" },
+	"facing=south,stage=3": { "model": "chinjufumod:block/kamoiwood/kaede_kaede3s" },
+	"facing=west,stage=3": { "model": "chinjufumod:block/kamoiwood/kaede_kaede3w" },
+	"facing=east,stage=3": { "model": "chinjufumod:block/kamoiwood/kaede_kaede3e" },
+
+		"facing=north,stage=4": { "model": "chinjufumod:block/kamoiwood/kaede_kaede4n" },
+		"facing=south,stage=4": { "model": "chinjufumod:block/kamoiwood/kaede_kaede4s" },
+		"facing=west,stage=4": { "model": "chinjufumod:block/kamoiwood/kaede_kaede4w" },
+		"facing=east,stage=4": { "model": "chinjufumod:block/kamoiwood/kaede_kaede4e" }
+	}
+}

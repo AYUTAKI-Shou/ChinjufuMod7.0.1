@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_ammu",
+
+	"ingredients": [
+		{ "tag": "forge:ingots/iron" },
+		{ "item": "minecraft:gunpowder" },
+		{ "item": "minecraft:coal" },
+		{ "item": "chinjufumod:item_workorder" }
+	],
+
+	"result": { "item": "chinjufumod:item_gyorai_61cm", "count" : 12 }
+}

@@ -1,0 +1,38 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_dressingtable_b",
+			"chinjufumod:block_unitdesk_birch",
+			"chinjufumod:block_cafetable_birch",
+			"chinjufumod:block_diningchair_b",
+			"chinjufumod:block_bench_bir",
+			"chinjufumod:block_schoolchair_b",
+			"chinjufumod:block_schooldesk_b",
+			"chinjufumod:block_teacherdesk_b",
+			"chinjufumod:block_lowdesk_birch",
+			
+			"chinjufumod:block_mizuoke",
+			
+			"chinjufumod:block_ranma_bir",
+			"chinjufumod:block_ranmab_bir",
+			"chinjufumod:block_ranmac_bir",
+			"chinjufumod:block_kanki_bir",
+			"chinjufumod:block_koushi_bir",
+			"chinjufumod:block_itabei_birch",
+			"chinjufumod:block_kido_birch"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["minecraft:birch_slab"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

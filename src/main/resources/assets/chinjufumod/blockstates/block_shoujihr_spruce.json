@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:block/shoujiwin/re_close_left_spruce", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:block/shoujiwin/re_close_left_spruce" },
+		"facing=west,stage=1": { "model": "chinjufumod:block/shoujiwin/re_close_left_spruce", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:block/shoujiwin/re_close_left_spruce", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/shoujiwin/re_open_left_spruce", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:block/shoujiwin/re_open_left_spruce" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/shoujiwin/re_open_left_spruce", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:block/shoujiwin/re_open_left_spruce", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:block/shoujiwin/re_open_right_spruce", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:block/shoujiwin/re_open_right_spruce" },
+		"facing=west,stage=3": { "model": "chinjufumod:block/shoujiwin/re_open_right_spruce", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:block/shoujiwin/re_open_right_spruce", "y": 270 }
+	}
+}

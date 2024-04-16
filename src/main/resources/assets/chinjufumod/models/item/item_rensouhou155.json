@@ -1,0 +1,35 @@
+{
+	"parent": "chinjufumod:block/rensouhou/155",
+	"gui_light": "front", "display": {
+		"gui": {
+			"rotation": [ 90, 0, 0 ],
+			"translation": [ 0, 2.5, 0 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 0, 180, 90 ],
+			"translation": [ 5.3, -2, 2 ],
+			"scale": [ 0.42, 0.42, 0.42 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 180, 90 ],
+			"translation": [ 2, 1, 5.8 ],
+			"scale": [ 0.35, 0.35, 0.35 ]
+		},
+		"fixed": {
+			"rotation": [ 270, 225, 0 ],
+			"translation": [ 1, 1.5, -2.15 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 0.35, 0.35, 0.35 ]
+		}
+	},
+	"overrides": [
+		{ "predicate": { "pull": 1 },
+			"model": "chinjufumod:item/item_rensouhou155_pull"
+		}
+	]
+}

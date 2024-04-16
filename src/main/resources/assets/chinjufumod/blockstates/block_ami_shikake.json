@@ -1,0 +1,1083 @@
+{
+	"variants": {
+		"age=1,down=true,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/top_age1_9", "y": 180 },
+		"age=1,down=true,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/top_age1_1" },
+		"age=1,down=true,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/top_age1_7", "y": 90 },
+		"age=1,down=true,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/top_age1_3", "y": 270 },
+
+		"age=1,down=true,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/top_age1_8", "y": 180 },
+		"age=1,down=true,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/top_age1_2" },
+		"age=1,down=true,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/top_age1_4", "y": 90 },
+		"age=1,down=true,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/top_age1_6", "y": 270 },
+
+		"age=1,down=true,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/top_age1_7", "y": 180 },
+		"age=1,down=true,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/top_age1_3" },
+		"age=1,down=true,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/top_age1_1", "y": 90 },
+		"age=1,down=true,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/top_age1_9", "y": 270 },
+
+		"age=1,down=true,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/top_age1_6", "y": 180 },
+		"age=1,down=true,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/top_age1_4" },
+		"age=1,down=true,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/top_age1_8", "y": 90 },
+		"age=1,down=true,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/top_age1_2", "y": 270 },
+
+		"age=1,down=true,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/top_age1_5", "y": 180 },
+		"age=1,down=true,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/top_age1_5" },
+		"age=1,down=true,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/top_age1_5", "y": 90 },
+		"age=1,down=true,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/top_age1_5", "y": 270 },
+
+		"age=1,down=true,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/top_age1_4", "y": 180 },
+		"age=1,down=true,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/top_age1_6" },
+		"age=1,down=true,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/top_age1_2", "y": 90 },
+		"age=1,down=true,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/top_age1_8", "y": 270 },
+
+		"age=1,down=true,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/top_age1_3", "y": 180 },
+		"age=1,down=true,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/top_age1_7" },
+		"age=1,down=true,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/top_age1_9", "y": 90 },
+		"age=1,down=true,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/top_age1_1", "y": 270 },
+
+		"age=1,down=true,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/top_age1_2", "y": 180 },
+		"age=1,down=true,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/top_age1_8" },
+		"age=1,down=true,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/top_age1_6", "y": 90 },
+		"age=1,down=true,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/top_age1_4", "y": 270 },
+		
+		"age=1,down=true,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/top_age1_1", "y": 180 },
+		"age=1,down=true,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/top_age1_9" },
+		"age=1,down=true,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/top_age1_3", "y": 90 },
+		"age=1,down=true,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/top_age1_7", "y": 270 },
+		
+		"age=2,down=true,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/top_age1_9", "y": 180 },
+		"age=2,down=true,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/top_age1_1" },
+		"age=2,down=true,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/top_age1_7", "y": 90 },
+		"age=2,down=true,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/top_age1_3", "y": 270 },
+
+		"age=2,down=true,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/top_age1_8", "y": 180 },
+		"age=2,down=true,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/top_age1_2" },
+		"age=2,down=true,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/top_age1_4", "y": 90 },
+		"age=2,down=true,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/top_age1_6", "y": 270 },
+
+		"age=2,down=true,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/top_age1_7", "y": 180 },
+		"age=2,down=true,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/top_age1_3" },
+		"age=2,down=true,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/top_age1_1", "y": 90 },
+		"age=2,down=true,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/top_age1_9", "y": 270 },
+
+		"age=2,down=true,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/top_age1_6", "y": 180 },
+		"age=2,down=true,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/top_age1_4" },
+		"age=2,down=true,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/top_age1_8", "y": 90 },
+		"age=2,down=true,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/top_age1_2", "y": 270 },
+
+		"age=2,down=true,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/top_age1_5", "y": 180 },
+		"age=2,down=true,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/top_age1_5" },
+		"age=2,down=true,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/top_age1_5", "y": 90 },
+		"age=2,down=true,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/top_age1_5", "y": 270 },
+
+		"age=2,down=true,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/top_age1_4", "y": 180 },
+		"age=2,down=true,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/top_age1_6" },
+		"age=2,down=true,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/top_age1_2", "y": 90 },
+		"age=2,down=true,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/top_age1_8", "y": 270 },
+
+		"age=2,down=true,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/top_age1_3", "y": 180 },
+		"age=2,down=true,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/top_age1_7" },
+		"age=2,down=true,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/top_age1_9", "y": 90 },
+		"age=2,down=true,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/top_age1_1", "y": 270 },
+
+		"age=2,down=true,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/top_age1_2", "y": 180 },
+		"age=2,down=true,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/top_age1_8" },
+		"age=2,down=true,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/top_age1_6", "y": 90 },
+		"age=2,down=true,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/top_age1_4", "y": 270 },
+		
+		"age=2,down=true,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/top_age1_1", "y": 180 },
+		"age=2,down=true,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/top_age1_9" },
+		"age=2,down=true,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/top_age1_3", "y": 90 },
+		"age=2,down=true,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/top_age1_7", "y": 270 },
+		
+		"age=3,down=true,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/top_age2_9", "y": 180 },
+		"age=3,down=true,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/top_age2_1" },
+		"age=3,down=true,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/top_age2_7", "y": 90 },
+		"age=3,down=true,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/top_age2_3", "y": 270 },
+
+		"age=3,down=true,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/top_age2_8", "y": 180 },
+		"age=3,down=true,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/top_age2_2" },
+		"age=3,down=true,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/top_age2_4", "y": 90 },
+		"age=3,down=true,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/top_age2_6", "y": 270 },
+
+		"age=3,down=true,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/top_age2_7", "y": 180 },
+		"age=3,down=true,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/top_age2_3" },
+		"age=3,down=true,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/top_age2_1", "y": 90 },
+		"age=3,down=true,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/top_age2_9", "y": 270 },
+
+		"age=3,down=true,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/top_age2_6", "y": 180 },
+		"age=3,down=true,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/top_age2_4" },
+		"age=3,down=true,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/top_age2_8", "y": 90 },
+		"age=3,down=true,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/top_age2_2", "y": 270 },
+
+		"age=3,down=true,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/top_age2_5", "y": 180 },
+		"age=3,down=true,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/top_age2_5" },
+		"age=3,down=true,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/top_age2_5", "y": 90 },
+		"age=3,down=true,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/top_age2_5", "y": 270 },
+
+		"age=3,down=true,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/top_age2_4", "y": 180 },
+		"age=3,down=true,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/top_age2_6" },
+		"age=3,down=true,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/top_age2_2", "y": 90 },
+		"age=3,down=true,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/top_age2_8", "y": 270 },
+
+		"age=3,down=true,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/top_age2_3", "y": 180 },
+		"age=3,down=true,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/top_age2_7" },
+		"age=3,down=true,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/top_age2_9", "y": 90 },
+		"age=3,down=true,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/top_age2_1", "y": 270 },
+
+		"age=3,down=true,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/top_age2_2", "y": 180 },
+		"age=3,down=true,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/top_age2_8" },
+		"age=3,down=true,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/top_age2_6", "y": 90 },
+		"age=3,down=true,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/top_age2_4", "y": 270 },
+		
+		"age=3,down=true,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/top_age2_1", "y": 180 },
+		"age=3,down=true,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/top_age2_9" },
+		"age=3,down=true,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/top_age2_3", "y": 90 },
+		"age=3,down=true,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/top_age2_7", "y": 270 },
+		
+		"age=4,down=true,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/top_age2_9", "y": 180 },
+		"age=4,down=true,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/top_age2_1" },
+		"age=4,down=true,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/top_age2_7", "y": 90 },
+		"age=4,down=true,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/top_age2_3", "y": 270 },
+
+		"age=4,down=true,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/top_age2_8", "y": 180 },
+		"age=4,down=true,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/top_age2_2" },
+		"age=4,down=true,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/top_age2_4", "y": 90 },
+		"age=4,down=true,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/top_age2_6", "y": 270 },
+
+		"age=4,down=true,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/top_age2_7", "y": 180 },
+		"age=4,down=true,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/top_age2_3" },
+		"age=4,down=true,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/top_age2_1", "y": 90 },
+		"age=4,down=true,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/top_age2_9", "y": 270 },
+
+		"age=4,down=true,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/top_age2_6", "y": 180 },
+		"age=4,down=true,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/top_age2_4" },
+		"age=4,down=true,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/top_age2_8", "y": 90 },
+		"age=4,down=true,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/top_age2_2", "y": 270 },
+
+		"age=4,down=true,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/top_age2_5", "y": 180 },
+		"age=4,down=true,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/top_age2_5" },
+		"age=4,down=true,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/top_age2_5", "y": 90 },
+		"age=4,down=true,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/top_age2_5", "y": 270 },
+
+		"age=4,down=true,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/top_age2_4", "y": 180 },
+		"age=4,down=true,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/top_age2_6" },
+		"age=4,down=true,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/top_age2_2", "y": 90 },
+		"age=4,down=true,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/top_age2_8", "y": 270 },
+
+		"age=4,down=true,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/top_age2_3", "y": 180 },
+		"age=4,down=true,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/top_age2_7" },
+		"age=4,down=true,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/top_age2_9", "y": 90 },
+		"age=4,down=true,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/top_age2_1", "y": 270 },
+
+		"age=4,down=true,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/top_age2_2", "y": 180 },
+		"age=4,down=true,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/top_age2_8" },
+		"age=4,down=true,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/top_age2_6", "y": 90 },
+		"age=4,down=true,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/top_age2_4", "y": 270 },
+		
+		"age=4,down=true,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/top_age2_1", "y": 180 },
+		"age=4,down=true,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/top_age2_9" },
+		"age=4,down=true,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/top_age2_3", "y": 90 },
+		"age=4,down=true,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/top_age2_7", "y": 270 },
+		
+		"age=5,down=true,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/top_age3_9", "y": 180 },
+		"age=5,down=true,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/top_age3_1" },
+		"age=5,down=true,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/top_age3_7", "y": 90 },
+		"age=5,down=true,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/top_age3_3", "y": 270 },
+
+		"age=5,down=true,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/top_age3_8", "y": 180 },
+		"age=5,down=true,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/top_age3_2" },
+		"age=5,down=true,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/top_age3_4", "y": 90 },
+		"age=5,down=true,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/top_age3_6", "y": 270 },
+
+		"age=5,down=true,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/top_age3_7", "y": 180 },
+		"age=5,down=true,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/top_age3_3" },
+		"age=5,down=true,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/top_age3_1", "y": 90 },
+		"age=5,down=true,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/top_age3_9", "y": 270 },
+
+		"age=5,down=true,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/top_age3_6", "y": 180 },
+		"age=5,down=true,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/top_age3_4" },
+		"age=5,down=true,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/top_age3_8", "y": 90 },
+		"age=5,down=true,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/top_age3_2", "y": 270 },
+
+		"age=5,down=true,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/top_age3_5", "y": 180 },
+		"age=5,down=true,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/top_age3_5" },
+		"age=5,down=true,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/top_age3_5", "y": 90 },
+		"age=5,down=true,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/top_age3_5", "y": 270 },
+
+		"age=5,down=true,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/top_age3_4", "y": 180 },
+		"age=5,down=true,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/top_age3_6" },
+		"age=5,down=true,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/top_age3_2", "y": 90 },
+		"age=5,down=true,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/top_age3_8", "y": 270 },
+
+		"age=5,down=true,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/top_age3_3", "y": 180 },
+		"age=5,down=true,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/top_age3_7" },
+		"age=5,down=true,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/top_age3_9", "y": 90 },
+		"age=5,down=true,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/top_age3_1", "y": 270 },
+
+		"age=5,down=true,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/top_age3_2", "y": 180 },
+		"age=5,down=true,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/top_age3_8" },
+		"age=5,down=true,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/top_age3_6", "y": 90 },
+		"age=5,down=true,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/top_age3_4", "y": 270 },
+		
+		"age=5,down=true,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/top_age3_1", "y": 180 },
+		"age=5,down=true,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/top_age3_9" },
+		"age=5,down=true,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/top_age3_3", "y": 90 },
+		"age=5,down=true,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/top_age3_7", "y": 270 },
+		
+		"age=6,down=true,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/top_age3_9", "y": 180 },
+		"age=6,down=true,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/top_age3_1" },
+		"age=6,down=true,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/top_age3_7", "y": 90 },
+		"age=6,down=true,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/top_age3_3", "y": 270 },
+
+		"age=6,down=true,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/top_age3_8", "y": 180 },
+		"age=6,down=true,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/top_age3_2" },
+		"age=6,down=true,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/top_age3_4", "y": 90 },
+		"age=6,down=true,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/top_age3_6", "y": 270 },
+
+		"age=6,down=true,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/top_age3_7", "y": 180 },
+		"age=6,down=true,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/top_age3_3" },
+		"age=6,down=true,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/top_age3_1", "y": 90 },
+		"age=6,down=true,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/top_age3_9", "y": 270 },
+
+		"age=6,down=true,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/top_age3_6", "y": 180 },
+		"age=6,down=true,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/top_age3_4" },
+		"age=6,down=true,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/top_age3_8", "y": 90 },
+		"age=6,down=true,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/top_age3_2", "y": 270 },
+
+		"age=6,down=true,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/top_age3_5", "y": 180 },
+		"age=6,down=true,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/top_age3_5" },
+		"age=6,down=true,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/top_age3_5", "y": 90 },
+		"age=6,down=true,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/top_age3_5", "y": 270 },
+
+		"age=6,down=true,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/top_age3_4", "y": 180 },
+		"age=6,down=true,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/top_age3_6" },
+		"age=6,down=true,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/top_age3_2", "y": 90 },
+		"age=6,down=true,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/top_age3_8", "y": 270 },
+
+		"age=6,down=true,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/top_age3_3", "y": 180 },
+		"age=6,down=true,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/top_age3_7" },
+		"age=6,down=true,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/top_age3_9", "y": 90 },
+		"age=6,down=true,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/top_age3_1", "y": 270 },
+
+		"age=6,down=true,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/top_age3_2", "y": 180 },
+		"age=6,down=true,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/top_age3_8" },
+		"age=6,down=true,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/top_age3_6", "y": 90 },
+		"age=6,down=true,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/top_age3_4", "y": 270 },
+		
+		"age=6,down=true,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/top_age3_1", "y": 180 },
+		"age=6,down=true,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/top_age3_9" },
+		"age=6,down=true,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/top_age3_3", "y": 90 },
+		"age=6,down=true,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/top_age3_7", "y": 270 },
+		
+		"age=7,down=true,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/top_age4_9", "y": 180 },
+		"age=7,down=true,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/top_age4_1" },
+		"age=7,down=true,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/top_age4_7", "y": 90 },
+		"age=7,down=true,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/top_age4_3", "y": 270 },
+
+		"age=7,down=true,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/top_age4_8", "y": 180 },
+		"age=7,down=true,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/top_age4_2" },
+		"age=7,down=true,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/top_age4_4", "y": 90 },
+		"age=7,down=true,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/top_age4_6", "y": 270 },
+
+		"age=7,down=true,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/top_age4_7", "y": 180 },
+		"age=7,down=true,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/top_age4_3" },
+		"age=7,down=true,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/top_age4_1", "y": 90 },
+		"age=7,down=true,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/top_age4_9", "y": 270 },
+
+		"age=7,down=true,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/top_age4_6", "y": 180 },
+		"age=7,down=true,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/top_age4_4" },
+		"age=7,down=true,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/top_age4_8", "y": 90 },
+		"age=7,down=true,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/top_age4_2", "y": 270 },
+
+		"age=7,down=true,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/top_age4_5", "y": 180 },
+		"age=7,down=true,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/top_age4_5" },
+		"age=7,down=true,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/top_age4_5", "y": 90 },
+		"age=7,down=true,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/top_age4_5", "y": 270 },
+
+		"age=7,down=true,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/top_age4_4", "y": 180 },
+		"age=7,down=true,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/top_age4_6" },
+		"age=7,down=true,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/top_age4_2", "y": 90 },
+		"age=7,down=true,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/top_age4_8", "y": 270 },
+
+		"age=7,down=true,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/top_age4_3", "y": 180 },
+		"age=7,down=true,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/top_age4_7" },
+		"age=7,down=true,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/top_age4_9", "y": 90 },
+		"age=7,down=true,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/top_age4_1", "y": 270 },
+
+		"age=7,down=true,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/top_age4_2", "y": 180 },
+		"age=7,down=true,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/top_age4_8" },
+		"age=7,down=true,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/top_age4_6", "y": 90 },
+		"age=7,down=true,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/top_age4_4", "y": 270 },
+		
+		"age=7,down=true,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/top_age4_1", "y": 180 },
+		"age=7,down=true,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/top_age4_9" },
+		"age=7,down=true,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/top_age4_3", "y": 90 },
+		"age=7,down=true,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/top_age4_7", "y": 270 },
+		
+		"age=8,down=true,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/top_age4_9", "y": 180 },
+		"age=8,down=true,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/top_age4_1" },
+		"age=8,down=true,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/top_age4_7", "y": 90 },
+		"age=8,down=true,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/top_age4_3", "y": 270 },
+
+		"age=8,down=true,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/top_age4_8", "y": 180 },
+		"age=8,down=true,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/top_age4_2" },
+		"age=8,down=true,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/top_age4_4", "y": 90 },
+		"age=8,down=true,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/top_age4_6", "y": 270 },
+
+		"age=8,down=true,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/top_age4_7", "y": 180 },
+		"age=8,down=true,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/top_age4_3" },
+		"age=8,down=true,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/top_age4_1", "y": 90 },
+		"age=8,down=true,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/top_age4_9", "y": 270 },
+
+		"age=8,down=true,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/top_age4_6", "y": 180 },
+		"age=8,down=true,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/top_age4_4" },
+		"age=8,down=true,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/top_age4_8", "y": 90 },
+		"age=8,down=true,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/top_age4_2", "y": 270 },
+
+		"age=8,down=true,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/top_age4_5", "y": 180 },
+		"age=8,down=true,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/top_age4_5" },
+		"age=8,down=true,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/top_age4_5", "y": 90 },
+		"age=8,down=true,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/top_age4_5", "y": 270 },
+
+		"age=8,down=true,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/top_age4_4", "y": 180 },
+		"age=8,down=true,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/top_age4_6" },
+		"age=8,down=true,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/top_age4_2", "y": 90 },
+		"age=8,down=true,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/top_age4_8", "y": 270 },
+
+		"age=8,down=true,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/top_age4_3", "y": 180 },
+		"age=8,down=true,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/top_age4_7" },
+		"age=8,down=true,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/top_age4_9", "y": 90 },
+		"age=8,down=true,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/top_age4_1", "y": 270 },
+
+		"age=8,down=true,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/top_age4_2", "y": 180 },
+		"age=8,down=true,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/top_age4_8" },
+		"age=8,down=true,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/top_age4_6", "y": 90 },
+		"age=8,down=true,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/top_age4_4", "y": 270 },
+		
+		"age=8,down=true,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/top_age4_1", "y": 180 },
+		"age=8,down=true,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/top_age4_9" },
+		"age=8,down=true,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/top_age4_3", "y": 90 },
+		"age=8,down=true,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/top_age4_7", "y": 270 },
+		
+		"age=9,down=true,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/top_age5_9", "y": 180 },
+		"age=9,down=true,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/top_age5_1" },
+		"age=9,down=true,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/top_age5_7", "y": 90 },
+		"age=9,down=true,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/top_age5_3", "y": 270 },
+
+		"age=9,down=true,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/top_age5_8", "y": 180 },
+		"age=9,down=true,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/top_age5_2" },
+		"age=9,down=true,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/top_age5_4", "y": 90 },
+		"age=9,down=true,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/top_age5_6", "y": 270 },
+
+		"age=9,down=true,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/top_age5_7", "y": 180 },
+		"age=9,down=true,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/top_age5_3" },
+		"age=9,down=true,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/top_age5_1", "y": 90 },
+		"age=9,down=true,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/top_age5_9", "y": 270 },
+
+		"age=9,down=true,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/top_age5_6", "y": 180 },
+		"age=9,down=true,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/top_age5_4" },
+		"age=9,down=true,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/top_age5_8", "y": 90 },
+		"age=9,down=true,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/top_age5_2", "y": 270 },
+
+		"age=9,down=true,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/top_age5_5", "y": 180 },
+		"age=9,down=true,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/top_age5_5" },
+		"age=9,down=true,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/top_age5_5", "y": 90 },
+		"age=9,down=true,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/top_age5_5", "y": 270 },
+
+		"age=9,down=true,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/top_age5_4", "y": 180 },
+		"age=9,down=true,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/top_age5_6" },
+		"age=9,down=true,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/top_age5_2", "y": 90 },
+		"age=9,down=true,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/top_age5_8", "y": 270 },
+
+		"age=9,down=true,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/top_age5_3", "y": 180 },
+		"age=9,down=true,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/top_age5_7" },
+		"age=9,down=true,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/top_age5_9", "y": 90 },
+		"age=9,down=true,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/top_age5_1", "y": 270 },
+
+		"age=9,down=true,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/top_age5_2", "y": 180 },
+		"age=9,down=true,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/top_age5_8" },
+		"age=9,down=true,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/top_age5_6", "y": 90 },
+		"age=9,down=true,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/top_age5_4", "y": 270 },
+		
+		"age=9,down=true,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/top_age5_1", "y": 180 },
+		"age=9,down=true,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/top_age5_9" },
+		"age=9,down=true,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/top_age5_3", "y": 90 },
+		"age=9,down=true,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/top_age5_7", "y": 270 },
+		
+		"age=10,down=true,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/top_age5_9", "y": 180 },
+		"age=10,down=true,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/top_age5_1" },
+		"age=10,down=true,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/top_age5_7", "y": 90 },
+		"age=10,down=true,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/top_age5_3", "y": 270 },
+
+		"age=10,down=true,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/top_age5_8", "y": 180 },
+		"age=10,down=true,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/top_age5_2" },
+		"age=10,down=true,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/top_age5_4", "y": 90 },
+		"age=10,down=true,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/top_age5_6", "y": 270 },
+
+		"age=10,down=true,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/top_age5_7", "y": 180 },
+		"age=10,down=true,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/top_age5_3" },
+		"age=10,down=true,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/top_age5_1", "y": 90 },
+		"age=10,down=true,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/top_age5_9", "y": 270 },
+
+		"age=10,down=true,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/top_age5_6", "y": 180 },
+		"age=10,down=true,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/top_age5_4" },
+		"age=10,down=true,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/top_age5_8", "y": 90 },
+		"age=10,down=true,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/top_age5_2", "y": 270 },
+
+		"age=10,down=true,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/top_age5_5", "y": 180 },
+		"age=10,down=true,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/top_age5_5" },
+		"age=10,down=true,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/top_age5_5", "y": 90 },
+		"age=10,down=true,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/top_age5_5", "y": 270 },
+
+		"age=10,down=true,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/top_age5_4", "y": 180 },
+		"age=10,down=true,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/top_age5_6" },
+		"age=10,down=true,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/top_age5_2", "y": 90 },
+		"age=10,down=true,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/top_age5_8", "y": 270 },
+
+		"age=10,down=true,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/top_age5_3", "y": 180 },
+		"age=10,down=true,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/top_age5_7" },
+		"age=10,down=true,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/top_age5_9", "y": 90 },
+		"age=10,down=true,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/top_age5_1", "y": 270 },
+
+		"age=10,down=true,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/top_age5_2", "y": 180 },
+		"age=10,down=true,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/top_age5_8" },
+		"age=10,down=true,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/top_age5_6", "y": 90 },
+		"age=10,down=true,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/top_age5_4", "y": 270 },
+		
+		"age=10,down=true,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/top_age5_1", "y": 180 },
+		"age=10,down=true,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/top_age5_9" },
+		"age=10,down=true,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/top_age5_3", "y": 90 },
+		"age=10,down=true,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/top_age5_7", "y": 270 },
+		
+		"age=11,down=true,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/top_age6_9", "y": 180 },
+		"age=11,down=true,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/top_age6_1" },
+		"age=11,down=true,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/top_age6_7", "y": 90 },
+		"age=11,down=true,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/top_age6_3", "y": 270 },
+
+		"age=11,down=true,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/top_age6_8", "y": 180 },
+		"age=11,down=true,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/top_age6_2" },
+		"age=11,down=true,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/top_age6_4", "y": 90 },
+		"age=11,down=true,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/top_age6_6", "y": 270 },
+
+		"age=11,down=true,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/top_age6_7", "y": 180 },
+		"age=11,down=true,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/top_age6_3" },
+		"age=11,down=true,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/top_age6_1", "y": 90 },
+		"age=11,down=true,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/top_age6_9", "y": 270 },
+
+		"age=11,down=true,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/top_age6_6", "y": 180 },
+		"age=11,down=true,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/top_age6_4" },
+		"age=11,down=true,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/top_age6_8", "y": 90 },
+		"age=11,down=true,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/top_age6_2", "y": 270 },
+
+		"age=11,down=true,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/top_age6_5", "y": 180 },
+		"age=11,down=true,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/top_age6_5" },
+		"age=11,down=true,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/top_age6_5", "y": 90 },
+		"age=11,down=true,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/top_age6_5", "y": 270 },
+
+		"age=11,down=true,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/top_age6_4", "y": 180 },
+		"age=11,down=true,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/top_age6_6" },
+		"age=11,down=true,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/top_age6_2", "y": 90 },
+		"age=11,down=true,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/top_age6_8", "y": 270 },
+
+		"age=11,down=true,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/top_age6_3", "y": 180 },
+		"age=11,down=true,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/top_age6_7" },
+		"age=11,down=true,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/top_age6_9", "y": 90 },
+		"age=11,down=true,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/top_age6_1", "y": 270 },
+
+		"age=11,down=true,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/top_age6_2", "y": 180 },
+		"age=11,down=true,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/top_age6_8" },
+		"age=11,down=true,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/top_age6_6", "y": 90 },
+		"age=11,down=true,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/top_age6_4", "y": 270 },
+		
+		"age=11,down=true,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/top_age6_1", "y": 180 },
+		"age=11,down=true,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/top_age6_9" },
+		"age=11,down=true,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/top_age6_3", "y": 90 },
+		"age=11,down=true,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/top_age6_7", "y": 270 },
+		
+		"age=12,down=true,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/top_age6_9", "y": 180 },
+		"age=12,down=true,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/top_age6_1" },
+		"age=12,down=true,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/top_age6_7", "y": 90 },
+		"age=12,down=true,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/top_age6_3", "y": 270 },
+
+		"age=12,down=true,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/top_age6_8", "y": 180 },
+		"age=12,down=true,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/top_age6_2" },
+		"age=12,down=true,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/top_age6_4", "y": 90 },
+		"age=12,down=true,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/top_age6_6", "y": 270 },
+
+		"age=12,down=true,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/top_age6_7", "y": 180 },
+		"age=12,down=true,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/top_age6_3" },
+		"age=12,down=true,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/top_age6_1", "y": 90 },
+		"age=12,down=true,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/top_age6_9", "y": 270 },
+
+		"age=12,down=true,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/top_age6_6", "y": 180 },
+		"age=12,down=true,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/top_age6_4" },
+		"age=12,down=true,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/top_age6_8", "y": 90 },
+		"age=12,down=true,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/top_age6_2", "y": 270 },
+
+		"age=12,down=true,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/top_age6_5", "y": 180 },
+		"age=12,down=true,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/top_age6_5" },
+		"age=12,down=true,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/top_age6_5", "y": 90 },
+		"age=12,down=true,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/top_age6_5", "y": 270 },
+
+		"age=12,down=true,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/top_age6_4", "y": 180 },
+		"age=12,down=true,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/top_age6_6" },
+		"age=12,down=true,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/top_age6_2", "y": 90 },
+		"age=12,down=true,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/top_age6_8", "y": 270 },
+
+		"age=12,down=true,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/top_age6_3", "y": 180 },
+		"age=12,down=true,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/top_age6_7" },
+		"age=12,down=true,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/top_age6_9", "y": 90 },
+		"age=12,down=true,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/top_age6_1", "y": 270 },
+
+		"age=12,down=true,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/top_age6_2", "y": 180 },
+		"age=12,down=true,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/top_age6_8" },
+		"age=12,down=true,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/top_age6_6", "y": 90 },
+		"age=12,down=true,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/top_age6_4", "y": 270 },
+		
+		"age=12,down=true,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/top_age6_1", "y": 180 },
+		"age=12,down=true,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/top_age6_9" },
+		"age=12,down=true,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/top_age6_3", "y": 90 },
+		"age=12,down=true,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/top_age6_7", "y": 270 },
+		
+			"age=1,down=false,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age1_9", "y": 180 },
+			"age=1,down=false,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age1_1" },
+			"age=1,down=false,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age1_7", "y": 90 },
+			"age=1,down=false,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age1_3", "y": 270 },
+	
+			"age=1,down=false,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age1_8", "y": 180 },
+			"age=1,down=false,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age1_2" },
+			"age=1,down=false,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age1_4", "y": 90 },
+			"age=1,down=false,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age1_6", "y": 270 },
+	
+			"age=1,down=false,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age1_7", "y": 180 },
+			"age=1,down=false,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age1_3" },
+			"age=1,down=false,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age1_1", "y": 90 },
+			"age=1,down=false,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age1_9", "y": 270 },
+	
+			"age=1,down=false,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age1_6", "y": 180 },
+			"age=1,down=false,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age1_4" },
+			"age=1,down=false,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age1_8", "y": 90 },
+			"age=1,down=false,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age1_2", "y": 270 },
+	
+			"age=1,down=false,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age1_5", "y": 180 },
+			"age=1,down=false,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age1_5" },
+			"age=1,down=false,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age1_5", "y": 90 },
+			"age=1,down=false,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age1_5", "y": 270 },
+	
+			"age=1,down=false,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age1_4", "y": 180 },
+			"age=1,down=false,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age1_6" },
+			"age=1,down=false,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age1_2", "y": 90 },
+			"age=1,down=false,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age1_8", "y": 270 },
+	
+			"age=1,down=false,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age1_3", "y": 180 },
+			"age=1,down=false,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age1_7" },
+			"age=1,down=false,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age1_9", "y": 90 },
+			"age=1,down=false,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age1_1", "y": 270 },
+	
+			"age=1,down=false,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age1_2", "y": 180 },
+			"age=1,down=false,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age1_8" },
+			"age=1,down=false,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age1_6", "y": 90 },
+			"age=1,down=false,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age1_4", "y": 270 },
+			
+			"age=1,down=false,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age1_1", "y": 180 },
+			"age=1,down=false,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age1_9" },
+			"age=1,down=false,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age1_3", "y": 90 },
+			"age=1,down=false,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age1_7", "y": 270 },
+			
+			"age=2,down=false,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age1_9", "y": 180 },
+			"age=2,down=false,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age1_1" },
+			"age=2,down=false,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age1_7", "y": 90 },
+			"age=2,down=false,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age1_3", "y": 270 },
+	
+			"age=2,down=false,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age1_8", "y": 180 },
+			"age=2,down=false,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age1_2" },
+			"age=2,down=false,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age1_4", "y": 90 },
+			"age=2,down=false,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age1_6", "y": 270 },
+	
+			"age=2,down=false,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age1_7", "y": 180 },
+			"age=2,down=false,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age1_3" },
+			"age=2,down=false,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age1_1", "y": 90 },
+			"age=2,down=false,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age1_9", "y": 270 },
+	
+			"age=2,down=false,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age1_6", "y": 180 },
+			"age=2,down=false,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age1_4" },
+			"age=2,down=false,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age1_8", "y": 90 },
+			"age=2,down=false,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age1_2", "y": 270 },
+	
+			"age=2,down=false,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age1_5", "y": 180 },
+			"age=2,down=false,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age1_5" },
+			"age=2,down=false,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age1_5", "y": 90 },
+			"age=2,down=false,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age1_5", "y": 270 },
+	
+			"age=2,down=false,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age1_4", "y": 180 },
+			"age=2,down=false,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age1_6" },
+			"age=2,down=false,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age1_2", "y": 90 },
+			"age=2,down=false,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age1_8", "y": 270 },
+	
+			"age=2,down=false,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age1_3", "y": 180 },
+			"age=2,down=false,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age1_7" },
+			"age=2,down=false,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age1_9", "y": 90 },
+			"age=2,down=false,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age1_1", "y": 270 },
+	
+			"age=2,down=false,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age1_2", "y": 180 },
+			"age=2,down=false,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age1_8" },
+			"age=2,down=false,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age1_6", "y": 90 },
+			"age=2,down=false,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age1_4", "y": 270 },
+			
+			"age=2,down=false,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age1_1", "y": 180 },
+			"age=2,down=false,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age1_9" },
+			"age=2,down=false,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age1_3", "y": 90 },
+			"age=2,down=false,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age1_7", "y": 270 },
+			
+			"age=3,down=false,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age2_9", "y": 180 },
+			"age=3,down=false,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age2_1" },
+			"age=3,down=false,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age2_7", "y": 90 },
+			"age=3,down=false,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age2_3", "y": 270 },
+	
+			"age=3,down=false,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age2_8", "y": 180 },
+			"age=3,down=false,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age2_2" },
+			"age=3,down=false,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age2_4", "y": 90 },
+			"age=3,down=false,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age2_6", "y": 270 },
+	
+			"age=3,down=false,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age2_7", "y": 180 },
+			"age=3,down=false,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age2_3" },
+			"age=3,down=false,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age2_1", "y": 90 },
+			"age=3,down=false,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age2_9", "y": 270 },
+	
+			"age=3,down=false,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age2_6", "y": 180 },
+			"age=3,down=false,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age2_4" },
+			"age=3,down=false,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age2_8", "y": 90 },
+			"age=3,down=false,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age2_2", "y": 270 },
+	
+			"age=3,down=false,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age2_5", "y": 180 },
+			"age=3,down=false,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age2_5" },
+			"age=3,down=false,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age2_5", "y": 90 },
+			"age=3,down=false,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age2_5", "y": 270 },
+	
+			"age=3,down=false,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age2_4", "y": 180 },
+			"age=3,down=false,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age2_6" },
+			"age=3,down=false,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age2_2", "y": 90 },
+			"age=3,down=false,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age2_8", "y": 270 },
+	
+			"age=3,down=false,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age2_3", "y": 180 },
+			"age=3,down=false,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age2_7" },
+			"age=3,down=false,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age2_9", "y": 90 },
+			"age=3,down=false,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age2_1", "y": 270 },
+	
+			"age=3,down=false,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age2_2", "y": 180 },
+			"age=3,down=false,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age2_8" },
+			"age=3,down=false,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age2_6", "y": 90 },
+			"age=3,down=false,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age2_4", "y": 270 },
+			
+			"age=3,down=false,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age2_1", "y": 180 },
+			"age=3,down=false,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age2_9" },
+			"age=3,down=false,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age2_3", "y": 90 },
+			"age=3,down=false,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age2_7", "y": 270 },
+			
+			"age=4,down=false,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age2_9", "y": 180 },
+			"age=4,down=false,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age2_1" },
+			"age=4,down=false,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age2_7", "y": 90 },
+			"age=4,down=false,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age2_3", "y": 270 },
+	
+			"age=4,down=false,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age2_8", "y": 180 },
+			"age=4,down=false,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age2_2" },
+			"age=4,down=false,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age2_4", "y": 90 },
+			"age=4,down=false,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age2_6", "y": 270 },
+	
+			"age=4,down=false,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age2_7", "y": 180 },
+			"age=4,down=false,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age2_3" },
+			"age=4,down=false,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age2_1", "y": 90 },
+			"age=4,down=false,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age2_9", "y": 270 },
+	
+			"age=4,down=false,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age2_6", "y": 180 },
+			"age=4,down=false,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age2_4" },
+			"age=4,down=false,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age2_8", "y": 90 },
+			"age=4,down=false,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age2_2", "y": 270 },
+	
+			"age=4,down=false,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age2_5", "y": 180 },
+			"age=4,down=false,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age2_5" },
+			"age=4,down=false,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age2_5", "y": 90 },
+			"age=4,down=false,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age2_5", "y": 270 },
+	
+			"age=4,down=false,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age2_4", "y": 180 },
+			"age=4,down=false,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age2_6" },
+			"age=4,down=false,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age2_2", "y": 90 },
+			"age=4,down=false,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age2_8", "y": 270 },
+	
+			"age=4,down=false,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age2_3", "y": 180 },
+			"age=4,down=false,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age2_7" },
+			"age=4,down=false,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age2_9", "y": 90 },
+			"age=4,down=false,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age2_1", "y": 270 },
+	
+			"age=4,down=false,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age2_2", "y": 180 },
+			"age=4,down=false,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age2_8" },
+			"age=4,down=false,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age2_6", "y": 90 },
+			"age=4,down=false,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age2_4", "y": 270 },
+			
+			"age=4,down=false,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age2_1", "y": 180 },
+			"age=4,down=false,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age2_9" },
+			"age=4,down=false,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age2_3", "y": 90 },
+			"age=4,down=false,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age2_7", "y": 270 },
+			
+			"age=5,down=false,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age3_9", "y": 180 },
+			"age=5,down=false,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age3_1" },
+			"age=5,down=false,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age3_7", "y": 90 },
+			"age=5,down=false,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age3_3", "y": 270 },
+	
+			"age=5,down=false,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age3_8", "y": 180 },
+			"age=5,down=false,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age3_2" },
+			"age=5,down=false,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age3_4", "y": 90 },
+			"age=5,down=false,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age3_6", "y": 270 },
+	
+			"age=5,down=false,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age3_7", "y": 180 },
+			"age=5,down=false,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age3_3" },
+			"age=5,down=false,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age3_1", "y": 90 },
+			"age=5,down=false,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age3_9", "y": 270 },
+	
+			"age=5,down=false,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age3_6", "y": 180 },
+			"age=5,down=false,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age3_4" },
+			"age=5,down=false,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age3_8", "y": 90 },
+			"age=5,down=false,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age3_2", "y": 270 },
+	
+			"age=5,down=false,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age3_5", "y": 180 },
+			"age=5,down=false,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age3_5" },
+			"age=5,down=false,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age3_5", "y": 90 },
+			"age=5,down=false,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age3_5", "y": 270 },
+	
+			"age=5,down=false,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age3_4", "y": 180 },
+			"age=5,down=false,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age3_6" },
+			"age=5,down=false,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age3_2", "y": 90 },
+			"age=5,down=false,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age3_8", "y": 270 },
+	
+			"age=5,down=false,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age3_3", "y": 180 },
+			"age=5,down=false,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age3_7" },
+			"age=5,down=false,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age3_9", "y": 90 },
+			"age=5,down=false,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age3_1", "y": 270 },
+	
+			"age=5,down=false,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age3_2", "y": 180 },
+			"age=5,down=false,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age3_8" },
+			"age=5,down=false,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age3_6", "y": 90 },
+			"age=5,down=false,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age3_4", "y": 270 },
+			
+			"age=5,down=false,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age3_1", "y": 180 },
+			"age=5,down=false,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age3_9" },
+			"age=5,down=false,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age3_3", "y": 90 },
+			"age=5,down=false,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age3_7", "y": 270 },
+			
+			"age=6,down=false,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age3_9", "y": 180 },
+			"age=6,down=false,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age3_1" },
+			"age=6,down=false,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age3_7", "y": 90 },
+			"age=6,down=false,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age3_3", "y": 270 },
+	
+			"age=6,down=false,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age3_8", "y": 180 },
+			"age=6,down=false,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age3_2" },
+			"age=6,down=false,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age3_4", "y": 90 },
+			"age=6,down=false,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age3_6", "y": 270 },
+	
+			"age=6,down=false,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age3_7", "y": 180 },
+			"age=6,down=false,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age3_3" },
+			"age=6,down=false,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age3_1", "y": 90 },
+			"age=6,down=false,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age3_9", "y": 270 },
+	
+			"age=6,down=false,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age3_6", "y": 180 },
+			"age=6,down=false,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age3_4" },
+			"age=6,down=false,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age3_8", "y": 90 },
+			"age=6,down=false,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age3_2", "y": 270 },
+	
+			"age=6,down=false,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age3_5", "y": 180 },
+			"age=6,down=false,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age3_5" },
+			"age=6,down=false,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age3_5", "y": 90 },
+			"age=6,down=false,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age3_5", "y": 270 },
+	
+			"age=6,down=false,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age3_4", "y": 180 },
+			"age=6,down=false,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age3_6" },
+			"age=6,down=false,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age3_2", "y": 90 },
+			"age=6,down=false,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age3_8", "y": 270 },
+	
+			"age=6,down=false,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age3_3", "y": 180 },
+			"age=6,down=false,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age3_7" },
+			"age=6,down=false,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age3_9", "y": 90 },
+			"age=6,down=false,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age3_1", "y": 270 },
+	
+			"age=6,down=false,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age3_2", "y": 180 },
+			"age=6,down=false,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age3_8" },
+			"age=6,down=false,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age3_6", "y": 90 },
+			"age=6,down=false,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age3_4", "y": 270 },
+			
+			"age=6,down=false,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age3_1", "y": 180 },
+			"age=6,down=false,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age3_9" },
+			"age=6,down=false,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age3_3", "y": 90 },
+			"age=6,down=false,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age3_7", "y": 270 },
+			
+			"age=7,down=false,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age4_9", "y": 180 },
+			"age=7,down=false,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age4_1" },
+			"age=7,down=false,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age4_7", "y": 90 },
+			"age=7,down=false,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age4_3", "y": 270 },
+	
+			"age=7,down=false,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age4_8", "y": 180 },
+			"age=7,down=false,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age4_2" },
+			"age=7,down=false,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age4_4", "y": 90 },
+			"age=7,down=false,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age4_6", "y": 270 },
+	
+			"age=7,down=false,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age4_7", "y": 180 },
+			"age=7,down=false,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age4_3" },
+			"age=7,down=false,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age4_1", "y": 90 },
+			"age=7,down=false,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age4_9", "y": 270 },
+	
+			"age=7,down=false,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age4_6", "y": 180 },
+			"age=7,down=false,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age4_4" },
+			"age=7,down=false,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age4_8", "y": 90 },
+			"age=7,down=false,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age4_2", "y": 270 },
+	
+			"age=7,down=false,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age4_5", "y": 180 },
+			"age=7,down=false,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age4_5" },
+			"age=7,down=false,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age4_5", "y": 90 },
+			"age=7,down=false,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age4_5", "y": 270 },
+	
+			"age=7,down=false,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age4_4", "y": 180 },
+			"age=7,down=false,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age4_6" },
+			"age=7,down=false,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age4_2", "y": 90 },
+			"age=7,down=false,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age4_8", "y": 270 },
+	
+			"age=7,down=false,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age4_3", "y": 180 },
+			"age=7,down=false,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age4_7" },
+			"age=7,down=false,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age4_9", "y": 90 },
+			"age=7,down=false,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age4_1", "y": 270 },
+	
+			"age=7,down=false,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age4_2", "y": 180 },
+			"age=7,down=false,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age4_8" },
+			"age=7,down=false,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age4_6", "y": 90 },
+			"age=7,down=false,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age4_4", "y": 270 },
+			
+			"age=7,down=false,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age4_1", "y": 180 },
+			"age=7,down=false,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age4_9" },
+			"age=7,down=false,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age4_3", "y": 90 },
+			"age=7,down=false,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age4_7", "y": 270 },
+			
+			"age=8,down=false,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age4_9", "y": 180 },
+			"age=8,down=false,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age4_1" },
+			"age=8,down=false,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age4_7", "y": 90 },
+			"age=8,down=false,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age4_3", "y": 270 },
+	
+			"age=8,down=false,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age4_8", "y": 180 },
+			"age=8,down=false,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age4_2" },
+			"age=8,down=false,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age4_4", "y": 90 },
+			"age=8,down=false,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age4_6", "y": 270 },
+	
+			"age=8,down=false,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age4_7", "y": 180 },
+			"age=8,down=false,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age4_3" },
+			"age=8,down=false,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age4_1", "y": 90 },
+			"age=8,down=false,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age4_9", "y": 270 },
+	
+			"age=8,down=false,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age4_6", "y": 180 },
+			"age=8,down=false,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age4_4" },
+			"age=8,down=false,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age4_8", "y": 90 },
+			"age=8,down=false,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age4_2", "y": 270 },
+	
+			"age=8,down=false,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age4_5", "y": 180 },
+			"age=8,down=false,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age4_5" },
+			"age=8,down=false,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age4_5", "y": 90 },
+			"age=8,down=false,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age4_5", "y": 270 },
+	
+			"age=8,down=false,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age4_4", "y": 180 },
+			"age=8,down=false,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age4_6" },
+			"age=8,down=false,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age4_2", "y": 90 },
+			"age=8,down=false,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age4_8", "y": 270 },
+	
+			"age=8,down=false,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age4_3", "y": 180 },
+			"age=8,down=false,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age4_7" },
+			"age=8,down=false,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age4_9", "y": 90 },
+			"age=8,down=false,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age4_1", "y": 270 },
+	
+			"age=8,down=false,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age4_2", "y": 180 },
+			"age=8,down=false,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age4_8" },
+			"age=8,down=false,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age4_6", "y": 90 },
+			"age=8,down=false,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age4_4", "y": 270 },
+			
+			"age=8,down=false,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age4_1", "y": 180 },
+			"age=8,down=false,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age4_9" },
+			"age=8,down=false,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age4_3", "y": 90 },
+			"age=8,down=false,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age4_7", "y": 270 },
+			
+			"age=9,down=false,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age5_9", "y": 180 },
+			"age=9,down=false,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age5_1" },
+			"age=9,down=false,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age5_7", "y": 90 },
+			"age=9,down=false,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age5_3", "y": 270 },
+	
+			"age=9,down=false,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age5_8", "y": 180 },
+			"age=9,down=false,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age5_2" },
+			"age=9,down=false,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age5_4", "y": 90 },
+			"age=9,down=false,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age5_6", "y": 270 },
+	
+			"age=9,down=false,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age5_7", "y": 180 },
+			"age=9,down=false,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age5_3" },
+			"age=9,down=false,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age5_1", "y": 90 },
+			"age=9,down=false,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age5_9", "y": 270 },
+	
+			"age=9,down=false,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age5_6", "y": 180 },
+			"age=9,down=false,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age5_4" },
+			"age=9,down=false,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age5_8", "y": 90 },
+			"age=9,down=false,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age5_2", "y": 270 },
+	
+			"age=9,down=false,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age5_5", "y": 180 },
+			"age=9,down=false,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age5_5" },
+			"age=9,down=false,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age5_5", "y": 90 },
+			"age=9,down=false,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age5_5", "y": 270 },
+	
+			"age=9,down=false,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age5_4", "y": 180 },
+			"age=9,down=false,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age5_6" },
+			"age=9,down=false,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age5_2", "y": 90 },
+			"age=9,down=false,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age5_8", "y": 270 },
+	
+			"age=9,down=false,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age5_3", "y": 180 },
+			"age=9,down=false,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age5_7" },
+			"age=9,down=false,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age5_9", "y": 90 },
+			"age=9,down=false,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age5_1", "y": 270 },
+	
+			"age=9,down=false,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age5_2", "y": 180 },
+			"age=9,down=false,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age5_8" },
+			"age=9,down=false,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age5_6", "y": 90 },
+			"age=9,down=false,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age5_4", "y": 270 },
+			
+			"age=9,down=false,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age5_1", "y": 180 },
+			"age=9,down=false,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age5_9" },
+			"age=9,down=false,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age5_3", "y": 90 },
+			"age=9,down=false,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age5_7", "y": 270 },
+			
+			"age=10,down=false,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age5_9", "y": 180 },
+			"age=10,down=false,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age5_1" },
+			"age=10,down=false,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age5_7", "y": 90 },
+			"age=10,down=false,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age5_3", "y": 270 },
+	
+			"age=10,down=false,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age5_8", "y": 180 },
+			"age=10,down=false,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age5_2" },
+			"age=10,down=false,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age5_4", "y": 90 },
+			"age=10,down=false,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age5_6", "y": 270 },
+	
+			"age=10,down=false,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age5_7", "y": 180 },
+			"age=10,down=false,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age5_3" },
+			"age=10,down=false,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age5_1", "y": 90 },
+			"age=10,down=false,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age5_9", "y": 270 },
+	
+			"age=10,down=false,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age5_6", "y": 180 },
+			"age=10,down=false,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age5_4" },
+			"age=10,down=false,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age5_8", "y": 90 },
+			"age=10,down=false,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age5_2", "y": 270 },
+	
+			"age=10,down=false,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age5_5", "y": 180 },
+			"age=10,down=false,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age5_5" },
+			"age=10,down=false,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age5_5", "y": 90 },
+			"age=10,down=false,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age5_5", "y": 270 },
+	
+			"age=10,down=false,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age5_4", "y": 180 },
+			"age=10,down=false,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age5_6" },
+			"age=10,down=false,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age5_2", "y": 90 },
+			"age=10,down=false,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age5_8", "y": 270 },
+	
+			"age=10,down=false,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age5_3", "y": 180 },
+			"age=10,down=false,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age5_7" },
+			"age=10,down=false,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age5_9", "y": 90 },
+			"age=10,down=false,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age5_1", "y": 270 },
+	
+			"age=10,down=false,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age5_2", "y": 180 },
+			"age=10,down=false,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age5_8" },
+			"age=10,down=false,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age5_6", "y": 90 },
+			"age=10,down=false,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age5_4", "y": 270 },
+			
+			"age=10,down=false,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age5_1", "y": 180 },
+			"age=10,down=false,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age5_9" },
+			"age=10,down=false,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age5_3", "y": 90 },
+			"age=10,down=false,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age5_7", "y": 270 },
+			
+			"age=11,down=false,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age6_9", "y": 180 },
+			"age=11,down=false,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age6_1" },
+			"age=11,down=false,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age6_7", "y": 90 },
+			"age=11,down=false,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age6_3", "y": 270 },
+	
+			"age=11,down=false,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age6_8", "y": 180 },
+			"age=11,down=false,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age6_2" },
+			"age=11,down=false,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age6_4", "y": 90 },
+			"age=11,down=false,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age6_6", "y": 270 },
+	
+			"age=11,down=false,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age6_7", "y": 180 },
+			"age=11,down=false,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age6_3" },
+			"age=11,down=false,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age6_1", "y": 90 },
+			"age=11,down=false,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age6_9", "y": 270 },
+	
+			"age=11,down=false,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age6_6", "y": 180 },
+			"age=11,down=false,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age6_4" },
+			"age=11,down=false,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age6_8", "y": 90 },
+			"age=11,down=false,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age6_2", "y": 270 },
+	
+			"age=11,down=false,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age6_5", "y": 180 },
+			"age=11,down=false,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age6_5" },
+			"age=11,down=false,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age6_5", "y": 90 },
+			"age=11,down=false,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age6_5", "y": 270 },
+	
+			"age=11,down=false,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age6_4", "y": 180 },
+			"age=11,down=false,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age6_6" },
+			"age=11,down=false,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age6_2", "y": 90 },
+			"age=11,down=false,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age6_8", "y": 270 },
+	
+			"age=11,down=false,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age6_3", "y": 180 },
+			"age=11,down=false,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age6_7" },
+			"age=11,down=false,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age6_9", "y": 90 },
+			"age=11,down=false,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age6_1", "y": 270 },
+	
+			"age=11,down=false,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age6_2", "y": 180 },
+			"age=11,down=false,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age6_8" },
+			"age=11,down=false,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age6_6", "y": 90 },
+			"age=11,down=false,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age6_4", "y": 270 },
+			
+			"age=11,down=false,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age6_1", "y": 180 },
+			"age=11,down=false,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age6_9" },
+			"age=11,down=false,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age6_3", "y": 90 },
+			"age=11,down=false,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age6_7", "y": 270 },
+			
+			"age=12,down=false,facing=north,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age6_9", "y": 180 },
+			"age=12,down=false,facing=south,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age6_1" },
+			"age=12,down=false,facing=west,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age6_7", "y": 90 },
+			"age=12,down=false,facing=east,stage=1": { "model": "chinjufumod:block/amishikake/bottom_age6_3", "y": 270 },
+	
+			"age=12,down=false,facing=north,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age6_8", "y": 180 },
+			"age=12,down=false,facing=south,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age6_2" },
+			"age=12,down=false,facing=west,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age6_4", "y": 90 },
+			"age=12,down=false,facing=east,stage=2": { "model": "chinjufumod:block/amishikake/bottom_age6_6", "y": 270 },
+	
+			"age=12,down=false,facing=north,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age6_7", "y": 180 },
+			"age=12,down=false,facing=south,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age6_3" },
+			"age=12,down=false,facing=west,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age6_1", "y": 90 },
+			"age=12,down=false,facing=east,stage=3": { "model": "chinjufumod:block/amishikake/bottom_age6_9", "y": 270 },
+	
+			"age=12,down=false,facing=north,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age6_6", "y": 180 },
+			"age=12,down=false,facing=south,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age6_4" },
+			"age=12,down=false,facing=west,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age6_8", "y": 90 },
+			"age=12,down=false,facing=east,stage=4": { "model": "chinjufumod:block/amishikake/bottom_age6_2", "y": 270 },
+	
+			"age=12,down=false,facing=north,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age6_5", "y": 180 },
+			"age=12,down=false,facing=south,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age6_5" },
+			"age=12,down=false,facing=west,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age6_5", "y": 90 },
+			"age=12,down=false,facing=east,stage=5": { "model": "chinjufumod:block/amishikake/bottom_age6_5", "y": 270 },
+	
+			"age=12,down=false,facing=north,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age6_4", "y": 180 },
+			"age=12,down=false,facing=south,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age6_6" },
+			"age=12,down=false,facing=west,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age6_2", "y": 90 },
+			"age=12,down=false,facing=east,stage=6": { "model": "chinjufumod:block/amishikake/bottom_age6_8", "y": 270 },
+	
+			"age=12,down=false,facing=north,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age6_3", "y": 180 },
+			"age=12,down=false,facing=south,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age6_7" },
+			"age=12,down=false,facing=west,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age6_9", "y": 90 },
+			"age=12,down=false,facing=east,stage=7": { "model": "chinjufumod:block/amishikake/bottom_age6_1", "y": 270 },
+	
+			"age=12,down=false,facing=north,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age6_2", "y": 180 },
+			"age=12,down=false,facing=south,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age6_8" },
+			"age=12,down=false,facing=west,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age6_6", "y": 90 },
+			"age=12,down=false,facing=east,stage=8": { "model": "chinjufumod:block/amishikake/bottom_age6_4", "y": 270 },
+			
+			"age=12,down=false,facing=north,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age6_1", "y": 180 },
+			"age=12,down=false,facing=south,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age6_9" },
+			"age=12,down=false,facing=west,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age6_3", "y": 90 },
+			"age=12,down=false,facing=east,stage=9": { "model": "chinjufumod:block/amishikake/bottom_age6_7", "y": 270 }
+	}
+}

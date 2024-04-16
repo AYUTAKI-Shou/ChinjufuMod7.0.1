@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"" : [ { "model" : "chinjufumod:block/garden/acacia", "y": 0 },
+			{ "model" : "chinjufumod:block/garden/acacia", "y": 90 },
+			{ "model" : "chinjufumod:block/garden/acacia", "y": 180 },
+			{ "model" : "chinjufumod:block/garden/acacia", "y": 270 } ]
+	}
+}

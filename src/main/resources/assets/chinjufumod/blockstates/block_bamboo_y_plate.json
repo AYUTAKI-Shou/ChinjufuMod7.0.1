@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"facing=north,powered=false": { "model": "chinjufumod:block/bamboo/yake_plate", "y": 0 },
+		"facing=south,powered=false": { "model": "chinjufumod:block/bamboo/yake_plate", "y": 0 },
+		"facing=west,powered=false": { "model": "chinjufumod:block/bamboo/yake_plate", "y": 270 },
+		"facing=east,powered=false": { "model": "chinjufumod:block/bamboo/yake_plate", "y": 270 },
+
+		"facing=north,powered=true": { "model": "chinjufumod:block/bamboo/yake_plate_down", "y": 0 },
+		"facing=south,powered=true": { "model": "chinjufumod:block/bamboo/yake_plate_down", "y": 0 },
+		"facing=west,powered=true": { "model": "chinjufumod:block/bamboo/yake_plate_down", "y": 270 },
+		"facing=east,powered=true": { "model": "chinjufumod:block/bamboo/yake_plate_down", "y": 270 }
+	}
+}

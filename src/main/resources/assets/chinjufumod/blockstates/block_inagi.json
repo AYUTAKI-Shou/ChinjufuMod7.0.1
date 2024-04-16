@@ -1,0 +1,43 @@
+{
+	"variants": {
+		"facing=north,half=lower,stage=1": { "model": "chinjufumod:block/crop/inagi_1", "y": 180 },
+		"facing=south,half=lower,stage=1": { "model": "chinjufumod:block/crop/inagi_1" },
+		"facing=west,half=lower,stage=1": { "model": "chinjufumod:block/crop/inagi_1", "y": 90 },
+		"facing=east,half=lower,stage=1": { "model": "chinjufumod:block/crop/inagi_1", "y": 270 },
+
+		"facing=north,half=lower,stage=2": { "model": "chinjufumod:block/crop/inagi_2", "y": 180 },
+		"facing=south,half=lower,stage=2": { "model": "chinjufumod:block/crop/inagi_2" },
+		"facing=west,half=lower,stage=2": { "model": "chinjufumod:block/crop/inagi_2", "y": 90 },
+		"facing=east,half=lower,stage=2": { "model": "chinjufumod:block/crop/inagi_2", "y": 270 },
+
+		"facing=north,half=lower,stage=3": { "model": "chinjufumod:block/crop/inagi_3", "y": 180 },
+		"facing=south,half=lower,stage=3": { "model": "chinjufumod:block/crop/inagi_3" },
+		"facing=west,half=lower,stage=3": { "model": "chinjufumod:block/crop/inagi_3", "y": 90 },
+		"facing=east,half=lower,stage=3": { "model": "chinjufumod:block/crop/inagi_3", "y": 270 },
+
+		"facing=north,half=lower,stage=4": { "model": "chinjufumod:block/crop/inagi_4", "y": 180 },
+		"facing=south,half=lower,stage=4": { "model": "chinjufumod:block/crop/inagi_4" },
+		"facing=west,half=lower,stage=4": { "model": "chinjufumod:block/crop/inagi_4", "y": 90 },
+		"facing=east,half=lower,stage=4": { "model": "chinjufumod:block/crop/inagi_4", "y": 270 },
+
+		"facing=north,half=upper,stage=1": { "model": "chinjufumod:block/crop/inagitop_1", "y": 180 },
+		"facing=south,half=upper,stage=1": { "model": "chinjufumod:block/crop/inagitop_1" },
+		"facing=west,half=upper,stage=1": { "model": "chinjufumod:block/crop/inagitop_1", "y": 90 },
+		"facing=east,half=upper,stage=1": { "model": "chinjufumod:block/crop/inagitop_1", "y": 270 },
+
+		"facing=north,half=upper,stage=2": { "model": "chinjufumod:block/crop/inagitop_2", "y": 180 },
+		"facing=south,half=upper,stage=2": { "model": "chinjufumod:block/crop/inagitop_2" },
+		"facing=west,half=upper,stage=2": { "model": "chinjufumod:block/crop/inagitop_2", "y": 90 },
+		"facing=east,half=upper,stage=2": { "model": "chinjufumod:block/crop/inagitop_2", "y": 270 },
+
+		"facing=north,half=upper,stage=3": { "model": "chinjufumod:block/crop/inagitop_3", "y": 180 },
+		"facing=south,half=upper,stage=3": { "model": "chinjufumod:block/crop/inagitop_3" },
+		"facing=west,half=upper,stage=3": { "model": "chinjufumod:block/crop/inagitop_3", "y": 90 },
+		"facing=east,half=upper,stage=3": { "model": "chinjufumod:block/crop/inagitop_3", "y": 270 },
+
+		"facing=north,half=upper,stage=4": { "model": "chinjufumod:block/crop/inagitop_4", "y": 180 },
+		"facing=south,half=upper,stage=4": { "model": "chinjufumod:block/crop/inagitop_4" },
+		"facing=west,half=upper,stage=4": { "model": "chinjufumod:block/crop/inagitop_4", "y": 90 },
+		"facing=east,half=upper,stage=4": { "model": "chinjufumod:block/crop/inagitop_4", "y": 270 }
+	}
+}

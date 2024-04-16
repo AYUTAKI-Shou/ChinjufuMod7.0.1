@@ -1,0 +1,165 @@
+{
+	"parent": "block/block",
+	"elements": [
+		{
+			"name": "soba1____________________________________________",
+			"from": [ 5.5, 0.51, 5.5 ],
+			"to": [ 10.5, 1.5, 8.9 ],
+			"faces": {
+				"up" : { "uv": [ 2.0, 2.0, 14.0, 10.16 ], "texture": "#soba" },
+				"down" : { "uv": [ 2.0, 2.0, 14.0, 10.16 ], "texture": "#soba" },
+				"north": { "uv": [ 14.0, 2.0, 2.0, 0.0 ], "texture": "#soba" },
+				"south": { "uv": [ 2.0, 10.0, 14.0, 12.0 ], "texture": "#soba" },
+				"east" : { "uv": [ 14.0, 2.0, 16.0, 10.16 ], "texture": "#soba", "rotation": 90 },
+				"west" : { "uv": [ 2.0, 10.16, 0.0, 2.0 ], "texture": "#soba", "rotation": 90 }
+			}
+		},
+
+		{
+			"name": "sara_n_top____________________________________________",
+			"from": [ 4.0, 0.4, 4.0 ],
+			"to": [ 12.0, 0.6, 5.5 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_s_top",
+			"from": [ 4.0, 0.4, 10.5 ],
+			"to": [ 12.0, 0.6, 12.0 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_e_top",
+			"from": [ 10.5, 0.4, 5.5 ],
+			"to": [ 12.0, 0.6, 10.5 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_w_top",
+			"from": [ 4.0, 0.4, 5.5 ],
+			"to": [ 5.5, 0.6, 10.5 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+
+		{
+			"name": "sara_top____________________________________________",
+			"from": [ 5.5, 0.3, 5.5 ],
+			"to": [ 10.5, 0.5, 10.5 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_bot_nor",
+			"from": [ 5.5, 0.0, 5.5 ],
+			"to": [ 10.5, 0.3, 5.8 ],
+			"faces": {
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_bot_sou",
+			"from": [ 5.5, 0.0, 10.2 ],
+			"to": [ 10.5, 0.3, 10.5 ],
+			"faces": {
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_bot_east",
+			"from": [ 5.5, 0.0, 5.8 ],
+			"to": [ 5.8, 0.3, 10.2 ],
+			"faces": {
+				"down" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_bot_west",
+			"from": [ 10.2, 0.0, 5.8 ],
+			"to": [ 10.5, 0.3, 10.2 ],
+			"faces": {
+				"down" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+
+		{
+			"name": "hashioki",
+			"from": [ 5.5, 0, 12.5 ],
+			"to": [ 6, 0.1, 14.5 ],
+			"faces": {
+				"up" : { "texture": "#hashioki" },
+				"down" : { "texture": "#hashioki" },
+				"north": { "texture": "#hashioki" },
+				"south": { "texture": "#hashioki" },
+				"west" : { "texture": "#hashioki" },
+				"east" : { "texture": "#hashioki" }
+			}
+		},
+		{
+			"name": "hashi1",
+			"from": [ 5, 0.1, 13.2 ],
+			"to": [ 11, 0.35, 13.45 ],
+			"faces": {
+				"up" : { "texture": "#hashi" },
+				"down" : { "texture": "#hashi" },
+				"north": { "texture": "#hashi" },
+				"south": { "texture": "#hashi" },
+				"west" : { "texture": "#hashi" },
+				"east" : { "texture": "#hashi" }
+			}
+		},
+		{
+			"name": "hashi2",
+			"from": [ 5, 0.1, 13.5 ],
+			"to": [ 11, 0.35, 13.75 ],
+			"faces": {
+				"up" : { "texture": "#hashi" },
+				"down" : { "texture": "#hashi" },
+				"north": { "texture": "#hashi" },
+				"south": { "texture": "#hashi" },
+				"west" : { "texture": "#hashi" },
+				"east" : { "texture": "#hashi" }
+			}
+		}
+	]
+}

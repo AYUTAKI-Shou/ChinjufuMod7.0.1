@@ -1,0 +1,103 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", 
+			"functions": [ { "function": "minecraft:set_damage", "damage": 1.0 } ],
+			"name": "chinjufumod:item_admiralstamp_b" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:item_admiralstamp_b", "properties": {"age": "1" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", 
+			"functions": [ { "function": "minecraft:set_damage", "damage": 0.92 } ],
+			"name": "chinjufumod:item_admiralstamp_b" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:item_admiralstamp_b", "properties": {"age": "2" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", 
+			"functions": [ { "function": "minecraft:set_damage", "damage": 0.86 } ],
+			"name": "chinjufumod:item_admiralstamp_b" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:item_admiralstamp_b", "properties": {"age": "3" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", 
+			"functions": [ { "function": "minecraft:set_damage", "damage": 0.8 } ],
+			"name": "chinjufumod:item_admiralstamp_b" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:item_admiralstamp_b", "properties": {"age": "4" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", 
+			"functions": [ { "function": "minecraft:set_damage", "damage": 0.73 } ],
+			"name": "chinjufumod:item_admiralstamp_b" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:item_admiralstamp_b", "properties": {"age": "5" } } ] },
+			
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", 
+			"functions": [ { "function": "minecraft:set_damage", "damage": 0.68 } ],  
+			"name": "chinjufumod:item_admiralstamp_b" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:item_admiralstamp_b", "properties": {"age": "6" } } ] },
+			
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", 
+			"functions": [ { "function": "minecraft:set_damage", "damage": 0.62 } ],
+			"name": "chinjufumod:item_admiralstamp_b" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:item_admiralstamp_b", "properties": {"age": "7" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", 
+			"functions": [ { "function": "minecraft:set_damage", "damage": 0.56 } ],
+			"name": "chinjufumod:item_admiralstamp_b" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:item_admiralstamp_b", "properties": {"age": "8" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", 
+			"functions": [ { "function": "minecraft:set_damage", "damage": 0.5 } ],
+			"name": "chinjufumod:item_admiralstamp_b" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:item_admiralstamp_b", "properties": {"age": "9" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", 
+			"functions": [ { "function": "minecraft:set_damage", "damage": 0.43 } ],
+			"name": "chinjufumod:item_admiralstamp_b" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:item_admiralstamp_b", "properties": {"age": "10" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", 
+			"functions": [ { "function": "minecraft:set_damage", "damage": 0.37 } ],
+			"name": "chinjufumod:item_admiralstamp_b" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:item_admiralstamp_b", "properties": {"age": "11" } } ] },
+			
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", 
+			"functions": [ { "function": "minecraft:set_damage", "damage": 0.3 } ],  
+			"name": "chinjufumod:item_admiralstamp_b" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:item_admiralstamp_b", "properties": {"age": "12" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", 
+			"functions": [ { "function": "minecraft:set_damage", "damage": 0.24 } ],
+			"name": "chinjufumod:item_admiralstamp_b" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:item_admiralstamp_b", "properties": {"age": "13" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", 
+			"functions": [ { "function": "minecraft:set_damage", "damage": 0.18 } ],
+			"name": "chinjufumod:item_admiralstamp_b" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:item_admiralstamp_b", "properties": {"age": "14" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", 
+			"functions": [ { "function": "minecraft:set_damage", "damage": 0.12 } ],
+			"name": "chinjufumod:item_admiralstamp_b" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:item_admiralstamp_b", "properties": {"age": "15" } } ] },
+			
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", 
+			"functions": [ { "function": "minecraft:set_damage", "damage": 0.06 } ],  
+			"name": "chinjufumod:item_admiralstamp_b" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:item_admiralstamp_b", "properties": {"age": "16" } } ] }
+	],
+
+	"functions": [ { "function": "minecraft:explosion_decay" }
+	]
+}

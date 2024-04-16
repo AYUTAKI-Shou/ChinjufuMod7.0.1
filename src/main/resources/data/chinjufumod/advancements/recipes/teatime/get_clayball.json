@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:item_clay_sara",
+			"chinjufumod:item_clay_yunomi",
+			"chinjufumod:item_clay_kyusu",
+			"chinjufumod:item_clay_teacup",
+			"chinjufumod:item_clay_teapot",
+			"chinjufumod:item_clay_chawan",
+			"chinjufumod:item_clay_nabe",
+			"chinjufumod:item_clay_tonsui",
+			"chinjufumod:item_clay_donburi",
+
+			"chinjufumod:item_claykawara"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["minecraft:clay_ball"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

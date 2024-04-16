@@ -1,0 +1,49 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_tatamih_lightg" } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_tatamih_lightg" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_tatamih_lightg", "properties": { "type": "double" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:oak_slab" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_tatamih_lightg", "properties": { "type": "oak" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:spruce_slab" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_tatamih_lightg", "properties": { "type": "spruce" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:birch_slab" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_tatamih_lightg", "properties": { "type": "birch" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:jungle_slab" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_tatamih_lightg", "properties": { "type": "jungle" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:acacia_slab" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_tatamih_lightg", "properties": { "type": "acacia" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:dark_oak_slab" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_tatamih_lightg", "properties": { "type": "darkoak" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_slabhalf_sakura" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_tatamih_lightg", "properties": { "type": "sakura" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_slabhalf_kaede" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_tatamih_lightg", "properties": { "type": "kaede" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_slabhalf_ichoh" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_tatamih_lightg", "properties": { "type": "ichoh" } } ] }
+	],
+
+	"functions": [ { "function": "minecraft:explosion_decay" } ]
+}

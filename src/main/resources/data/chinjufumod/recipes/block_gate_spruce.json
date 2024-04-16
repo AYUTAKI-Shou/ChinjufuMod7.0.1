@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_gate",
+
+	"pattern": [
+		"XX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_gate_spruce_b" }
+	},
+
+	"result": { "item": "chinjufumod:block_gate_spruce", "count": 2 }
+}

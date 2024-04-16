@@ -1,0 +1,11 @@
+{
+	"parent": "chinjufumod:block/base/teppan_soba_h",
+	"textures": {
+		"particle": "chinjufumod:block/okonomi_raw",
+		"okonomi": "chinjufumod:block/okonomi_raw",
+		"bowl": "chinjufumod:block/muku_oak",
+		"sara": "chinjufumod:block/dish_white",
+		"soba": "chinjufumod:block/ramen_boil",
+		"cabbage": "chinjufumod:block/okonomicabbage_raw"
+	}
+}

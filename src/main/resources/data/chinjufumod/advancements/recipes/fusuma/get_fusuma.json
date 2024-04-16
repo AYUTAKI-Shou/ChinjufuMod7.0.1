@@ -1,0 +1,36 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_fusuma_orange",
+			"chinjufumod:block_fusuma_magenta",
+			"chinjufumod:block_fusuma_lightb",
+			"chinjufumod:block_fusuma_yellow",
+			"chinjufumod:block_fusuma_lime",
+			"chinjufumod:block_fusuma_pink",
+			"chinjufumod:block_fusuma_gray",
+			"chinjufumod:block_fusuma_lightg",
+			"chinjufumod:block_fusuma_cyan",
+			"chinjufumod:block_fusuma_purple",
+			"chinjufumod:block_fusuma_blue",
+			"chinjufumod:block_fusuma_brown",
+			"chinjufumod:block_fusuma_green",
+			"chinjufumod:block_fusuma_red",
+			"chinjufumod:block_fusuma_black",
+			
+			"chinjufumod:block_fusumab"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_fusuma"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

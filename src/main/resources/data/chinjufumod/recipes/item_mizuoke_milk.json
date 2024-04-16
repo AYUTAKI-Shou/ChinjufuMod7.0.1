@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_mizuoke",
+
+	"ingredients": [
+		{ "item": "chinjufumod:block_mizuoke" },
+		{ "tag": "forge:buckets/milk" }
+	],
+
+	"result": { "item": "chinjufumod:item_mizuoke_milk", "count": 1 }
+}

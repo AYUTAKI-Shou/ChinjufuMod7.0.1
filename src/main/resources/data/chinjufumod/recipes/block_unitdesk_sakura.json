@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_unitdesk",
+
+	"pattern": [
+		"XXX",
+		"X X",
+		"X X"
+	],
+
+	"key": {
+		"X": { "tag": "forge:wooden_slabs/cherry" }
+	},
+
+	"result": { "item": "chinjufumod:block_unitdesk_sakura", "count": 1 }
+}

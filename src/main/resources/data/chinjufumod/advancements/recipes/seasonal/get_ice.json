@@ -1,0 +1,25 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_kakigouri_hata",
+			"chinjufumod:block_kakigouri_block1",
+			"chinjufumod:block_kakigouri_pink1",
+			"chinjufumod:block_kakigouri_red1",
+			"chinjufumod:block_kakigouri_yellow1",
+			"chinjufumod:block_kakigouri_green1"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["minecraft:ice"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

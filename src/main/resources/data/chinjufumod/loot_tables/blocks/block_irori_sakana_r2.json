@@ -1,0 +1,107 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "functions": [ { "function": "minecraft:set_count", "count": 3 } ], "name": "chinjufumod:item_kushi_sakana" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "0" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:item_kushi_sakana_c" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "0" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "functions": [ { "function": "minecraft:set_count", "count": 2 } ], "name": "chinjufumod:item_kushi_sakana" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "1" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "functions": [ { "function": "minecraft:set_count", "count": 2 } ], "name": "chinjufumod:item_kushi_sakana_c" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "1" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:item_kushi_sakana" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "2" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "functions": [ { "function": "minecraft:set_count", "count": 2 } ], "name": "chinjufumod:item_kushi_sakana_c" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "2" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "functions": [ { "function": "minecraft:set_count", "count": 2 } ], "name": "chinjufumod:item_kushi_sakana" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "3" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "functions": [ { "function": "minecraft:set_count", "count": 2 } ], "name": "chinjufumod:item_kushi_sakana_c" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "3" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:item_kushi_sakana" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "4" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "functions": [ { "function": "minecraft:set_count", "count": 3 } ], "name": "chinjufumod:item_kushi_sakana_c" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "4" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:item_kushi_sakana_c" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "5" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:item_kushi_sakana" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "6" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:item_kushi_sakana_c" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "6" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "functions": [ { "function": "minecraft:set_count", "count": 2 } ], "name": "chinjufumod:item_kushi_sakana_c" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "7" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:item_kushi_sakana" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "8" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:item_kushi_sakana_c" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "8" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "functions": [ { "function": "minecraft:set_count", "count": 2 } ], "name": "chinjufumod:item_kushi_sakana" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "9" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:item_kushi_sakana_c" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "9" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:item_kushi_sakana" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "10" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "functions": [ { "function": "minecraft:set_count", "count": 2 } ], "name": "chinjufumod:item_kushi_sakana_c" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "10" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "functions": [ { "function": "minecraft:set_count", "count": 2 } ], "name": "chinjufumod:item_kushi_sakana_c" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "11" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:item_kushi_sakana" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "12" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "functions": [ { "function": "minecraft:set_count", "count": 2 } ], "name": "chinjufumod:item_kushi_sakana_c" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "12" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "functions": [ { "function": "minecraft:set_count", "count": 3 } ], "name": "chinjufumod:item_kushi_sakana_c" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "13" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:item_kushi_sakana" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "14" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:item_kushi_sakana_c" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "14" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "functions": [ { "function": "minecraft:set_count", "count": 2 } ], "name": "chinjufumod:item_kushi_sakana" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "15" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:item_kushi_sakana_c" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_irori_sakana_r2", "properties": { "stage": "15" } } ]
+		}
+	],
+
+	"functions": [ { "function": "minecraft:explosion_decay" } ]
+}

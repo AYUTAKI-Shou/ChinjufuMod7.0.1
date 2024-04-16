@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_ammu",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:item_ammunition_kc" },
+		"Y": { "item": "chinjufumod:block_empty_box" }
+	},
+
+	"result": { "item": "chinjufumod:block_ammunition_box", "count" : 1 }
+}

@@ -1,0 +1,37 @@
+{
+"variants": {
+	"east=true,north=true,south=false,west=false,which=false": { "model": "chinjufumod:block/endai/teatable_cor", "y": 270,"uvlock": true},
+	"east=false,north=true,south=false,west=true,which=false": { "model": "chinjufumod:block/endai/teatable_cor", "y": 180,"uvlock": true},
+	"east=true,north=false,south=true,west=false,which=false": { "model": "chinjufumod:block/endai/teatable_cor","uvlock": true},
+	"east=false,north=false,south=true,west=true,which=false": { "model": "chinjufumod:block/endai/teatable_cor", "y": 90,"uvlock": true },
+	"east=false,north=true,south=false,west=false,which=false": { "model": "chinjufumod:block/endai/teatable_end", "y": 270,"uvlock": true },
+	"east=true,north=false,south=false,west=false,which=false": { "model": "chinjufumod:block/endai/teatable_end","uvlock": true },
+	"east=false,north=false,south=false,west=true,which=false": { "model": "chinjufumod:block/endai/teatable_end", "y": 180,"uvlock": true },
+	"east=false,north=false,south=true,west=false,which=false": { "model": "chinjufumod:block/endai/teatable_end", "y": 90,"uvlock": true },
+	"east=false,north=false,south=false,west=false,which=false": { "model": "chinjufumod:block/endai/teatable_cen","uvlock": true },
+	"east=false,north=true,south=true,west=false,which=false": { "model": "chinjufumod:block/endai/teatable_non", "y": 90,"uvlock": true },
+	"east=true,north=false,south=false,west=true,which=false": { "model": "chinjufumod:block/endai/teatable_non","uvlock": true },
+	"east=false,north=true,south=true,west=true,which=false": { "model": "chinjufumod:block/endai/teatable_non2", "y": 270, "uvlock": true },
+	"east=true,north=true,south=true,west=false,which=false": { "model": "chinjufumod:block/endai/teatable_non2", "y": 90, "uvlock": true },
+	"east=true,north=true,south=false,west=true,which=false": { "model": "chinjufumod:block/endai/teatable_non2", "uvlock": true },
+	"east=true,north=false,south=true,west=true,which=false": { "model": "chinjufumod:block/endai/teatable_non2", "y": 180, "uvlock": true },
+	"east=true,north=true,south=true,west=true,which=false": { "model": "chinjufumod:block/endai/teatable_non3","uvlock": true },
+
+	"east=true,north=true,south=false,west=false,which=true": { "model": "chinjufumod:block/endai/teatable_cor", "y": 270,"uvlock": true},
+	"east=false,north=true,south=false,west=true,which=true": { "model": "chinjufumod:block/endai/teatable_cor", "y": 180,"uvlock": true},
+	"east=true,north=false,south=true,west=false,which=true": { "model": "chinjufumod:block/endai/teatable_cor","uvlock": true},
+	"east=false,north=false,south=true,west=true,which=true": { "model": "chinjufumod:block/endai/teatable_cor", "y": 90,"uvlock": true },
+	"east=false,north=true,south=false,west=false,which=true": { "model": "chinjufumod:block/endai/teatable_end", "y": 270,"uvlock": true },
+	"east=true,north=false,south=false,west=false,which=true": { "model": "chinjufumod:block/endai/teatable_end","uvlock": true },
+	"east=false,north=false,south=false,west=true,which=true": { "model": "chinjufumod:block/endai/teatable_end", "y": 180,"uvlock": true },
+	"east=false,north=false,south=true,west=false,which=true": { "model": "chinjufumod:block/endai/teatable_end", "y": 90,"uvlock": true },
+	"east=false,north=false,south=false,west=false,which=true": { "model": "chinjufumod:block/endai/teatable_cen","uvlock": true },
+	"east=false,north=true,south=true,west=false,which=true": { "model": "chinjufumod:block/endai/teatable_non", "y": 90,"uvlock": true },
+	"east=true,north=false,south=false,west=true,which=true": { "model": "chinjufumod:block/endai/teatable_non","uvlock": true },
+	"east=false,north=true,south=true,west=true,which=true": { "model": "chinjufumod:block/endai/teatable_non2", "y": 270, "uvlock": true },
+	"east=true,north=true,south=true,west=false,which=true": { "model": "chinjufumod:block/endai/teatable_non2", "y": 90, "uvlock": true },
+	"east=true,north=true,south=false,west=true,which=true": { "model": "chinjufumod:block/endai/teatable_non2", "uvlock": true },
+	"east=true,north=false,south=true,west=true,which=true": { "model": "chinjufumod:block/endai/teatable_non2", "y": 180, "uvlock": true },
+	"east=true,north=true,south=true,west=true,which=true": { "model": "chinjufumod:block/endai/teatable_non3","uvlock": true }
+	}
+}

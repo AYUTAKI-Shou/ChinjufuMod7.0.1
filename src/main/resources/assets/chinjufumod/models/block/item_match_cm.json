@@ -1,0 +1,35 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/muku_birch",
+		"ki": "chinjufumod:block/muku_birch",
+		"kayaku": "chinjufumod:block/match_k"
+	},
+	"elements": [
+		{
+			"name": "ki",
+			"from": [ 7.5, 0.0, 7.5 ],
+			"to": [ 8.5, 6.5, 8.5 ],
+			"faces": {
+				"down" : { "texture": "#ki" },
+				"north": { "texture": "#ki" },
+				"south": { "texture": "#ki" },
+				"west" : { "texture": "#ki" },
+				"east" : { "texture": "#ki" }
+			}
+		},
+		{
+			"name": "kayaku",
+			"from": [ 7.45, 6.5, 7.45 ],
+			"to": [ 8.55, 8.0, 8.55 ],
+			"faces": {
+				"up" : { "texture": "#kayaku" },
+				"down" : { "texture": "#kayaku" },
+				"north": { "texture": "#kayaku" },
+				"south": { "texture": "#kayaku" },
+				"west" : { "texture": "#kayaku" },
+				"east" : { "texture": "#kayaku" }
+			}
+		}
+	]
+}

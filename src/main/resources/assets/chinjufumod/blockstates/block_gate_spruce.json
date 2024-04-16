@@ -1,0 +1,123 @@
+{
+	"variants": {
+		"facing=east,half=lower,hinge=left,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_low", "y": 90 },
+		"facing=south,half=lower,hinge=left,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_low", "y": 180 },
+		"facing=west,half=lower,hinge=left,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_low", "y": 270 },
+		"facing=north,half=lower,hinge=left,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_low", "y": 0 },
+
+		"facing=east,half=upper,hinge=left,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_up", "y": 90 },
+		"facing=south,half=upper,hinge=left,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_up", "y": 180 },
+		"facing=west,half=upper,hinge=left,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_up", "y": 270 },
+		"facing=north,half=upper,hinge=left,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_up", "y": 0 },
+
+		"facing=east,half=top,hinge=left,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_top", "y": 90 },
+		"facing=south,half=top,hinge=left,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_top", "y": 180 },
+		"facing=west,half=top,hinge=left,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_top", "y": 270 },
+		"facing=north,half=top,hinge=left,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_top", "y": 0 },
+		
+			"facing=east,half=lower,hinge=left,open=true,stage=1": { "model": "minecraft:block/air", "y": 0 },
+			"facing=south,half=lower,hinge=left,open=true,stage=1": { "model": "minecraft:block/air", "y": 90 },
+			"facing=west,half=lower,hinge=left,open=true,stage=1": { "model": "minecraft:block/air", "y": 180 },
+			"facing=north,half=lower,hinge=left,open=true,stage=1": { "model": "minecraft:block/air", "y": 270 },
+
+			"facing=east,half=upper,hinge=left,open=true,stage=1": { "model": "minecraft:block/air", "y": 0 },
+			"facing=south,half=upper,hinge=left,open=true,stage=1": { "model": "minecraft:block/air", "y": 90 },
+			"facing=west,half=upper,hinge=left,open=true,stage=1": { "model": "minecraft:block/air", "y": 180 },
+			"facing=north,half=upper,hinge=left,open=true,stage=1": { "model": "minecraft:block/air", "y": 270 },
+
+			"facing=east,half=top,hinge=left,open=true,stage=1": { "model": "minecraft:block/air", "y": 0 },
+			"facing=south,half=top,hinge=left,open=true,stage=1": { "model": "minecraft:block/air", "y": 90 },
+			"facing=west,half=top,hinge=left,open=true,stage=1": { "model": "minecraft:block/air", "y": 180 },
+			"facing=north,half=top,hinge=left,open=true,stage=1": { "model": "minecraft:block/air", "y": 270 },
+
+		"facing=east,half=lower,hinge=right,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_low_rh", "y": 90 },
+		"facing=south,half=lower,hinge=right,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_low_rh", "y": 180 },
+		"facing=west,half=lower,hinge=right,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_low_rh", "y": 270 },
+		"facing=north,half=lower,hinge=right,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_low_rh", "y": 0 },
+
+		"facing=east,half=upper,hinge=right,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_up_rh", "y": 90 },
+		"facing=south,half=upper,hinge=right,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_up_rh", "y": 180 },
+		"facing=west,half=upper,hinge=right,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_up_rh", "y": 270 },
+		"facing=north,half=upper,hinge=right,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_up_rh", "y": 0 },
+		
+		"facing=east,half=top,hinge=right,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_top_rh", "y": 90 },
+		"facing=south,half=top,hinge=right,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_top_rh", "y": 180 },
+		"facing=west,half=top,hinge=right,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_top_rh", "y": 270 },
+		"facing=north,half=top,hinge=right,open=false,stage=1": { "model": "chinjufumod:block/gate/spruce_top_rh", "y": 0 },
+
+			"facing=east,half=lower,hinge=right,open=true,stage=1": { "model": "minecraft:block/air", "y": 180 },
+			"facing=south,half=lower,hinge=right,open=true,stage=1": { "model": "minecraft:block/air", "y": 270 },
+			"facing=west,half=lower,hinge=right,open=true,stage=1": { "model": "minecraft:block/air", "y": 0 },
+			"facing=north,half=lower,hinge=right,open=true,stage=1": { "model": "minecraft:block/air", "y": 90 },
+
+			"facing=east,half=upper,hinge=right,open=true,stage=1": { "model": "minecraft:block/air", "y": 180 },
+			"facing=south,half=upper,hinge=right,open=true,stage=1": { "model": "minecraft:block/air", "y": 270 },
+			"facing=west,half=upper,hinge=right,open=true,stage=1": { "model": "minecraft:block/air", "y": 0 },
+			"facing=north,half=upper,hinge=right,open=true,stage=1": { "model": "minecraft:block/air", "y": 90 },
+
+			"facing=east,half=top,hinge=right,open=true,stage=1": { "model": "minecraft:block/air", "y": 180 },
+			"facing=south,half=top,hinge=right,open=true,stage=1": { "model": "minecraft:block/air", "y": 270 },
+			"facing=west,half=top,hinge=right,open=true,stage=1": { "model": "minecraft:block/air", "y": 0 },
+			"facing=north,half=top,hinge=right,open=true,stage=1": { "model": "minecraft:block/air", "y": 90 },
+			
+		"facing=east,half=lower,hinge=left,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_low", "y": 90 },
+		"facing=south,half=lower,hinge=left,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_low", "y": 180 },
+		"facing=west,half=lower,hinge=left,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_low", "y": 270 },
+		"facing=north,half=lower,hinge=left,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_low", "y": 0 },
+
+		"facing=east,half=upper,hinge=left,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_up", "y": 90 },
+		"facing=south,half=upper,hinge=left,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_up", "y": 180 },
+		"facing=west,half=upper,hinge=left,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_up", "y": 270 },
+		"facing=north,half=upper,hinge=left,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_up", "y": 0 },
+
+		"facing=east,half=top,hinge=left,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_top", "y": 90 },
+		"facing=south,half=top,hinge=left,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_top", "y": 180 },
+		"facing=west,half=top,hinge=left,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_top", "y": 270 },
+		"facing=north,half=top,hinge=left,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_top", "y": 0 },
+		
+			"facing=east,half=lower,hinge=left,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_low_open", "y": 0 },
+			"facing=south,half=lower,hinge=left,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_low_open", "y": 90 },
+			"facing=west,half=lower,hinge=left,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_low_open", "y": 180 },
+			"facing=north,half=lower,hinge=left,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_low_open", "y": 270 },
+
+			"facing=east,half=upper,hinge=left,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_up_open", "y": 0 },
+			"facing=south,half=upper,hinge=left,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_up_open", "y": 90 },
+			"facing=west,half=upper,hinge=left,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_up_open", "y": 180 },
+			"facing=north,half=upper,hinge=left,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_up_open", "y": 270 },
+			
+			"facing=east,half=top,hinge=left,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_top_open", "y": 0 },
+			"facing=south,half=top,hinge=left,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_top_open", "y": 90 },
+			"facing=west,half=top,hinge=left,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_top_open", "y": 180 },
+			"facing=north,half=top,hinge=left,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_top_open", "y": 270 },
+			
+		"facing=east,half=lower,hinge=right,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_low_rh", "y": 90 },
+		"facing=south,half=lower,hinge=right,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_low_rh", "y": 180 },
+		"facing=west,half=lower,hinge=right,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_low_rh", "y": 270 },
+		"facing=north,half=lower,hinge=right,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_low_rh", "y": 0 },
+
+		"facing=east,half=upper,hinge=right,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_up_rh", "y": 90 },
+		"facing=south,half=upper,hinge=right,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_up_rh", "y": 180 },
+		"facing=west,half=upper,hinge=right,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_up_rh", "y": 270 },
+		"facing=north,half=upper,hinge=right,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_up_rh", "y": 0 },
+
+		"facing=east,half=top,hinge=right,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_top_rh", "y": 90 },
+		"facing=south,half=top,hinge=right,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_top_rh", "y": 180 },
+		"facing=west,half=top,hinge=right,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_top_rh", "y": 270 },
+		"facing=north,half=top,hinge=right,open=false,stage=2": { "model": "chinjufumod:block/gate/spruce2_top_rh", "y": 0 },
+
+			"facing=east,half=lower,hinge=right,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_low_rh_open", "y": 180 },
+			"facing=south,half=lower,hinge=right,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_low_rh_open", "y": 270 },
+			"facing=west,half=lower,hinge=right,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_low_rh_open", "y": 0 },
+			"facing=north,half=lower,hinge=right,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_low_rh_open", "y": 90 },
+
+			"facing=east,half=upper,hinge=right,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_up_rh_open", "y": 180 },
+			"facing=south,half=upper,hinge=right,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_up_rh_open", "y": 270 },
+			"facing=west,half=upper,hinge=right,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_up_rh_open", "y": 0 },
+			"facing=north,half=upper,hinge=right,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_up_rh_open", "y": 90 },
+			
+			"facing=east,half=top,hinge=right,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_top_rh_open", "y": 180 },
+			"facing=south,half=top,hinge=right,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_top_rh_open", "y": 270 },
+			"facing=west,half=top,hinge=right,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_top_rh_open", "y": 0 },
+			"facing=north,half=top,hinge=right,open=true,stage=2": { "model": "chinjufumod:block/gate/spruce2_top_rh_open", "y": 90 }
+	}
+}

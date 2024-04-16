@@ -1,0 +1,178 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", 
+				"functions": [ { "function": "minecraft:enchant_randomly",
+						"enchantments": [ 
+						"minecraft:aqua_affinity",
+						"minecraft:blast_protection",
+						"minecraft:depth_strider",
+						"minecraft:efficiency",
+						"minecraft:feather_falling",
+						"minecraft:fire_aspect",
+						"minecraft:fire_protection",
+						"minecraft:flame",
+						"minecraft:knockback",
+						"minecraft:power",
+						"minecraft:protection",
+						"minecraft:projectile_protection",
+						"minecraft:punch",
+						"minecraft:respiration",
+						"minecraft:sharpness",
+						"minecraft:silk_touch",
+						"minecraft:unbreaking" ]
+				} ],
+				"conditions": [ 
+					{ "condition": "minecraft:block_state_property", "block": "chinjufumod:block_written_makimono", "properties": {"stage": "1" } },
+					{ "condition": "minecraft:block_state_property", "block": "chinjufumod:block_written_makimono", "properties": {"lost": "false" } } ],
+			 "name": "minecraft:book" } ]
+		},
+		{ "rolls": 2,
+			"entries": [ { "type": "minecraft:item", 
+				"functions": [ { "function": "minecraft:enchant_randomly",
+						"enchantments": [ 
+						"minecraft:aqua_affinity",
+						"minecraft:blast_protection",
+						"minecraft:depth_strider",
+						"minecraft:efficiency",
+						"minecraft:feather_falling",
+						"minecraft:fire_aspect",
+						"minecraft:fire_protection",
+						"minecraft:flame",
+						"minecraft:knockback",
+						"minecraft:power",
+						"minecraft:protection",
+						"minecraft:projectile_protection",
+						"minecraft:punch",
+						"minecraft:respiration",
+						"minecraft:sharpness",
+						"minecraft:silk_touch",
+						"minecraft:unbreaking" ]
+				} ],
+				"conditions": [ 
+					{ "condition": "minecraft:block_state_property", "block": "chinjufumod:block_written_makimono", "properties": {"stage": "2" } },
+					{ "condition": "minecraft:block_state_property", "block": "chinjufumod:block_written_makimono", "properties": {"lost": "false" } } ],
+			 "name": "minecraft:book" } ]
+		},
+		{ "rolls": 3,
+			"entries": [ { "type": "minecraft:item", 
+				"functions": [ { "function": "minecraft:enchant_randomly",
+						"enchantments": [ 
+						"minecraft:aqua_affinity",
+						"minecraft:blast_protection",
+						"minecraft:depth_strider",
+						"minecraft:efficiency",
+						"minecraft:feather_falling",
+						"minecraft:fire_aspect",
+						"minecraft:fire_protection",
+						"minecraft:flame",
+						"minecraft:knockback",
+						"minecraft:power",
+						"minecraft:protection",
+						"minecraft:projectile_protection",
+						"minecraft:punch",
+						"minecraft:respiration",
+						"minecraft:sharpness",
+						"minecraft:silk_touch",
+						"minecraft:unbreaking" ]
+				} ],
+				"conditions": [ 
+					{ "condition": "minecraft:block_state_property", "block": "chinjufumod:block_written_makimono", "properties": {"stage": "3" } },
+					{ "condition": "minecraft:block_state_property", "block": "chinjufumod:block_written_makimono", "properties": {"lost": "false" } } ],
+			 "name": "minecraft:book" } ]
+		},
+		{ "rolls": 4,
+			"entries": [ { "type": "minecraft:item", 
+				"functions": [ { "function": "minecraft:enchant_randomly",
+						"enchantments": [ 
+						"minecraft:aqua_affinity",
+						"minecraft:blast_protection",
+						"minecraft:depth_strider",
+						"minecraft:efficiency",
+						"minecraft:feather_falling",
+						"minecraft:fire_aspect",
+						"minecraft:fire_protection",
+						"minecraft:flame",
+						"minecraft:knockback",
+						"minecraft:power",
+						"minecraft:protection",
+						"minecraft:projectile_protection",
+						"minecraft:punch",
+						"minecraft:respiration",
+						"minecraft:sharpness",
+						"minecraft:silk_touch",
+						"minecraft:unbreaking" ]
+				} ],
+				"conditions": [ 
+					{ "condition": "minecraft:block_state_property", "block": "chinjufumod:block_written_makimono", "properties": {"stage": "4" } },
+					{ "condition": "minecraft:block_state_property", "block": "chinjufumod:block_written_makimono", "properties": {"lost": "false" } } ],
+			 "name": "minecraft:book" } ]
+		},
+		{ "rolls": 5,
+			"entries": [ { "type": "minecraft:item", 
+				"functions": [ { "function": "minecraft:enchant_randomly",
+						"enchantments": [ 
+						"minecraft:aqua_affinity",
+						"minecraft:blast_protection",
+						"minecraft:depth_strider",
+						"minecraft:efficiency",
+						"minecraft:feather_falling",
+						"minecraft:fire_aspect",
+						"minecraft:fire_protection",
+						"minecraft:flame",
+						"minecraft:knockback",
+						"minecraft:power",
+						"minecraft:protection",
+						"minecraft:projectile_protection",
+						"minecraft:punch",
+						"minecraft:respiration",
+						"minecraft:sharpness",
+						"minecraft:silk_touch",
+						"minecraft:unbreaking" ]
+				} ],
+				"conditions": [ 
+					{ "condition": "minecraft:block_state_property", "block": "chinjufumod:block_written_makimono", "properties": {"stage": "5" } },
+					{ "condition": "minecraft:block_state_property", "block": "chinjufumod:block_written_makimono", "properties": {"lost": "false" } } ],
+			 "name": "minecraft:book" } ]
+		},
+		
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", 
+				"conditions": [ 
+					{ "condition": "minecraft:block_state_property", "block": "chinjufumod:block_written_makimono", "properties": {"stage": "1" } },
+					{ "condition": "minecraft:block_state_property", "block": "chinjufumod:block_written_makimono", "properties": {"lost": "true" } } ],
+			 "name": "minecraft:book" } ]
+		},
+		{ "rolls": 2,
+			"entries": [ { "type": "minecraft:item", 
+				"conditions": [ 
+					{ "condition": "minecraft:block_state_property", "block": "chinjufumod:block_written_makimono", "properties": {"stage": "2" } },
+					{ "condition": "minecraft:block_state_property", "block": "chinjufumod:block_written_makimono", "properties": {"lost": "true" } } ],
+			 "name": "minecraft:book" } ]
+		},
+		{ "rolls": 3,
+			"entries": [ { "type": "minecraft:item", 
+				"conditions": [ 
+					{ "condition": "minecraft:block_state_property", "block": "chinjufumod:block_written_makimono", "properties": {"stage": "3" } },
+					{ "condition": "minecraft:block_state_property", "block": "chinjufumod:block_written_makimono", "properties": {"lost": "true" } } ],
+			 "name": "minecraft:book" } ]
+		},
+		{ "rolls": 4,
+			"entries": [ { "type": "minecraft:item", 
+				"conditions": [ 
+					{ "condition": "minecraft:block_state_property", "block": "chinjufumod:block_written_makimono", "properties": {"stage": "4" } },
+					{ "condition": "minecraft:block_state_property", "block": "chinjufumod:block_written_makimono", "properties": {"lost": "true" } } ],
+			 "name": "minecraft:book" } ]
+		},
+		{ "rolls": 5,
+			"entries": [ { "type": "minecraft:item", 
+				"conditions": [ 
+					{ "condition": "minecraft:block_state_property", "block": "chinjufumod:block_written_makimono", "properties": {"stage": "5" } },
+					{ "condition": "minecraft:block_state_property", "block": "chinjufumod:block_written_makimono", "properties": {"lost": "true" } } ],
+			 "name": "minecraft:book" } ]
+		}
+	],
+
+	"functions": [ { "function": "minecraft:explosion_decay" } ]
+}

@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"down=false,facing=north,lost=false": { "model": "chinjufumod:block/tray/fude", "y": 180 },
+		"down=false,facing=south,lost=false": { "model": "chinjufumod:block/tray/fude" },
+		"down=false,facing=west,lost=false": { "model": "chinjufumod:block/tray/fude", "y": 90 },
+		"down=false,facing=east,lost=false": { "model": "chinjufumod:block/tray/fude", "y": 270 },
+
+			"down=true,facing=north,lost=false": { "model": "chinjufumod:block/tray/fude_down", "y": 180 },
+			"down=true,facing=south,lost=false": { "model": "chinjufumod:block/tray/fude_down" },
+			"down=true,facing=west,lost=false": { "model": "chinjufumod:block/tray/fude_down", "y": 90 },
+			"down=true,facing=east,lost=false": { "model": "chinjufumod:block/tray/fude_down", "y": 270 },
+
+		"down=false,facing=north,lost=true": { "model": "chinjufumod:block/tray/fude_water", "y": 180 },
+		"down=false,facing=south,lost=true": { "model": "chinjufumod:block/tray/fude_water" },
+		"down=false,facing=west,lost=true": { "model": "chinjufumod:block/tray/fude_water", "y": 90 },
+		"down=false,facing=east,lost=true": { "model": "chinjufumod:block/tray/fude_water", "y": 270 },
+
+			"down=true,facing=north,lost=true": { "model": "chinjufumod:block/tray/fude_downwater", "y": 180 },
+			"down=true,facing=south,lost=true": { "model": "chinjufumod:block/tray/fude_downwater" },
+			"down=true,facing=west,lost=true": { "model": "chinjufumod:block/tray/fude_downwater", "y": 90 },
+			"down=true,facing=east,lost=true": { "model": "chinjufumod:block/tray/fude_downwater", "y": 270 }
+	}
+}

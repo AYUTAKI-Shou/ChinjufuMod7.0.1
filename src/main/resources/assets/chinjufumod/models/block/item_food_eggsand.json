@@ -1,0 +1,49 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/food_bread",
+		"bread": "chinjufumod:block/food_bread",
+		"egg": "chinjufumod:block/food_egg"
+	},
+	"elements": [
+		{
+			"name": "scone_1-1",
+			"from": [ 6.7, 0.0, 6.5 ],
+			"to": [ 7.7, 3.0, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#bread" },
+				"down" : { "texture": "#bread" },
+				"north": { "texture": "#bread" },
+				"south": { "texture": "#bread" },
+				"east" : { "texture": "#bread" },
+				"west" : { "texture": "#bread" }
+			}
+		},
+		{
+			"name": "scone_1",
+			"from": [ 7.7, 0.0, 6.5 ],
+			"to": [ 8.3, 3.0, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#egg" },
+				"down" : { "texture": "#egg" },
+				"north": { "texture": "#egg" },
+				"south": { "texture": "#egg" },
+				"east" : { "texture": "#egg" },
+				"west" : { "texture": "#egg" }
+			}
+		},
+		{
+			"name": "scone_1-3",
+			"from": [ 8.3, 0.0, 6.5 ],
+			"to": [ 9.3, 3.0, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#bread" },
+				"down" : { "texture": "#bread" },
+				"north": { "texture": "#bread" },
+				"south": { "texture": "#bread" },
+				"east" : { "texture": "#bread" },
+				"west" : { "texture": "#bread" }
+			}
+		}
+	]
+}

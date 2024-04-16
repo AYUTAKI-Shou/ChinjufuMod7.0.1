@@ -1,0 +1,13 @@
+{
+ "variants": {
+	"facing=north,stage=1": { "model": "chinjufumod:block/wallpanel/stone_m", "y": 180 },
+	"facing=south,stage=1": { "model": "chinjufumod:block/wallpanel/stone_m" },
+	"facing=west,stage=1": { "model": "chinjufumod:block/wallpanel/stone_m", "y": 90 },
+	"facing=east,stage=1": { "model": "chinjufumod:block/wallpanel/stone_m", "y": 270 },
+
+	"facing=north,stage=2": { "model": "chinjufumod:block/wallpanel/stone_mmos", "y": 180 },
+	"facing=south,stage=2": { "model": "chinjufumod:block/wallpanel/stone_mmos" },
+	"facing=west,stage=2": { "model": "chinjufumod:block/wallpanel/stone_mmos", "y": 90 },
+	"facing=east,stage=2": { "model": "chinjufumod:block/wallpanel/stone_mmos", "y": 270 }
+ }
+}

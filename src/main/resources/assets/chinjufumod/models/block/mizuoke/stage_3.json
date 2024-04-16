@@ -1,0 +1,116 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/mizuoke_side",
+		"mizu": "minecraft:block/water_still",
+		"end": "chinjufumod:block/mizuoke_end",
+		"side": "chinjufumod:block/mizuoke_side",
+		"inside": "chinjufumod:block/mizuoke_inside"
+	},
+	"elements": [
+		{
+			"name": "nabenaka",
+			"from": [ 5, 0.5, 5 ],
+			"to": [ 11, 3.9, 11 ],
+			"faces": {
+				"up" : { "texture": "#mizu", "tintindex": 1 }
+			}
+		},
+
+		{
+			"name": "bot",
+			"from": [ 5, 0.5, 5 ],
+			"to": [ 11, 1.5, 11 ],
+			"faces": {
+				"up": { "texture": "#end" },
+				"down": { "texture": "#end" }
+			}
+		},
+		{
+			"name": "side_1",
+			"from": [ 4, 0, 4 ],
+			"to": [ 12, 9, 5 ],
+			"faces": {
+				"up": { "texture": "#end" },
+				"down": { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#inside" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		},
+		{
+			"name": "side_2",
+			"from": [ 11, 0, 5 ],
+			"to": [ 12, 9, 11 ],
+			"faces": {
+				"up": { "texture": "#end" },
+				"down": { "texture": "#end" },
+				"west": { "texture": "#inside" },
+				"east": { "texture": "#side" }
+			}
+		},
+		{
+			"name": "side_3",
+			"from": [ 4, 0, 5 ],
+			"to": [ 5, 9, 11 ],
+			"faces": {
+				"up": { "texture": "#end" },
+				"down": { "texture": "#end" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#inside" }
+			}
+		},
+		{
+			"name": "side_4",
+			"from": [ 4, 0, 11 ],
+			"to": [ 12, 9, 12 ],
+			"faces": {
+				"up": { "texture": "#end" },
+				"down": { "texture": "#end" },
+				"north": { "texture": "#inside" },
+				"south": { "texture": "#side" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		},
+
+		{
+			"name": "hand_1",
+			"from": [ 4, 9, 7 ],
+			"to": [ 5, 15, 9 ],
+			"faces": {
+				"up": { "texture": "#inside" },
+				"north": { "texture": "#inside" },
+				"south": { "texture": "#inside" },
+				"west": { "texture": "#inside" },
+				"east": { "texture": "#inside" }
+			}
+		},
+		{
+			"name": "hand_2",
+			"from": [ 11, 9, 7 ],
+			"to": [ 12, 15, 9 ],
+			"faces": {
+				"up": { "texture": "#inside" },
+				"north": { "texture": "#inside" },
+				"south": { "texture": "#inside" },
+				"west": { "texture": "#inside" },
+				"east": { "texture": "#inside" }
+			}
+		},
+		{
+			"name": "hand_3",
+			"from": [ 3.5, 13, 7.5 ],
+			"to": [ 12.5, 14, 8.5 ],
+			"faces": {
+				"up": { "uv": [ 8.0, 0.5, 9.0, 9.5 ], "texture": "#inside", "rotation": 90 },
+				"down": { "uv": [ 8.0, 0.5, 9.0, 9.5 ], "texture": "#inside", "rotation": 90 },
+				"north": { "uv": [ 8.0, 9.5, 9.0, 0.5 ], "texture": "#inside", "rotation": 90 },
+				"south": { "uv": [ 8.0, 0.5, 9.0, 9.5 ], "texture": "#inside", "rotation": 90 },
+				"west": { "texture": "#inside" },
+				"east": { "texture": "#inside" }
+			}
+		}
+	]
+}

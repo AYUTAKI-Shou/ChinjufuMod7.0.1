@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/pastaraw_cold",
+	"textures": {
+		"particle": "chinjufumod:block/dish_lightg",
+		"mizu": "minecraft:block/water_still",
+		"pasta": "chinjufumod:block/udon_boil",
+		"nabe": "chinjufumod:block/dish_lightg"
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"variants": {
+	"facing=north,stage=1": { "model": "chinjufumod:block/kamoi/acacia_1n" },
+	"facing=south,stage=1": { "model": "chinjufumod:block/kamoi/acacia_1s" },
+	"facing=west,stage=1": { "model": "chinjufumod:block/kamoi/acacia_1w" },
+	"facing=east,stage=1": { "model": "chinjufumod:block/kamoi/acacia_1e" },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/kamoi/acacia_2n" },
+		"facing=south,stage=2": { "model": "chinjufumod:block/kamoi/acacia_2s" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/kamoi/acacia_2w" },
+		"facing=east,stage=2": { "model": "chinjufumod:block/kamoi/acacia_2e" },
+
+	"facing=north,stage=3": { "model": "chinjufumod:block/kamoi/acacia_3n" },
+	"facing=south,stage=3": { "model": "chinjufumod:block/kamoi/acacia_3s" },
+	"facing=west,stage=3": { "model": "chinjufumod:block/kamoi/acacia_3w" },
+	"facing=east,stage=3": { "model": "chinjufumod:block/kamoi/acacia_3e" },
+
+		"facing=north,stage=4": { "model": "chinjufumod:block/kamoi/acacia_4n" },
+		"facing=south,stage=4": { "model": "chinjufumod:block/kamoi/acacia_4s" },
+		"facing=west,stage=4": { "model": "chinjufumod:block/kamoi/acacia_4w" },
+		"facing=east,stage=4": { "model": "chinjufumod:block/kamoi/acacia_4e" }
+	}
+}

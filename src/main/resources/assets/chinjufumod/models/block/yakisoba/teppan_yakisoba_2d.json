@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/teppan_yakisoba_2d",
+	"textures": {
+		"particle": "chinjufumod:block/yasaiitame_bake",
+		"yasai": "chinjufumod:block/yasaiitame_bake",
+		"soba": "chinjufumod:block/ramen_boil",
+		"kote": "chinjufumod:block/dish_lightg"
+	}
+}

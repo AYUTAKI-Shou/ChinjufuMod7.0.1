@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/noren_right",
+	"textures": {
+		"particle": "chinjufumod:block/noren_lightb",
+		"kiji": "chinjufumod:block/noren_lightb",
+		"bou": "chinjufumod:block/muku_oak"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"parent": "chinjufumod:block/base/kakigouri_d2",
+	"textures": {
+		"particle": "chinjufumod:block/kakigouri",
+		"siroop": "chinjufumod:block/kakigouri_red",
+		"kakigouri": "chinjufumod:block/kakigouri",
+		"saji": "chinjufumod:block/dish_lightg",
+		"glass": "chinjufumod:block/dish_lightb"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/present",
+	"textures": {
+		"particle": "chinjufumod:block/wrapping_red",
+		"hako": "chinjufumod:block/wrapping_red",
+		"ribbon": "chinjufumod:block/ribbon_pink",
+		"nakami": "chinjufumod:item/chocolate_heart"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/door_item",
+	"textures": {
+ 		"particle": "chinjufumod:block/door_ichoh_left_bottom",
+		"bottom": "chinjufumod:block/door_ichoh_left_bottom",
+		"top": "chinjufumod:block/door_ichoh_left_top"
+	}
+}

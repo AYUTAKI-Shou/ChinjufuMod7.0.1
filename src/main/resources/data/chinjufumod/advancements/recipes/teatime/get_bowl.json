@@ -1,0 +1,26 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:item_food_shikki",
+			"chinjufumod:block_food_sushimeshi",
+			"chinjufumod:block_food_sushioke_kara",
+			
+			"chinjufumod:block_food_teppan_n_okonomiyaki",
+			"chinjufumod:block_food_teppan_n_okonomis",
+			"chinjufumod:block_food_teppan_n_okonomic"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["minecraft:bowl"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

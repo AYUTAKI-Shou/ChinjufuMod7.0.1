@@ -1,0 +1,8 @@
+{
+ "variants": {
+	"facing=north": { "model": "chinjufumod:block/stove/chimney_joint", "y": 90 },
+	"facing=south": { "model": "chinjufumod:block/stove/chimney_joint", "y": 270 },
+	"facing=west": { "model": "chinjufumod:block/stove/chimney_joint" },
+	"facing=east": { "model": "chinjufumod:block/stove/chimney_joint", "y": 180 }
+ }
+}

@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"cra=false,type=bottom": { "model": "chinjufumod:block/namakob/slab_lightb_bottom" },
+		"cra=false,type=top": { "model": "chinjufumod:block/namakob/slab_lightb_top" },
+		"cra=true,type=bottom": { "model": "chinjufumod:block/namakob/slab_crack_lightb_bottom" },
+		"cra=true,type=top": { "model": "chinjufumod:block/namakob/slab_crack_lightb_top" },
+		"cra=false,type=double": { "model": "chinjufumod:block/namakob/lightb" },
+		"cra=true,type=double": { "model": "chinjufumod:block/namakob/crack_lightb" }
+	}
+}

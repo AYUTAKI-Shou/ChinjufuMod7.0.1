@@ -1,0 +1,70 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_food_sushimeshi" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_food_sushimeshi", "properties": { "stage": "0" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bowl" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_food_sushimeshi", "properties": { "stage": "1" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bowl" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_food_sushimeshi", "properties": { "stage": "2" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bowl" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_food_sushimeshi", "properties": { "stage": "3" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bowl" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_food_sushimeshi", "properties": { "stage": "4" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bowl" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_food_sushimeshi", "properties": { "stage": "5" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bowl" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_food_sushimeshi", "properties": { "stage": "6" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bowl" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_food_sushimeshi", "properties": { "stage": "7" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bowl" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_food_sushimeshi", "properties": { "stage": "8" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bowl" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_food_sushimeshi", "properties": { "stage": "9" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bowl" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_food_sushimeshi", "properties": { "stage": "10" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bowl" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_food_sushimeshi", "properties": { "stage": "11" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bowl" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_food_sushimeshi", "properties": { "stage": "12" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bowl" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_food_sushimeshi", "properties": { "stage": "13" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bowl" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_food_sushimeshi", "properties": { "stage": "14" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "minecraft:bowl" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_food_sushimeshi", "properties": { "stage": "15" } } ] }
+	],
+
+	"functions": [ { "function": "minecraft:explosion_decay" } ]
+}

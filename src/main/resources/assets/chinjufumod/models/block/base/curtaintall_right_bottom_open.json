@@ -1,0 +1,43 @@
+{
+	"parent": "block/block",
+	"elements": [
+		{
+			"name": "obi",
+			"from": [ 13.9, 12.99, 0.31 ],
+			"to": [ 16.1, 13.99, 2.21 ],
+			"faces": {
+				"up" : { "uv": [ 0.9, 0.3, 3.1, 2.2 ], "texture": "#obi" },
+				"down" : { "uv": [ 0.9, 1.3, 3.1, 3.2 ], "texture": "#obi" },
+				"north": { "uv": [ 0.9, 0.0, 3.1, 1.0 ], "texture": "#obi" },
+				"south": { "uv": [ 0.9, 3.0, 3.1, 4.0 ], "texture": "#obi" },
+				"east" : { "uv": [ 4.3, 0.0, 6.2, 1.0 ], "texture": "#obi" },
+				"west" : { "uv": [ 4.3, 3.0, 6.2, 4.0 ], "texture": "#obi" }
+			}
+		},
+		
+		{
+			"name": "cloth_1",
+			"from": [ 14, 0, 0.4 ],
+			"to": [ 16, 14, 2.1 ],
+			"faces": {
+				"down" : { "uv": [ 1.6, 1.0, 14.4, 0.0 ], "texture": "#cloth" },
+				"north": { "uv": [ 14.4, 2.0, 1.6, 16.0 ], "texture": "#cloth" },
+				"south": { "uv": [ 1.6, 2.0, 14.4, 16.0 ], "texture": "#cloth" },
+				"east" : { "uv": [ 1.6, 2.0, 0.0, 16.0 ], "texture": "#cloth" },
+				"west" : { "uv": [ 16.0, 2.0, 14.4, 16.0 ], "texture": "#cloth" }
+			}
+		},
+		{
+			"name": "cloth_2",
+			"from": [ 13.5, 14, 0.4 ],
+			"to": [ 16, 16, 2.1 ],
+			"faces": {
+				"down" : { "uv": [ 1.6, 1.0, 14.4, 0.0 ], "texture": "#cloth" },
+				"north": { "uv": [ 14.4, 0.0, 1.6, 2.0 ], "texture": "#cloth" },
+				"south": { "uv": [ 1.6, 0.0, 14.4, 2.0 ], "texture": "#cloth" },
+				"east" : { "uv": [ 1.6, 0.0, 0.0, 2.0 ], "texture": "#cloth" },
+				"west" : { "uv": [ 16.0, 0.0, 14.4, 2.0 ], "texture": "#cloth" }
+			}
+		}
+	]
+}

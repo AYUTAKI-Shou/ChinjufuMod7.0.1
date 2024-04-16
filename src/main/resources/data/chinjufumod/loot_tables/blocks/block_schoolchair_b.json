@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_schoolchair_b" } ]
+		}
+	],
+
+	"functions": [ { "function": "minecraft:explosion_decay" } ]
+}

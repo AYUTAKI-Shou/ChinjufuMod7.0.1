@@ -1,0 +1,28 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_food_nabe_n",
+			"chinjufumod:block_food_nabemiso_n",
+			"chinjufumod:block_food_nabegohan_n",
+			"chinjufumod:block_food_nabecorns_n",
+			"chinjufumod:block_food_nabeshio_n",
+			"chinjufumod:block_food_nabenimame_n",
+			"chinjufumod:block_food_nabetoufu_n",
+	
+			"chinjufumod:block_food_nabeaz_n"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_food_karanabe"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

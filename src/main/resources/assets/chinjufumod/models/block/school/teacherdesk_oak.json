@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/teacherdesk",
+	"textures": {
+		"particle": "minecraft:block/oak_planks",
+		"leg": "chinjufumod:block/muku_oak",
+		"side": "minecraft:block/oak_planks",
+		"top": "minecraft:block/oak_planks"
+		}
+}

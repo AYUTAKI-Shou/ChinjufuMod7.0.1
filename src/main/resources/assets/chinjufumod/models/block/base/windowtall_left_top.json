@@ -1,0 +1,130 @@
+{
+	"parent": "block/block",
+	"elements": [
+		{
+			"name": "waku_tate_migi",
+			"from": [ 0, 0, 7 ],
+			"to": [ 2, 16, 9 ],
+			"faces": {
+				"up": { "texture": "#side" },
+				"down": { "texture": "#side" },
+				"north": { "texture": "#front" },
+				"south": { "texture": "#front" },
+				"east": { "texture": "#side" },
+				"west": { "texture": "#side" }
+			}
+		},
+
+		{
+			"name": "waku_shita",
+			"from": [ 2, 0, 7 ],
+			"to": [ 14, 1, 9 ],
+			"faces": {
+				"up": { "texture": "#side" },
+				"down": { "texture": "#side" },
+				"north": { "texture": "#front" },
+				"south": { "texture": "#front" }
+			}
+		},
+		{
+			"name": "waku_ue",
+			"from": [ 2, 14, 7 ],
+			"to": [ 14, 16, 9 ],
+			"faces": {
+				"up": { "texture": "#side" },
+				"down": { "texture": "#side" },
+				"north": { "texture": "#front" },
+				"south": { "texture": "#front" }
+			}
+		},
+
+		{
+			"name": "waku_yokonaka",
+			"from": [ 2, 7, 7 ],
+			"to": [ 14, 8, 9 ],
+			"faces": {
+				"up": { "texture": "#side" },
+				"down": { "texture": "#side" },
+				"north": { "texture": "#front" },
+				"south": { "texture": "#front" }
+			}
+		},
+		{
+			"name": "waku_tatenaka_1",
+			"from": [ 7, 1, 7 ],
+			"to": [ 9, 7, 9 ],
+			"faces": {
+				"north": { "texture": "#front" },
+				"south": { "texture": "#front" },
+				"east": { "texture": "#side" },
+				"west": { "texture": "#side" }
+			}
+		},
+		{
+			"name": "waku_tatenaka_2",
+			"from": [ 7, 8, 7 ],
+			"to": [ 9, 14, 9 ],
+			"faces": {
+				"north": { "texture": "#front" },
+				"south": { "texture": "#front" },
+				"east": { "texture": "#side" },
+				"west": { "texture": "#side" }
+			}
+		},
+
+		{
+			"name": "waku_totte_ue",
+			"from": [ 14, 2, 7 ],
+			"to": [ 16, 16, 9 ],
+			"faces": {
+				"up": { "texture": "#side" },
+				"down": { "texture": "#side" },
+				"north": { "texture": "#front" },
+				"south": { "texture": "#front" },
+				"east": { "texture": "#side" },
+				"west": { "texture": "#side" }
+			}
+		},
+		{
+			"name": "waku_tate_hidari",
+			"from": [ 14, 0, 7 ],
+			"to": [ 14.5, 2, 9 ],
+			"faces": {
+				"north": { "texture": "#front" },
+				"south": { "texture": "#front" },
+				"east": { "texture": "#side" },
+				"west": { "texture": "#side" }
+			}
+		},
+		{
+			"name": "totte",
+			"from": [ 14.5, 0, 7.3 ],
+			"to": [ 15.5, 2, 8.7 ],
+			"faces": {
+				"north": { "texture": "#totte" },
+				"south": { "texture": "#totte" }
+			}
+		},
+		{
+			"name": "waku_hidari2",
+			"from": [ 15.5, 0, 7 ],
+			"to": [ 16, 2, 9 ],
+			"faces": {
+				"north": { "texture": "#front" },
+				"south": { "texture": "#front" },
+				"east": { "texture": "#side" },
+				"west": { "texture": "#side" }
+			}
+		},
+
+		{
+			"name": "glass",
+			"from": [ 1.5, 0.5, 7.5 ],
+			"to": [ 14.5, 14.5, 8.5 ],
+			"faces": {
+				"north": { "uv": [ 1.5, 1.5, 14.5, 15.5 ], "texture": "#glass" },
+				"south": { "uv": [ 1.5, 1.5, 14.5, 15.5 ], "texture": "#glass" }
+			}
+		}
+	]
+}

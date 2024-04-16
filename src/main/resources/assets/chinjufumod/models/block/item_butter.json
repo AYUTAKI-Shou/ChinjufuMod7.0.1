@@ -1,0 +1,22 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/butter",
+		"butter": "chinjufumod:block/butter"
+	},
+	"elements": [
+		{
+			"name": "butter",
+			"from": [ 7.2, 0.0, 6.7 ],
+			"to": [ 8.8, 1.2, 9.3 ],
+			"faces": {
+				"up" : { "texture": "#butter" },
+				"down" : { "texture": "#butter" },
+				"north": { "texture": "#butter" },
+				"south": { "texture": "#butter" },
+				"west" : { "texture": "#butter" },
+				"east" : { "texture": "#butter" }
+			}
+		}
+	]
+}

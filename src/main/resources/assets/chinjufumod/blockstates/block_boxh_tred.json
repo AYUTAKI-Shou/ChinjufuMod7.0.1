@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"facing=north,type=bottom": { "model": "chinjufumod:block/box/tred_bot", "y": 180 },
+		"facing=south,type=bottom": { "model": "chinjufumod:block/box/tred_bot", "y": 0 },
+		"facing=west,type=bottom": { "model": "chinjufumod:block/box/tred_bot", "y": 90 },
+		"facing=east,type=bottom": 	{ "model": "chinjufumod:block/box/tred_bot", "y": 270 },
+
+		"facing=north,type=top": { "model": "chinjufumod:block/box/tred_top", "y": 180 },
+		"facing=south,type=top": { "model": "chinjufumod:block/box/tred_top", "y": 0 },
+		"facing=west,type=top": { "model": "chinjufumod:block/box/tred_top", "y": 90 },
+		"facing=east,type=top": { "model": "chinjufumod:block/box/tred_top", "y": 270 },
+
+		"facing=north,type=double": { "model": "chinjufumod:block/box/tred_double", "y": 180 },
+		"facing=south,type=double": { "model": "chinjufumod:block/box/tred_double", "y": 0 },
+		"facing=west,type=double": { "model": "chinjufumod:block/box/tred_double", "y": 90 },
+		"facing=east,type=double": { "model": "chinjufumod:block/box/tred_double", "y": 270 }
+	}
+}

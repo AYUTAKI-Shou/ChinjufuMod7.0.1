@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_seeds",
+
+	"ingredients": [
+		{ "tag": "forge:crops/chilipepper" }
+	],
+
+	"result": { "item": "chinjufumod:item_seeds_chilipepper", "count": 1 }
+}

@@ -1,0 +1,38 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:item_fubuki_leggings",
+			"chinjufumod:item_kasumi_leggings",
+			"chinjufumod:item_shiratsuyu_leggings",
+			"chinjufumod:item_shigure_leggings",
+			"chinjufumod:item_akatsuki_leggings",
+			
+			"chinjufumod:item_sendai_leggings",
+			"chinjufumod:item_yura_leggings",
+			"chinjufumod:item_mogami_leggings",
+			"chinjufumod:item_tone_leggings",
+
+			"chinjufumod:item_ryujou_leggings",
+			"chinjufumod:item_zuihou_leggings",
+			"chinjufumod:item_akagi_leggings",
+			"chinjufumod:item_kaga_leggings",
+			
+			"chinjufumod:item_kongou_leggings",
+			"chinjufumod:item_fusou_leggings",
+			"chinjufumod:item_nagato_leggings"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["minecraft:iron_leggings"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

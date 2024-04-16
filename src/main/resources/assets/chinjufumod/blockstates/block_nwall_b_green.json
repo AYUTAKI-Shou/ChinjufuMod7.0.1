@@ -1,0 +1,35 @@
+{
+	"multipart": [
+		{ "when": { "cra": "false" },
+			"apply": { "model": "chinjufumod:block/wallnamakob/green_post" }
+		},
+		{ "when": { "north": "true", "cra": "false" },
+			"apply": { "model": "chinjufumod:block/wallnamakob/green_side", "uvlock": true }
+		},
+		{ "when": { "east": "true", "cra": "false" },
+			"apply": { "model": "chinjufumod:block/wallnamakob/green_side", "y": 90, "uvlock": true }
+		},
+		{ "when": { "south": "true", "cra": "false" },
+			"apply": { "model": "chinjufumod:block/wallnamakob/green_side", "y": 180, "uvlock": true }
+		},
+		{ "when": { "west": "true", "cra": "false" },
+			"apply": { "model": "chinjufumod:block/wallnamakob/green_side", "y": 270, "uvlock": true }
+		},
+		
+		{ "when": { "cra": "true" },
+			"apply": { "model": "chinjufumod:block/wallnamakob/crack_green_post" }
+		},
+		{ "when": { "north": "true", "cra": "true" },
+			"apply": { "model": "chinjufumod:block/wallnamakob/crack_green_side", "uvlock": true }
+		},
+		{ "when": { "east": "true", "cra": "true" },
+			"apply": { "model": "chinjufumod:block/wallnamakob/crack_green_side", "y": 90, "uvlock": true }
+		},
+		{ "when": { "south": "true", "cra": "true" },
+			"apply": { "model": "chinjufumod:block/wallnamakob/crack_green_side", "y": 180, "uvlock": true }
+		},
+		{ "when": { "west": "true", "cra": "true" },
+			"apply": { "model": "chinjufumod:block/wallnamakob/crack_green_side", "y": 270, "uvlock": true }
+		}
+	]
+}

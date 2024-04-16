@@ -1,0 +1,40 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_dressingtable_s",
+			"chinjufumod:block_unitdesk_spruce",
+			"chinjufumod:block_cafetable_spruce",
+			"chinjufumod:block_diningchair_s",
+			"chinjufumod:block_bench_spru",
+			"chinjufumod:block_schoolchair_s",
+			"chinjufumod:block_schooldesk_s",
+			"chinjufumod:block_teacherdesk_s", 
+			"chinjufumod:block_lowdesk_spruce",
+			
+			"chinjufumod:block_mizuoke",
+			
+			"chinjufumod:block_ranma_spru",
+			"chinjufumod:block_ranmab_spru",
+			"chinjufumod:block_ranmac_spru",
+			"chinjufumod:block_kanki_spru",
+			"chinjufumod:block_koushi_spru",
+			"chinjufumod:block_itabei_spruce",
+			"chinjufumod:block_kido_spruce",
+			
+			"chinjufumod:block_tobukuro_spruce"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["minecraft:spruce_slab"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

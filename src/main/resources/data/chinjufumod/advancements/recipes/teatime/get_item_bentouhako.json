@@ -1,0 +1,25 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:item_bentou",
+			"chinjufumod:item_bentoushake",
+			"chinjufumod:item_bentou_take",
+			"chinjufumod:item_bentoushake_take",
+			"chinjufumod:item_bentou_kuri",
+			"chinjufumod:item_bentoushake_kuri"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:item_bentouhako"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

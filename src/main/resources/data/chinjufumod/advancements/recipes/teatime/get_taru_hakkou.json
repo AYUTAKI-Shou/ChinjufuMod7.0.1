@@ -1,0 +1,38 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_taru_kouji_f",
+			"chinjufumod:block_taru_shubo_f",
+			"chinjufumod:block_taru_moromi_f",
+			"chinjufumod:block_taru_jukusei_f",
+			"chinjufumod:block_taru_ringoshu_f",
+			"chinjufumod:block_taru_budoushu_f",
+			"chinjufumod:block_taru_hachimitsushu_f",
+
+			"chinjufumod:block_taru_miso_f",
+			"chinjufumod:block_taru_hakusai_f",
+			"chinjufumod:block_taru_hakusai_f2",
+			"chinjufumod:block_taru_shouyu_f",
+			"chinjufumod:block_taru_komezu_f",
+			"chinjufumod:block_taru_kinoko_f",
+			"chinjufumod:block_taru_konbu_f",
+			"chinjufumod:block_taru_nori_f",
+			"chinjufumod:block_taru_koucha_f",
+			
+			"chinjufumod:block_taru_cocoa_f"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_taru_hakkou"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

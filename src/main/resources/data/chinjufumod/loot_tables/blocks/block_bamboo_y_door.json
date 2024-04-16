@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item",
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_bamboo_y_door", "properties": {"half": "lower" } } ],
+			"name": "chinjufumod:block_bamboo_y_door" } ]
+		}
+	],
+
+	"functions": [ { "function": "minecraft:explosion_decay" } ]
+}

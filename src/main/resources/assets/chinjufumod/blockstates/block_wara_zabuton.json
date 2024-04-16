@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"down=false": { "model": "chinjufumod:block/zabuton/wara" },
+		"down=true": { "model": "chinjufumod:block/zabuton/wara_down" }
+	}
+}

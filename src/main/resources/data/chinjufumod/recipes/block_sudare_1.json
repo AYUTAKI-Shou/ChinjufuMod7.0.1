@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_sudare",
+
+	"pattern": [
+		"X",
+		"X",
+		"X"
+	],
+
+	"key": {
+		"X": { "tag": "forge:rods/wooden" }
+	},
+
+	"result": { "item": "chinjufumod:block_sudare_1", "count": 1 }
+}

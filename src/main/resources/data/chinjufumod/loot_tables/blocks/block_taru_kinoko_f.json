@@ -1,0 +1,34 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_taru_kinoko_f" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_taru_kinoko_f", "properties": { "stage": "0" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_taru_kinoko_f" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_taru_kinoko_f", "properties": { "stage": "1" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_taru_kinoko_f" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_taru_kinoko_f", "properties": { "stage": "2" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_taru_kinoko_f" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_taru_kinoko_f", "properties": { "stage": "3" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_taru_kinoko_f" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_taru_kinoko_f", "properties": { "stage": "4" } } ] },
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "functions": [ { "function": "minecraft:set_count", "count": 8 } ], "name": "minecraft:brown_mushroom" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_taru_kinoko_f", "properties": { "stage": "5" } } ] },
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_taru_hakkou" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_taru_kinoko_f", "properties": { "stage": "5" } } ] }
+	],
+
+	"functions": [ { "function": "minecraft:explosion_decay" }
+	]
+}

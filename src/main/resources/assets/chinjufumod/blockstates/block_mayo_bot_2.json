@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "chinjufumod:block/food/bottle_mayo_2", "y": 180 },
+		"facing=south": { "model": "chinjufumod:block/food/bottle_mayo_2" },
+		"facing=west": { "model": "chinjufumod:block/food/bottle_mayo_2", "y": 90 },
+		"facing=east": { "model": "chinjufumod:block/food/bottle_mayo_2", "y": 270 }
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_unitdesk",
+
+	"pattern": [
+		"XXX",
+		"Y Y",
+		"YYY"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:oak_slab" },
+		"Y": { "tag": "forge:rods/wooden" }
+	},
+
+	"result": { "item": "chinjufumod:block_mendai", "count": 1 }
+}

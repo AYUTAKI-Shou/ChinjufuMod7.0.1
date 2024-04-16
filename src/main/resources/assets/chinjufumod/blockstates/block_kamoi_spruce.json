@@ -1,0 +1,23 @@
+{
+	"variants": {
+	"facing=north,stage=1": { "model": "chinjufumod:block/kamoi/spruce_1n" },
+	"facing=south,stage=1": { "model": "chinjufumod:block/kamoi/spruce_1s" },
+	"facing=west,stage=1": { "model": "chinjufumod:block/kamoi/spruce_1w" },
+	"facing=east,stage=1": { "model": "chinjufumod:block/kamoi/spruce_1e" },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/kamoi/spruce_2n" },
+		"facing=south,stage=2": { "model": "chinjufumod:block/kamoi/spruce_2s" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/kamoi/spruce_2w" },
+		"facing=east,stage=2": { "model": "chinjufumod:block/kamoi/spruce_2e" },
+
+	"facing=north,stage=3": { "model": "chinjufumod:block/kamoi/spruce_3n" },
+	"facing=south,stage=3": { "model": "chinjufumod:block/kamoi/spruce_3s" },
+	"facing=west,stage=3": { "model": "chinjufumod:block/kamoi/spruce_3w" },
+	"facing=east,stage=3": { "model": "chinjufumod:block/kamoi/spruce_3e" },
+
+		"facing=north,stage=4": { "model": "chinjufumod:block/kamoi/spruce_4n" },
+		"facing=south,stage=4": { "model": "chinjufumod:block/kamoi/spruce_4s" },
+		"facing=west,stage=4": { "model": "chinjufumod:block/kamoi/spruce_4w" },
+		"facing=east,stage=4": { "model": "chinjufumod:block/kamoi/spruce_4e" }
+	}
+}

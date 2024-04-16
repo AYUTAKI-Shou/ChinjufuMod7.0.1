@@ -1,0 +1,22 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/leaf_ichoh",
+		"ha": "chinjufumod:block/leaf_ichoh"
+	},
+	"elements": [
+		{
+			"name": "ha",
+			"from": [ 0.01, 0.01, 0.01 ],
+			"to": [ 15.99, 15.99, 15.99 ],
+			"faces": {
+				"up": { "texture": "#ha" },
+				"down" : { "texture": "#ha" },
+				"north": { "texture": "#ha" },
+				"south": { "texture": "#ha" },
+				"west" : { "texture": "#ha" },
+				"east" : { "texture": "#ha" }
+			}
+		}
+	]
+}

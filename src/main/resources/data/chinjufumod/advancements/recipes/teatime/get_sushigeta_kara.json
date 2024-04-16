@@ -1,0 +1,24 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_food_sushiset_salmon",
+			"chinjufumod:block_food_sushiset_fish",
+			"chinjufumod:block_food_sushiset_beef",
+			"chinjufumod:block_food_sushiset_tamago",
+			"chinjufumod:block_food_sushiset_4shoku"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_food_sushigeta_kara"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

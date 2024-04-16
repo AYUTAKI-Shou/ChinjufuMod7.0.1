@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"facing=north,type=bottom": { "model": "chinjufumod:block/storage/alumi" },
+		"facing=south,type=bottom": { "model": "chinjufumod:block/storage/alumi" },
+		"facing=west,type=bottom": { "model": "chinjufumod:block/storage/alumi_we", "y": 90 },
+		"facing=east,type=bottom": { "model": "chinjufumod:block/storage/alumi_we", "y": 90 },
+
+		"facing=north,type=double": { "model": "chinjufumod:block/storage/alumiw" },
+		"facing=south,type=double": { "model": "chinjufumod:block/storage/alumiw" },
+		"facing=west,type=double": { "model": "chinjufumod:block/storage/alumiw_we", "y": 90 },
+		"facing=east,type=double": { "model": "chinjufumod:block/storage/alumiw_we", "y": 90 }
+	}
+}

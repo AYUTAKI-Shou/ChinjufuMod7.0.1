@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_firstaid",
+
+	"ingredients": [
+		{ "item": "minecraft:golden_apple" },
+		{ "type": "forge:nbt", "item": "minecraft:splash_potion", "nbt": "{ Potion:\"minecraft:weakness\"}" },
+		{ "item": "chinjufumod:item_workorder" }
+	],
+
+	"result": { "item": "chinjufumod:item_kit_firstaid", "count": 1 }
+}

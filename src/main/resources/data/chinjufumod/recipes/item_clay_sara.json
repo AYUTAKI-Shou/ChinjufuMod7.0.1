@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_dish",
+
+	"pattern": [
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:clay_ball" }
+	},
+
+	"result": { "item": "chinjufumod:item_clay_sara", "count": 3 }
+}

@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_kitchen",
+
+	"ingredients": [
+		{ "item": "minecraft:furnace" },
+		{ "item": "chinjufumod:block_steel_block" }
+	],
+
+	"result": { "item": "chinjufumod:block_kit_oven", "count": 1 }
+}

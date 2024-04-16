@@ -1,0 +1,35 @@
+{
+	"parent": "chinjufumod:cm_story/season/get_9_harvest",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.season.get_10_autumn.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.season.get_10_autumn.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_tree_oakkare_leaf"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": [
+				"chinjufumod:block_tree_oakkare_leaf",
+				"chinjufumod:block_tree_kaede_leaf",
+				"chinjufumod:block_tree_ichoh_leaf",
+				"chinjufumod:item_chestnut"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

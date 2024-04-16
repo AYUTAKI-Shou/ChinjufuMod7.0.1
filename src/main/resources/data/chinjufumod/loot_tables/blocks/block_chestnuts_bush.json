@@ -1,0 +1,23 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{
+			"rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:alternatives",
+
+				"children": [
+					{ "type": "minecraft:item",
+						"conditions": [ { "condition": "minecraft:match_tool", "predicate": { "enchantments": [ { "enchantment": "minecraft:silk_touch", "levels": { "min": 1 } } ] } } ],
+						"name": "chinjufumod:block_chestnuts" },
+
+					{ "type": "minecraft:item",
+						"functions": [ { "function": "minecraft:set_count", "count": {"min": 1, "max": 2 } } ],
+						"name": "chinjufumod:item_chestnut" } ]
+				}
+			]
+		}
+	],
+
+	"functions": [ { "function": "minecraft:explosion_decay" }
+	]
+}

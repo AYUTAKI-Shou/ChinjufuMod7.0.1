@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_zundou",
+
+	"ingredients": [
+		{ "tag": "forge:crops/potato" },
+		{ "tag": "forge:crops/carrot" },
+		[ { "tag": "forge:raw_chicken" }, { "tag": "forge:rawchicken" } ],
+		{ "tag": "forge:buckets/water" },
+		{ "tag": "forge:buckets/milk" },
+		[ { "tag": "forge:dusts/salt" }, { "tag": "forge:foods/salt" }, { "tag": "forge:items/salt" } ],
+		{ "tag": "forge:foods/flour" },
+		{ "tag": "forge:crops/onion" },
+		{ "item": "chinjufumod:block_food_zundou" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_stewnabe_n", "count" : 1 }
+}

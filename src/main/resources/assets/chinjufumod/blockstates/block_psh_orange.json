@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"cra=false,type=bottom": { "model": "chinjufumod:block/plaster/slab_orange_bottom" },
+		"cra=false,type=top": { "model": "chinjufumod:block/plaster/slab_orange_top" },
+		"cra=true,type=bottom": { "model": "chinjufumod:block/plaster/slab_crack_orange_bottom" },
+		"cra=true,type=top": { "model": "chinjufumod:block/plaster/slab_crack_orange_top" },
+		"cra=false,type=double": { "model": "chinjufumod:block/plaster/orange" },
+		"cra=true,type=double": { "model": "chinjufumod:block/plaster/crack_orange" }
+	}
+}

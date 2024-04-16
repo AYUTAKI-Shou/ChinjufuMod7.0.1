@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"#forge:logs/cherry",
+		"#forge:logs/acer",
+		"#forge:logs/ginkgo"
+	]
+}

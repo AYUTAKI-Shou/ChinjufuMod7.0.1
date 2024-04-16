@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_tatami",
+
+	"pattern": [
+		"YYY",
+		"YXY",
+		"YYY"
+	],
+
+	"key": {
+		"X": [ { "tag": "minecraft:planks" }, { "tag": "forge:planks" } ],
+		"Y": [ { "tag": "forge:crops/wheat" }, { "item": "minecraft:sugar_cane" }, { "item": "chinjufumod:item_inewara" } ]
+	},
+
+	"result": { "item": "chinjufumod:block_tatamih", "count": 4 }
+}

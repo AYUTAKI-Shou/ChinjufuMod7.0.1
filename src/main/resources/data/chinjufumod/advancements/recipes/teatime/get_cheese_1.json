@@ -1,0 +1,24 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_food_pastacheese_1",
+			"chinjufumod:item_food_pizza_n",
+			"chinjufumod:item_food_pizza_cn",
+			"chinjufumod:item_food_pizza_sn",
+			"chinjufumod:item_food_pizza_tn"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_food_cheese_1"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

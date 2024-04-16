@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "functions": [ { "function": "minecraft:set_count", "count": 1 } ], "name": "chinjufumod:block_bot_cider_1" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_kit2_cider", "properties": { "stage": "1" } } ]
+		},
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "functions": [ { "function": "minecraft:set_count", "count": 2 } ], "name": "chinjufumod:block_bot_cider_1" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_kit2_cider", "properties": { "stage": "2" } } ]
+		},
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "functions": [ { "function": "minecraft:set_count", "count": 3 } ], "name": "chinjufumod:block_bot_cider_1" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_kit2_cider", "properties": { "stage": "3" } } ]
+		},
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "functions": [ { "function": "minecraft:set_count", "count": 4 } ], "name": "chinjufumod:block_bot_cider_1" } ],
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_kit2_cider", "properties": { "stage": "4" } } ]
+		},
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", "name": "chinjufumod:block_kit2_tana" } ]
+		}
+	],
+
+	"functions": [ { "function": "minecraft:explosion_decay" } ]
+}

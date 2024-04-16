@@ -1,0 +1,33 @@
+{
+	"variants": {
+		"facing=north,lit=false,stage=1": { "model": "chinjufumod:block/kitchen/kanki", "y": 180 },
+		"facing=south,lit=false,stage=1": { "model": "chinjufumod:block/kitchen/kanki" },
+		"facing=west,lit=false,stage=1": { "model": "chinjufumod:block/kitchen/kanki", "y": 90 },
+		"facing=east,lit=false,stage=1": { "model": "chinjufumod:block/kitchen/kanki", "y": 270 },
+
+		"facing=north,lit=false,stage=2": { "model": "chinjufumod:block/kitchen/kanki_2", "y": 180 },
+		"facing=south,lit=false,stage=2": { "model": "chinjufumod:block/kitchen/kanki_2" },
+		"facing=west,lit=false,stage=2": { "model": "chinjufumod:block/kitchen/kanki_2", "y": 90 },
+		"facing=east,lit=false,stage=2": { "model": "chinjufumod:block/kitchen/kanki_2", "y": 270 },
+
+		"facing=north,lit=false,stage=3": { "model": "chinjufumod:block/kitchen/kanki_3", "y": 180 },
+		"facing=south,lit=false,stage=3": { "model": "chinjufumod:block/kitchen/kanki_3" },
+		"facing=west,lit=false,stage=3": { "model": "chinjufumod:block/kitchen/kanki_3", "y": 90 },
+		"facing=east,lit=false,stage=3": { "model": "chinjufumod:block/kitchen/kanki_3", "y": 270 },
+
+		"facing=north,lit=true,stage=1": { "model": "chinjufumod:block/kitchen/lit_kanki", "y": 180 },
+		"facing=south,lit=true,stage=1": { "model": "chinjufumod:block/kitchen/lit_kanki" },
+		"facing=west,lit=true,stage=1": { "model": "chinjufumod:block/kitchen/lit_kanki", "y": 90 },
+		"facing=east,lit=true,stage=1": { "model": "chinjufumod:block/kitchen/lit_kanki", "y": 270 },
+
+		"facing=north,lit=true,stage=2": { "model": "chinjufumod:block/kitchen/lit_kanki_2", "y": 180 },
+		"facing=south,lit=true,stage=2": { "model": "chinjufumod:block/kitchen/lit_kanki_2" },
+		"facing=west,lit=true,stage=2": { "model": "chinjufumod:block/kitchen/lit_kanki_2", "y": 90 },
+		"facing=east,lit=true,stage=2": { "model": "chinjufumod:block/kitchen/lit_kanki_2", "y": 270 },
+
+		"facing=north,lit=true,stage=3": { "model": "chinjufumod:block/kitchen/lit_kanki_3", "y": 180 },
+		"facing=south,lit=true,stage=3": { "model": "chinjufumod:block/kitchen/lit_kanki_3" },
+		"facing=west,lit=true,stage=3": { "model": "chinjufumod:block/kitchen/lit_kanki_3", "y": 90 },
+		"facing=east,lit=true,stage=3": { "model": "chinjufumod:block/kitchen/lit_kanki_3", "y": 270 }
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_kamoi",
+
+	"pattern": [
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_pillar_spru_c" }
+	},
+
+	"result": { "item": "chinjufumod:block_kamoi_spruce", "count": 6 }
+}

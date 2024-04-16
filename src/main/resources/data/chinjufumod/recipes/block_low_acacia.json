@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_ikegaki",
+
+	"pattern": [
+		"X"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:acacia_sapling" }
+	},
+
+	"result": { "item": "chinjufumod:block_low_acacia", "count": 1 }
+}

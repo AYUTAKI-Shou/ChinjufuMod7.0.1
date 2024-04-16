@@ -1,0 +1,43 @@
+{
+	"variants": {
+		"facing=north,half=lower,stage=1": { "model": "chinjufumod:block/amado/darkoak_bot", "y": 180 },
+		"facing=south,half=lower,stage=1": { "model": "chinjufumod:block/amado/darkoak_bot" },
+		"facing=west,half=lower,stage=1": { "model": "chinjufumod:block/amado/darkoak_bot", "y": 90 },
+		"facing=east,half=lower,stage=1": { "model": "chinjufumod:block/amado/darkoak_bot", "y": 270 },
+
+		"facing=north,half=lower,stage=2": { "model": "chinjufumod:block/amado/darkoak_bot", "y": 180 },
+		"facing=south,half=lower,stage=2": { "model": "chinjufumod:block/amado/darkoak_bot" },
+		"facing=west,half=lower,stage=2": { "model": "chinjufumod:block/amado/darkoak_bot", "y": 90 },
+		"facing=east,half=lower,stage=2": { "model": "chinjufumod:block/amado/darkoak_bot", "y": 270 },
+
+		"facing=north,half=lower,stage=3": { "model": "chinjufumod:block/amado/darkoak_bot", "y": 180 },
+		"facing=south,half=lower,stage=3": { "model": "chinjufumod:block/amado/darkoak_bot" },
+		"facing=west,half=lower,stage=3": { "model": "chinjufumod:block/amado/darkoak_bot", "y": 90 },
+		"facing=east,half=lower,stage=3": { "model": "chinjufumod:block/amado/darkoak_bot", "y": 270 },
+
+		"facing=north,half=lower,stage=4": { "model": "chinjufumod:block/amado/darkoak_bot", "y": 180 },
+		"facing=south,half=lower,stage=4": { "model": "chinjufumod:block/amado/darkoak_bot" },
+		"facing=west,half=lower,stage=4": { "model": "chinjufumod:block/amado/darkoak_bot", "y": 90 },
+		"facing=east,half=lower,stage=4": { "model": "chinjufumod:block/amado/darkoak_bot", "y": 270 },
+
+		"facing=north,half=upper,stage=1": { "model": "chinjufumod:block/amado/darkoak_top", "y": 180 },
+		"facing=south,half=upper,stage=1": { "model": "chinjufumod:block/amado/darkoak_top" },
+		"facing=west,half=upper,stage=1": { "model": "chinjufumod:block/amado/darkoak_top", "y": 90 },
+		"facing=east,half=upper,stage=1": { "model": "chinjufumod:block/amado/darkoak_top", "y": 270 },
+
+		"facing=north,half=upper,stage=2": { "model": "chinjufumod:block/amado/darkoak_top", "y": 180 },
+		"facing=south,half=upper,stage=2": { "model": "chinjufumod:block/amado/darkoak_top" },
+		"facing=west,half=upper,stage=2": { "model": "chinjufumod:block/amado/darkoak_top", "y": 90 },
+		"facing=east,half=upper,stage=2": { "model": "chinjufumod:block/amado/darkoak_top", "y": 270 },
+
+		"facing=north,half=upper,stage=3": { "model": "chinjufumod:block/amado/darkoak_top", "y": 180 },
+		"facing=south,half=upper,stage=3": { "model": "chinjufumod:block/amado/darkoak_top" },
+		"facing=west,half=upper,stage=3": { "model": "chinjufumod:block/amado/darkoak_top", "y": 90 },
+		"facing=east,half=upper,stage=3": { "model": "chinjufumod:block/amado/darkoak_top", "y": 270 },
+
+		"facing=north,half=upper,stage=4": { "model": "chinjufumod:block/amado/darkoak_top", "y": 180 },
+		"facing=south,half=upper,stage=4": { "model": "chinjufumod:block/amado/darkoak_top" },
+		"facing=west,half=upper,stage=4": { "model": "chinjufumod:block/amado/darkoak_top", "y": 90 },
+		"facing=east,half=upper,stage=4": { "model": "chinjufumod:block/amado/darkoak_top", "y": 270 }
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"parent": "chinjufumod:block/base/takeakari4_lit",
+	"textures": {
+		"particle": "chinjufumod:block/bamboo_y_side",
+		"take": "chinjufumod:block/bamboo_y_side",
+		"take_uchi": "chinjufumod:block/bamboo_y_inside",
+		"abura": "chinjufumod:block/soyoil_solid",
+		"still": "chinjufumod:block/soyoil_still",
+		"akari": "chinjufumod:block/andon_shin",
+		"honou": "chinjufumod:block/honou_layer_0"
+	}
+}

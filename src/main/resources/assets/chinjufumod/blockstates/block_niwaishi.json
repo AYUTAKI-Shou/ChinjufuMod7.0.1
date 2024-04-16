@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:block/niwaishi/stone_0" },
+		"stage=1": { "model": "chinjufumod:block/niwaishi/stone_1" },
+		"stage=2": { "model": "chinjufumod:block/niwaishi/stone_2" },
+		"stage=3": { "model": "chinjufumod:block/niwaishi/stone_3" },
+		"stage=4": { "model": "chinjufumod:block/niwaishi/stone_4" },
+		"stage=5": { "model": "chinjufumod:block/niwaishi/stone_5" },
+		"stage=6": { "model": "chinjufumod:block/niwaishi/stone_6" },
+		"stage=7": { "model": "chinjufumod:block/niwaishi/stone_7" },
+		"stage=8": { "model": "chinjufumod:block/niwaishi/stone_8" },
+		"stage=9": { "model": "chinjufumod:block/niwaishi/stone_9" },
+		"stage=10": { "model": "chinjufumod:block/niwaishi/stone_a" },
+		"stage=11": { "model": "chinjufumod:block/niwaishi/stone_b" },
+		"stage=12": { "model": "chinjufumod:block/niwaishi/stone_c" },
+		"stage=13": { "model": "chinjufumod:block/niwaishi/stone_d" },
+		"stage=14": { "model": "chinjufumod:block/niwaishi/stone_e" },
+		"stage=15": { "model": "chinjufumod:block/niwaishi/stone_f" }
+	}
+}

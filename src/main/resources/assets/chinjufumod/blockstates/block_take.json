@@ -1,0 +1,52 @@
+{
+	"variants": {
+		"stage=0": [
+				{ "model": "chinjufumod:block/take_kuri/take_slimsmall_a" },
+				{ "model": "chinjufumod:block/take_kuri/take_slimsmall_b" } ],
+		"stage=1": [
+				{ "model": "chinjufumod:block/take_kuri/take_slimsmall_a" },
+				{ "model": "chinjufumod:block/take_kuri/take_slimsmall_b" } ],
+		"stage=2": [
+				{ "model": "chinjufumod:block/take_kuri/take_slimlarge_a" },
+				{ "model": "chinjufumod:block/take_kuri/take_slimlarge_b" } ],
+		"stage=3": [
+				{ "model": "chinjufumod:block/take_kuri/take_fatlarge_a" },
+				{ "model": "chinjufumod:block/take_kuri/take_fatlarge_b" } ],
+		"stage=4": [
+				{ "model": "chinjufumod:block/take_kuri/take_fatlarge_a" },
+				{ "model": "chinjufumod:block/take_kuri/take_fatlarge_b" } ],
+		"stage=5": [
+				{ "model": "chinjufumod:block/take_kuri/take_fatlarge_a" },
+				{ "model": "chinjufumod:block/take_kuri/take_fatlarge_b" } ],
+		"stage=6": [
+				{ "model": "chinjufumod:block/take_kuri/take_fatlarge_a" },
+				{ "model": "chinjufumod:block/take_kuri/take_fatlarge_b" } ],
+		"stage=7": [
+				{ "model": "chinjufumod:block/take_kuri/take_fatlarge_a" },
+				{ "model": "chinjufumod:block/take_kuri/take_fatlarge_b" } ],
+		"stage=8": [
+				{ "model": "chinjufumod:block/take_kuri/take_fatlarge_a" },
+				{ "model": "chinjufumod:block/take_kuri/take_fatlarge_b" } ],
+		"stage=9": [
+				{ "model": "chinjufumod:block/take_kuri/take_fatlarge_a" },
+				{ "model": "chinjufumod:block/take_kuri/take_fatlarge_b" } ],
+		"stage=10": [
+				{ "model": "chinjufumod:block/take_kuri/take_fatlarge_a" },
+				{ "model": "chinjufumod:block/take_kuri/take_fatlarge_b" } ],
+		"stage=11": [
+				{ "model": "chinjufumod:block/take_kuri/take_slim_a" },
+				{ "model": "chinjufumod:block/take_kuri/take_slim_b" } ],
+		"stage=12": [
+				{ "model": "chinjufumod:block/take_kuri/take_slimsmall_a" },
+				{ "model": "chinjufumod:block/take_kuri/take_slimsmall_b" } ],
+		"stage=13": [
+				{ "model": "chinjufumod:block/take_kuri/take_fat_a" },
+				{ "model": "chinjufumod:block/take_kuri/take_fat_b" } ],
+		"stage=14": [
+				{ "model": "chinjufumod:block/take_kuri/take_fatsmall_a" },
+				{ "model": "chinjufumod:block/take_kuri/take_fatsmall_b" } ],
+		"stage=15": [
+				{ "model": "chinjufumod:block/take_kuri/take_fatlarge_a" },
+				{ "model": "chinjufumod:block/take_kuri/take_fatlarge_b" } ]
+	}
+}

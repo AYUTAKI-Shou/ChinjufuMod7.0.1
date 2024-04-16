@@ -1,0 +1,15 @@
+{
+	"replace": false,
+	"values": [
+		"chinjufumod:block_tree_sakura_flow",
+		"chinjufumod:block_tree_kaede_leaf",
+		"chinjufumod:block_tree_ichoh_leaf",
+		"chinjufumod:block_tree_oakkare_leaf",
+		
+		"chinjufumod:block_takenoko",
+		"chinjufumod:block_carpet_sakura",
+		"chinjufumod:block_carpet_kaede",
+		"chinjufumod:block_carpet_ichoh",
+		"chinjufumod:block_carpet_ochiba"
+	]
+}

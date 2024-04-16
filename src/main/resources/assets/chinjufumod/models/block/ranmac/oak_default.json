@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/ranmac_default",
+	"textures": {
+		"particle": "chinjufumod:block/muku_oak",
+		"ji": "minecraft:block/glass",
+		"ranma": "chinjufumod:block/muku_oak",
+		"waku": "chinjufumod:block/muku_oak"
+	}
+}

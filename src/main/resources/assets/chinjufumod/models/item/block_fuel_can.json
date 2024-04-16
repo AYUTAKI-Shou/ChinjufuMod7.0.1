@@ -1,0 +1,10 @@
+{
+	"parent": "chinjufumod:block/storage/fuel_can",
+	"display": {
+		"fixed": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 0, 0.01 ],
+			"scale": [ 0.6, 0.6, 0.6 ]
+		}
+	}
+}

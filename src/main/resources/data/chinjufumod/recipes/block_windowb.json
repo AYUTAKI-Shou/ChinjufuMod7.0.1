@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_window",
+
+	"pattern": [
+		"XX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_window" }
+	},
+
+	"result": { "item": "chinjufumod:block_windowb", "count": 2 }
+}

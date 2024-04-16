@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_donburi",
+
+	"ingredients": [
+		{ "tag": "forge:eggs" },
+		[ { "tag": "forge:raw_chicken" }, { "tag": "forge:rawchicken" } ],
+		{ "tag": "forge:sugar" },
+		[ { "item": "chinjufumod:item_measurecup_full" }, { "item": "minecraft:potion" } ],
+		{ "tag": "forge:foods/soysauce" },
+		{ "tag": "forge:dusts/dashi" },
+		{ "tag": "forge:crops/onion" },
+		{ "item": "chinjufumod:block_food_frypan" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_frypan_n_oyakodon", "count" : 1 }
+}

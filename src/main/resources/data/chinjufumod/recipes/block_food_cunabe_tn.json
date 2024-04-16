@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_curry",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_curry_roux" },
+		[ { "tag": "forge:dusts/blackpepper" }, { "tag": "forge:foods/blackpepper" }, { "tag": "forge:spices/blackpepper" }, 
+		{ "tag": "forge:dusts/pepper" }, { "tag": "forge:foods/pepper" }, { "tag": "forge:spices/pepper" } ],
+		{ "tag": "forge:crops/spinach" },
+		{ "tag": "forge:crops/carrot" },
+		{ "tag": "forge:crops/tomato" },
+		{ "tag": "forge:crops/tomato" },
+		{ "tag": "forge:crops/onion" },
+		{ "tag": "forge:buckets/water" },
+		{ "item": "chinjufumod:block_food_zundou" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_cunabe_tn", "count" : 1 }
+}

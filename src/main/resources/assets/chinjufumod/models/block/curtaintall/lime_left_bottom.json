@@ -1,0 +1,7 @@
+{
+	"parent": "chinjufumod:block/base/curtaintall_left_bottom",
+	"textures": {
+		"particle": "chinjufumod:block/curtain_lime",
+		"cloth": "chinjufumod:block/curtain_lime"
+	}
+}

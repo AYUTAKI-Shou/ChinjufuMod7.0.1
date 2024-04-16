@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_jpblock",
+
+	"pattern": [
+		"XXX",
+		"ZYZ",
+		"XXX"
+	],
+	"key": {
+		"X": { "item": "minecraft:dirt" },
+		"Y": { "tag": "forge:buckets/water" },
+		"Z": [ { "tag": "forge:crops/wheat" }, { "item": "chinjufumod:item_inewara" } ]
+	},
+	"result": { "item": "chinjufumod:block_dirtwall", "count": 6 }
+}

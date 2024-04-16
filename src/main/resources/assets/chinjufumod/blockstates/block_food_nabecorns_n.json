@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"cook=false,down=false,facing=north": { "model": "chinjufumod:block/food/nabe_cornsoup_n", "y": 180 },
+		"cook=false,down=false,facing=south": { "model": "chinjufumod:block/food/nabe_cornsoup_n" },
+		"cook=false,down=false,facing=west": { "model": "chinjufumod:block/food/nabe_cornsoup_n", "y": 90 },
+		"cook=false,down=false,facing=east": { "model": "chinjufumod:block/food/nabe_cornsoup_n", "y": 270 },
+
+			"cook=true,down=false,facing=north": { "model": "chinjufumod:block/food/nabe_cornsoup_n", "y": 180 },
+			"cook=true,down=false,facing=south": { "model": "chinjufumod:block/food/nabe_cornsoup_n" },
+			"cook=true,down=false,facing=west": { "model": "chinjufumod:block/food/nabe_cornsoup_n", "y": 90 },
+			"cook=true,down=false,facing=east": { "model": "chinjufumod:block/food/nabe_cornsoup_n", "y": 270 },
+
+		"cook=false,down=true,facing=north": { "model": "chinjufumod:block/food/nabe_cornsoup_n", "y": 180 },
+		"cook=false,down=true,facing=south": { "model": "chinjufumod:block/food/nabe_cornsoup_n" },
+		"cook=false,down=true,facing=west": { "model": "chinjufumod:block/food/nabe_cornsoup_n", "y": 90 },
+		"cook=false,down=true,facing=east": { "model": "chinjufumod:block/food/nabe_cornsoup_n", "y": 270 },
+		
+			"cook=true,down=true,facing=north": { "model": "chinjufumod:block/food/nabe_cornsoup_n", "y": 180 },
+			"cook=true,down=true,facing=south": { "model": "chinjufumod:block/food/nabe_cornsoup_n" },
+			"cook=true,down=true,facing=west": { "model": "chinjufumod:block/food/nabe_cornsoup_n", "y": 90 },
+			"cook=true,down=true,facing=east": { "model": "chinjufumod:block/food/nabe_cornsoup_n", "y": 270 }
+	}
+}

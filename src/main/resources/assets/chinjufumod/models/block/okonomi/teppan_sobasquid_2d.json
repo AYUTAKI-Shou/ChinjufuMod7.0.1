@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/teppan_soba2d",
+	"textures": {
+		"particle": "chinjufumod:block/okonomis_bake_re",
+		"okonomi": "chinjufumod:block/okonomis_bake_re",
+		"cabbage": "chinjufumod:block/okonomicabbage_raw",
+		"kote": "chinjufumod:block/dish_lightg"
+	}
+}

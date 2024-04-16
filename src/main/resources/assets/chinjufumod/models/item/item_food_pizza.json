@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:block/pizza/item_food_pizza",
+	"gui_light": "front", "display": {
+		"gui": {
+			"rotation": [ 90, 135, 0 ],
+			"translation": [ 0, 2, 0 ],
+			"scale": [ 1.2, 1.2, 1.2 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 70, 135, 0 ],
+			"translation": [ 0, 6.25, 4.5 ],
+			"scale": [ 0.7, 0.7, 0.7 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 135, 0 ],
+			"translation": [ 0, 6.5, -1 ],
+			"scale": [ 0.7, 0.7, 0.7 ]
+		},
+		"fixed": {
+			"rotation": [ 270, 315, 0 ],
+			"translation": [ 0, 1, -5.5 ],
+			"scale": [ 0.8, 0.8, 0.8 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 0.6, 0.6, 0.6 ]
+		}
+	}
+}

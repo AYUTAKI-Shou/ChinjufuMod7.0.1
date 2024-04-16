@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_unitdesk",
+
+	"pattern": [
+		"XXX",
+		" Y ",
+		"YYY"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:jungle_slab" },
+		"Y": { "tag": "forge:rods/wooden" }
+	},
+
+	"result": { "item": "chinjufumod:block_cafetable_jungle", "count": 1 }
+}

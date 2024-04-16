@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_fusuma",
+
+	"pattern": [
+		"X"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_fusuma_green" }
+	},
+
+	"result": { "item": "chinjufumod:block_fusumab_green", "count": 1 }
+}

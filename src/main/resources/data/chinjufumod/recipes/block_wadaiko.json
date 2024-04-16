@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_wadaiko",
+
+	"pattern": [
+		"YXY",
+		"ZZ "
+	],
+
+	"key": {
+		"X": { "item": "minecraft:oak_log" },
+		"Y": { "item": "minecraft:leather" },
+		"Z": { "item": "minecraft:oak_fence" }
+	},
+
+	"result": { "item": "chinjufumod:block_wadaiko", "count" : 1 }
+}

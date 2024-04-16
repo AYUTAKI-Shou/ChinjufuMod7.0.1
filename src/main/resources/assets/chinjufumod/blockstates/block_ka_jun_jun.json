@@ -1,0 +1,23 @@
+{
+	"variants": {
+	"facing=north,stage=1": { "model": "chinjufumod:block/kamoiwood/jungle_jungle1n" },
+	"facing=south,stage=1": { "model": "chinjufumod:block/kamoiwood/jungle_jungle1s" },
+	"facing=west,stage=1": { "model": "chinjufumod:block/kamoiwood/jungle_jungle1w" },
+	"facing=east,stage=1": { "model": "chinjufumod:block/kamoiwood/jungle_jungle1e" },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/kamoiwood/jungle_jungle2n" },
+		"facing=south,stage=2": { "model": "chinjufumod:block/kamoiwood/jungle_jungle2s" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/kamoiwood/jungle_jungle2w" },
+		"facing=east,stage=2": { "model": "chinjufumod:block/kamoiwood/jungle_jungle2e" },
+
+	"facing=north,stage=3": { "model": "chinjufumod:block/kamoiwood/jungle_jungle3n" },
+	"facing=south,stage=3": { "model": "chinjufumod:block/kamoiwood/jungle_jungle3s" },
+	"facing=west,stage=3": { "model": "chinjufumod:block/kamoiwood/jungle_jungle3w" },
+	"facing=east,stage=3": { "model": "chinjufumod:block/kamoiwood/jungle_jungle3e" },
+
+		"facing=north,stage=4": { "model": "chinjufumod:block/kamoiwood/jungle_jungle4n" },
+		"facing=south,stage=4": { "model": "chinjufumod:block/kamoiwood/jungle_jungle4s" },
+		"facing=west,stage=4": { "model": "chinjufumod:block/kamoiwood/jungle_jungle4w" },
+		"facing=east,stage=4": { "model": "chinjufumod:block/kamoiwood/jungle_jungle4e" }
+	}
+}

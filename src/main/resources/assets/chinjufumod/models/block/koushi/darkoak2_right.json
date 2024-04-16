@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/koushi2_right",
+	"textures": {
+		"particle": "chinjufumod:block/muku_bigoak",
+		"ranma": "chinjufumod:block/muku_bigoak",
+		"waku": "chinjufumod:block/muku_bigoak"
+	}
+}

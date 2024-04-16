@@ -1,0 +1,323 @@
+{
+	"variants": {
+		"down=false,facing=north,half=lower,stage=1": { "model": "chinjufumod:block/snowman/bot_white", "y": 180 },
+		"down=false,facing=south,half=lower,stage=1": { "model": "chinjufumod:block/snowman/bot_white", "y": 0 },
+		"down=false,facing=west,half=lower,stage=1": { "model": "chinjufumod:block/snowman/bot_white", "y": 90 },
+		"down=false,facing=east,half=lower,stage=1": { "model": "chinjufumod:block/snowman/bot_white", "y": 270 },
+
+		"down=false,facing=north,half=upper,stage=1": { "model": "chinjufumod:block/snowman/top_white", "y": 180 },
+		"down=false,facing=south,half=upper,stage=1": { "model": "chinjufumod:block/snowman/top_white", "y": 0 },
+		"down=false,facing=west,half=upper,stage=1": { "model": "chinjufumod:block/snowman/top_white", "y": 90 },
+		"down=false,facing=east,half=upper,stage=1": { "model": "chinjufumod:block/snowman/top_white", "y": 270 },
+		
+		"down=true,facing=north,half=lower,stage=1": { "model": "chinjufumod:block/snowman/down_bot_white", "y": 180 },
+		"down=true,facing=south,half=lower,stage=1": { "model": "chinjufumod:block/snowman/down_bot_white", "y": 0 },
+		"down=true,facing=west,half=lower,stage=1": { "model": "chinjufumod:block/snowman/down_bot_white", "y": 90 },
+		"down=true,facing=east,half=lower,stage=1": { "model": "chinjufumod:block/snowman/down_bot_white", "y": 270 },
+
+		"down=true,facing=north,half=upper,stage=1": { "model": "chinjufumod:block/snowman/top_white", "y": 180 },
+		"down=true,facing=south,half=upper,stage=1": { "model": "chinjufumod:block/snowman/top_white", "y": 0 },
+		"down=true,facing=west,half=upper,stage=1": { "model": "chinjufumod:block/snowman/top_white", "y": 90 },
+		"down=true,facing=east,half=upper,stage=1": { "model": "chinjufumod:block/snowman/top_white", "y": 270 },
+			
+			"down=false,facing=north,half=lower,stage=2": { "model": "chinjufumod:block/snowman/bot_orange", "y": 180 },
+			"down=false,facing=south,half=lower,stage=2": { "model": "chinjufumod:block/snowman/bot_orange", "y": 0 },
+			"down=false,facing=west,half=lower,stage=2": { "model": "chinjufumod:block/snowman/bot_orange", "y": 90 },
+			"down=false,facing=east,half=lower,stage=2": { "model": "chinjufumod:block/snowman/bot_orange", "y": 270 },
+	
+			"down=false,facing=north,half=upper,stage=2": { "model": "chinjufumod:block/snowman/top_orange", "y": 180 },
+			"down=false,facing=south,half=upper,stage=2": { "model": "chinjufumod:block/snowman/top_orange", "y": 0 },
+			"down=false,facing=west,half=upper,stage=2": { "model": "chinjufumod:block/snowman/top_orange", "y": 90 },
+			"down=false,facing=east,half=upper,stage=2": { "model": "chinjufumod:block/snowman/top_orange", "y": 270 },
+		
+			"down=true,facing=north,half=lower,stage=2": { "model": "chinjufumod:block/snowman/down_bot_orange", "y": 180 },
+			"down=true,facing=south,half=lower,stage=2": { "model": "chinjufumod:block/snowman/down_bot_orange", "y": 0 },
+			"down=true,facing=west,half=lower,stage=2": { "model": "chinjufumod:block/snowman/down_bot_orange", "y": 90 },
+			"down=true,facing=east,half=lower,stage=2": { "model": "chinjufumod:block/snowman/down_bot_orange", "y": 270 },
+	
+			"down=true,facing=north,half=upper,stage=2": { "model": "chinjufumod:block/snowman/top_orange", "y": 180 },
+			"down=true,facing=south,half=upper,stage=2": { "model": "chinjufumod:block/snowman/top_orange", "y": 0 },
+			"down=true,facing=west,half=upper,stage=2": { "model": "chinjufumod:block/snowman/top_orange", "y": 90 },
+			"down=true,facing=east,half=upper,stage=2": { "model": "chinjufumod:block/snowman/top_orange", "y": 270 },
+			
+		"down=false,facing=north,half=lower,stage=3": { "model": "chinjufumod:block/snowman/bot_magenta", "y": 180 },
+		"down=false,facing=south,half=lower,stage=3": { "model": "chinjufumod:block/snowman/bot_magenta", "y": 0 },
+		"down=false,facing=west,half=lower,stage=3": { "model": "chinjufumod:block/snowman/bot_magenta", "y": 90 },
+		"down=false,facing=east,half=lower,stage=3": { "model": "chinjufumod:block/snowman/bot_magenta", "y": 270 },
+
+		"down=false,facing=north,half=upper,stage=3": { "model": "chinjufumod:block/snowman/top_magenta", "y": 180 },
+		"down=false,facing=south,half=upper,stage=3": { "model": "chinjufumod:block/snowman/top_magenta", "y": 0 },
+		"down=false,facing=west,half=upper,stage=3": { "model": "chinjufumod:block/snowman/top_magenta", "y": 90 },
+		"down=false,facing=east,half=upper,stage=3": { "model": "chinjufumod:block/snowman/top_magenta", "y": 270 },
+		
+		"down=true,facing=north,half=lower,stage=3": { "model": "chinjufumod:block/snowman/down_bot_magenta", "y": 180 },
+		"down=true,facing=south,half=lower,stage=3": { "model": "chinjufumod:block/snowman/down_bot_magenta", "y": 0 },
+		"down=true,facing=west,half=lower,stage=3": { "model": "chinjufumod:block/snowman/down_bot_magenta", "y": 90 },
+		"down=true,facing=east,half=lower,stage=3": { "model": "chinjufumod:block/snowman/down_bot_magenta", "y": 270 },
+
+		"down=true,facing=north,half=upper,stage=3": { "model": "chinjufumod:block/snowman/top_magenta", "y": 180 },
+		"down=true,facing=south,half=upper,stage=3": { "model": "chinjufumod:block/snowman/top_magenta", "y": 0 },
+		"down=true,facing=west,half=upper,stage=3": { "model": "chinjufumod:block/snowman/top_magenta", "y": 90 },
+		"down=true,facing=east,half=upper,stage=3": { "model": "chinjufumod:block/snowman/top_magenta", "y": 270 },
+			
+			"down=false,facing=north,half=lower,stage=4": { "model": "chinjufumod:block/snowman/bot_lightb", "y": 180 },
+			"down=false,facing=south,half=lower,stage=4": { "model": "chinjufumod:block/snowman/bot_lightb", "y": 0 },
+			"down=false,facing=west,half=lower,stage=4": { "model": "chinjufumod:block/snowman/bot_lightb", "y": 90 },
+			"down=false,facing=east,half=lower,stage=4": { "model": "chinjufumod:block/snowman/bot_lightb", "y": 270 },
+	
+			"down=false,facing=north,half=upper,stage=4": { "model": "chinjufumod:block/snowman/top_lightb", "y": 180 },
+			"down=false,facing=south,half=upper,stage=4": { "model": "chinjufumod:block/snowman/top_lightb", "y": 0 },
+			"down=false,facing=west,half=upper,stage=4": { "model": "chinjufumod:block/snowman/top_lightb", "y": 90 },
+			"down=false,facing=east,half=upper,stage=4": { "model": "chinjufumod:block/snowman/top_lightb", "y": 270 },
+		
+			"down=true,facing=north,half=lower,stage=4": { "model": "chinjufumod:block/snowman/down_bot_lightb", "y": 180 },
+			"down=true,facing=south,half=lower,stage=4": { "model": "chinjufumod:block/snowman/down_bot_lightb", "y": 0 },
+			"down=true,facing=west,half=lower,stage=4": { "model": "chinjufumod:block/snowman/down_bot_lightb", "y": 90 },
+			"down=true,facing=east,half=lower,stage=4": { "model": "chinjufumod:block/snowman/down_bot_lightb", "y": 270 },
+	
+			"down=true,facing=north,half=upper,stage=4": { "model": "chinjufumod:block/snowman/top_lightb", "y": 180 },
+			"down=true,facing=south,half=upper,stage=4": { "model": "chinjufumod:block/snowman/top_lightb", "y": 0 },
+			"down=true,facing=west,half=upper,stage=4": { "model": "chinjufumod:block/snowman/top_lightb", "y": 90 },
+			"down=true,facing=east,half=upper,stage=4": { "model": "chinjufumod:block/snowman/top_lightb", "y": 270 },
+			
+		"down=false,facing=north,half=lower,stage=5": { "model": "chinjufumod:block/snowman/bot_yellow", "y": 180 },
+		"down=false,facing=south,half=lower,stage=5": { "model": "chinjufumod:block/snowman/bot_yellow", "y": 0 },
+		"down=false,facing=west,half=lower,stage=5": { "model": "chinjufumod:block/snowman/bot_yellow", "y": 90 },
+		"down=false,facing=east,half=lower,stage=5": { "model": "chinjufumod:block/snowman/bot_yellow", "y": 270 },
+
+		"down=false,facing=north,half=upper,stage=5": { "model": "chinjufumod:block/snowman/top_yellow", "y": 180 },
+		"down=false,facing=south,half=upper,stage=5": { "model": "chinjufumod:block/snowman/top_yellow", "y": 0 },
+		"down=false,facing=west,half=upper,stage=5": { "model": "chinjufumod:block/snowman/top_yellow", "y": 90 },
+		"down=false,facing=east,half=upper,stage=5": { "model": "chinjufumod:block/snowman/top_yellow", "y": 270 },
+		
+		"down=true,facing=north,half=lower,stage=5": { "model": "chinjufumod:block/snowman/down_bot_yellow", "y": 180 },
+		"down=true,facing=south,half=lower,stage=5": { "model": "chinjufumod:block/snowman/down_bot_yellow", "y": 0 },
+		"down=true,facing=west,half=lower,stage=5": { "model": "chinjufumod:block/snowman/down_bot_yellow", "y": 90 },
+		"down=true,facing=east,half=lower,stage=5": { "model": "chinjufumod:block/snowman/down_bot_yellow", "y": 270 },
+
+		"down=true,facing=north,half=upper,stage=5": { "model": "chinjufumod:block/snowman/top_yellow", "y": 180 },
+		"down=true,facing=south,half=upper,stage=5": { "model": "chinjufumod:block/snowman/top_yellow", "y": 0 },
+		"down=true,facing=west,half=upper,stage=5": { "model": "chinjufumod:block/snowman/top_yellow", "y": 90 },
+		"down=true,facing=east,half=upper,stage=5": { "model": "chinjufumod:block/snowman/top_yellow", "y": 270 },
+			
+			"down=false,facing=north,half=lower,stage=6": { "model": "chinjufumod:block/snowman/bot_lime", "y": 180 },
+			"down=false,facing=south,half=lower,stage=6": { "model": "chinjufumod:block/snowman/bot_lime", "y": 0 },
+			"down=false,facing=west,half=lower,stage=6": { "model": "chinjufumod:block/snowman/bot_lime", "y": 90 },
+			"down=false,facing=east,half=lower,stage=6": { "model": "chinjufumod:block/snowman/bot_lime", "y": 270 },
+	
+			"down=false,facing=north,half=upper,stage=6": { "model": "chinjufumod:block/snowman/top_lime", "y": 180 },
+			"down=false,facing=south,half=upper,stage=6": { "model": "chinjufumod:block/snowman/top_lime", "y": 0 },
+			"down=false,facing=west,half=upper,stage=6": { "model": "chinjufumod:block/snowman/top_lime", "y": 90 },
+			"down=false,facing=east,half=upper,stage=6": { "model": "chinjufumod:block/snowman/top_lime", "y": 270 },
+		
+			"down=true,facing=north,half=lower,stage=6": { "model": "chinjufumod:block/snowman/down_bot_lime", "y": 180 },
+			"down=true,facing=south,half=lower,stage=6": { "model": "chinjufumod:block/snowman/down_bot_lime", "y": 0 },
+			"down=true,facing=west,half=lower,stage=6": { "model": "chinjufumod:block/snowman/down_bot_lime", "y": 90 },
+			"down=true,facing=east,half=lower,stage=6": { "model": "chinjufumod:block/snowman/down_bot_lime", "y": 270 },
+	
+			"down=true,facing=north,half=upper,stage=6": { "model": "chinjufumod:block/snowman/top_lime", "y": 180 },
+			"down=true,facing=south,half=upper,stage=6": { "model": "chinjufumod:block/snowman/top_lime", "y": 0 },
+			"down=true,facing=west,half=upper,stage=6": { "model": "chinjufumod:block/snowman/top_lime", "y": 90 },
+			"down=true,facing=east,half=upper,stage=6": { "model": "chinjufumod:block/snowman/top_lime", "y": 270 },
+			
+		"down=false,facing=north,half=lower,stage=7": { "model": "chinjufumod:block/snowman/bot_pink", "y": 180 },
+		"down=false,facing=south,half=lower,stage=7": { "model": "chinjufumod:block/snowman/bot_pink", "y": 0 },
+		"down=false,facing=west,half=lower,stage=7": { "model": "chinjufumod:block/snowman/bot_pink", "y": 90 },
+		"down=false,facing=east,half=lower,stage=7": { "model": "chinjufumod:block/snowman/bot_pink", "y": 270 },
+
+		"down=false,facing=north,half=upper,stage=7": { "model": "chinjufumod:block/snowman/top_pink", "y": 180 },
+		"down=false,facing=south,half=upper,stage=7": { "model": "chinjufumod:block/snowman/top_pink", "y": 0 },
+		"down=false,facing=west,half=upper,stage=7": { "model": "chinjufumod:block/snowman/top_pink", "y": 90 },
+		"down=false,facing=east,half=upper,stage=7": { "model": "chinjufumod:block/snowman/top_pink", "y": 270 },
+		
+		"down=true,facing=north,half=lower,stage=7": { "model": "chinjufumod:block/snowman/down_bot_pink", "y": 180 },
+		"down=true,facing=south,half=lower,stage=7": { "model": "chinjufumod:block/snowman/down_bot_pink", "y": 0 },
+		"down=true,facing=west,half=lower,stage=7": { "model": "chinjufumod:block/snowman/down_bot_pink", "y": 90 },
+		"down=true,facing=east,half=lower,stage=7": { "model": "chinjufumod:block/snowman/down_bot_pink", "y": 270 },
+
+		"down=true,facing=north,half=upper,stage=7": { "model": "chinjufumod:block/snowman/top_pink", "y": 180 },
+		"down=true,facing=south,half=upper,stage=7": { "model": "chinjufumod:block/snowman/top_pink", "y": 0 },
+		"down=true,facing=west,half=upper,stage=7": { "model": "chinjufumod:block/snowman/top_pink", "y": 90 },
+		"down=true,facing=east,half=upper,stage=7": { "model": "chinjufumod:block/snowman/top_pink", "y": 270 },
+			
+			"down=false,facing=north,half=lower,stage=8": { "model": "chinjufumod:block/snowman/bot_gray", "y": 180 },
+			"down=false,facing=south,half=lower,stage=8": { "model": "chinjufumod:block/snowman/bot_gray", "y": 0 },
+			"down=false,facing=west,half=lower,stage=8": { "model": "chinjufumod:block/snowman/bot_gray", "y": 90 },
+			"down=false,facing=east,half=lower,stage=8": { "model": "chinjufumod:block/snowman/bot_gray", "y": 270 },
+	
+			"down=false,facing=north,half=upper,stage=8": { "model": "chinjufumod:block/snowman/top_gray", "y": 180 },
+			"down=false,facing=south,half=upper,stage=8": { "model": "chinjufumod:block/snowman/top_gray", "y": 0 },
+			"down=false,facing=west,half=upper,stage=8": { "model": "chinjufumod:block/snowman/top_gray", "y": 90 },
+			"down=false,facing=east,half=upper,stage=8": { "model": "chinjufumod:block/snowman/top_gray", "y": 270 },
+		
+			"down=true,facing=north,half=lower,stage=8": { "model": "chinjufumod:block/snowman/down_bot_gray", "y": 180 },
+			"down=true,facing=south,half=lower,stage=8": { "model": "chinjufumod:block/snowman/down_bot_gray", "y": 0 },
+			"down=true,facing=west,half=lower,stage=8": { "model": "chinjufumod:block/snowman/down_bot_gray", "y": 90 },
+			"down=true,facing=east,half=lower,stage=8": { "model": "chinjufumod:block/snowman/down_bot_gray", "y": 270 },
+	
+			"down=true,facing=north,half=upper,stage=8": { "model": "chinjufumod:block/snowman/top_gray", "y": 180 },
+			"down=true,facing=south,half=upper,stage=8": { "model": "chinjufumod:block/snowman/top_gray", "y": 0 },
+			"down=true,facing=west,half=upper,stage=8": { "model": "chinjufumod:block/snowman/top_gray", "y": 90 },
+			"down=true,facing=east,half=upper,stage=8": { "model": "chinjufumod:block/snowman/top_gray", "y": 270 },
+
+		"down=false,facing=north,half=lower,stage=9": { "model": "chinjufumod:block/snowman/bot_lightg", "y": 180 },
+		"down=false,facing=south,half=lower,stage=9": { "model": "chinjufumod:block/snowman/bot_lightg", "y": 0 },
+		"down=false,facing=west,half=lower,stage=9": { "model": "chinjufumod:block/snowman/bot_lightg", "y": 90 },
+		"down=false,facing=east,half=lower,stage=9": { "model": "chinjufumod:block/snowman/bot_lightg", "y": 270 },
+
+		"down=false,facing=north,half=upper,stage=9": { "model": "chinjufumod:block/snowman/top_lightg", "y": 180 },
+		"down=false,facing=south,half=upper,stage=9": { "model": "chinjufumod:block/snowman/top_lightg", "y": 0 },
+		"down=false,facing=west,half=upper,stage=9": { "model": "chinjufumod:block/snowman/top_lightg", "y": 90 },
+		"down=false,facing=east,half=upper,stage=9": { "model": "chinjufumod:block/snowman/top_lightg", "y": 270 },
+		
+		"down=true,facing=north,half=lower,stage=9": { "model": "chinjufumod:block/snowman/down_bot_lightg", "y": 180 },
+		"down=true,facing=south,half=lower,stage=9": { "model": "chinjufumod:block/snowman/down_bot_lightg", "y": 0 },
+		"down=true,facing=west,half=lower,stage=9": { "model": "chinjufumod:block/snowman/down_bot_lightg", "y": 90 },
+		"down=true,facing=east,half=lower,stage=9": { "model": "chinjufumod:block/snowman/down_bot_lightg", "y": 270 },
+
+		"down=true,facing=north,half=upper,stage=9": { "model": "chinjufumod:block/snowman/top_lightg", "y": 180 },
+		"down=true,facing=south,half=upper,stage=9": { "model": "chinjufumod:block/snowman/top_lightg", "y": 0 },
+		"down=true,facing=west,half=upper,stage=9": { "model": "chinjufumod:block/snowman/top_lightg", "y": 90 },
+		"down=true,facing=east,half=upper,stage=9": { "model": "chinjufumod:block/snowman/top_lightg", "y": 270 },
+			
+			"down=false,facing=north,half=lower,stage=10": { "model": "chinjufumod:block/snowman/bot_cyan", "y": 180 },
+			"down=false,facing=south,half=lower,stage=10": { "model": "chinjufumod:block/snowman/bot_cyan", "y": 0 },
+			"down=false,facing=west,half=lower,stage=10": { "model": "chinjufumod:block/snowman/bot_cyan", "y": 90 },
+			"down=false,facing=east,half=lower,stage=10": { "model": "chinjufumod:block/snowman/bot_cyan", "y": 270 },
+	
+			"down=false,facing=north,half=upper,stage=10": { "model": "chinjufumod:block/snowman/top_cyan", "y": 180 },
+			"down=false,facing=south,half=upper,stage=10": { "model": "chinjufumod:block/snowman/top_cyan", "y": 0 },
+			"down=false,facing=west,half=upper,stage=10": { "model": "chinjufumod:block/snowman/top_cyan", "y": 90 },
+			"down=false,facing=east,half=upper,stage=10": { "model": "chinjufumod:block/snowman/top_cyan", "y": 270 },
+		
+			"down=true,facing=north,half=lower,stage=10": { "model": "chinjufumod:block/snowman/down_bot_cyan", "y": 180 },
+			"down=true,facing=south,half=lower,stage=10": { "model": "chinjufumod:block/snowman/down_bot_cyan", "y": 0 },
+			"down=true,facing=west,half=lower,stage=10": { "model": "chinjufumod:block/snowman/down_bot_cyan", "y": 90 },
+			"down=true,facing=east,half=lower,stage=10": { "model": "chinjufumod:block/snowman/down_bot_cyan", "y": 270 },
+	
+			"down=true,facing=north,half=upper,stage=10": { "model": "chinjufumod:block/snowman/top_cyan", "y": 180 },
+			"down=true,facing=south,half=upper,stage=10": { "model": "chinjufumod:block/snowman/top_cyan", "y": 0 },
+			"down=true,facing=west,half=upper,stage=10": { "model": "chinjufumod:block/snowman/top_cyan", "y": 90 },
+			"down=true,facing=east,half=upper,stage=10": { "model": "chinjufumod:block/snowman/top_cyan", "y": 270 },
+			
+		"down=false,facing=north,half=lower,stage=11": { "model": "chinjufumod:block/snowman/bot_purple", "y": 180 },
+		"down=false,facing=south,half=lower,stage=11": { "model": "chinjufumod:block/snowman/bot_purple", "y": 0 },
+		"down=false,facing=west,half=lower,stage=11": { "model": "chinjufumod:block/snowman/bot_purple", "y": 90 },
+		"down=false,facing=east,half=lower,stage=11": { "model": "chinjufumod:block/snowman/bot_purple", "y": 270 },
+
+		"down=false,facing=north,half=upper,stage=11": { "model": "chinjufumod:block/snowman/top_purple", "y": 180 },
+		"down=false,facing=south,half=upper,stage=11": { "model": "chinjufumod:block/snowman/top_purple", "y": 0 },
+		"down=false,facing=west,half=upper,stage=11": { "model": "chinjufumod:block/snowman/top_purple", "y": 90 },
+		"down=false,facing=east,half=upper,stage=11": { "model": "chinjufumod:block/snowman/top_purple", "y": 270 },
+		
+		"down=true,facing=north,half=lower,stage=11": { "model": "chinjufumod:block/snowman/down_bot_purple", "y": 180 },
+		"down=true,facing=south,half=lower,stage=11": { "model": "chinjufumod:block/snowman/down_bot_purple", "y": 0 },
+		"down=true,facing=west,half=lower,stage=11": { "model": "chinjufumod:block/snowman/down_bot_purple", "y": 90 },
+		"down=true,facing=east,half=lower,stage=11": { "model": "chinjufumod:block/snowman/down_bot_purple", "y": 270 },
+
+		"down=true,facing=north,half=upper,stage=11": { "model": "chinjufumod:block/snowman/top_purple", "y": 180 },
+		"down=true,facing=south,half=upper,stage=11": { "model": "chinjufumod:block/snowman/top_purple", "y": 0 },
+		"down=true,facing=west,half=upper,stage=11": { "model": "chinjufumod:block/snowman/top_purple", "y": 90 },
+		"down=true,facing=east,half=upper,stage=11": { "model": "chinjufumod:block/snowman/top_purple", "y": 270 },
+			
+			"down=false,facing=north,half=lower,stage=12": { "model": "chinjufumod:block/snowman/bot_blue", "y": 180 },
+			"down=false,facing=south,half=lower,stage=12": { "model": "chinjufumod:block/snowman/bot_blue", "y": 0 },
+			"down=false,facing=west,half=lower,stage=12": { "model": "chinjufumod:block/snowman/bot_blue", "y": 90 },
+			"down=false,facing=east,half=lower,stage=12": { "model": "chinjufumod:block/snowman/bot_blue", "y": 270 },
+	
+			"down=false,facing=north,half=upper,stage=12": { "model": "chinjufumod:block/snowman/top_blue", "y": 180 },
+			"down=false,facing=south,half=upper,stage=12": { "model": "chinjufumod:block/snowman/top_blue", "y": 0 },
+			"down=false,facing=west,half=upper,stage=12": { "model": "chinjufumod:block/snowman/top_blue", "y": 90 },
+			"down=false,facing=east,half=upper,stage=12": { "model": "chinjufumod:block/snowman/top_blue", "y": 270 },
+		
+			"down=true,facing=north,half=lower,stage=12": { "model": "chinjufumod:block/snowman/down_bot_blue", "y": 180 },
+			"down=true,facing=south,half=lower,stage=12": { "model": "chinjufumod:block/snowman/down_bot_blue", "y": 0 },
+			"down=true,facing=west,half=lower,stage=12": { "model": "chinjufumod:block/snowman/down_bot_blue", "y": 90 },
+			"down=true,facing=east,half=lower,stage=12": { "model": "chinjufumod:block/snowman/down_bot_blue", "y": 270 },
+	
+			"down=true,facing=north,half=upper,stage=12": { "model": "chinjufumod:block/snowman/top_blue", "y": 180 },
+			"down=true,facing=south,half=upper,stage=12": { "model": "chinjufumod:block/snowman/top_blue", "y": 0 },
+			"down=true,facing=west,half=upper,stage=12": { "model": "chinjufumod:block/snowman/top_blue", "y": 90 },
+			"down=true,facing=east,half=upper,stage=12": { "model": "chinjufumod:block/snowman/top_blue", "y": 270 },
+			
+		"down=false,facing=north,half=lower,stage=13": { "model": "chinjufumod:block/snowman/bot_brown", "y": 180 },
+		"down=false,facing=south,half=lower,stage=13": { "model": "chinjufumod:block/snowman/bot_brown", "y": 0 },
+		"down=false,facing=west,half=lower,stage=13": { "model": "chinjufumod:block/snowman/bot_brown", "y": 90 },
+		"down=false,facing=east,half=lower,stage=13": { "model": "chinjufumod:block/snowman/bot_brown", "y": 270 },
+
+		"down=false,facing=north,half=upper,stage=13": { "model": "chinjufumod:block/snowman/top_brown", "y": 180 },
+		"down=false,facing=south,half=upper,stage=13": { "model": "chinjufumod:block/snowman/top_brown", "y": 0 },
+		"down=false,facing=west,half=upper,stage=13": { "model": "chinjufumod:block/snowman/top_brown", "y": 90 },
+		"down=false,facing=east,half=upper,stage=13": { "model": "chinjufumod:block/snowman/top_brown", "y": 270 },
+		
+		"down=true,facing=north,half=lower,stage=13": { "model": "chinjufumod:block/snowman/down_bot_brown", "y": 180 },
+		"down=true,facing=south,half=lower,stage=13": { "model": "chinjufumod:block/snowman/down_bot_brown", "y": 0 },
+		"down=true,facing=west,half=lower,stage=13": { "model": "chinjufumod:block/snowman/down_bot_brown", "y": 90 },
+		"down=true,facing=east,half=lower,stage=13": { "model": "chinjufumod:block/snowman/down_bot_brown", "y": 270 },
+
+		"down=true,facing=north,half=upper,stage=13": { "model": "chinjufumod:block/snowman/top_brown", "y": 180 },
+		"down=true,facing=south,half=upper,stage=13": { "model": "chinjufumod:block/snowman/top_brown", "y": 0 },
+		"down=true,facing=west,half=upper,stage=13": { "model": "chinjufumod:block/snowman/top_brown", "y": 90 },
+		"down=true,facing=east,half=upper,stage=13": { "model": "chinjufumod:block/snowman/top_brown", "y": 270 },
+			
+			"down=false,facing=north,half=lower,stage=14": { "model": "chinjufumod:block/snowman/bot_green", "y": 180 },
+			"down=false,facing=south,half=lower,stage=14": { "model": "chinjufumod:block/snowman/bot_green", "y": 0 },
+			"down=false,facing=west,half=lower,stage=14": { "model": "chinjufumod:block/snowman/bot_green", "y": 90 },
+			"down=false,facing=east,half=lower,stage=14": { "model": "chinjufumod:block/snowman/bot_green", "y": 270 },
+	
+			"down=false,facing=north,half=upper,stage=14": { "model": "chinjufumod:block/snowman/top_green", "y": 180 },
+			"down=false,facing=south,half=upper,stage=14": { "model": "chinjufumod:block/snowman/top_green", "y": 0 },
+			"down=false,facing=west,half=upper,stage=14": { "model": "chinjufumod:block/snowman/top_green", "y": 90 },
+			"down=false,facing=east,half=upper,stage=14": { "model": "chinjufumod:block/snowman/top_green", "y": 270 },
+		
+			"down=true,facing=north,half=lower,stage=14": { "model": "chinjufumod:block/snowman/down_bot_green", "y": 180 },
+			"down=true,facing=south,half=lower,stage=14": { "model": "chinjufumod:block/snowman/down_bot_green", "y": 0 },
+			"down=true,facing=west,half=lower,stage=14": { "model": "chinjufumod:block/snowman/down_bot_green", "y": 90 },
+			"down=true,facing=east,half=lower,stage=14": { "model": "chinjufumod:block/snowman/down_bot_green", "y": 270 },
+	
+			"down=true,facing=north,half=upper,stage=14": { "model": "chinjufumod:block/snowman/top_green", "y": 180 },
+			"down=true,facing=south,half=upper,stage=14": { "model": "chinjufumod:block/snowman/top_green", "y": 0 },
+			"down=true,facing=west,half=upper,stage=14": { "model": "chinjufumod:block/snowman/top_green", "y": 90 },
+			"down=true,facing=east,half=upper,stage=14": { "model": "chinjufumod:block/snowman/top_green", "y": 270 },
+			
+		"down=false,facing=north,half=lower,stage=15": { "model": "chinjufumod:block/snowman/bot_red", "y": 180 },
+		"down=false,facing=south,half=lower,stage=15": { "model": "chinjufumod:block/snowman/bot_red", "y": 0 },
+		"down=false,facing=west,half=lower,stage=15": { "model": "chinjufumod:block/snowman/bot_red", "y": 90 },
+		"down=false,facing=east,half=lower,stage=15": { "model": "chinjufumod:block/snowman/bot_red", "y": 270 },
+
+		"down=false,facing=north,half=upper,stage=15": { "model": "chinjufumod:block/snowman/top_red", "y": 180 },
+		"down=false,facing=south,half=upper,stage=15": { "model": "chinjufumod:block/snowman/top_red", "y": 0 },
+		"down=false,facing=west,half=upper,stage=15": { "model": "chinjufumod:block/snowman/top_red", "y": 90 },
+		"down=false,facing=east,half=upper,stage=15": { "model": "chinjufumod:block/snowman/top_red", "y": 270 },
+		
+		"down=true,facing=north,half=lower,stage=15": { "model": "chinjufumod:block/snowman/down_bot_red", "y": 180 },
+		"down=true,facing=south,half=lower,stage=15": { "model": "chinjufumod:block/snowman/down_bot_red", "y": 0 },
+		"down=true,facing=west,half=lower,stage=15": { "model": "chinjufumod:block/snowman/down_bot_red", "y": 90 },
+		"down=true,facing=east,half=lower,stage=15": { "model": "chinjufumod:block/snowman/down_bot_red", "y": 270 },
+
+		"down=true,facing=north,half=upper,stage=15": { "model": "chinjufumod:block/snowman/top_red", "y": 180 },
+		"down=true,facing=south,half=upper,stage=15": { "model": "chinjufumod:block/snowman/top_red", "y": 0 },
+		"down=true,facing=west,half=upper,stage=15": { "model": "chinjufumod:block/snowman/top_red", "y": 90 },
+		"down=true,facing=east,half=upper,stage=15": { "model": "chinjufumod:block/snowman/top_red", "y": 270 },
+			
+			"down=false,facing=north,half=lower,stage=16": { "model": "chinjufumod:block/snowman/bot_black", "y": 180 },
+			"down=false,facing=south,half=lower,stage=16": { "model": "chinjufumod:block/snowman/bot_black", "y": 0 },
+			"down=false,facing=west,half=lower,stage=16": { "model": "chinjufumod:block/snowman/bot_black", "y": 90 },
+			"down=false,facing=east,half=lower,stage=16": { "model": "chinjufumod:block/snowman/bot_black", "y": 270 },
+	
+			"down=false,facing=north,half=upper,stage=16": { "model": "chinjufumod:block/snowman/top_black", "y": 180 },
+			"down=false,facing=south,half=upper,stage=16": { "model": "chinjufumod:block/snowman/top_black", "y": 0 },
+			"down=false,facing=west,half=upper,stage=16": { "model": "chinjufumod:block/snowman/top_black", "y": 90 },
+			"down=false,facing=east,half=upper,stage=16": { "model": "chinjufumod:block/snowman/top_black", "y": 270 },
+		
+			"down=true,facing=north,half=lower,stage=16": { "model": "chinjufumod:block/snowman/down_bot_black", "y": 180 },
+			"down=true,facing=south,half=lower,stage=16": { "model": "chinjufumod:block/snowman/down_bot_black", "y": 0 },
+			"down=true,facing=west,half=lower,stage=16": { "model": "chinjufumod:block/snowman/down_bot_black", "y": 90 },
+			"down=true,facing=east,half=lower,stage=16": { "model": "chinjufumod:block/snowman/down_bot_black", "y": 270 },
+	
+			"down=true,facing=north,half=upper,stage=16": { "model": "chinjufumod:block/snowman/top_black", "y": 180 },
+			"down=true,facing=south,half=upper,stage=16": { "model": "chinjufumod:block/snowman/top_black", "y": 0 },
+			"down=true,facing=west,half=upper,stage=16": { "model": "chinjufumod:block/snowman/top_black", "y": 90 },
+			"down=true,facing=east,half=upper,stage=16": { "model": "chinjufumod:block/snowman/top_black", "y": 270 }
+	}
+}

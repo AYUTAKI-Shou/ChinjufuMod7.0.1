@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/wallpanel_leng",
+	"textures": {
+		"particle": "minecraft:block/dark_oak_log",
+		"front": "minecraft:block/dark_oak_log",
+		"back": "minecraft:block/dark_oak_log",
+		"side": "minecraft:block/dark_oak_log"
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:block/wallpanel/log_kaede", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:block/wallpanel/log_kaede" },
+		"facing=west,stage=1": { "model": "chinjufumod:block/wallpanel/log_kaede", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:block/wallpanel/log_kaede", "y": 270 },
+		"facing=north,stage=2": { "model": "chinjufumod:block/wallpanel/log_kaede_leng", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:block/wallpanel/log_kaede_leng" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/wallpanel/log_kaede_leng", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:block/wallpanel/log_kaede_leng", "y": 270 },
+		"facing=north,stage=3": { "model": "chinjufumod:block/wallpanel/log_top_kaede", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:block/wallpanel/log_top_kaede" },
+		"facing=west,stage=3": { "model": "chinjufumod:block/wallpanel/log_top_kaede", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:block/wallpanel/log_top_kaede", "y": 270 }
+	}
+}

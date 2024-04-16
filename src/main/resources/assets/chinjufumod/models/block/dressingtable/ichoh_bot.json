@@ -1,0 +1,11 @@
+{
+	"parent": "chinjufumod:block/base/dressingtable_bot",
+	"textures": {
+		"particle":"chinjufumod:block/dtable_bott_ichoh",
+		"top": "chinjufumod:block/dtable_top_ichoh",
+		"bottom": "chinjufumod:block/dtable_bott_ichoh",
+		"up": "chinjufumod:block/planks_ichoh",
+		"item": "chinjufumod:block/dtable_item",
+		"leg": "chinjufumod:block/muku_ichoh"
+	}
+}

@@ -1,0 +1,46 @@
+{
+	"parent": "chinjufumod:cm_story/weapon/get_workorder",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.weapon.get_submarine.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.weapon.get_submarine.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_i13_leggings"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": [
+				"chinjufumod:item_i168_helmet",
+				"chinjufumod:item_i168_chestplate",
+				"chinjufumod:item_i168_leggings",
+				"chinjufumod:item_i168_boots",
+
+				"chinjufumod:item_i13_helmet",
+				"chinjufumod:item_i13_chestplate",
+				"chinjufumod:item_i13_leggings",
+				"chinjufumod:item_i13_boots",
+
+				"chinjufumod:item_ro500_helmet",
+				"chinjufumod:item_ro500_chestplate",
+				"chinjufumod:item_ro500_leggings",
+				"chinjufumod:item_ro500_boots"
+				] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

@@ -1,0 +1,30 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item",
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_food_teppan_n_okonomiyaki", "properties": { "stage": "1" } } ],
+			"name": "chinjufumod:block_food_teppan_n_okonomiyaki" } ]
+		},
+
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item",
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_food_teppan_n_okonomiyaki", "properties": { "stage": "2" } } ],
+			"name": "chinjufumod:block_food_teppan_n_okonomiyaki" } ]
+		},
+		
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item",
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_food_teppan_n_okonomiyaki", "properties": { "stage": "3" } } ],
+			"name": "chinjufumod:block_food_teppan_n_okonomiyaki" } ]
+		},
+		
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item",
+			"conditions": [ { "condition": "minecraft:block_state_property", "block": "chinjufumod:block_food_teppan_n_okonomiyaki", "properties": { "stage": "4" } } ],
+			"name": "minecraft:bowl" } ]
+		}
+	],
+
+	"functions": [ { "function": "minecraft:explosion_decay" } ]
+}

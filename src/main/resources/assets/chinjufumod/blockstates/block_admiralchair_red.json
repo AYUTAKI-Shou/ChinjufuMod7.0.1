@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"facing=north,half=lower": { "model": "chinjufumod:block/admiralchair_red" },
+		"facing=south,half=lower": { "model": "chinjufumod:block/admiralchair_red", "y": 180 },
+		"facing=west,half=lower": { "model": "chinjufumod:block/admiralchair_red", "y": 270 },
+		"facing=east,half=lower": { "model": "chinjufumod:block/admiralchair_red", "y": 90 },
+
+		"facing=north,half=upper": { "model": "chinjufumod:block/admiralchair_red_top" },
+		"facing=south,half=upper": { "model": "chinjufumod:block/admiralchair_red_top", "y": 180 },
+		"facing=west,half=upper": { "model": "chinjufumod:block/admiralchair_red_top", "y": 270 },
+		"facing=east,half=upper": { "model": "chinjufumod:block/admiralchair_red_top", "y": 90 }
+	}
+}

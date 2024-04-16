@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_chouzubachi",
+
+	"pattern": [
+		"X",
+		"Y"
+	],
+
+	"key": {
+		"X": [ { "item": "minecraft:bucket" }, { "item": "chinjufumod:block_mizuoke" } ],
+		"Y": { "item": "minecraft:andesite" }
+	},
+
+	"result": { "item": "chinjufumod:block_chouzu_and_kara", "count": 1 }
+}

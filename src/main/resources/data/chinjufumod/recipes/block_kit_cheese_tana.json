@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_cheese",
+
+	"pattern": [
+		"XYX",
+		"XYX",
+		"XYX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:spruce_planks" },
+		"Y": { "item": "minecraft:spruce_slab" }
+	},
+
+	"result": { "item": "chinjufumod:block_kit_cheese_tana", "count": 4 }
+}

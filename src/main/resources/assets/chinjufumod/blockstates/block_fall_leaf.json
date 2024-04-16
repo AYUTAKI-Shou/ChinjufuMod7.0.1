@@ -1,0 +1,11 @@
+{
+	"variants": {
+		"snowy=false": [
+			{ "model": "chinjufumod:block/fall_leaf" },
+			{ "model": "chinjufumod:block/fall_leaf", "y": 90 },
+			{ "model": "chinjufumod:block/fall_leaf", "y": 180 },
+			{ "model": "chinjufumod:block/fall_leaf", "y": 270 }
+		],
+		"snowy=true": { "model": "minecraft:block/grass_block_snow" }
+	}
+}

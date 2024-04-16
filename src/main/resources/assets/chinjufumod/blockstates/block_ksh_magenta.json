@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"cra=false,type=bottom": { "model": "chinjufumod:block/kawara/slab_magenta_bottom" },
+		"cra=false,type=top": { "model": "chinjufumod:block/kawara/slab_magenta_top" },
+		"cra=true,type=bottom": { "model": "chinjufumod:block/kawara/slab_crack_magenta_bottom" },
+		"cra=true,type=top": { "model": "chinjufumod:block/kawara/slab_crack_magenta_top" },
+		"cra=false,type=double": { "model": "chinjufumod:block/kawara/magenta" },
+		"cra=true,type=double": { "model": "chinjufumod:block/kawara/crack_magenta" }
+	}
+}

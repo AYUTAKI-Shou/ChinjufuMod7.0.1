@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_candle",
+
+	"ingredients": [
+		[ { "item": "chinjufumod:item_oriito" }, { "tag": "forge:string" } ],
+		[ { "item": "chinjufumod:item_oriito" }, { "tag": "forge:string" } ],
+		[ { "item": "chinjufumod:item_oriito" }, { "tag": "forge:string" } ],
+		[ { "item": "chinjufumod:item_soy" }, { "tag": "forge:slimeballs" } ],
+		[ { "item": "chinjufumod:item_soy" }, { "tag": "forge:slimeballs" } ],
+		[ { "item": "chinjufumod:item_soy" }, { "tag": "forge:slimeballs" } ],
+		{ "tag": "forge:glass/colorless" },
+		{ "tag": "forge:dyes/yellow" }
+	],
+
+	"result": { "item": "chinjufumod:block_candle_yellow", "count" : 3 }
+}

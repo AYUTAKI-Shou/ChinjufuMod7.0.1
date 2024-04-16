@@ -1,0 +1,43 @@
+{
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.root.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.root.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_emblem_c"
+		},
+		"frame": "task",
+		"show_toast": false,
+		"announce_to_chat": false,
+		"hidden": false,
+		"background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": [
+				"chinjufumod:item_workorder",
+				"chinjufumod:block_seedsbox",
+				"chinjufumod:block_food_zundou",
+				"chinjufumod:block_food_karanabe",
+				"chinjufumod:block_food_frypan",
+				"chinjufumod:item_kettle_kara",
+				"chinjufumod:item_koubo",
+				"chinjufumod:item_shousekkai_c",
+				"chinjufumod:item_claykawara",
+				"chinjufumod:block_kadomatsu",
+				"chinjufumod:block_shimenawa",
+				 "chinjufumod:block_kagamimochi" ] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { }
+}

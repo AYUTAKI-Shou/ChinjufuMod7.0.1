@@ -1,0 +1,43 @@
+{
+	"parent": "chinjufumod:cm_story/weapon/get_ammo",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.weapon.get_rensouhou.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.weapon.get_rensouhou.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_rensouhou203"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": [
+				"chinjufumod:item_rensouhou127",
+				"chinjufumod:item_shigurehou",
+				"chinjufumod:item_koukakuhou100",
+				
+				"chinjufumod:item_rensouhou155",
+				"chinjufumod:item_rensouhou203",
+				"chinjufumod:item_rensouhou203_skc34",
+				
+				"chinjufumod:item_rensouhou356",
+				"chinjufumod:item_rensouhou356_s3",
+				"chinjufumod:item_rensouhou380",
+				"chinjufumod:item_rensouhou410"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience":5 }
+}

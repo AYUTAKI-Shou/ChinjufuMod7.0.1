@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_seeds",
+
+	"ingredients": [
+		{ "tag": "forge:crops/wheat" },
+		[ { "tag": "forge:crops/potato" }, { "item": "minecraft:poisonous_potato" } ],
+		{ "tag": "forge:crops/carrot" },
+		{ "item": "minecraft:oak_sapling" }
+	],
+
+	"result": { "item": "chinjufumod:block_seedsbox", "count": 1 }
+}

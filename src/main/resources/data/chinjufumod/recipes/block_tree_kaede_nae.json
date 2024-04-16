@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_seasonal",
+
+	"ingredients": [
+		{ "item": "minecraft:oak_sapling" },
+		{ "tag": "forge:dyes/red" }
+	],
+
+	"result": { "item": "chinjufumod:block_tree_kaede_nae", "count": 1 }
+}

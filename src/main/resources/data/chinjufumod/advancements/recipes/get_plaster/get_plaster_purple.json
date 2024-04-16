@@ -1,0 +1,27 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_pst_purple",
+			"chinjufumod:block_psh_purple",
+			"chinjufumod:block_pwall_purple",
+			"chinjufumod:block_sama_purple",
+			"chinjufumod:block_wp_plaster_purple",
+			
+			"chinjufumod:block_namako_purple",
+			"chinjufumod:block_namako_b_purple"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_plaster_purple"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

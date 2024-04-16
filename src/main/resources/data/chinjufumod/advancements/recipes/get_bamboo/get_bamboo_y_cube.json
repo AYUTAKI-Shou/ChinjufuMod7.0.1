@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_bamboo_y_stairs",
+			"chinjufumod:block_bamboo_y_slab",
+			"chinjufumod:block_bamboo_y_fence",
+			"chinjufumod:block_bamboo_y_fencegate",
+			"chinjufumod:block_bamboo_y_door",
+			"chinjufumod:block_bamboo_y_trapdoor",
+			"chinjufumod:block_bamboo_y_plate",
+			"chinjufumod:block_bamboo_y_button",
+			"chinjufumod:block_takeakari_y",
+			
+			"chinjufumod:block_wp_bamboo_y"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_bamboo_y_cube"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

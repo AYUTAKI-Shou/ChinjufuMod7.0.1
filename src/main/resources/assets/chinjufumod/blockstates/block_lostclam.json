@@ -1,0 +1,38 @@
+{
+	"variants": {
+		"stage=0": [
+			{ "model": "chinjufumod:block/crop/lostclam" },
+			{ "model": "chinjufumod:block/crop/lostclam", "y": 90 },
+			{ "model": "chinjufumod:block/crop/lostclam", "y": 180 },
+			{ "model": "chinjufumod:block/crop/lostclam", "y": 270 }
+		],
+		
+		"stage=1": [
+			{ "model": "chinjufumod:block/crop/lostclam" },
+			{ "model": "chinjufumod:block/crop/lostclam", "y": 90 },
+			{ "model": "chinjufumod:block/crop/lostclam", "y": 180 },
+			{ "model": "chinjufumod:block/crop/lostclam", "y": 270 }
+		],
+		
+		"stage=2": [
+			{ "model": "chinjufumod:block/crop/lostclam" },
+			{ "model": "chinjufumod:block/crop/lostclam", "y": 90 },
+			{ "model": "chinjufumod:block/crop/lostclam", "y": 180 },
+			{ "model": "chinjufumod:block/crop/lostclam", "y": 270 }
+		],
+		
+		"stage=3": [
+			{ "model": "chinjufumod:block/crop/lostclam" },
+			{ "model": "chinjufumod:block/crop/lostclam", "y": 90 },
+			{ "model": "chinjufumod:block/crop/lostclam", "y": 180 },
+			{ "model": "chinjufumod:block/crop/lostclam", "y": 270 }
+		],
+		
+		"stage=4": [
+			{ "model": "chinjufumod:block/crop/lostclam" },
+			{ "model": "chinjufumod:block/crop/lostclam", "y": 90 },
+			{ "model": "chinjufumod:block/crop/lostclam", "y": 180 },
+			{ "model": "chinjufumod:block/crop/lostclam", "y": 270 }
+		]
+	}
+}

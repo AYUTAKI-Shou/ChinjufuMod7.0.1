@@ -1,0 +1,33 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:block/shelfdish/tonsui1", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:block/shelfdish/tonsui1", "y": 0 },
+		"facing=west,stage=1": { "model": "chinjufumod:block/shelfdish/tonsui1", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:block/shelfdish/tonsui1", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/shelfdish/tonsui2", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:block/shelfdish/tonsui2", "y": 0 },
+		"facing=west,stage=2": { "model": "chinjufumod:block/shelfdish/tonsui2", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:block/shelfdish/tonsui2", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:block/shelfdish/tonsui3", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:block/shelfdish/tonsui3", "y": 0 },
+		"facing=west,stage=3": { "model": "chinjufumod:block/shelfdish/tonsui3", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:block/shelfdish/tonsui3", "y": 270 },
+
+		"facing=north,stage=4": { "model": "chinjufumod:block/shelfdish/tonsui4", "y": 180 },
+		"facing=south,stage=4": { "model": "chinjufumod:block/shelfdish/tonsui4", "y": 0 },
+		"facing=west,stage=4": { "model": "chinjufumod:block/shelfdish/tonsui4", "y": 90 },
+		"facing=east,stage=4": { "model": "chinjufumod:block/shelfdish/tonsui4", "y": 270 },
+
+		"facing=north,stage=5": { "model": "chinjufumod:block/shelfdish/tonsuia", "y": 180 },
+		"facing=south,stage=5": { "model": "chinjufumod:block/shelfdish/tonsuia", "y": 0 },
+		"facing=west,stage=5": { "model": "chinjufumod:block/shelfdish/tonsuia", "y": 90 },
+		"facing=east,stage=5": { "model": "chinjufumod:block/shelfdish/tonsuia", "y": 270 },
+
+		"facing=north,stage=6": { "model": "chinjufumod:block/shelfdish/tonsuib", "y": 180 },
+		"facing=south,stage=6": { "model": "chinjufumod:block/shelfdish/tonsuib", "y": 0 },
+		"facing=west,stage=6": { "model": "chinjufumod:block/shelfdish/tonsuib", "y": 90 },
+		"facing=east,stage=6": { "model": "chinjufumod:block/shelfdish/tonsuib", "y": 270 }
+	}
+}

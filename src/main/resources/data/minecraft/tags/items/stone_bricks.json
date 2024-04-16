@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		"chinjufumod:block_brick_gra_c",
+		"chinjufumod:block_brick_dio_c",
+		"chinjufumod:block_brick_and_c",
+		"chinjufumod:block_brick_gra_ch_c",
+		"chinjufumod:block_brick_dio_ch_c",
+		"chinjufumod:block_brick_and_ch_c",
+		"chinjufumod:block_brick_gra_cr_c",
+		"chinjufumod:block_brick_dio_cr_c",
+		"chinjufumod:block_brick_and_cr_c",
+		"chinjufumod:block_brick_gra_mos_c",
+		"chinjufumod:block_brick_dio_mos_c",
+		"chinjufumod:block_brick_and_mos_c"
+	]
+}

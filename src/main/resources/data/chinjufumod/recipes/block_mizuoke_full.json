@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_mizuoke",
+
+	"ingredients": [
+		{ "item": "chinjufumod:block_mizuoke" },
+		{ "tag": "forge:buckets/water" }
+	],
+
+	"result": { "item": "chinjufumod:block_mizuoke_full", "count": 1 }
+}

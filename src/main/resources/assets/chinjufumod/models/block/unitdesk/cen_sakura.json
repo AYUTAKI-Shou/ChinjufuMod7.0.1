@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/unitdesk_center",
+	"textures": {
+		"particle":"chinjufumod:block/planks_sakura",
+		"leg": "chinjufumod:block/planks_sakura",
+		"top": "chinjufumod:block/planks_sakura"
+	}
+}

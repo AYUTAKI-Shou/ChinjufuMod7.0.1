@@ -1,0 +1,28 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_empty_box",
+			"chinjufumod:block_tansu_doak",
+
+			"chinjufumod:block_window_darkoak",
+			"chinjufumod:block_windowtall_darkoak",
+			"chinjufumod:block_garasudo_darkoak",
+			"chinjufumod:block_shouji_darkoak",
+			
+			"chinjufumod:block_wp_plank_doak"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["minecraft:dark_oak_planks"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

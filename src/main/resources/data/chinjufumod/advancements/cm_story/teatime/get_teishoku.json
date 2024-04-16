@@ -1,0 +1,42 @@
+{
+	"parent": "chinjufumod:cm_story/teatime/get_singledish",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.teatime.get_teishoku.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.teatime.get_teishoku.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_food_yakizakanatei_1"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": [
+				"chinjufumod:block_food_tgytei_1",
+				"chinjufumod:block_food_yakizakanatei_1",
+				"chinjufumod:block_food_yakijyaketei_1",
+				"chinjufumod:block_food_egbset_1",
+
+				"chinjufumod:block_food_tgyteitake_1",
+				"chinjufumod:block_food_yakizakanateitake_1",
+				"chinjufumod:block_food_yakijyaketeitake_1",
+				"chinjufumod:block_food_tgyteikuri_1",
+				"chinjufumod:block_food_yakizakanateikuri_1",
+				"chinjufumod:block_food_yakijyaketeikuri_1"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience":5 }
+}

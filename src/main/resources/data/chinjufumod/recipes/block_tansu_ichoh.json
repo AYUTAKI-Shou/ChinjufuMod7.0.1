@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_tansu",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "tag": "forge:planks/ginkgo" },
+		"Y": { "tag": "forge:wooden_slabs/ginkgo" }
+	},
+
+	"result": { "item": "chinjufumod:block_tansu_ichoh", "count": 1 }
+}

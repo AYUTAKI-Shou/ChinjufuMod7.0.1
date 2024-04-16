@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_ctruss",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_ctruss" },
+		"Y": { "tag": "forge:dyes/white" }
+	},
+
+	"result": { "item": "chinjufumod:block_ctruss_white", "count": 8 }
+}

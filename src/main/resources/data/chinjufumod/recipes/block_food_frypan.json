@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_frypan",
+
+	"pattern": [
+		"XX ",
+		"XX ",
+		"  Y"
+	],
+
+	"key": {
+		"X": [ { "tag": "forge:ingots/aluminum" }, { "tag": "forge:ingots/aluminium" } ],
+		"Y": { "tag": "forge:rods/wooden" }
+	},
+
+	"result": { "item": "chinjufumod:block_food_frypan", "count" : 1 }
+}

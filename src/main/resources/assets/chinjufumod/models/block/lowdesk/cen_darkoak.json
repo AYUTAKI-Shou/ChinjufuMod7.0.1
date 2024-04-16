@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/lowdesk_center",
+	"textures": {
+		"particle": "minecraft:block/dark_oak_planks",
+		"leg": "chinjufumod:block/muku_bigoak",
+		"top": "minecraft:block/dark_oak_planks"
+	}
+}

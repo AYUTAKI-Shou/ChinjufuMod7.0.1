@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:block",
+	"pools": [
+		{ "rolls": 1.0, "bonus_rolls": 0.0,
+			"entries": [ { "type": "minecraft:item", 
+			"functions": [ { "function": "minecraft:set_damage", "damage": 0.06 } ],  
+			"name": "chinjufumod:item_admiralstamp_b" } ]
+		}
+	],
+
+	"functions": [ { "function": "minecraft:explosion_decay" }
+	]
+}

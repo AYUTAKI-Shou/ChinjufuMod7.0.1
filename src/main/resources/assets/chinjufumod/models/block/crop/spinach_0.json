@@ -1,0 +1,53 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "chinjufumod:block/spinach_0",
+		"cross": "chinjufumod:block/spinach_0"
+	},
+	"elements": [
+		{ 
+			"name": "x0,y16",
+			"from": [ 1, -1, 4 ],
+			"to": [ 15, 13, 4 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": -22.5, "rescale": false },
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 16, 0, 0, 16 ], "texture": "#cross" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross" }
+			}
+		},
+		{ 
+			"name": "x16,y16",
+			"from": [ 11.5, -1, 0.5 ],
+			"to": [ 11.5, 13, 15.5 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": -22.5, "rescale": false },
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross" },
+				"east": { "uv": [ 16, 0, 0, 16 ], "texture": "#cross" }
+			}
+		},
+		{ 
+			"name": "x16,y0",
+			"from": [ 0.5, -1, 11.5 ],
+			"to": [ 15.5, 13, 11.5 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 22.5, "rescale": false },
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 16, 0, 0, 16 ], "texture": "#cross" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross" }
+			}
+		},
+		{ 
+			"name": "x0,y0",
+			"from": [ 4, -1, 0.5 ],
+			"to": [ 4, 13, 15.5 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "z", "angle": 22.5, "rescale": false },
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross" },
+				"east": { "uv": [ 16, 0, 0, 16 ], "texture": "#cross" }
+			}
+		}
+	]
+}

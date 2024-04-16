@@ -1,0 +1,42 @@
+{
+	"parent": "block/block",
+	"elements":[
+		{
+			"name": "leg_1",
+			"from": [ 0, 0, 0 ],
+			"to": [ 2, 6, 2 ],
+			"faces": {
+				"down": { "texture":"#leg", "cullface": "down" },
+				"north": { "texture":"#leg" },
+				"south": { "texture":"#leg" },
+				"west": { "texture":"#leg" },
+				"east": { "texture":"#leg" }
+			}
+		},
+		{
+			"name": "leg_2",
+			"from": [ 0, 0, 14 ],
+			"to": [ 2, 6, 16 ],
+			"faces": {
+				"down": { "texture":"#leg", "cullface": "down" },
+				"north": { "texture":"#leg" },
+				"south": { "texture":"#leg" },
+				"west": { "texture":"#leg" },
+				"east": { "texture":"#leg" }
+			}
+		},
+		{
+			"name": "top",
+			"from": [ 0, 6, 0 ],
+			"to": [ 16, 8, 16 ],
+			"faces": {
+				"up": { "texture":"#top" },
+				"down": { "texture":"#top" },
+				"north": { "texture":"#top" },
+				"south": { "texture":"#top" },
+				"west": { "texture":"#top" },
+				"east": { "texture":"#top" }
+			}
+		}
+	]
+}

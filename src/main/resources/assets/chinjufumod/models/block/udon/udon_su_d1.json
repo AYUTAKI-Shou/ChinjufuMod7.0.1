@@ -1,0 +1,10 @@
+{
+	"parent": "chinjufumod:block/base/udon_d1",
+	"textures": {
+		"particle": "chinjufumod:block/dish_white",
+		"udon": "chinjufumod:block/udon_su_still_1",
+		"donburi": "chinjufumod:block/dish_white",
+		"hashi": "chinjufumod:block/dish_red",
+		"hashioki": "chinjufumod:block/hashioki"
+	}
+}

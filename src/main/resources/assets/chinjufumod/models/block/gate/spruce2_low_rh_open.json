@@ -1,0 +1,105 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/gate_spruce_front",
+		"front": "chinjufumod:block/gate_spruce_front",
+		"side": "chinjufumod:block/gate_spruce_side",
+		"rivet": "chinjufumod:block/gate_spruce_rivet"
+	},
+	"elements": [
+		{
+			"name": "choutsugai",
+			"from": [ 22, 8, 7.9 ],
+			"to": [ 32, 12, 12.3 ],
+			"rotation": { "origin": [ 0, 8, 56 ], "axis": "y", "angle": 22.5, "rescale": false },
+			"shade": true,
+			"faces": {
+				"up": { "uv": [ 0.0, 11.2, 10.0, 15.8 ], "texture": "#rivet" },
+				"down": { "uv": [ 0.0, 11.2, 10.0, 15.8 ], "texture": "#rivet" },
+				"north": { "uv": [ 0.0, 8.0, 10.0, 12.0 ], "texture": "#rivet" },
+				"south": { "uv": [ 0.0, 8.0, 10.0, 12.0 ], "texture": "#rivet" },
+				"east": { "uv": [ 11.2, 8.0, 15.8, 12.0 ], "texture": "#rivet" },
+				"west": { "uv": [ 11.2, 8.0, 15.8, 12.0 ], "texture": "#rivet" }
+			}
+		},
+
+		{
+			"name": "right_low_fuchi_shita",
+			"from": [ 16, 0.2, 8.0 ],
+			"to": [ 27, 5, 12.2 ],
+			"rotation": { "origin": [ 0, 8, 56 ], "axis": "y", "angle": 22.5, "rescale": false },
+			"shade": true,
+			"faces": {
+				"up": { "uv": [ 0.4, 5.0, 4.6, 16.0 ], "texture": "#side", "rotation": 90 },
+				"down": { "uv": [ 0.4, 5.0, 4.6, 16.0 ], "texture": "#side", "rotation": 90 },
+				"north": { "uv": [ 0.0, 16.0, 5.0, 5.0 ], "texture": "#side", "rotation": 90 },
+				"south": { "uv": [ 0.0, 5.0, 5.0, 16.0 ], "texture": "#side", "rotation": 90 }
+			}
+		},
+		{
+			"name": "right_low_fuchi_yoko",
+			"from": [ 27, 0.2, 8.0 ],
+			"to": [ 31.9, 16, 12.2 ],
+			"rotation": { "origin": [ 0, 8, 56 ], "axis": "y", "angle": 22.5, "rescale": false },
+			"shade": true,
+			"faces": {
+				"down": { "uv": [ 0.0, 11.0, 5.0, 16.0 ], "texture": "#side" },
+				"north": { "uv": [ 5.0, 0.0, 10.0, 16.0 ], "texture": "#side" },
+				"south": { "uv": [ 5.0, 0.0, 10.0, 16.0 ], "texture": "#side" },
+				"east": { "uv": [ 0.4, 0.0, 4.6, 16.0 ], "texture": "#side" },
+				"west": { "uv": [ 0.4, 0.0, 4.6, 16.0 ], "texture": "#side" }
+			}
+		},
+
+		{
+			"name": "left_low_fuchi_shita",
+			"from": [ 5, 0.2, 8.0 ],
+			"to": [ 16, 5, 12.2 ],
+			"rotation": { "origin": [ 0, 8, 56 ], "axis": "y", "angle": 22.5, "rescale": false },
+			"shade": true,
+			"faces": {
+				"up": { "uv": [ 0.4, 5.0, 4.6, 16.0 ], "texture": "#side", "rotation": 90 },
+				"down": { "uv": [ 0.4, 5.0, 4.6, 16.0 ], "texture": "#side", "rotation": 90 },
+				"north": { "uv": [ 0.0, 16.0, 5.0, 5.0 ], "texture": "#side", "rotation": 90 },
+				"south": { "uv": [ 0.0, 5.0, 5.0, 16.0 ], "texture": "#side", "rotation": 90 }
+			}
+		},
+		{
+			"name": "left_low_fuchi_yoko",
+			"from": [ 0.1, 0.2, 8.0 ],
+			"to": [ 5, 16, 12.2 ],
+			"rotation": { "origin": [ 0, 8, 56 ], "axis": "y", "angle": 22.5, "rescale": false },
+			"shade": true,
+			"faces": {
+				"down": { "uv": [ 0.0, 11.0, 5.0, 16.0 ], "texture": "#side" },
+				"north": { "uv": [ 0.0, 0.0, 5.0, 16.0 ], "texture": "#side" },
+				"south": { "uv": [ 0.0, 0.0, 5.0, 16.0 ], "texture": "#side" },
+				"east": { "uv": [ 0.4, 0.0, 4.6, 16.0 ], "texture": "#side" },
+				"west": { "uv": [ 0.4, 0.0, 4.6, 16.0 ], "texture": "#side" }
+			}
+		},
+
+		{
+			"name": "right_front_center",
+			"from": [ 16, 5, 8.4 ],
+			"to": [ 27, 16, 11.8 ],
+			"rotation": { "origin": [ 0, 8, 56 ], "axis": "y", "angle": 22.5, "rescale": false },
+			"shade": true,
+			"faces": {
+				"north": { "uv": [ 5.0, 0.0, 16.0, 11.0 ], "texture": "#front" },
+				"south": { "uv": [ 16.0, 0.0, 5.0, 11.0 ], "texture": "#front" }
+			}
+		},
+		{
+			"name": "left_front_center",
+			"from": [ 5, 5, 8.4 ],
+			"to": [ 16, 16, 11.8 ],
+			"rotation": { "origin": [ 0, 8, 56 ], "axis": "y", "angle": 22.5, "rescale": false },
+			"shade": true,
+			"faces": {
+				"north": { "uv": [ 0.0, 0.0, 11.0, 11.0 ], "texture": "#front" },
+				"south": { "uv": [ 11.0, 0.0, 0.0, 11.0 ], "texture": "#front" }
+			}
+		}
+	]
+}

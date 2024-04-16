@@ -1,0 +1,135 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/shishiodoshi",
+		"take": "chinjufumod:block/shishiodoshi",
+		"ki": "chinjufumod:block/muku_oak",
+		"flow": "minecraft:block/water_flow",
+		"ishi": "minecraft:block/stone"
+	},
+	"elements": [
+
+		{
+			"name": "kuda_tate3n_________________________________",
+			"from": [ -3.5, 0, 17.5 ],
+			"to": [ -3, 8.5, 18 ],
+			"faces": {
+				"north": { "uv": [ 13.0, 7.5, 12.5, 16.0 ], "texture": "#ki" },
+				"south": { "uv": [ 12.5, 7.5, 13.0, 16.0 ], "texture": "#ki" }
+			}
+		},
+		{
+			"name": "kuda_tate3s",
+			"from": [ -3.5, 0, 16.5 ],
+			"to": [ -3, 8, 17 ],
+			"faces": {
+				"north": { "uv": [ 13.0, 8.0, 12.5, 16.0 ], "texture": "#ki" },
+				"south": { "uv": [ 12.5, 8.0, 13.0, 16.0 ], "texture": "#ki" }
+			}
+		},
+		{
+			"name": "kuda_tate3e",
+			"from": [ -4, 0, 16.5 ],
+			"to": [ -3.5, 8.5, 18 ],
+			"faces": {
+				"north": { "uv": [ 13.5, 7.5, 13.0, 16.0 ], "texture": "#ki" },
+				"south": { "uv": [ 12.0, 7.5, 12.5, 16.0 ], "texture": "#ki" },
+				"west": { "uv": [ 14.0, 7.5, 15.5, 16.0 ], "texture": "#ki" },
+				"east": { "uv": [ 15.5, 7.5, 14.0, 16.0 ], "texture": "#ki" }
+			}
+		},
+		{
+			"name": "kuda_tate3w",
+			"from": [ -3, 0, 16.5 ],
+			"to": [ -2.5, 8.5, 18 ],
+			"faces": {
+				"north": { "uv": [ 12.5, 7.5, 12.0, 16.0 ], "texture": "#ki" },
+				"south": { "uv": [ 13.0, 7.5, 13.5, 16.0 ], "texture": "#ki" },
+				"west": { "uv": [ 14.0, 7.5, 15.5, 16.0 ], "texture": "#ki" },
+				"east": { "uv": [ 15.5, 7.5, 14.0, 16.0 ], "texture": "#ki" }
+			}
+		},
+
+		{
+			"name": "kuda_tate_futa",
+			"from": [ -4, 8.5, 16.5 ],
+			"to": [ -2.5, 9, 18 ],
+			"faces": {
+				"up": { "uv": [ 12.0, 14.0, 13.5, 15.5 ], "texture": "#ki" },
+				"down": { "uv": [ 12.0, 14.0, 13.5, 15.5 ], "texture": "#ki" },
+				"north": { "uv": [ 12.0, 7.0, 13.5, 7.5 ], "texture": "#ki" },
+				"south": { "uv": [ 12.0, 7.0, 13.5, 7.5 ], "texture": "#ki" },
+				"west": { "uv": [ 14.0, 7.0, 14.5, 7.5 ], "texture": "#ki" },
+				"east": { "uv": [ 15.0, 7.0, 15.5, 7.5 ], "texture": "#ki" }
+			}
+		},
+
+		{
+			"name": "kuda_soko_________________________________",
+			"from": [ -3.75, 7.75, 8.25 ],
+			"to": [ -2.75, 8, 16.5 ],
+			"faces": {
+				"up": { "uv": [ 12.25, 0.0, 13.25, 8.25 ], "texture": "#ki" },
+				"down": { "uv": [ 12.25, 0.0, 13.25, 8.25 ], "texture": "#ki" },
+				"north": { "uv": [ 12.25, 8.0, 13.25, 8.25 ], "texture": "#ki" },
+				"south": { "uv": [ 12.25, 8.0, 13.25, 8.25 ], "texture": "#ki" },
+				"west": { "uv": [ 0.0, 8.0, 8.25, 8.25 ], "texture": "#ki" },
+				"east": { "uv": [ 0.0, 8.0, 8.25, 8.25 ], "texture": "#ki" }
+			}
+		},
+		{
+			"name": "kuda_e",
+			"from": [ -3.75, 8, 8.25 ],
+			"to": [ -3.5, 8.5, 16.5 ],
+			"faces": {
+				"up": { "uv": [ 12.25, 0.0, 12.5, 8.25 ], "texture": "#ki" },
+				"north": { "uv": [ 12.25, 7.5, 12.5, 8.0 ], "texture": "#ki" },
+				"south": { "uv": [ 12.25, 7.5, 12.5, 8.0 ], "texture": "#ki" },
+				"west": { "uv": [ 0.0, 7.5, 8.25, 8.0 ], "texture": "#ki" },
+				"east": { "uv": [ 0.0, 7.5, 8.25, 8.0 ], "texture": "#ki" }
+			}
+		},
+		{
+			"name": "kuda_w",
+			"from": [ -3, 8, 8.25 ],
+			"to": [ -2.75, 8.5, 16.5 ],
+			"faces": {
+				"up": { "uv": [ 13.0, 0.0, 13.25, 8.25 ], "texture": "#ki" },
+				"north": { "uv": [ 13.0, 7.5, 13.25, 8.0 ], "texture": "#ki" },
+				"south": { "uv": [ 13.0, 7.5, 13.25, 8.0 ], "texture": "#ki" },
+				"west": { "uv": [ 0.0, 7.5, 8.25, 8.0 ], "texture": "#ki" },
+				"east": { "uv": [ 0.0, 7.5, 8.25, 8.0 ], "texture": "#ki" }
+			}
+		},
+
+		{
+			"name": "mizu_tate",
+			"from": [ -3.5, 0, 17 ],
+			"to": [ -3, 8.1, 17.49 ],
+			"faces": {
+				"north": { "uv": [ 0.0, 8.0, 1.0, 0.0 ], "texture": "#flow", "tintindex": 1 }
+			}
+		},
+
+		{
+			"name": "mizu_yoko",
+			"from": [ -3.5, 8, 8 ],
+			"to": [ -3, 8.1, 17.5 ],
+			"faces": {
+				"up": { "uv": [ 0.0, 9.5, 1.0, 0.0 ], "texture": "#flow", "tintindex": 1 }
+			}
+		},
+
+		{
+			"name": "mizu_tate1",
+			"from": [ -3.5, -0.5, 8 ],
+			"to": [ -3, 8.1, 8.25 ],
+			"faces": {
+				"north": { "uv": [ 0.0, 2.0, 1.0, 10.5 ], "texture": "#flow", "tintindex": 1 },
+				"south": { "uv": [ 0.0, 2.0, 1.0, 10.5 ], "texture": "#flow", "tintindex": 1 },
+				"west": { "uv": [ 0.0, 2.0, 0.5, 10.5 ], "texture": "#flow", "tintindex": 1 },
+				"east": { "uv": [ 0.5, 2.0, 1.0, 10.5 ], "texture": "#flow", "tintindex": 1 }
+			}
+		}
+	]
+}

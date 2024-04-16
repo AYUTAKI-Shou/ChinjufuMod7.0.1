@@ -1,0 +1,16 @@
+{
+	"parent": "block/block",
+	"elements": [
+		{ "from": [ 1, 0, 1 ],
+			"to": [ 15, 0.5, 15 ],
+			"faces": {
+				"down": { "uv": [ 1, 1, 15, 15 ], "texture": "#inside", "cullface": "down" },
+				"up": { "uv": [ 1, 1, 15, 15 ], "texture": "#front" },
+				"north": { "uv": [ 1, 15, 15, 15.5 ], "texture": "#inside" },
+				"south": { "uv": [ 1, 15, 15, 15.5 ], "texture": "#inside" },
+				"west": { "uv": [ 1, 15, 15, 15.5 ], "texture": "#inside" },
+				"east": { "uv": [ 1, 15, 15, 15.5 ], "texture": "#inside" }
+			}
+		}
+	]
+}

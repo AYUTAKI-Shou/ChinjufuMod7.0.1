@@ -1,0 +1,26 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_bonsai_spruce",
+			"chinjufumod:block_kanyouspruce_bot",
+			"chinjufumod:block_low_spruce",
+			"chinjufumod:block_longspruce_bot",
+			
+			"chinjufumod:block_xmastree",
+			"chinjufumod:block_xmastree_w"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["minecraft:spruce_sapling"] } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

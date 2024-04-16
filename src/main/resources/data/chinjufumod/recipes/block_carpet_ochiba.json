@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_carpet",
+
+	"pattern": [
+		"XX"
+	],
+
+	"key": {
+		"X": { "tag": "forge:leaves/autumn_oak" }
+	},
+
+	"result": { "item": "chinjufumod:block_carpet_ochiba", "count": 8 }
+}

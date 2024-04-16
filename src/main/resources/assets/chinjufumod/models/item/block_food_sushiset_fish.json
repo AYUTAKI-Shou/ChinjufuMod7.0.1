@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:block/sushi/sushiset_fish_hand",
+	"gui_light": "front", "display": {
+		"gui": {
+			"rotation": [ 90, 0, 0 ],
+			"translation": [ 0.5, 2, 0 ],
+			"scale": [ 1.0, 1.0, 1.0 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 70, 0, 0 ],
+			"translation": [ 0.5, 7.5, 5 ],
+			"scale": [ 0.8, 0.8, 0.8 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 7, 0 ],
+			"scale": [ 1.0, 1.0, 1.0 ]
+		},
+		"fixed": {
+			"rotation": [ 270, 180, 0 ],
+			"translation": [ -0.5, 2, -5.5 ],
+			"scale": [ 0.8, 0.8, 0.8 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		}
+	}
+}

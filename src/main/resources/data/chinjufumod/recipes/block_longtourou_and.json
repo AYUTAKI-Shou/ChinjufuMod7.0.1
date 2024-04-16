@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_ishitourou",
+
+	"pattern": [
+		"X",
+		"Y"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_ishitourou_and" },
+		"Y": { "item": "minecraft:andesite" }
+	},
+
+	"result": { "item": "chinjufumod:block_longtourou_and", "count": 1 }
+}

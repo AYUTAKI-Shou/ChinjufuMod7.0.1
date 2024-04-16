@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "chinjufumod:item_clay_chawan"
+	},
+	"result": "chinjufumod:item_food_chawan",
+	"experience": 0.5,
+	"cookingtime": 200
+}

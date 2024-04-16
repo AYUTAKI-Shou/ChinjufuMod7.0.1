@@ -1,0 +1,17 @@
+{
+	"replace": false,
+	"values": [
+		"chinjufumod:block_vege_cabbage",
+		"chinjufumod:block_vege_hakusai",
+		"chinjufumod:block_vege_corn",
+		"chinjufumod:block_vege_onion",
+		"chinjufumod:block_vege_rice",
+		"chinjufumod:block_vege_soy",
+		"chinjufumod:block_vege_spinach",
+		"chinjufumod:block_vege_tomato",
+		"chinjufumod:block_tree_sakura_me",
+		
+		"chinjufumod:block_spice_cumin",
+		"chinjufumod:block_spice_turmeric"
+	]
+}

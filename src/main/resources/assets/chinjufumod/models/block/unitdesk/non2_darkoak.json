@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/unitdesk_none2",
+	"textures": {
+		"particle":"minecraft:block/dark_oak_planks",
+		"leg": "minecraft:block/dark_oak_planks",
+		"top": "minecraft:block/dark_oak_planks"
+	}
+}

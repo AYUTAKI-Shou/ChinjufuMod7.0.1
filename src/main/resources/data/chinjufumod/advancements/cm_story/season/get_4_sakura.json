@@ -1,0 +1,38 @@
+{
+	"parent": "chinjufumod:cm_story/season/get_3_hinakazari",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.season.get_4_sakura.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.season.get_4_sakura.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_tree_sakura_flow"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "items": ["chinjufumod:block_tree_sakura_flow"] } ] }
+		}
+	},
+		"has_material2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "tag": "forge:crops/bambooshoot" } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material",
+			"has_material2"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

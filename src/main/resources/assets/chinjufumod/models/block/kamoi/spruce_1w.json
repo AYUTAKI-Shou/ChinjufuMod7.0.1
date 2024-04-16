@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/kamoi_1west",
+	"textures": {
+		"particle": "chinjufumod:block/pillar_spruce_side",
+		"ki": "chinjufumod:block/pillar_spruce_side",
+		"ki_top": "chinjufumod:block/pillar_spruce_top",
+		"ki_inside": "chinjufumod:block/pillar_spruce_inside"
+	}
+}

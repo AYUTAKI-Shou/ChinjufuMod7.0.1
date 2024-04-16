@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_kitchen",
+
+	"pattern": [
+		"X",
+		"X"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_alumi_block" }
+	},
+
+	"result": { "item": "chinjufumod:block_kit_duct", "count": 8 }
+}

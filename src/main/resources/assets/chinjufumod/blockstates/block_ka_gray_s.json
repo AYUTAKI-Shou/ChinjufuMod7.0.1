@@ -1,0 +1,23 @@
+{
+	"variants": {
+	"facing=north,stage=1": { "model": "chinjufumod:block/kamoicolor/gray_spruce1n" },
+	"facing=south,stage=1": { "model": "chinjufumod:block/kamoicolor/gray_spruce1s" },
+	"facing=west,stage=1": { "model": "chinjufumod:block/kamoicolor/gray_spruce1w" },
+	"facing=east,stage=1": { "model": "chinjufumod:block/kamoicolor/gray_spruce1e" },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/kamoicolor/gray_spruce2n" },
+		"facing=south,stage=2": { "model": "chinjufumod:block/kamoicolor/gray_spruce2s" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/kamoicolor/gray_spruce2w" },
+		"facing=east,stage=2": { "model": "chinjufumod:block/kamoicolor/gray_spruce2e" },
+
+	"facing=north,stage=3": { "model": "chinjufumod:block/kamoicolor/gray_spruce3n" },
+	"facing=south,stage=3": { "model": "chinjufumod:block/kamoicolor/gray_spruce3s" },
+	"facing=west,stage=3": { "model": "chinjufumod:block/kamoicolor/gray_spruce3w" },
+	"facing=east,stage=3": { "model": "chinjufumod:block/kamoicolor/gray_spruce3e" },
+
+		"facing=north,stage=4": { "model": "chinjufumod:block/kamoicolor/gray_spruce4n" },
+		"facing=south,stage=4": { "model": "chinjufumod:block/kamoicolor/gray_spruce4s" },
+		"facing=west,stage=4": { "model": "chinjufumod:block/kamoicolor/gray_spruce4w" },
+		"facing=east,stage=4": { "model": "chinjufumod:block/kamoicolor/gray_spruce4e" }
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/fish_niboshi_paper",
+		"paper": "chinjufumod:block/fish_niboshi_paper"
+	},
+	"elements": [
+		{
+			"name": "paper",
+			"from": [ 1.0, 0.01, 1.0 ],
+			"to": [ 15.0, 0.05, 15.0 ],
+			"faces": {
+				"up" : { "uv": [ 1.0, 1.0, 15.0, 15.0 ], "texture": "#paper" },
+				"down" : { "uv": [ 1.0, 1.0, 15.0, 15.0 ], "texture": "#paper" }
+			}
+		}
+	]
+}

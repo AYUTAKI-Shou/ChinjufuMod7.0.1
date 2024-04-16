@@ -1,0 +1,43 @@
+{
+	"variants": {
+		"facing=north,type=default,ver=1": { "model": "chinjufumod:block/ranmab/darkoak_default", "y": 0},
+		"facing=north,type=left,ver=1": { "model": "chinjufumod:block/ranmab/darkoak_left", "y": 0},
+		"facing=north,type=right,ver=1": { "model": "chinjufumod:block/ranmab/darkoak_right", "y": 0},
+		"facing=north,type=both,ver=1": { "model": "chinjufumod:block/ranmab/darkoak_both", "y": 0},
+
+		"facing=south,type=default,ver=1": { "model": "chinjufumod:block/ranmab/darkoak_default", "y": 180},
+		"facing=south,type=left,ver=1": { "model": "chinjufumod:block/ranmab/darkoak_left", "y": 180},
+		"facing=south,type=right,ver=1": { "model": "chinjufumod:block/ranmab/darkoak_right", "y": 180},
+		"facing=south,type=both,ver=1": { "model": "chinjufumod:block/ranmab/darkoak_both", "y": 180},
+
+		"facing=west,type=default,ver=1": { "model": "chinjufumod:block/ranmab/darkoak_default", "y": 270},
+		"facing=west,type=left,ver=1": { "model": "chinjufumod:block/ranmab/darkoak_left", "y": 270},
+		"facing=west,type=right,ver=1": { "model": "chinjufumod:block/ranmab/darkoak_right", "y": 270},
+		"facing=west,type=both,ver=1": { "model": "chinjufumod:block/ranmab/darkoak_both", "y": 270},
+
+		"facing=east,type=default,ver=1": { "model": "chinjufumod:block/ranmab/darkoak_default", "y": 90},
+		"facing=east,type=left,ver=1": { "model": "chinjufumod:block/ranmab/darkoak_left", "y": 90},
+		"facing=east,type=right,ver=1": { "model": "chinjufumod:block/ranmab/darkoak_right", "y": 90},
+		"facing=east,type=both,ver=1": { "model": "chinjufumod:block/ranmab/darkoak_both", "y": 90},
+
+		"facing=north,type=default,ver=2": { "model": "chinjufumod:block/ranmab/darkoak2_default", "y": 0},
+		"facing=north,type=left,ver=2": { "model": "chinjufumod:block/ranmab/darkoak2_left", "y": 0},
+		"facing=north,type=right,ver=2": { "model": "chinjufumod:block/ranmab/darkoak2_right", "y": 0},
+		"facing=north,type=both,ver=2": { "model": "chinjufumod:block/ranmab/darkoak2_both", "y": 0},
+
+		"facing=south,type=default,ver=2": { "model": "chinjufumod:block/ranmab/darkoak2_default", "y": 180},
+		"facing=south,type=left,ver=2": { "model": "chinjufumod:block/ranmab/darkoak2_left", "y": 180},
+		"facing=south,type=right,ver=2": { "model": "chinjufumod:block/ranmab/darkoak2_right", "y": 180},
+		"facing=south,type=both,ver=2": { "model": "chinjufumod:block/ranmab/darkoak2_both", "y": 180},
+
+		"facing=west,type=default,ver=2": { "model": "chinjufumod:block/ranmab/darkoak2_default", "y": 270},
+		"facing=west,type=left,ver=2": { "model": "chinjufumod:block/ranmab/darkoak2_left", "y": 270},
+		"facing=west,type=right,ver=2": { "model": "chinjufumod:block/ranmab/darkoak2_right", "y": 270},
+		"facing=west,type=both,ver=2": { "model": "chinjufumod:block/ranmab/darkoak2_both", "y": 270},
+
+		"facing=east,type=default,ver=2": { "model": "chinjufumod:block/ranmab/darkoak2_default", "y": 90},
+		"facing=east,type=left,ver=2": { "model": "chinjufumod:block/ranmab/darkoak2_left", "y": 90},
+		"facing=east,type=right,ver=2": { "model": "chinjufumod:block/ranmab/darkoak2_right", "y": 90},
+		"facing=east,type=both,ver=2": { "model": "chinjufumod:block/ranmab/darkoak2_both", "y": 90}
+	}
+}

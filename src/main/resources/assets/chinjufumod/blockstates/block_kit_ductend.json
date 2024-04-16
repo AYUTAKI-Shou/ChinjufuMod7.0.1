@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:block/kitchen/ductend", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:block/kitchen/ductend" },
+		"facing=west,stage=1": { "model": "chinjufumod:block/kitchen/ductend", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:block/kitchen/ductend", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/kitchen/ductend_2", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:block/kitchen/ductend_2" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/kitchen/ductend_2", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:block/kitchen/ductend_2", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:block/kitchen/ductend_3", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:block/kitchen/ductend_3" },
+		"facing=west,stage=3": { "model": "chinjufumod:block/kitchen/ductend_3", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:block/kitchen/ductend_3", "y": 270 }
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/wallpanel_wide",
+	"textures": {
+		"particle": "minecraft:block/cut_red_sandstone",
+		"front": "minecraft:block/cut_red_sandstone",
+		"back": "minecraft:block/cut_red_sandstone",
+		"side": "minecraft:block/cut_red_sandstone"
+	}
+}

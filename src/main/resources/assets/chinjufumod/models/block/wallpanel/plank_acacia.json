@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/wallpanel_wide",
+	"textures": {
+		"particle": "minecraft:block/acacia_planks",
+		"front": "minecraft:block/acacia_planks",
+		"back": "minecraft:block/acacia_planks",
+		"side": "minecraft:block/acacia_planks"
+	}
+}

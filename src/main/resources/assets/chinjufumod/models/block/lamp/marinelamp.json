@@ -1,0 +1,195 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/lamp",
+		"frame": "chinjufumod:block/lamp_frame",
+		"lamp": "chinjufumod:block/lamp_glass",
+		"glass": "minecraft:block/white_stained_glass"
+	},
+	"elements": [
+		{
+			"name": "lamp_soko",
+			"from": [ 6, 0, 6 ],
+			"to": [ 10, 1, 10 ],
+			"faces": {
+				"up" : { "texture": "#frame" },
+				"down" : { "texture": "#frame" },
+				"north": { "texture": "#frame" },
+				"south": { "texture": "#frame" },
+				"west" : { "texture": "#frame" },
+				"east" : { "texture": "#frame" }
+			}
+		},
+		{
+			"name": "frame_n",
+			"from": [ 7.8, 1, 6.1 ],
+			"to": [ 8.2, 6.3, 6.5 ],
+			"faces": {
+				"north": { "texture": "#frame" },
+				"south": { "texture": "#frame" },
+				"west" : { "texture": "#frame" },
+				"east" : { "texture": "#frame" }
+			}
+		},
+		{
+			"name": "frame_s",
+			"from": [ 7.8, 1, 9.5 ],
+			"to": [ 8.2, 6.3, 9.9 ],
+			"faces": {
+				"north": { "texture": "#frame" },
+				"south": { "texture": "#frame" },
+				"west" : { "texture": "#frame" },
+				"east" : { "texture": "#frame" }
+			}
+		},
+		{
+			"name": "frame_ns",
+			"from": [ 7.8, 6.3, 6.1 ],
+			"to": [ 8.2, 6.7, 9.9 ],
+			"faces": {
+				"up" : { "texture": "#frame" },
+				"down" : { "texture": "#frame" },
+				"north": { "texture": "#frame" },
+				"south": { "texture": "#frame" },
+				"west" : { "texture": "#frame" },
+				"east" : { "texture": "#frame" }
+			}
+		},
+
+		{
+			"name": "frame_e",
+			"from": [ 9.5, 1, 7.8 ],
+			"to": [ 9.9, 6.4, 8.2 ],
+			"faces": {
+				"north": { "texture": "#frame" },
+				"south": { "texture": "#frame" },
+				"west" : { "texture": "#frame" },
+				"east" : { "texture": "#frame" }
+			}
+		},
+		{
+			"name": "frame_w",
+			"from": [ 6.1, 1, 7.8 ],
+			"to": [ 6.5, 6.4, 8.2 ],
+			"faces": {
+				"north": { "texture": "#frame" },
+				"south": { "texture": "#frame" },
+				"west" : { "texture": "#frame" },
+				"east" : { "texture": "#frame" }
+			}
+		},
+		{
+			"name": "frame_ew_______________________________",
+			"from": [ 6.1, 6.4, 7.8 ],
+			"to": [ 9.9, 6.8, 8.2 ],
+			"faces": {
+				"up" : { "texture": "#frame" },
+				"down" : { "texture": "#frame" },
+				"north": { "texture": "#frame" },
+				"south": { "texture": "#frame" },
+				"west" : { "texture": "#frame" },
+				"east" : { "texture": "#frame" }
+			}
+		},
+
+		{
+			"name": "frame_ns_migi",
+			"from": [ 6, 3.5, 6.4 ],
+			"to": [ 6.4, 3.9, 9.6 ],
+			"faces": {
+				"up" : { "texture": "#frame" },
+				"down" : { "texture": "#frame" },
+				"west" : { "texture": "#frame" },
+				"east" : { "texture": "#frame" }
+			}
+		},
+		{
+			"name": "frame_ns_hidari",
+			"from": [ 9.6, 3.5, 6.4 ],
+			"to": [ 10, 3.9, 9.6 ],
+			"faces": {
+				"up" : { "texture": "#frame" },
+				"down" : { "texture": "#frame" },
+				"west" : { "texture": "#frame" },
+				"east" : { "texture": "#frame" }
+			}
+		},
+		{
+			"name": "frame_ew_ue",
+			"from": [ 6, 3.5, 9.6 ],
+			"to": [ 10, 3.9, 10 ],
+			"faces": {
+				"up" : { "texture": "#frame" },
+				"down" : { "texture": "#frame" },
+				"north": { "texture": "#frame" },
+				"south": { "texture": "#frame" },
+				"west" : { "texture": "#frame" },
+				"east" : { "texture": "#frame" }
+			}
+		},
+		{
+			"name": "frame_ew_shita",
+			"from": [ 6, 3.5, 6 ],
+			"to": [ 10, 3.9, 6.4 ],
+			"faces": {
+				"up" : { "texture": "#frame" },
+				"down" : { "texture": "#frame" },
+				"north": { "texture": "#frame" },
+				"south": { "texture": "#frame" },
+				"west" : { "texture": "#frame" },
+				"east" : { "texture": "#frame" }
+			}
+		},
+
+		{
+			"name": "glass",
+			"from": [ 6.8, 1, 6.8 ],
+			"to": [ 9.2, 6, 9.2 ],
+			"faces": {
+				"up" : { "uv": [ 0.0, 0.0, 7.2, 7.2 ], "texture": "#glass" },
+				"north" : { "uv": [ 8.8, 0.0, 16.0, 15.0 ], "texture": "#glass" },
+				"south": { "uv": [ 8.8, 0.0, 16.0, 15.0 ], "texture": "#glass" },
+				"west" : { "uv": [ 8.8, 0.0, 16.0, 15.0 ], "texture": "#glass" },
+				"east" : { "uv": [ 8.8, 0.0, 16.0, 15.0 ], "texture": "#glass" }
+			}
+		},
+
+		{
+			"name": "lamp_socket",
+			"from": [ 7.5, 1, 7.5 ],
+			"to": [ 8.5, 3, 8.5 ],
+			"faces": {
+				"up": { "uv": [ 2.0, 2.0, 4.0, 4.0 ], "texture": "#lamp" },
+				"north": { "uv": [ 6.0, 4.0, 8.0, 8.0 ], "texture": "#lamp" },
+				"south": { "uv": [ 2.0, 4.0, 4.0, 8.0 ], "texture": "#lamp" },
+				"east": { "uv": [ 4.0, 4.0, 6.0, 8.0 ], "texture": "#lamp" },
+				"west": { "uv": [ 0.0, 4.0, 2.0, 8.0 ], "texture": "#lamp" }
+			}
+		},
+		{
+			"name": "lamp_fushi",
+			"from": [ 7.7, 2.6, 7.7 ],
+			"to": [ 8.3, 3.2, 8.3 ],
+			"faces": {
+				"down": { "uv": [ 0.0, 2.0, 1.0, 3.0 ], "texture": "#lamp" },
+				"north": { "uv": [ 6.0, 2.0, 7.0, 3.0 ], "texture": "#lamp" },
+				"south": { "uv": [ 2.0, 2.0, 3.0, 3.0 ], "texture": "#lamp" },
+				"east": { "uv": [ 4.0, 2.0, 5.0, 3.0 ], "texture": "#lamp" },
+				"west": { "uv": [ 0.0, 2.0, 1.0, 3.0 ], "texture": "#lamp" }
+			}
+		},
+		{
+			"name": "lamp",
+			"from": [ 7.5, 3.2, 7.5 ],
+			"to": [ 8.5, 4.2, 8.5 ],
+			"faces": {
+				"up": { "uv": [ 0.0, 0.0, 2.0, 2.0 ], "texture": "#lamp" },
+				"down": { "uv": [ 0.0, 0.0, 2.0, 2.0 ], "texture": "#lamp" },
+				"north": { "uv": [ 6.0, 0.0, 8.0, 2.0 ], "texture": "#lamp" },
+				"south": { "uv": [ 2.0, 0.0, 4.0, 2.0 ], "texture": "#lamp" },
+				"east": { "uv": [ 4.0, 0.0, 6.0, 2.0 ], "texture": "#lamp" },
+				"west": { "uv": [ 0.0, 0.0, 2.0, 2.0 ], "texture": "#lamp" }
+			}
+		}
+	]
+}
