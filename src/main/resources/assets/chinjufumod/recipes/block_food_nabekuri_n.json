@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_gohan",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "bucketWater" },
+		{ "type": "forge:ore_dict", "ore": "cropChestnut" },
+		{ "type": "forge:ore_dict", "ore": "cropChestnut" },
+		{ "type": "forge:ore_dict", "ore": "cropChestnut" },
+		{ "type": "forge:ore_dict", "ore": "cropChestnut" },
+		{ "type": "forge:ore_dict", "ore": "cropChestnut" },
+		{ "type": "forge:ore_dict", "ore": "cropChestnut" },
+		{ "item": "chinjufumod:block_food_karanabe" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_nabekuri_n", "data": 1, "count" : 1 }
+}

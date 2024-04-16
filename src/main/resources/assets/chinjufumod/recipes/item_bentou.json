@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_gohan",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_food_dish", "data": 9 },
+		{ "item": "chinjufumod:item_food_dish", "data": 9 },
+		{ "item": "minecraft:cooked_fish", "data": 0 },
+		{ "item": "minecraft:cooked_fish", "data": 0 },
+		{ "item": "chinjufumod:block_food_tgy_1" },
+		{ "item": "chinjufumod:item_food_hakusai2" },
+		{ "item": "chinjufumod:item_food_noriita" },
+		{ "item": "chinjufumod:item_food_noriita" },
+		{ "item": "chinjufumod:item_mushigome", "data": 0 }
+	],
+
+	"result": { "item": "chinjufumod:item_bentou", "data": 0, "count" : 2 }
+}

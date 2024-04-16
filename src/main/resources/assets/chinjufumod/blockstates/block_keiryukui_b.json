@@ -1,0 +1,8 @@
+{
+  "variants": {
+	"facing=north": { "model": "chinjufumod:truss/keiryukui_b", "y": 180 },
+	"facing=south": { "model": "chinjufumod:truss/keiryukui_b" },
+	"facing=west":  { "model": "chinjufumod:truss/keiryukui_b", "y": 90 },
+	"facing=east":  { "model": "chinjufumod:truss/keiryukui_b", "y": 270 }
+  }
+}

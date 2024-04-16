@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:ishitourou/stone_bot", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:ishitourou/stone_bot", "y": 0  },
+		"facing=west,stage=1":  { "model": "chinjufumod:ishitourou/stone_bot", "y": 90 },
+		"facing=east,stage=1":  { "model": "chinjufumod:ishitourou/stone_bot", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:ishitourou/granite_bot", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:ishitourou/granite_bot", "y": 0  },
+		"facing=west,stage=2":  { "model": "chinjufumod:ishitourou/granite_bot", "y": 90 },
+		"facing=east,stage=2":  { "model": "chinjufumod:ishitourou/granite_bot", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:ishitourou/diorite_bot", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:ishitourou/diorite_bot", "y": 0  },
+		"facing=west,stage=3":  { "model": "chinjufumod:ishitourou/diorite_bot", "y": 90 },
+		"facing=east,stage=3":  { "model": "chinjufumod:ishitourou/diorite_bot", "y": 270 },
+
+		"facing=north,stage=4": { "model": "chinjufumod:ishitourou/andesite_bot", "y": 180 },
+		"facing=south,stage=4": { "model": "chinjufumod:ishitourou/andesite_bot", "y": 0  },
+		"facing=west,stage=4":  { "model": "chinjufumod:ishitourou/andesite_bot", "y": 90 },
+		"facing=east,stage=4":  { "model": "chinjufumod:ishitourou/andesite_bot", "y": 270 }
+	}
+}

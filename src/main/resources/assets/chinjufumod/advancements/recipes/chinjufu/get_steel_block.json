@@ -1,0 +1,27 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_cstove_bot",
+			"chinjufumod:block_stovechimney",
+			"chinjufumod:block_ctruss",
+			"chinjufumod:block_kit_reizou",
+			"chinjufumod:block_gate_iron",
+			"chinjufumod:block_ironfence_bot",
+			
+			"chinjufumod:other_steel_to_ingot"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_alumi_block", "data": 2 } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

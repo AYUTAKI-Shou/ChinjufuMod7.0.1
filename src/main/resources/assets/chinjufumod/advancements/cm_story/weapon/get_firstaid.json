@@ -1,0 +1,38 @@
+{
+	"parent": "chinjufumod:cm_story/weapon/get_workorder",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.weapon.get_firstaid.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.weapon.get_firstaid.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_kit_firstaid"
+		},
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": true
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_kit_firstaid", "data": 0 } ]
+			}
+		},
+		"has_material2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_kit_firstaid", "data": 1 } ]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_material",
+			"has_material2"
+		]
+	],
+	"rewards": { "experience": 20 }
+}

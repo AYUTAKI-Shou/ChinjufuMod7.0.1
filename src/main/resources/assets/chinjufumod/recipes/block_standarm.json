@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_lamp",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "dustRedstone" },
+		{ "type": "forge:ore_dict", "ore": "dustRedstone" },
+		{ "item": "minecraft:glowstone" },
+		[ { "type": "forge:ore_dict", "ore": "ingotAluminium" }, { "type": "forge:ore_dict", "ore": "ingotAluminum" } ],
+		[ { "type": "forge:ore_dict", "ore": "ingotAluminium" }, { "type": "forge:ore_dict", "ore": "ingotAluminum" } ]
+	],
+
+	"result": { "item": "chinjufumod:block_standarm", "data": 0, "count": 2 }
+}

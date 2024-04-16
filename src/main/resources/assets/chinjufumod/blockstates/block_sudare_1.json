@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:garden/sudare_1_12", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:garden/sudare_1_12", "y": 0 },
+		"facing=west,stage=1": { "model": "chinjufumod:garden/sudare_1_12", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:garden/sudare_1_12", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:garden/sudare_2", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:garden/sudare_2", "y": 0 },
+		"facing=west,stage=2": { "model": "chinjufumod:garden/sudare_2", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:garden/sudare_2", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:garden/sudare_3", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:garden/sudare_3", "y": 0 },
+		"facing=west,stage=3": { "model": "chinjufumod:garden/sudare_3", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:garden/sudare_3", "y": 270 }
+	}
+}

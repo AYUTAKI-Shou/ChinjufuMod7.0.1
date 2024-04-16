@@ -1,0 +1,22 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_kit_board",
+			"chinjufumod:block_kit_sink1",
+			"chinjufumod:block_kit_stove"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_kitchen", "data": 0 } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

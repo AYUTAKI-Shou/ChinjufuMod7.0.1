@@ -1,0 +1,21 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_food_nabegohankuri_n",
+			"chinjufumod:block_food_nabekuri_n"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "type": "forge:ore_dict", "ore": "cropChestnut" } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

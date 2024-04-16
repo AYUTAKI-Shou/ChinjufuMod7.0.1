@@ -1,0 +1,6 @@
+{
+	"parent": "block/trapdoor_top",
+	"textures": {
+		"texture": "chinjufumod:block/trapdoor_kaede"
+	}
+}

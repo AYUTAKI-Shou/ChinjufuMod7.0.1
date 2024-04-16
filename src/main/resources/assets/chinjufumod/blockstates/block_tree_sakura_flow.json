@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"check_decay=false,decayable=false": { "model": "chinjufumod:tree/sakura_flow" },
+		"check_decay=false,decayable=true": { "model": "chinjufumod:tree/sakura_flow" },
+		"check_decay=true,decayable=false": { "model": "chinjufumod:tree/sakura_flow" },
+		"check_decay=true,decayable=true": { "model": "chinjufumod:tree/sakura_flow" }
+	}
+}

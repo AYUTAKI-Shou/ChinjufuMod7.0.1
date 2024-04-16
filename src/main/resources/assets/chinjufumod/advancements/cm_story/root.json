@@ -1,0 +1,100 @@
+{
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.root.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.root.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_emblem_c"
+		},
+		"show_toast": false,
+		"announce_to_chat": false,
+		"background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_workorder", "data": 0 } ] }
+		},
+		
+		"has_material2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_seedsbox", "data": 0 } ] }
+		},
+		
+		"has_material3": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_food_zundou", "data": 0 } ] }
+		},
+		"has_material4": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_food_karanabe", "data": 0 } ] }
+		},
+		"has_material5": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_food_frypan", "data": 0 } ] }
+		},
+		"has_material6": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_kettle_kara", "data": 0 } ] }
+		},
+		
+		"has_material7": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_koubo", "data": 0 } ] }
+		},
+		
+		"has_material8": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_shousekkai_c", "data": 0 } ] }
+		},
+		"has_material9": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_claykawara", "data": 0 } ] }
+		},
+		
+		"has_material10": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_kadomatsu", "data": 1 } ] }
+		},
+		"has_material11": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_shimenawa", "data": 0 } ] }
+		},
+		"has_material12": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_kadomatsu", "data": 2 } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material",
+			"has_material2",
+			"has_material3",
+			"has_material4",
+			"has_material5",
+			"has_material6",
+			"has_material7",
+			"has_material8",
+			"has_material9",
+			"has_material10",
+			"has_material11",
+			"has_material12"
+		]
+	],
+	"rewards": { }
+}

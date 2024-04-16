@@ -1,0 +1,32 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_kadomatsu"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "minecraft:reeds", "data": 0 } ] }
+		},
+		"has_material2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "type": "forge:ore_dict", "ore": "bamboo" } ] }
+		},
+		"has_material3": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "type": "forge:ore_dict", "ore": "cropBamboo" } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material",
+			"has_material2",
+			"has_material3"
+		]
+	]
+}

@@ -1,0 +1,129 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/food_gohan",
+		"nabe": "chinjufumod:block/muku_birch",
+		"gohan": "chinjufumod:block/food_gohan"
+	},
+	"elements": [
+		{
+			"name": "nabenaka",
+			"from": [ 4, 1.0, 4 ],
+			"to": [ 12, 3.5, 12 ],
+			"faces": {
+				"up" : { "texture": "#gohan" }
+			}
+		},
+
+		{
+			"name": "nabesoko",
+			"from": [ 5, 0, 5 ],
+			"to": [ 11, 0.5, 11 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"north": { "texture": "#nabe" },
+				"south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabe_n1",
+			"from": [ 4, 0.5, 4 ],
+			"to": [ 12, 1, 5 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"north": { "texture": "#nabe" },
+				"south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabe_n2",
+			"from": [ 3.5, 1, 3.5 ],
+			"to": [ 12.5, 4, 4 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"north": { "texture": "#nabe" },
+				"south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabe_e1",
+			"from": [ 11, 0.5, 5 ],
+			"to": [ 12, 1, 11 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabe_e2",
+			"from": [ 12, 1, 4 ],
+			"to": [ 12.5, 4, 12 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+
+		{
+			"name": "nabe_s1",
+			"from": [ 4, 0.5, 11 ],
+			"to": [ 12, 1, 12 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"north": { "texture": "#nabe" },
+				"south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabe_s2",
+			"from": [ 3.5, 1, 12 ],
+			"to": [ 12.5, 4, 12.5 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"north": { "texture": "#nabe" },
+				"south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabe_w1",
+			"from": [ 4, 0.5, 5 ],
+			"to": [ 5, 1, 11 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabe_w2",
+			"from": [ 3.5, 1, 4 ],
+			"to": [ 4, 4, 12 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		}
+	]
+}

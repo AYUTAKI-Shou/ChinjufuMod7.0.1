@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_box",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": [ { "type": "forge:ore_dict", "ore": "plankWood" }, { "type": "forge:ore_dict", "ore": "plankWoodCherry" }, 
+		{ "type": "forge:ore_dict", "ore": "plankWoodAcer" }, { "type": "forge:ore_dict", "ore": "plankWoodGinkgo" } ],
+		"Y": { "item": "chinjufumod:item_workorder", "data": 0 }
+	},
+
+	"result": { "item": "chinjufumod:block_empty_box", "data": 0, "count": 8 }
+}

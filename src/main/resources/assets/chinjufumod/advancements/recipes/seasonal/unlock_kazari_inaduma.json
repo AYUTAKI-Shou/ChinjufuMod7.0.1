@@ -1,0 +1,26 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:item_ykt_inaduma_kazari"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "type": "forge:ore_dict", "ore": "slabWoodAcer" } ] }
+		},
+		"has_material2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "type": "forge:ore_dict", "ore": "dyeRed" } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material",
+			"has_material2"
+		]
+	]
+}

@@ -1,0 +1,29 @@
+{
+	"parent": "chinjufumod:cm_story/season/get_2_valentine",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.season.get_3_hinakazari.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.season.get_3_hinakazari.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_hinakazari", "data": 0
+		},
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_hinakazari", "data": 0 } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_hou",
+
+	"pattern": [
+		"X X",
+		"YZY",
+		"X X"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "paneGlassColorless" },
+		"Y": [ { "type": "forge:ore_dict", "ore": "ingotAluminium" }, { "type": "forge:ore_dict", "ore": "ingotAluminum" } ],
+		"Z": { "type": "forge:ore_dict", "ore": "blockGlassColorless" }
+	},
+
+	"result": { "item": "chinjufumod:item_binoculars", "data": 0, "count": 1 }
+}

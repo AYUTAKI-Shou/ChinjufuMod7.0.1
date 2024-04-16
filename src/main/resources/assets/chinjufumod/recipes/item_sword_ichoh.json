@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_sword",
+
+	"pattern": [
+		"X ",
+		"X ",
+		"YZ"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "plankWoodGinkgo" },
+		"Y": { "item": "minecraft:stick", "data": 0 },
+		"Z": { "item": "chinjufumod:item_workorder", "data": 0 }
+	},
+
+	"result": { "item": "chinjufumod:item_sword_ichoh", "data": 0, "count": 1 }
+}

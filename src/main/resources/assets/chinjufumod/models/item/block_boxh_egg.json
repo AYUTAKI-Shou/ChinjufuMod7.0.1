@@ -1,0 +1,15 @@
+﻿{
+	"parent": "chinjufumod:block/box/egg_bot",
+	"display": {
+		"gui": {
+			"rotation": [ 30, 45, 0 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 0.625, 0.625, 0.625 ]
+		},
+		"fixed": {
+			"rotation": [ 90, 0, 180 ],
+			"translation": [ 0, 0, -1.5 ],
+			"scale": [ 0.5, 0.5, 0.5 ]
+		}
+	}
+}

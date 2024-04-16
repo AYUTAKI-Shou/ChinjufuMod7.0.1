@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_ishitourou",
+
+	"pattern": [
+		"X",
+		"Y",
+		"Z"
+	],
+
+	"key": {
+		"X": [ { "item": "chinjufumod:item_oriito" },
+					{ "item": "minecraft:string" } ],
+		"Y": [ { "item": "chinjufumod:item_soy" },
+					{ "item": "minecraft:slime_ball" } ],
+		"Z": { "item": "minecraft:stone", "data": 0 }
+	},
+
+	"result": { "item": "chinjufumod:block_ishitourou_stone", "data": 1, "count": 1 }
+}

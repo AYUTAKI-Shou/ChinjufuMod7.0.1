@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_seasonal",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "treeSaplingOak" },
+		{ "type": "forge:ore_dict", "ore": "dyeRed" }
+	],
+
+	"result": { "item": "chinjufumod:block_tree_kaede_nae", "data": 0, "count": 1 }
+}

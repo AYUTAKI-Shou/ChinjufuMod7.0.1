@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_trapdoor",
+
+	"pattern": [
+		"XXX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "plankWoodAcer" }
+	},
+
+	"result": { "item": "chinjufumod:block_trapdoor_kaede", "data": 0, "count": 2 }
+}

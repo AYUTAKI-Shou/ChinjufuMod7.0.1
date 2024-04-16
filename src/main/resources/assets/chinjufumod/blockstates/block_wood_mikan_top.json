@@ -1,0 +1,56 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:air" },
+		"stage=1": { "model": "chinjufumod:air" },
+		"stage=2": [ 
+			{ "model": "chinjufumod:crop/wood_mikantop_2", "y": 270 },
+			{ "model": "chinjufumod:crop/wood_mikantop_2", "y": 90 },
+			{ "model": "chinjufumod:crop/wood_mikantop_2", "y": 180 },
+			{ "model": "chinjufumod:crop/wood_mikantop_2", "y": 0 } ],
+		"stage=3": [ 
+			{ "model": "chinjufumod:crop/wood_mikantop_3", "y": 270 },
+			{ "model": "chinjufumod:crop/wood_mikantop_3", "y": 90 },
+			{ "model": "chinjufumod:crop/wood_mikantop_3", "y": 180 },
+			{ "model": "chinjufumod:crop/wood_mikantop_3", "y": 0 } ],
+		"stage=4": [ 
+			{ "model": "chinjufumod:crop/wood_mikantop_4", "y": 270 },
+			{ "model": "chinjufumod:crop/wood_mikantop_4", "y": 90 },
+			{ "model": "chinjufumod:crop/wood_mikantop_4", "y": 180 },
+			{ "model": "chinjufumod:crop/wood_mikantop_4", "y": 0 } ],
+		"stage=5": [ 
+			{ "model": "chinjufumod:crop/wood_mikantop_5", "y": 270 },
+			{ "model": "chinjufumod:crop/wood_mikantop_5", "y": 90 },
+			{ "model": "chinjufumod:crop/wood_mikantop_5", "y": 180 },
+			{ "model": "chinjufumod:crop/wood_mikantop_5", "y": 0 } ],
+		"stage=6": [ 
+			{ "model": "chinjufumod:crop/wood_mikantop_6", "y": 270 },
+			{ "model": "chinjufumod:crop/wood_mikantop_6", "y": 90 },
+			{ "model": "chinjufumod:crop/wood_mikantop_6", "y": 180 },
+			{ "model": "chinjufumod:crop/wood_mikantop_6", "y": 0 } ],
+		"stage=7": [ 
+			{ "model": "chinjufumod:crop/wood_mikantop_7", "y": 270 },
+			{ "model": "chinjufumod:crop/wood_mikantop_7", "y": 90 },
+			{ "model": "chinjufumod:crop/wood_mikantop_7", "y": 180 },
+			{ "model": "chinjufumod:crop/wood_mikantop_7", "y": 0 } ],
+		"stage=8": [ 
+			{ "model": "chinjufumod:crop/wood_mikantop_8", "y": 270 },
+			{ "model": "chinjufumod:crop/wood_mikantop_8", "y": 90 },
+			{ "model": "chinjufumod:crop/wood_mikantop_8", "y": 180 },
+			{ "model": "chinjufumod:crop/wood_mikantop_8", "y": 0 } ],
+		"stage=9": [ 
+			{ "model": "chinjufumod:crop/wood_mikantop_9", "y": 270 },
+			{ "model": "chinjufumod:crop/wood_mikantop_9", "y": 90 },
+			{ "model": "chinjufumod:crop/wood_mikantop_9", "y": 180 },
+			{ "model": "chinjufumod:crop/wood_mikantop_9", "y": 0 } ],
+		"stage=10": [ 
+			{ "model": "chinjufumod:crop/wood_mikantop_a", "y": 270 },
+			{ "model": "chinjufumod:crop/wood_mikantop_a", "y": 90 },
+			{ "model": "chinjufumod:crop/wood_mikantop_a", "y": 180 },
+			{ "model": "chinjufumod:crop/wood_mikantop_a", "y": 0 } ],
+		"stage=11": [ 
+			{ "model": "chinjufumod:crop/wood_mikantop_a", "y": 270 },
+			{ "model": "chinjufumod:crop/wood_mikantop_a", "y": 90 },
+			{ "model": "chinjufumod:crop/wood_mikantop_a", "y": 180 },
+			{ "model": "chinjufumod:crop/wood_mikantop_a", "y": 0 } ]
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_chouzubachi",
+
+	"pattern": [
+		"X",
+		"Y"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:bucket", "data": 0 },
+		"Y": { "item": "minecraft:stone", "data": 5 }
+	},
+
+	"result": { "item": "chinjufumod:block_chouzubachi_kara", "data": 3, "count": 1 }
+}

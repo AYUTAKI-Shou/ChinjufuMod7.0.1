@@ -1,0 +1,10 @@
+{
+	"parent": "chinjufumod:block/base/takeakari4",
+	"textures": {
+		"particle": "chinjufumod:block/bamboo_k_side",
+		"take": "chinjufumod:block/bamboo_k_side",
+		"take_uchi": "chinjufumod:block/bamboo_k_inside",
+		"abura": "chinjufumod:block/soyoil_solid",
+		"akari": "chinjufumod:block/andon_shin"
+	}
+}

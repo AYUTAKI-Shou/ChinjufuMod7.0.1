@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_ranma",
+
+	"pattern": [
+		" Y ",
+		"XZX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:stick", "data": 0 },
+		"Y": { "type": "forge:ore_dict", "ore": "slabWoodAcer" },
+		"Z": { "item": "minecraft:paper", "data": 0 }
+	},
+
+	"result": { "item": "chinjufumod:block_ranma_s", "data": 4, "count": 1 }
+}

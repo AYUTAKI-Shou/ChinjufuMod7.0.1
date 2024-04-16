@@ -1,0 +1,9 @@
+{
+	"variants": {
+		"double=false,half=bottom": { "model": "chinjufumod:brick/slab_andesite_bottom" },
+		"double=false,half=top": { "model": "chinjufumod:brick/slab_andesite_top" },
+
+		"double=true,half=top": { "model": "chinjufumod:brick/andesite" },
+		"double=true,half=bottom": { "model": "chinjufumod:brick/andesite" }
+	}
+}

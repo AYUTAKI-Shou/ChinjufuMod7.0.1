@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_kitchen",
+
+	"ingredients": [
+		{ "item": "chinjufumod:block_kitchen", "data": 0 },
+		{ "item": "chinjufumod:block_alumi_block", "data": 2 },
+		{ "item": "minecraft:netherrack", "data": 0 },
+		{ "item": "minecraft:redstone_torch", "data": 0 },
+		{ "item": "minecraft:redstone_torch", "data": 0 },
+		{ "item": "minecraft:stone_button", "data": 0 },
+		{ "item": "minecraft:stone", "data": 0 },
+		{ "item": "minecraft:stone", "data": 0 },
+		{ "type": "forge:ore_dict", "ore": "dustRedstone" }
+	],
+
+	"result": { "item": "chinjufumod:block_kit_stove", "data": 0, "count": 1 }
+}

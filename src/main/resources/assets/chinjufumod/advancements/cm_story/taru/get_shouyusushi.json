@@ -1,0 +1,47 @@
+{
+	"parent": "chinjufumod:cm_story/taru/get_shouyu",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.taru.get_shouyusushi.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.taru.get_shouyusushi.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_food_sushishouyu", "data": 1
+		},
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_food_sushishouyu", "data": 1 } ] }
+		},
+		"has_material2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_food_sushishouyu", "data": 2 } ] }
+		},
+		"has_material3": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_food_sushishouyu", "data": 3 } ] }
+		},
+		"has_material4": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_food_sushishouyu", "data": 4 } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material",
+			"has_material2",
+			"has_material3",
+			"has_material4"
+		]
+	],
+	"rewards": { "experience": 10 }
+}

@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:tatami_wood/white_ichoh_e", "y": 90 },
+		"stage=1": { "model": "chinjufumod:tatami_wood/orange_ichoh_e", "y": 90 },
+		"stage=2": { "model": "chinjufumod:tatami_wood/magenta_ichoh_e", "y": 90 },
+		"stage=3": { "model": "chinjufumod:tatami_wood/lightblue_ichoh_e", "y": 90 },
+		"stage=4": { "model": "chinjufumod:tatami_wood/yellow_ichoh_e", "y": 90 },
+		"stage=5": { "model": "chinjufumod:tatami_wood/lime_ichoh_e", "y": 90 },
+		"stage=6": { "model": "chinjufumod:tatami_wood/pink_ichoh_e", "y": 90 },
+		"stage=7": { "model": "chinjufumod:tatami_wood/gray_ichoh_e", "y": 90 },
+		"stage=8": { "model": "chinjufumod:tatami_wood/lightgray_ichoh_e", "y": 90 },
+		"stage=9": { "model": "chinjufumod:tatami_wood/cyan_ichoh_e", "y": 90 },
+		"stage=10": { "model": "chinjufumod:tatami_wood/purple_ichoh_e", "y": 90 },
+		"stage=11": { "model": "chinjufumod:tatami_wood/blue_ichoh_e", "y": 90 },
+		"stage=12": { "model": "chinjufumod:tatami_wood/brown_ichoh_e", "y": 90 },
+		"stage=13": { "model": "chinjufumod:tatami_wood/green_ichoh_e", "y": 90 },
+		"stage=14": { "model": "chinjufumod:tatami_wood/red_ichoh_e", "y": 90 },
+		"stage=15": { "model": "chinjufumod:tatami_wood/black_ichoh_e", "y": 90 }
+	}
+}

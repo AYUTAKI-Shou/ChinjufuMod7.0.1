@@ -1,0 +1,7 @@
+{
+	"parent": "chinjufumod:block/base/amishikake_2",
+	"textures": {
+		"particle": "chinjufumod:block/ami_b1",
+		"side_b": "chinjufumod:block/ami_b1"
+	}
+}

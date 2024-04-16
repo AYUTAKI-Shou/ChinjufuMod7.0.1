@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"stage=1": { "model": "chinjufumod:wooden/planks_sakura" },
+		"stage=2": { "model": "chinjufumod:wooden/planks_kaede" },
+		"stage=3": { "model": "chinjufumod:wooden/planks_ichoh" }
+	}
+}

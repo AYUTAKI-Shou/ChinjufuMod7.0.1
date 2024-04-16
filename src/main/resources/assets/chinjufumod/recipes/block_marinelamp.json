@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_lamp",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "dustRedstone" },
+		{ "type": "forge:ore_dict", "ore": "dustRedstone" },
+		{ "type": "forge:ore_dict", "ore": "blockGlassWhite" },
+		{ "item": "minecraft:glowstone" },
+		[ { "type": "forge:ore_dict", "ore": "ingotAluminium" }, { "type": "forge:ore_dict", "ore": "ingotAluminum" } ]
+	],
+
+	"result": { "item": "chinjufumod:block_marinelamp", "count": 2 }
+}

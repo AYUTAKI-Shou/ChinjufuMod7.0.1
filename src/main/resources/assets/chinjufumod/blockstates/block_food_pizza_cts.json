@@ -1,0 +1,29 @@
+{
+	"variants": {
+		"down=false,stage=0": { "model": "chinjufumod:pizza/cheese_1" },
+		"down=false,stage=1": { "model": "chinjufumod:pizza/cheese_2" },
+		"down=false,stage=2": { "model": "chinjufumod:pizza/cheese_3" },
+		"down=false,stage=3": { "model": "chinjufumod:pizza/cheese_4" },
+		"down=false,stage=4": { "model": "chinjufumod:pizza/teriyaki_1" },
+		"down=false,stage=5": { "model": "chinjufumod:pizza/teriyaki_2" },
+		"down=false,stage=6": { "model": "chinjufumod:pizza/teriyaki_3" },
+		"down=false,stage=7": { "model": "chinjufumod:pizza/teriyaki_4" },
+		"down=false,stage=8": { "model": "chinjufumod:pizza/squid_1" },
+		"down=false,stage=9": { "model": "chinjufumod:pizza/squid_2" },
+		"down=false,stage=10": { "model": "chinjufumod:pizza/squid_3" },
+		"down=false,stage=11": { "model": "chinjufumod:pizza/squid_4" },
+
+			"down=true,stage=0": { "model": "chinjufumod:pizza/cheese_down1" },
+			"down=true,stage=1": { "model": "chinjufumod:pizza/cheese_down2" },
+			"down=true,stage=2": { "model": "chinjufumod:pizza/cheese_down3" },
+			"down=true,stage=3": { "model": "chinjufumod:pizza/cheese_down4" },
+			"down=true,stage=4": { "model": "chinjufumod:pizza/teriyaki_down1" },
+			"down=true,stage=5": { "model": "chinjufumod:pizza/teriyaki_down2" },
+			"down=true,stage=6": { "model": "chinjufumod:pizza/teriyaki_down3" },
+			"down=true,stage=7": { "model": "chinjufumod:pizza/teriyaki_down4" },
+			"down=true,stage=8": { "model": "chinjufumod:pizza/squid_down1" },
+			"down=true,stage=9": { "model": "chinjufumod:pizza/squid_down2" },
+			"down=true,stage=10": { "model": "chinjufumod:pizza/squid_down3" },
+			"down=true,stage=11": { "model": "chinjufumod:pizza/squid_down4" }
+	}
+}

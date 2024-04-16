@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/schooldesk",
+	"textures": {
+		"particle": "minecraft:blocks/planks_acacia",
+		"leg": "chinjufumod:block/muku_acacia",
+		"side": "minecraft:blocks/planks_acacia",
+		"top": "minecraft:blocks/planks_acacia"
+		}
+}

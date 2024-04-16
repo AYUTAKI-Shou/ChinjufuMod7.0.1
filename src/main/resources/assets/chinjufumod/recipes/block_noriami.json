@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_ami",
+
+	"pattern": [
+		"XYX",
+		"YYY",
+		"XYX"
+	],
+
+	"key": {
+		"X": [ { "type": "forge:ore_dict", "ore": "bamboo" }, { "type": "forge:ore_dict", "ore": "cropBamboo" } ],
+		"Y": [ { "item": "chinjufumod:item_oriito" }, { "item": "minecraft:string" } ]
+	},
+
+	"result": { "item": "chinjufumod:block_noriami", "count": 4 }
+}

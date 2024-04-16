@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:cm_story/weapon/get_workorder",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.weapon.get_ammo.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.weapon.get_ammo.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_ammunition_kc"
+		},
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_ammunition_kc", "data": 0 } ]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

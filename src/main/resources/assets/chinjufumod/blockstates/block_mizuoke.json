@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:mizuoke/empty", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:mizuoke/empty" },
+		"facing=west,stage=1": { "model": "chinjufumod:mizuoke/empty", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:mizuoke/empty", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:mizuoke/stage_2", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:mizuoke/stage_2" },
+		"facing=west,stage=2": { "model": "chinjufumod:mizuoke/stage_2", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:mizuoke/stage_2", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:mizuoke/stage_3", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:mizuoke/stage_3" },
+		"facing=west,stage=3": { "model": "chinjufumod:mizuoke/stage_3", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:mizuoke/stage_3", "y": 270 },
+
+		"facing=north,stage=4": { "model": "chinjufumod:mizuoke/stage_4", "y": 180 },
+		"facing=south,stage=4": { "model": "chinjufumod:mizuoke/stage_4" },
+		"facing=west,stage=4": { "model": "chinjufumod:mizuoke/stage_4", "y": 90 },
+		"facing=east,stage=4": { "model": "chinjufumod:mizuoke/stage_4", "y": 270 }
+	}
+}

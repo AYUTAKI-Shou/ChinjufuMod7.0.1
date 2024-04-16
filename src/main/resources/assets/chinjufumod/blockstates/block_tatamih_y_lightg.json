@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"double=false,facing=north,half=bottom": { "model": "chinjufumod:tatami2/lightgray_bot", "y": 0 },
+		"double=false,facing=south,half=bottom": { "model": "chinjufumod:tatami2/lightgray_bot", "y": 0 },
+		"double=false,facing=west,half=bottom": { "model": "chinjufumod:tatami2/lightgray_bot", "y": 90 },
+		"double=false,facing=east,half=bottom": { "model": "chinjufumod:tatami2/lightgray_bot", "y": 90 },
+
+		"double=false,facing=north,half=top": { "model": "chinjufumod:tatami2/lightgray_top", "y": 0 },
+		"double=false,facing=south,half=top": { "model": "chinjufumod:tatami2/lightgray_top", "y": 0 },
+		"double=false,facing=west,half=top": { "model": "chinjufumod:tatami2/lightgray_top", "y": 90 },
+		"double=false,facing=east,half=top": { "model": "chinjufumod:tatami2/lightgray_top", "y": 90 },
+
+		"double=true,facing=north,half=bottom": { "model": "chinjufumod:tatami2/lightgray_double", "y": 0 },
+		"double=true,facing=south,half=bottom": { "model": "chinjufumod:tatami2/lightgray_double", "y": 0 },
+		"double=true,facing=west,half=bottom": { "model": "chinjufumod:tatami2/lightgray_double", "y": 90 },
+		"double=true,facing=east,half=bottom": { "model": "chinjufumod:tatami2/lightgray_double", "y": 90 },
+
+		"double=true,facing=north,half=top": { "model": "chinjufumod:tatami2/lightgray_double", "y": 0 },
+		"double=true,facing=south,half=top": { "model": "chinjufumod:tatami2/lightgray_double", "y": 0 },
+		"double=true,facing=west,half=top": { "model": "chinjufumod:tatami2/lightgray_double", "y": 90 },
+		"double=true,facing=east,half=top": { "model": "chinjufumod:tatami2/lightgray_double", "y": 90 }
+	}
+}

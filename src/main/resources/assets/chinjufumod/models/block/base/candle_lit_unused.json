@@ -1,0 +1,156 @@
+{
+	"parent": "block/block",
+	"elements": [
+		{
+			"name": "honou_1_0.4*0.8_深い方が良い",
+			"from": [ 7.8, 2.3, 7.9 ],
+			"to": [ 8.2, 3.1, 7.9 ],
+			"faces": {
+				"north": { "uv": [ 0.0, 0.0, 4.0, 8.0 ], "texture": "#honou" }
+			}
+		},
+		{
+			"name": "honou_2",
+			"from": [ 7.9, 2.3, 7.8 ],
+			"to": [ 7.9, 3.1, 8.2 ],
+			"faces": {
+				"west": { "uv": [ 4.0, 0.0, 8.0, 8.0 ], "texture": "#honou" }
+			}
+		},
+		{
+			"name": "honou_3",
+			"from": [ 7.8, 2.3, 8.1 ],
+			"to": [ 8.2, 3.1, 8.1 ],
+			"faces": {
+				"south": { "uv": [ 12.0, 0.0, 16.0, 8.0 ], "texture": "#honou" }
+			}
+		},
+		{
+			"name": "honou_4",
+			"from": [ 8.1, 2.3, 7.8 ],
+			"to": [ 8.1, 3.1, 8.2 ],
+			"faces": {
+				"east": { "uv": [ 8.0, 0.0, 12.0, 8.0 ], "texture": "#honou" }
+			}
+		},
+
+		{
+			"name": "akari",
+			"from": [ 7.95, 1.6, 7.95 ],
+			"to": [ 8.05, 2.4, 8.05 ],
+			"faces": {
+				"up": { "uv": [ 8.0, 0.0, 10.0, 2.0 ], "texture": "#akari" },
+				"north": { "uv": [ 8.0, 0.0, 10.0, 9.0 ], "texture": "#akari" },
+				"south": { "uv": [ 8.0, 0.0, 10.0, 9.0 ], "texture": "#akari" },
+				"east": { "uv": [ 8.0, 0.0, 10.0, 9.0 ], "texture": "#akari" },
+				"west": { "uv": [ 8.0, 0.0, 10.0, 9.0 ], "texture": "#akari" }
+			}
+		},
+
+		{
+			"name": "abura",
+			"from": [ 7, 1.55, 7 ],
+			"to": [ 9, 2, 9 ],
+			"faces": {
+				"up": { "uv": [ 6.0, 6.0, 10.0, 10.0 ], "texture": "#abura" }
+			}
+		},
+
+		{
+			"name": "sara_soko_kage",
+			"from": [ 6.8, 0, 6.8 ],
+			"to": [ 9.2, 1.5, 9.2 ],
+			"faces": {
+				"down": { "uv": [ 8.8, 12.8, 11.2, 15.2 ], "texture": "#sara", "cullface": "down" },
+				"north": { "uv": [ 0.8, 10.5, 3.2, 12.0 ], "texture": "#sara" },
+				"south": { "uv": [ 8.8, 10.5, 11.2, 12.0 ], "texture": "#sara" },
+				"east": { "uv": [ 4.8, 10.5, 7.2, 12.0 ], "texture": "#sara" },
+				"west": { "uv": [ 12.8, 10.5, 15.2, 12.0 ], "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_nor_1_kage",
+			"from": [ 6.8, 1.5, 6.8 ],
+			"to": [ 7, 2.5, 7 ],
+			"faces": {
+				"up": { "uv": [ 0.8, 12.8, 1.0, 13.0 ], "texture": "#sara" },
+				"north": { "uv": [ 3.0, 1.5, 3.2, 2.5 ], "texture": "#sara" },
+				"west": { "uv": [ 12.8, 1.5, 13.0, 2.5 ], "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_nor_12",
+			"from": [ 7, 1.5, 6.8 ],
+			"to": [ 9, 2.5, 7 ],
+			"faces": {
+				"up": { "uv": [ 5.0, 12.8, 7.0, 13.0 ], "texture": "#sara" },
+				"north": { "uv": [ 1.0, 5.5, 3.0, 6.5 ], "texture": "#sara" },
+				"south": { "uv": [ 9.0, 5.5, 11.0, 6.5 ], "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_nor_2_kage",
+			"from": [ 9, 1.5, 6.8 ],
+			"to": [ 9.2, 2.5, 7 ],
+			"faces": {
+				"up": { "uv": [ 3.0, 12.8, 3.2, 13.0 ], "texture": "#sara" },
+				"north": { "uv": [ 0.8, 1.5, 1.0, 2.5 ], "texture": "#sara" },
+				"east": { "uv": [ 7.0, 1.5, 7.2, 2.5 ], "texture": "#sara" }
+			}
+		},
+
+		{
+			"name": "sara_sou_1_kage",
+			"from": [ 6.8, 1.5, 9 ],
+			"to": [ 7, 2.5, 9.2 ],
+			"faces": {
+				"up": { "uv": [ 0.8, 15.0, 1.0, 15.2 ], "texture": "#sara" },
+				"south": { "uv": [ 8.8, 1.5, 9.0, 2.5 ], "texture": "#sara" },
+				"west": { "uv": [ 15.0, 1.5, 15.2, 2.5 ], "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_sou_12",
+			"from": [ 7, 1.5, 9 ],
+			"to": [ 9, 2.5, 9.2 ],
+			"faces": {
+				"up": { "uv": [ 5.0, 15.0, 7.0, 15.2 ], "texture": "#sara" },
+				"north": { "uv": [ 1.0, 5.5, 3.0, 6.5 ], "texture": "#sara" },
+				"south": { "uv": [ 9.0, 5.5, 11.0, 6.5 ], "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_sou_2_kage",
+			"from": [ 9, 1.5, 9 ],
+			"to": [ 9.2, 2.5, 9.2 ],
+			"faces": {
+				"up": { "uv": [ 3.0, 15.0, 3.2, 15.2 ], "texture": "#sara" },
+				"south": { "uv": [ 11.0, 1.5, 11.2, 2.5 ], "texture": "#sara" },
+				"east": { "uv": [ 4.8, 1.5, 5.0, 2.5 ], "texture": "#sara" }
+			}
+		},
+
+
+		{
+			"name": "sara_east_12",
+			"from": [ 6.8, 1.5, 7 ],
+			"to": [ 7, 2.5, 9 ],
+			"faces": {
+				"up": { "uv": [ 4.8, 13.0, 5.0, 15.0 ], "texture": "#sara" },
+				"east": { "uv": [ 5.0, 5.5, 7.0, 6.5 ], "texture": "#sara" },
+				"west": { "uv": [ 13.0, 5.5, 15.0, 6.5 ], "texture": "#sara" }
+			}
+		},
+
+		{
+			"name": "sara_west_12",
+			"from": [ 9, 1.5, 7 ],
+			"to": [ 9.2, 2.5, 9 ],
+			"faces": {
+				"up": { "uv": [ 7.0, 13.0, 7.2, 15.0 ], "texture": "#sara" },
+				"east": { "uv": [ 5.0, 5.5, 7.0, 6.5 ], "texture": "#sara" },
+				"west": { "uv": [ 13.0, 5.5, 15.0, 6.5 ], "texture": "#sara" }
+			}
+		}
+	]
+}

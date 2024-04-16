@@ -1,0 +1,6 @@
+{
+	"parent": "chinjufumod:block/base/wall_post",
+	"textures": {
+		"wall": "chinjufumod:block/plaster_cr_black"
+	}
+}

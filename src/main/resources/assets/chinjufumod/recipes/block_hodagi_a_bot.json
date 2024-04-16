@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_seeds",
+
+	"ingredients": [
+		{ "item": "minecraft:brown_mushroom" },
+		{ "item": "minecraft:brown_mushroom" },
+		{ "item": "minecraft:brown_mushroom" },
+		{ "type": "forge:ore_dict", "ore": "logWoodOak" }
+	],
+
+	"result": { "item": "chinjufumod:block_hodagi_a_bot", "data": 0, "count" : 1 }
+}

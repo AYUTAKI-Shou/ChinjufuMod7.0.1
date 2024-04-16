@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/kido_right_bottom",
+	"textures": {
+		"particle": "chinjufumod:block/muku_acacia",
+		"ita": "chinjufumod:block/muku_acacia",
+		"totte": "chinjufumod:block/muku_spruce"
+	}
+}

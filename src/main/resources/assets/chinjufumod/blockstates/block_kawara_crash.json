@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:kawara/crack_white" },
+		"stage=1": { "model": "chinjufumod:kawara/crack_orange" },
+		"stage=2": { "model": "chinjufumod:kawara/crack_magenta" },
+		"stage=3": { "model": "chinjufumod:kawara/crack_lightb" },
+		"stage=4": { "model": "chinjufumod:kawara/crack_yellow" },
+		"stage=5": { "model": "chinjufumod:kawara/crack_lime" },
+		"stage=6": { "model": "chinjufumod:kawara/crack_pink" },
+		"stage=7": { "model": "chinjufumod:kawara/crack_gray" },
+		"stage=8": { "model": "chinjufumod:kawara/crack_lightg" },
+		"stage=9": { "model": "chinjufumod:kawara/crack_cyan" },
+		"stage=10": { "model": "chinjufumod:kawara/crack_purple" },
+		"stage=11": { "model": "chinjufumod:kawara/crack_blue" },
+		"stage=12": { "model": "chinjufumod:kawara/crack_brown" },
+		"stage=13": { "model": "chinjufumod:kawara/crack_green" },
+		"stage=14": { "model": "chinjufumod:kawara/crack_red" },
+		"stage=15": { "model": "chinjufumod:kawara/crack_black" }
+	}
+}

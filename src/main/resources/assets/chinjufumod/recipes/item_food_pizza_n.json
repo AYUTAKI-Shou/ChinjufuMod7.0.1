@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_pizza",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "foodFreshcheese" },
+		{ "type": "forge:ore_dict", "ore": "foodCheese" },
+		{ "type": "forge:ore_dict", "ore": "cropSpinach" },
+		{ "type": "forge:ore_dict", "ore": "cropTomato" },
+		{ "type": "forge:ore_dict", "ore": "cropTomato" },
+		{ "item": "chinjufumod:item_komugi", "data": 7 }
+	],
+
+	"result": { "item": "chinjufumod:item_komugi", "data": 8, "count" : 1 }
+}

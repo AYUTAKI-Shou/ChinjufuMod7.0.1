@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"TTT",
+		"#X#",
+		"#R#"
+	],
+	"key": {
+		"R": { "type": "forge:ore_dict", "ore": "dustRedstone" },
+		"#": { "item": "minecraft:cobblestone" },
+		"T": [ { "type": "forge:ore_dict", "ore": "plankWood" }, { "type": "forge:ore_dict", "ore": "plankWoodCherry" }, 
+		{ "type": "forge:ore_dict", "ore": "plankWoodAcer" }, { "type": "forge:ore_dict", "ore": "plankWoodGinkgo" } ],
+		"X": { "item": "minecraft:iron_ingot" }
+	},
+	"result": { "item": "minecraft:piston" }
+}

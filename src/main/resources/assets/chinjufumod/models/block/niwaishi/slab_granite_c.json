@@ -1,0 +1,7 @@
+{
+	"parent": "chinjufumod:block/base/niwaishi_slab_c",
+	"textures": {
+		"particle": "minecraft:blocks/stone_granite_smooth",
+		"rock": "minecraft:blocks/stone_granite_smooth"
+	}
+}

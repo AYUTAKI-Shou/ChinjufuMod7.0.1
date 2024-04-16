@@ -1,0 +1,42 @@
+{
+	"parent": "chinjufumod:cm_story/root",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.season.get_1_newyear.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.season.get_1_newyear.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_kadomatsu", "data": 1
+		},
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_kadomatsu", "data": 1 } ] }
+		},
+		"has_material2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_shimenawa", "data": 0 } ] }
+		},
+		"has_material3": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_kadomatsu", "data": 2 } ]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_material",
+			"has_material2",
+			"has_material3"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

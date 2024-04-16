@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_pasta",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "cropTomato" },
+		{ "type": "forge:ore_dict", "ore": "cropTomato" },
+		{ "type": "forge:ore_dict", "ore": "cropOnion" },
+		{ "type": "forge:ore_dict", "ore": "rawClam" },
+		{ "type": "forge:ore_dict", "ore": "rawClam" },
+		{ "type": "forge:ore_dict", "ore": "rawClam" },
+		{ "item": "chinjufumod:item_squid_cut" },
+		[ { "type": "forge:ore_dict", "ore": "dustSalt" }, { "type": "forge:ore_dict", "ore": "foodSalt" }, { "type": "forge:ore_dict", "ore": "itemSalt" } ],
+		{ "item": "chinjufumod:block_food_frypan" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_frypan_n3", "data": 1, "count" : 1 }
+}

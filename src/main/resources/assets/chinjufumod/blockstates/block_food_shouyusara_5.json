@@ -1,0 +1,43 @@
+{
+	"variants": {
+		"down=false,facing=north,stage=1": { "model": "chinjufumod:sushi/shouyusara_5", "y": 180 },
+		"down=false,facing=south,stage=1": { "model": "chinjufumod:sushi/shouyusara_5" },
+		"down=false,facing=west,stage=1": { "model": "chinjufumod:sushi/shouyusara_5", "y": 90 },
+		"down=false,facing=east,stage=1": { "model": "chinjufumod:sushi/shouyusara_5", "y": 270 },
+
+		"down=false,facing=north,stage=2": { "model": "chinjufumod:sushi/shouyusara_6", "y": 180 },
+		"down=false,facing=south,stage=2": { "model": "chinjufumod:sushi/shouyusara_6" },
+		"down=false,facing=west,stage=2": { "model": "chinjufumod:sushi/shouyusara_6", "y": 90 },
+		"down=false,facing=east,stage=2": { "model": "chinjufumod:sushi/shouyusara_6", "y": 270 },
+
+		"down=false,facing=north,stage=3": { "model": "chinjufumod:sushi/shouyusara_7", "y": 180 },
+		"down=false,facing=south,stage=3": { "model": "chinjufumod:sushi/shouyusara_7" },
+		"down=false,facing=west,stage=3": { "model": "chinjufumod:sushi/shouyusara_7", "y": 90 },
+		"down=false,facing=east,stage=3": { "model": "chinjufumod:sushi/shouyusara_7", "y": 270 },
+
+		"down=false,facing=north,stage=4": { "model": "chinjufumod:sushi/shouyusara_8", "y": 180 },
+		"down=false,facing=south,stage=4": { "model": "chinjufumod:sushi/shouyusara_8" },
+		"down=false,facing=west,stage=4": { "model": "chinjufumod:sushi/shouyusara_8", "y": 90 },
+		"down=false,facing=east,stage=4": { "model": "chinjufumod:sushi/shouyusara_8", "y": 270 },
+
+		"down=true,facing=north,stage=1": { "model": "chinjufumod:sushi/shouyusara_d5", "y": 180 },
+		"down=true,facing=south,stage=1": { "model": "chinjufumod:sushi/shouyusara_d5" },
+		"down=true,facing=west,stage=1": { "model": "chinjufumod:sushi/shouyusara_d5", "y": 90 },
+		"down=true,facing=east,stage=1": { "model": "chinjufumod:sushi/shouyusara_d5", "y": 270 },
+
+		"down=true,facing=north,stage=2": { "model": "chinjufumod:sushi/shouyusara_d6", "y": 180 },
+		"down=true,facing=south,stage=2": { "model": "chinjufumod:sushi/shouyusara_d6" },
+		"down=true,facing=west,stage=2": { "model": "chinjufumod:sushi/shouyusara_d6", "y": 90 },
+		"down=true,facing=east,stage=2": { "model": "chinjufumod:sushi/shouyusara_d6", "y": 270 },
+
+		"down=true,facing=north,stage=3": { "model": "chinjufumod:sushi/shouyusara_d7", "y": 180 },
+		"down=true,facing=south,stage=3": { "model": "chinjufumod:sushi/shouyusara_d7" },
+		"down=true,facing=west,stage=3": { "model": "chinjufumod:sushi/shouyusara_d7", "y": 90 },
+		"down=true,facing=east,stage=3": { "model": "chinjufumod:sushi/shouyusara_d7", "y": 270 },
+
+		"down=true,facing=north,stage=4": { "model": "chinjufumod:sushi/shouyusara_d8", "y": 180 },
+		"down=true,facing=south,stage=4": { "model": "chinjufumod:sushi/shouyusara_d8" },
+		"down=true,facing=west,stage=4": { "model": "chinjufumod:sushi/shouyusara_d8", "y": 90 },
+		"down=true,facing=east,stage=4": { "model": "chinjufumod:sushi/shouyusara_d8", "y": 270 }
+	}
+}

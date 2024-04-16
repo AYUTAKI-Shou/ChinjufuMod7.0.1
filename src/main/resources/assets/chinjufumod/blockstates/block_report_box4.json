@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:report/report_13", "y": 180 },
+		"facing=north,stage=2": { "model": "chinjufumod:report/report_14", "y": 180 },
+		"facing=north,stage=3": { "model": "chinjufumod:report/report_15", "y": 180 },
+		"facing=north,stage=4": { "model": "chinjufumod:report/report_15", "y": 180 },
+
+				"facing=south,stage=1": { "model": "chinjufumod:report/report_13", "y": 0 },
+				"facing=south,stage=2": { "model": "chinjufumod:report/report_14", "y": 0 },
+				"facing=south,stage=3": { "model": "chinjufumod:report/report_15", "y": 0 },
+				"facing=south,stage=4": { "model": "chinjufumod:report/report_15", "y": 0 },
+
+		"facing=west,stage=1": { "model": "chinjufumod:report/report_13", "y": 90 },
+		"facing=west,stage=2": { "model": "chinjufumod:report/report_14", "y": 90 },
+		"facing=west,stage=3": { "model": "chinjufumod:report/report_15", "y": 90 },
+		"facing=west,stage=4": { "model": "chinjufumod:report/report_15", "y": 90 },
+
+				"facing=east,stage=1": { "model": "chinjufumod:report/report_13", "y": 270 },
+				"facing=east,stage=2": { "model": "chinjufumod:report/report_14", "y": 270 },
+				"facing=east,stage=3": { "model": "chinjufumod:report/report_15", "y": 270 },
+				"facing=east,stage=4": { "model": "chinjufumod:report/report_15", "y": 270 }
+	}
+}

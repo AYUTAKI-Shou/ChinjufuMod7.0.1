@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_dressingtable",
+
+	"pattern": [
+		"X  ",
+		"Y  ",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "slabWoodOak" },
+		"Y": { "type": "forge:ore_dict", "ore": "paneGlassColorless" }
+	},
+
+	"result": { "item": "chinjufumod:block_dressingtable", "data": 0, "count": 1 }
+}

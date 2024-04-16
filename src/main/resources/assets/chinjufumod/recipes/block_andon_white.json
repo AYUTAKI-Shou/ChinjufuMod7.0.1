@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_andon",
+
+	"pattern": [
+		"XAX",
+		"XBX",
+		"XCX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:stick", "data": 0 },
+		"A": { "item": "minecraft:paper" },
+		"B": [ { "item": "chinjufumod:item_oriito" }, { "item": "minecraft:string" } ],
+		"C": [ { "item": "chinjufumod:item_soy" }, { "item": "minecraft:slime_ball" } ]
+	},
+
+	"result": { "item": "chinjufumod:block_andon", "data": 1, "count" : 1 }
+}

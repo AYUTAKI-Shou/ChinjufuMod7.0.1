@@ -1,0 +1,11 @@
+{
+	"parent": "chinjufumod:block/base/shouji_right",
+	"textures": {
+		"particle": "chinjufumod:block/shouji_white",
+		"ji": "chinjufumod:block/shouji_white",
+		"ji_b": "chinjufumod:block/shouji_white",
+		"waku": "chinjufumod:block/muku_ichoh",
+		"totte": "chinjufumod:block/muku_bigoak",
+		"rail": "chinjufumod:block/muku_ichoh"
+	}
+}

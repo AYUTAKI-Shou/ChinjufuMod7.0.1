@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_seasonal",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "carpetWhite" },
+		{ "type": "forge:ore_dict", "ore": "carpetLightBlue" },
+		{ "type": "forge:ore_dict", "ore": "carpetCyan" },
+		{ "type": "forge:ore_dict", "ore": "treeSaplingSpruce" },
+		{ "type": "forge:ore_dict", "ore": "treeSaplingSpruce" }
+	],
+
+	"result": { "item": "chinjufumod:block_kadomatsu", "data": 4, "count": 1 }
+}

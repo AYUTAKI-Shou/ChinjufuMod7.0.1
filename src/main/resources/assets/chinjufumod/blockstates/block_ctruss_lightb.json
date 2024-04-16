@@ -1,0 +1,8 @@
+{
+  "variants": {
+	"facing=north": { "model": "chinjufumod:truss/lightb" },
+	"facing=south": { "model": "chinjufumod:truss/lightb_re" },
+	"facing=west":  { "model": "chinjufumod:truss/lightb_re" },
+	"facing=east":  { "model": "chinjufumod:truss/lightb" }
+  }
+}

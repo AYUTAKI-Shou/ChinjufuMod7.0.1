@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_mizuoke",
+
+	"pattern": [
+		" X ",
+		"X X",
+		" X "
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "slabWood" }
+	},
+
+	"result": { "item": "chinjufumod:block_mizuoke", "data": 0, "count": 1 }
+}

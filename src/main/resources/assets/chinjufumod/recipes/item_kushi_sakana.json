@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_food",
+
+	"ingredients": [
+		{ "item": "minecraft:fish", "data": 0 },
+		{ "item": "minecraft:stick", "data": 0 }
+	],
+
+	"result": { "item": "chinjufumod:item_kushi_sakana", "count": 1 }
+}

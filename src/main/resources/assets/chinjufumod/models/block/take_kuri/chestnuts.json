@@ -1,0 +1,29 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/chestnuts",
+		"kuri": "chinjufumod:block/chestnuts"
+	},
+	"elements": [
+		{
+			"from": [ 2, -1, 8 ],
+			"to": [ 14, 11, 8 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": false },
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#kuri" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#kuri" }
+			}
+		},
+		{
+			"from": [ 8, -1, 2 ],
+			"to": [ 8, 11, 14 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": false },
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#kuri" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#kuri" }
+			}
+		}
+	]
+}

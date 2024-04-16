@@ -1,0 +1,14 @@
+{
+	"parent": "chinjufumod:block/base/currynabe_1",
+	"textures": {
+		"particle": "chinjufumod:block/dish_lightg",
+		"rou": "chinjufumod:block/food_curryrou_tomato",
+		"gu": "chinjufumod:block/tomato_sauce_raw",
+		"ninjin": "chinjufumod:block/food_carot_b",
+		"tamanegi": "chinjufumod:block/food_onion_ame",
+		"imo": "chinjufumod:block/food_spinach_b",
+		"nabe": "chinjufumod:block/dish_lightg",
+		"otama": "chinjufumod:block/dish_gray",
+		"sara": "chinjufumod:block/dish_white"
+	}
+}

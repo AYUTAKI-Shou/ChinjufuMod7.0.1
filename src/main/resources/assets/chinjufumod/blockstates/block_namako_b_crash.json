@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:namakob/crack_white" },
+		"stage=1": { "model": "chinjufumod:namakob/crack_orange" },
+		"stage=2": { "model": "chinjufumod:namakob/crack_magenta" },
+		"stage=3": { "model": "chinjufumod:namakob/crack_lightb" },
+		"stage=4": { "model": "chinjufumod:namakob/crack_yellow" },
+		"stage=5": { "model": "chinjufumod:namakob/crack_lime" },
+		"stage=6": { "model": "chinjufumod:namakob/crack_pink" },
+		"stage=7": { "model": "chinjufumod:namakob/crack_gray" },
+		"stage=8": { "model": "chinjufumod:namakob/crack_lightg" },
+		"stage=9": { "model": "chinjufumod:namakob/crack_cyan" },
+		"stage=10": { "model": "chinjufumod:namakob/crack_purple" },
+		"stage=11": { "model": "chinjufumod:namakob/crack_blue" },
+		"stage=12": { "model": "chinjufumod:namakob/crack_brown" },
+		"stage=13": { "model": "chinjufumod:namakob/crack_green" },
+		"stage=14": { "model": "chinjufumod:namakob/crack_red" },
+		"stage=15": { "model": "chinjufumod:namakob/crack_black" }
+	}
+}

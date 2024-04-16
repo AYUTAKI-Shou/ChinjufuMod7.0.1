@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_hou",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "dyeBrown" },
+		{ "item": "minecraft:coal", "data": 0 },
+		{ "item": "minecraft:iron_ingot" },
+		{ "item": "minecraft:iron_ingot" },
+		{ "item": "chinjufumod:item_workorder" },
+		{ "item": "chinjufumod:item_ammunition_kc" },
+		[{ "type": "forge:ore_dict", "ore": "ingotAluminium" },
+				{ "type": "forge:ore_dict", "ore": "ingotAluminum" }]
+	],
+
+	"result": { "item": "chinjufumod:item_rensouhou155", "data": 0, "count": 1 }
+}

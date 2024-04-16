@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"normal": [
+			{ "model": "chinjufumod:fall_leaf" },
+			{ "model": "chinjufumod:fall_leaf", "y": 90 },
+			{ "model": "chinjufumod:fall_leaf", "y": 180 },
+			{ "model": "chinjufumod:fall_leaf", "y": 270 }
+		]
+	}
+}

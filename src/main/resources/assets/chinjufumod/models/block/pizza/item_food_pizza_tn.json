@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/pizza_nama",
+	"textures": {
+		"particle": "chinjufumod:block/pizza_raw_teriyaki",
+		"sara": "chinjufumod:block/dish_white",
+		"pizza": "chinjufumod:block/pizza_raw_teriyaki",
+		"pizza_ura": "chinjufumod:block/pizza_raw_re"
+	}
+}

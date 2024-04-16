@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_udon",
+
+	"ingredients": [
+		{ "item": "minecraft:sugar" },
+		{ "type": "forge:ore_dict", "ore": "foodSoysauce" },
+		{ "type": "forge:ore_dict", "ore": "cropGreenonion" },
+		{ "item": "chinjufumod:item_food_dish", "data": 6 }
+	],
+
+	"result": { "item": "chinjufumod:item_pasta", "data": 4, "count" : 1 }
+}

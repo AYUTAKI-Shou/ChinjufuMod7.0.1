@@ -1,0 +1,35 @@
+{
+	"multipart": [
+		{ "when": { "stage": "0" },
+			"apply": { "model": "chinjufumod:dirtwall/wall_post" }
+		},
+		{ "when": { "north": "true", "stage": "0" },
+			"apply": { "model": "chinjufumod:dirtwall/wall_side", "uvlock": true }
+		},
+		{ "when": { "east": "true", "stage": "0" },
+			"apply": { "model": "chinjufumod:dirtwall/wall_side", "y": 90, "uvlock": true }
+		},
+		{ "when": { "south": "true", "stage": "0" },
+			"apply": { "model": "chinjufumod:dirtwall/wall_side", "y": 180, "uvlock": true }
+		},
+		{ "when": { "west": "true", "stage": "0" },
+			"apply": { "model": "chinjufumod:dirtwall/wall_side", "y": 270, "uvlock": true }
+		},
+		
+		{ "when": { "stage": "1" },
+			"apply": { "model": "chinjufumod:dirtwall/wall_crack_post" }
+		},
+		{ "when": { "north": "true", "stage": "1" },
+			"apply": { "model": "chinjufumod:dirtwall/wall_crack_side", "uvlock": true }
+		},
+		{ "when": { "east": "true", "stage": "1" },
+			"apply": { "model": "chinjufumod:dirtwall/wall_crack_side", "y": 90, "uvlock": true }
+		},
+		{ "when": { "south": "true", "stage": "1" },
+			"apply": { "model": "chinjufumod:dirtwall/wall_crack_side", "y": 180, "uvlock": true }
+		},
+		{ "when": { "west": "true", "stage": "1" },
+			"apply": { "model": "chinjufumod:dirtwall/wall_crack_side", "y": 270, "uvlock": true }
+		}
+	]
+}

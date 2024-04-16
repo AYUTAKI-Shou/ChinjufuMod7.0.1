@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_okonomiyaki",
+	
+	"ingredients": [
+		{ "item": "minecraft:apple" },
+		{ "item": "minecraft:carrot" },
+		{ "type": "forge:ore_dict", "ore": "cropTomato" },
+		{ "type": "forge:ore_dict", "ore": "cropOnion" },
+		{ "item": "minecraft:sugar" },
+		[ { "type": "forge:ore_dict", "ore": "dustSalt" }, { "type": "forge:ore_dict", "ore": "foodSalt" }, { "type": "forge:ore_dict", "ore": "itemSalt" } ],
+		{ "type": "forge:ore_dict", "ore": "foodVinegar" },
+		[ { "type": "forge:ore_dict", "ore": "foodBlackpepper" }, { "type": "forge:ore_dict", "ore": "dustPepper" }, { "type": "forge:ore_dict", "ore": "dustBlackpepper" } ],
+		{ "item": "chinjufumod:block_food_frypan" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_frypan_n4", "data": 1, "count" : 1 }
+}

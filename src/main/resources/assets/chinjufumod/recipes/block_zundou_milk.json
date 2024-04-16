@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_zundou",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "bucketMilk" },
+		{ "item": "chinjufumod:block_food_zundou", "data": 0 }
+	],
+
+	"result": { "item": "chinjufumod:block_zundou_milk", "data": 0, "count": 1 }
+}

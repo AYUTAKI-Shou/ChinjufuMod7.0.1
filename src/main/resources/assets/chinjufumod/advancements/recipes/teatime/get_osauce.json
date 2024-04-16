@@ -1,0 +1,26 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_food_teppan_n_okonomiyaki",
+			"chinjufumod:block_food_teppan_n_okonomis",
+			"chinjufumod:block_food_teppan_n_okonomic",
+			"chinjufumod:block_food_teppan_n_okonomisoba",
+			"chinjufumod:block_food_teppan_n_okonomisobas",
+			"chinjufumod:block_food_teppan_n_okonomisobac",
+			"chinjufumod:block_food_teppan_n_yakisoba"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "type": "forge:ore_dict", "ore": "foodWorcestershiresauce" } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

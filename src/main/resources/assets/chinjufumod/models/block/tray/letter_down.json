@@ -1,0 +1,49 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/tray_side15",
+		"top": "chinjufumod:block/trayletter_top15",
+		"bottom": "chinjufumod:block/tray_bottom15",
+		"item": "chinjufumod:block/letterfude_item",
+		"side": "chinjufumod:block/tray_side15"
+	},
+	"elements": [
+		{
+			"name": "tray",
+			"from": [ 0, -8, 0 ],
+			"to": [ 16, -7.5, 16 ],
+			"faces": {
+				"down": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#bottom", "cullface": "down" },
+				"up": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#top" },
+				"north": { "uv": [ 0.0, 15.5, 16.0, 16.0 ], "texture": "#side" },
+				"south": { "uv": [ 0.0, 15.5, 16.0, 16.0 ], "texture": "#side" },
+				"west": { "uv": [ 0.0, 15.5, 16.0, 16.0 ], "texture": "#side" },
+				"east": { "uv": [ 0.0, 15.5, 16.0, 16.0 ], "texture": "#side" }
+			}
+		},
+		{
+			"name": "ink",
+			"from": [ 11, -7.5, 2 ],
+			"to": [ 14, -6.5, 5 ],
+			"faces": {
+				"up": { "uv": [ 5.0, 0.0, 8.0, 3.0 ], "texture": "#item" },
+				"north": { "uv": [ 0.0, 0.0, 3.0, 1.0 ], "texture": "#item" },
+				"south": { "uv": [ 0.0, 0.0, 3.0, 1.0 ], "texture": "#item" },
+				"west": { "uv": [ 0.0, 0.0, 3.0, 1.0 ], "texture": "#item" },
+				"east": { "uv": [ 0.0, 0.0, 3.0, 1.0 ], "texture": "#item" }
+			}
+		},
+		{
+			"name": "cap",
+			"from": [ 12, -6.5, 3 ],
+			"to": [ 13, -6.0, 4 ],
+			"faces": {
+				"up": { "uv": [ 0.0, 3.0, 1.0, 4.0 ], "texture": "#item" },
+				"north": { "uv": [ 0.0, 3.0, 1.0, 4.0 ], "texture": "#item" },
+				"south": { "uv": [ 0.0, 3.0, 1.0, 4.0 ], "texture": "#item" },
+				"west": { "uv": [ 0.0, 3.0, 1.0, 4.0 ], "texture": "#item" },
+				"east": { "uv": [ 0.0, 3.0, 1.0, 4.0 ], "texture": "#item" }
+			}
+		}
+	]
+}

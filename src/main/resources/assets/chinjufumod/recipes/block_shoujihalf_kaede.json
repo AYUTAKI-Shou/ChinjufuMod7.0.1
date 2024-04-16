@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_slidingdoorhalf",
+
+	"pattern": [
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_shouji_s", "data": 1 }
+	},
+
+	"result": { "item": "chinjufumod:block_shoujihalf_s", "data": 1, "count": 6 }
+}

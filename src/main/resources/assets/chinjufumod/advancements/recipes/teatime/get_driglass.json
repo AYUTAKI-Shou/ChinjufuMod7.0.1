@@ -1,0 +1,20 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_measurecup"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_food_dish", "data": 7 } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

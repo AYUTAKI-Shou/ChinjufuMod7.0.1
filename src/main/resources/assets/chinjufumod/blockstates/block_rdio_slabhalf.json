@@ -1,0 +1,9 @@
+{
+	"variants": {
+		"double=false,half=bottom": { "model": "chinjufumod:rock/slab_diorite_bottom" },
+		"double=false,half=top": { "model": "chinjufumod:rock/slab_diorite_top" },
+
+		"double=true,half=top": { "model": "minecraft:diorite" },
+		"double=true,half=bottom": { "model": "minecraft:diorite" }
+	}
+}

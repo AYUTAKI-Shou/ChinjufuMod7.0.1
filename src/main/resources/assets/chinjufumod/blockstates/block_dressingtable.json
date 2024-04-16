@@ -1,0 +1,8 @@
+{
+  "variants": {
+	"facing=north": { "model": "chinjufumod:dressingtable/oak_bot", "y": 180 },
+	"facing=south": { "model": "chinjufumod:dressingtable/oak_bot" },
+	"facing=west":  { "model": "chinjufumod:dressingtable/oak_bot", "y": 90 },
+	"facing=east":  { "model": "chinjufumod:dressingtable/oak_bot", "y": 270 }
+  }
+}

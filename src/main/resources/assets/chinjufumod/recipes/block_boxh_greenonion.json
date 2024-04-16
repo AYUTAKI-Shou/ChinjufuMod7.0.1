@@ -1,0 +1,14 @@
+﻿{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_boxh2",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "cropGreenonion" },
+		{ "type": "forge:ore_dict", "ore": "cropGreenonion" },
+		{ "type": "forge:ore_dict", "ore": "cropGreenonion" },
+		{ "type": "forge:ore_dict", "ore": "cropGreenonion" },
+		{ "item": "chinjufumod:block_boxh_empty", "data": 0, "count": 1 }
+	],
+
+	"result": { "item": "chinjufumod:block_boxh_greenonion", "data": 0, "count": 1 }
+}

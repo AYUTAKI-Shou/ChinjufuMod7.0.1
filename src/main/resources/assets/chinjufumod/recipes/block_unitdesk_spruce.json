@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_unitdesk",
+
+	"pattern": [
+		"XXX",
+		"X X",
+		"X X"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "slabWoodSpruce" }
+	},
+
+	"result": { "item": "chinjufumod:block_unitdesk", "data": 1, "count": 1 }
+}

@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_spice",
+
+	"ingredients": [
+		[ { "type": "forge:ore_dict", "ore": "cropCumin" }, { "type": "forge:ore_dict", "ore": "seedCumin" } ],
+		[ { "type": "forge:ore_dict", "ore": "cropCumin" }, { "type": "forge:ore_dict", "ore": "seedCumin" } ],
+		[ { "type": "forge:ore_dict", "ore": "cropCumin" }, { "type": "forge:ore_dict", "ore": "seedCumin" } ],
+		[ { "type": "forge:ore_dict", "ore": "cropCumin" }, { "type": "forge:ore_dict", "ore": "seedCumin" } ]
+	],
+
+	"result": { "item": "chinjufumod:item_spice", "data": 4, "count": 4 }
+}

@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "chinjufumod:tansu/birch", "y": 180 },
+		"facing=south": { "model": "chinjufumod:tansu/birch", "y": 0 },
+		"facing=west":  { "model": "chinjufumod:tansu/birch", "y": 90 },
+		"facing=east":  { "model": "chinjufumod:tansu/birch", "y": 270 }
+	}
+}

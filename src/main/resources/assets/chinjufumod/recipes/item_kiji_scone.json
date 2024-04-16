@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_tea",
+
+	"ingredients": [
+		{ "item": "minecraft:sugar" },
+		{ "type": "forge:ore_dict", "ore": "bucketMilk" },
+		[ { "type": "forge:ore_dict", "ore": "dustSalt" }, { "type": "forge:ore_dict", "ore": "foodSalt" }, { "type": "forge:ore_dict", "ore": "itemSalt" } ],
+		{ "type": "forge:ore_dict", "ore": "itemYeast" },
+		{ "type": "forge:ore_dict", "ore": "foodButter" },
+		{ "type": "forge:ore_dict", "ore": "foodFlour" },
+		{ "type": "forge:ore_dict", "ore": "foodFlour" },
+		{ "type": "forge:ore_dict", "ore": "foodFlour" },
+		{ "type": "forge:ore_dict", "ore": "foodFlour" }
+	],
+
+	"result": { "item": "chinjufumod:item_komugi", "data": 5, "count" : 4 }
+}

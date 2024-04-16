@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"facing=up": { "model": "chinjufumod:watagashi/white" },
+		"facing=down": { "model": "chinjufumod:watagashi/white2" },
+		"facing=north": { "model": "chinjufumod:watagashi/white3", "y": 180 },
+		"facing=south": { "model": "chinjufumod:watagashi/white3" },
+		"facing=west": { "model": "chinjufumod:watagashi/white3", "y": 90 },
+		"facing=east": { "model": "chinjufumod:watagashi/white3", "y": 270 }
+	}
+}

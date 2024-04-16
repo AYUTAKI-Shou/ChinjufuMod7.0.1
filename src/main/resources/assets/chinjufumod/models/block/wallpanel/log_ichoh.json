@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/wallpanel_wide",
+	"textures": {
+		"particle": "chinjufumod:block/log_ichoh",
+		"front": "chinjufumod:block/log_ichoh",
+		"back": "chinjufumod:block/log_ichoh",
+		"side": "chinjufumod:block/log_ichoh"
+	}
+}

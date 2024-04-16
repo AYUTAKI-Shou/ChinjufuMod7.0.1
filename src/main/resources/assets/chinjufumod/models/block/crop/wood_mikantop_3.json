@@ -1,0 +1,36 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/log_mikan",
+		"ha": "chinjufumod:block/leaves_mikan",
+		"miki": "chinjufumod:block/log_mikan"
+	},
+	"elements": [
+		{
+			"name": "ha",
+			"from": [ 2, 0, 2 ],
+			"to": [ 14, 8, 14 ],
+			"faces": {
+				"up": { "uv": [ 2.0, 2.0, 14.0, 14.0 ], "texture": "#ha" },
+				"north": { "uv": [ 2.0, 0.0, 14.0, 8.0 ], "texture": "#ha" },
+				"south": { "uv": [ 2.0, 0.0, 14.0, 8.0 ], "texture": "#ha" },
+				"east" : { "uv": [ 2.0, 0.0, 14.0, 8.0 ], "texture": "#ha" },
+				"west" : { "uv": [ 2.0, 0.0, 14.0, 8.0 ], "texture": "#ha" }
+			}
+		},
+
+		{
+			"name": "miki",
+			"from": [ 8, 0, 7 ],
+			"to": [ 9, 6, 8 ],
+			"faces": {
+				"up": { "uv": [ 8.0, 7.0, 9.0, 8.0 ], "texture": "#miki" },
+				"down" : { "uv": [ 8.0, 7.0, 9.0, 8.0 ], "texture": "#miki" },
+				"north": { "uv": [ 10.0, 4.0, 11.0, 10.0 ], "texture": "#miki" },
+				"south": { "uv": [ 10.0, 4.0, 11.0, 10.0 ], "texture": "#miki" },
+				"east" : { "uv": [ 15.0, 4.0, 16.0, 10.0 ], "texture": "#miki" },
+				"west" : { "uv": [ 15.0, 4.0, 16.0, 10.0 ], "texture": "#miki" }
+			}
+		}
+	]
+}

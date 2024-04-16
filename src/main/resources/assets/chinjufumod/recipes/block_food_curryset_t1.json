@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_curry",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "cropCarrot" },
+		{ "type": "forge:ore_dict", "ore": "cropCabbage" },
+		{ "type": "forge:ore_dict", "ore": "cropTomato" },
+		{ "item": "chinjufumod:item_food_sara" },
+		{ "item": "chinjufumod:block_food_curry_1", "data": 2 }
+	],
+
+	"result": { "item": "chinjufumod:block_food_curryset_1", "data": 2, "count" : 1 }
+}

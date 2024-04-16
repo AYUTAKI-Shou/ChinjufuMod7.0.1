@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_food",
+
+	"ingredients": [
+		[ { "type": "forge:ore_dict", "ore": "foodBlackpepper" }, { "type": "forge:ore_dict", "ore": "dustPepper" }, { "type": "forge:ore_dict", "ore": "dustBlackpepper" } ],
+		{ "type": "forge:ore_dict", "ore": "egg" },
+		[ { "type": "forge:ore_dict", "ore": "beef" }, { "type": "forge:ore_dict", "ore": "listAllbeefraw" } ],
+		[ { "type": "forge:ore_dict", "ore": "dustSalt" }, { "type": "forge:ore_dict", "ore": "foodSalt" }, { "type": "forge:ore_dict", "ore": "itemSalt" } ],
+		{ "type": "forge:ore_dict", "ore": "cropOnion" },
+		{ "item": "chinjufumod:item_food_bun" }
+	],
+
+	"result": { "item": "chinjufumod:item_komugi", "data": 4, "count" : 1 }
+}

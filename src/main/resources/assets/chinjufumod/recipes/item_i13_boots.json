@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_boots",
+
+	"ingredients": [
+		{ "item": "minecraft:leather_boots" },
+		{ "type": "forge:ore_dict", "ore": "dyeRed" },
+		{ "item": "minecraft:coal", "data": 0 },
+		{ "item": "minecraft:iron_ingot" },
+		{ "item": "minecraft:iron_ingot" },
+		{ "item": "chinjufumod:item_workorder" }
+	],
+
+	"result": { "item": "chinjufumod:item_i13_boots", "data": 0, "count": 1 }
+}

@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:zabuton/white" },
+		"stage=1": { "model": "chinjufumod:zabuton/orange" },
+		"stage=2": { "model": "chinjufumod:zabuton/magenta" },
+		"stage=3": { "model": "chinjufumod:zabuton/lightb" },
+		"stage=4": { "model": "chinjufumod:zabuton/yellow" },
+		"stage=5": { "model": "chinjufumod:zabuton/lime" },
+		"stage=6": { "model": "chinjufumod:zabuton/pink" },
+		"stage=7": { "model": "chinjufumod:zabuton/gray" },
+		"stage=8": { "model": "chinjufumod:zabuton/lightg" },
+		"stage=9": { "model": "chinjufumod:zabuton/cyan" },
+		"stage=10": { "model": "chinjufumod:zabuton/purple" },
+		"stage=11": { "model": "chinjufumod:zabuton/blue" },
+		"stage=12": { "model": "chinjufumod:zabuton/brown" },
+		"stage=13": { "model": "chinjufumod:zabuton/green" },
+		"stage=14": { "model": "chinjufumod:zabuton/red" },
+		"stage=15": { "model": "chinjufumod:zabuton/black" }
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_seasonal",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "woolWhite" },
+		{ "type": "forge:ore_dict", "ore": "woolBlack" },
+		{ "type": "forge:ore_dict", "ore": "woolCyan" },
+		{ "type": "forge:ore_dict", "ore": "woolMagenta" },
+		{ "type": "forge:ore_dict", "ore": "woolYellow" },
+		{ "item": "chinjufumod:block_hinadan" },
+		{ "item": "chinjufumod:block_hinadan" },
+		{ "item": "chinjufumod:block_hinadan" },
+		{ "item": "chinjufumod:block_hinadan" }
+	],
+
+	"result": { "item": "chinjufumod:block_hinakazari", "data": 0, "count": 4 }
+}

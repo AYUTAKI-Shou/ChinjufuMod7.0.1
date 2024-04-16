@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/diningchair_bot",
+	"textures": {
+		"particle": "chinjufumod:block/planks_kaede",
+		"leg": "chinjufumod:block/muku_kaede",
+		"side": "chinjufumod:block/planks_kaede",
+		"top": "chinjufumod:block/planks_kaede"
+	}
+}

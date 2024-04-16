@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:tatami_wood/white_oak_e", "y": 90 },
+		"stage=1": { "model": "chinjufumod:tatami_wood/orange_oak_e", "y": 90 },
+		"stage=2": { "model": "chinjufumod:tatami_wood/magenta_oak_e", "y": 90 },
+		"stage=3": { "model": "chinjufumod:tatami_wood/lightblue_oak_e", "y": 90 },
+		"stage=4": { "model": "chinjufumod:tatami_wood/yellow_oak_e", "y": 90 },
+		"stage=5": { "model": "chinjufumod:tatami_wood/lime_oak_e", "y": 90 },
+		"stage=6": { "model": "chinjufumod:tatami_wood/pink_oak_e", "y": 90 },
+		"stage=7": { "model": "chinjufumod:tatami_wood/gray_oak_e", "y": 90 },
+		"stage=8": { "model": "chinjufumod:tatami_wood/lightgray_oak_e", "y": 90 },
+		"stage=9": { "model": "chinjufumod:tatami_wood/cyan_oak_e", "y": 90 },
+		"stage=10": { "model": "chinjufumod:tatami_wood/purple_oak_e", "y": 90 },
+		"stage=11": { "model": "chinjufumod:tatami_wood/blue_oak_e", "y": 90 },
+		"stage=12": { "model": "chinjufumod:tatami_wood/brown_oak_e", "y": 90 },
+		"stage=13": { "model": "chinjufumod:tatami_wood/green_oak_e", "y": 90 },
+		"stage=14": { "model": "chinjufumod:tatami_wood/red_oak_e", "y": 90 },
+		"stage=15": { "model": "chinjufumod:tatami_wood/black_oak_e", "y": 90 }
+	}
+}

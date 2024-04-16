@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"I",
+		"S",
+		"#"
+	],
+	"key": {
+		"#": [ { "type": "forge:ore_dict", "ore": "plankWood" }, { "type": "forge:ore_dict", "ore": "plankWoodCherry" }, 
+		{ "type": "forge:ore_dict", "ore": "plankWoodAcer" }, { "type": "forge:ore_dict", "ore": "plankWoodGinkgo" } ],
+		"S": { "item": "minecraft:stick", "data": 0 },
+		"I": { "item": "minecraft:iron_ingot" }
+	},
+	"result": { "item": "minecraft:tripwire_hook", "count": 2 }
+}

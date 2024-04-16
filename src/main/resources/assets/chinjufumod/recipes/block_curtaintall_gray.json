@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_curtain",
+
+	"pattern": [
+		"XX",
+		"YY",
+		"YY"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:stick", "data": 0 },
+		"Y": { "type": "forge:ore_dict", "ore": "carpetGray" }
+	},
+
+	"result": { "item": "chinjufumod:block_curtaintall", "data": 7, "count": 2 }
+}

@@ -1,0 +1,32 @@
+{
+	"parent": "chinjufumod:cm_story/root",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.get_stamp.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.get_stamp.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_admiralstamp"
+		},
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_admiralstamp" } ]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": {
+		"experience":30
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_other",
+
+	"ingredients": [
+		{ "item": "chinjufumod:block_tree_sakura_flow", "data": 0 }
+	],
+
+	"result": { "item": "minecraft:dye", "data": 9, "count": 1 }
+}

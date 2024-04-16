@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_santa",
+
+	"pattern": [
+		"XXX",
+		"X X",
+		"Y Y"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "carpetRed" },
+		"Y": { "type": "forge:ore_dict", "ore": "carpetWhite" }
+	},
+
+	"result": { "item": "chinjufumod:item_santattk_leggings", "data": 0, "count": 1 }
+}

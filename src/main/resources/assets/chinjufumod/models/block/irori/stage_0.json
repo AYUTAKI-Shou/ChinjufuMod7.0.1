@@ -1,0 +1,76 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/irori_ash",
+		"waku": "chinjufumod:block/irori_waku",
+		"hai": "chinjufumod:block/irori_ash",
+		"gotoku": "chinjufumod:block/irori_waku"
+	},
+	"elements": [
+		{
+			"name": "hai",
+			"from": [ 0.5, 8, 0.5 ],
+			"to": [ 15.5, 11, 15.5 ],
+			"faces": {
+				"up": { "texture": "#hai" }
+			}
+		},
+		{
+			"name": "waku_shita__________",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 1, 16 ],
+			"faces": {
+				"up": { "texture": "#waku" },
+				"down" : { "texture": "#waku", "cullface": "down" },
+				"north": { "texture": "#waku" },
+				"south": { "texture": "#waku" },
+				"west" : { "texture": "#waku" },
+				"east" : { "texture": "#waku" }
+			}
+		},
+		{
+			"name": "waku_nor",
+			"from": [ 0, 1, 0 ],
+			"to": [ 16, 15, 0.5 ],
+			"faces": {
+				"up": { "texture": "#waku" },
+				"north": { "texture": "#waku" },
+				"south": { "texture": "#waku" },
+				"west" : { "texture": "#waku" },
+				"east" : { "texture": "#waku" }
+			}
+		},
+		{
+			"name": "waku_sou",
+			"from": [ 0, 1, 15.5 ],
+			"to": [ 16, 15, 16 ],
+			"faces": {
+				"up": { "texture": "#waku" },
+				"north": { "texture": "#waku" },
+				"south": { "texture": "#waku" },
+				"west" : { "texture": "#waku" },
+				"east" : { "texture": "#waku" }
+			}
+		},
+		{
+			"name": "waku_west",
+			"from": [ 15.5, 1, 0.5 ],
+			"to": [ 16, 15, 15.5 ],
+			"faces": {
+				"up": { "texture": "#waku" },
+				"west" : { "texture": "#waku" },
+				"east" : { "texture": "#waku" }
+			}
+		},
+		{
+			"name": "waku_east",
+			"from": [ 0, 1, 0.5 ],
+			"to": [ 0.5, 15, 15.5 ],
+			"faces": {
+				"up": { "texture": "#waku" },
+				"west" : { "texture": "#waku" },
+				"east" : { "texture": "#waku" }
+			}
+		}
+	]
+}

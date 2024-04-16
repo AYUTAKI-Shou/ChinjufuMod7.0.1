@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_santa",
+
+	"pattern": [
+		"XXX",
+		"Y Z"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "carpetRed" },
+		"Y": { "type": "forge:ore_dict", "ore": "carpetWhite" },
+		"Z": { "type": "forge:ore_dict", "ore": "dyeLime" }
+	},
+
+	"result": { "item": "chinjufumod:item_santasuzuya_helmet", "data": 0, "count": 1 }
+}

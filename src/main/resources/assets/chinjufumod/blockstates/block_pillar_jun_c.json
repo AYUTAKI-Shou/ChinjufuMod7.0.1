@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"axis=y":  { "model": "chinjufumod:pillar/jungle" },
+		"axis=z":   { "model": "chinjufumod:pillar/jungle", "x": 90 },
+		"axis=x":   { "model": "chinjufumod:pillar/jungle", "x": 90, "y": 90 },
+		"axis=none": { "model": "chinjufumod:pillar/jungle" }
+	}
+}

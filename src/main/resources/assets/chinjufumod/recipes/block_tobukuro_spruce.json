@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_tobukuro",
+
+	"pattern": [
+		"XYY",
+		" YY"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "plankWoodSpruce" },
+		"Y": { "type": "forge:ore_dict", "ore": "slabWoodSpruce" }
+	},
+
+	"result": { "item": "chinjufumod:block_tobukuro_spruce", "data": 0, "count": 2 }
+}

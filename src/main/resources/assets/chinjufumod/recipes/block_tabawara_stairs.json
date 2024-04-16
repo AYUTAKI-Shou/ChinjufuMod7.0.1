@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_tabakaya",
+
+	"pattern": [
+		"X  ",
+		"XX ",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_tabawara", "data": 0 }
+	},
+
+	"result": { "item": "chinjufumod:block_tabawara_stairs", "data": 0, "count": 4 }
+}

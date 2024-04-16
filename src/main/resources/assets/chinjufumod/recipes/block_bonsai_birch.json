@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_bonsai",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "treeSaplingBirch" },
+		{ "item": "minecraft:dirt", "data": 0 },
+		{ "item": "minecraft:flower_pot", "data": 0 }
+	],
+
+	"result": { "item": "chinjufumod:block_bonsai", "data": 2, "count" : 1 }
+}

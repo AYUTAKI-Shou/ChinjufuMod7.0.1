@@ -1,0 +1,8 @@
+{
+  "variants": {
+	"facing=north": { "model": "chinjufumod:kakigouri/hata", "y": 180 },
+	"facing=south": { "model": "chinjufumod:kakigouri/hata" },
+	"facing=west":  { "model": "chinjufumod:kakigouri/hata", "y": 90 },
+	"facing=east":  { "model": "chinjufumod:kakigouri/hata", "y": 270 }
+  }
+}

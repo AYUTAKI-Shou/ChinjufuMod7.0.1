@@ -1,0 +1,8 @@
+{
+  "variants": {
+	"facing=north": { "model": "chinjufumod:truss/purple" },
+	"facing=south": { "model": "chinjufumod:truss/purple_re" },
+	"facing=west":  { "model": "chinjufumod:truss/purple_re" },
+	"facing=east":  { "model": "chinjufumod:truss/purple" }
+  }
+}

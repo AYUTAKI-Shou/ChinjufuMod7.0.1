@@ -1,0 +1,35 @@
+{
+	"variants": {
+		"down=false,stage=1": { "model": "chinjufumod:glass/wine_1" },
+		"down=false,stage=2": { "model": "chinjufumod:glass/wine_2" },
+		"down=false,stage=3": { "model": "chinjufumod:glass/wine_empty" },
+		"down=false,stage=4": { "model": "chinjufumod:glass/winejuku_1" },
+		"down=false,stage=5": { "model": "chinjufumod:glass/winejuku_2" },
+		"down=false,stage=6": { "model": "chinjufumod:glass/wine_empty" },
+		"down=false,stage=7": { "model": "chinjufumod:glass/cider_1" },
+		"down=false,stage=8": { "model": "chinjufumod:glass/cider_2" },
+		"down=false,stage=9": { "model": "chinjufumod:glass/cider_empty" },
+		"down=false,stage=10": { "model": "chinjufumod:glass/ciderjuku_1" },
+		"down=false,stage=11": { "model": "chinjufumod:glass/ciderjuku_2" },
+		"down=false,stage=12": { "model": "chinjufumod:glass/cider_empty" },
+		"down=false,stage=13": { "model": "chinjufumod:glass/amazake_1" },
+		"down=false,stage=14": { "model": "chinjufumod:glass/amazake_2" },
+		"down=false,stage=15": { "model": "chinjufumod:glass/amazake_empty" },
+
+		"down=true,stage=1": { "model": "chinjufumod:glass/wine_down1" },
+		"down=true,stage=2": { "model": "chinjufumod:glass/wine_down2" },
+		"down=true,stage=3": { "model": "chinjufumod:glass/wine_downempty" },
+		"down=true,stage=4": { "model": "chinjufumod:glass/winejuku_down1" },
+		"down=true,stage=5": { "model": "chinjufumod:glass/winejuku_down2" },
+		"down=true,stage=6": { "model": "chinjufumod:glass/wine_downempty" },
+		"down=true,stage=7": { "model": "chinjufumod:glass/cider_down1" },
+		"down=true,stage=8": { "model": "chinjufumod:glass/cider_down2" },
+		"down=true,stage=9": { "model": "chinjufumod:glass/cider_downempty" },
+		"down=true,stage=10": { "model": "chinjufumod:glass/ciderjuku_down1" },
+		"down=true,stage=11": { "model": "chinjufumod:glass/ciderjuku_down2" },
+		"down=true,stage=12": { "model": "chinjufumod:glass/cider_downempty" },
+		"down=true,stage=13": { "model": "chinjufumod:glass/amazake_down1" },
+		"down=true,stage=14": { "model": "chinjufumod:glass/amazake_down2" },
+		"down=true,stage=15": { "model": "chinjufumod:glass/amazake_downempty" }
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"axis=y,stage=0": { "model": "chinjufumod:taru/cocoa_f" },
+		"axis=z,stage=0": { "model": "chinjufumod:taru/cocoa_f", "x": 90 },
+		"axis=x,stage=0": { "model": "chinjufumod:taru/cocoa_f", "x": 90, "y": 90 },
+		"axis=none,stage=0": { "model": "chinjufumod:taru/cocoa_f" },
+
+		"axis=y,stage=1": { "model": "chinjufumod:taru/cocoa_1" },
+		"axis=z,stage=1": { "model": "chinjufumod:taru/cocoa_1", "x": 90 },
+		"axis=x,stage=1": { "model": "chinjufumod:taru/cocoa_1", "x": 90, "y": 90 },
+		"axis=none,stage=1": { "model": "chinjufumod:taru/cocoa_1" }
+	}
+}

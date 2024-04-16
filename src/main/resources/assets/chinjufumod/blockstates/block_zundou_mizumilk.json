@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:zundou/mizu", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:zundou/mizu" },
+		"facing=west,stage=1": { "model": "chinjufumod:zundou/mizu", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:zundou/mizu", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:zundou/mizu_hot", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:zundou/mizu_hot" },
+		"facing=west,stage=2": { "model": "chinjufumod:zundou/mizu_hot", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:zundou/mizu_hot", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:zundou/milk", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:zundou/milk" },
+		"facing=west,stage=3": { "model": "chinjufumod:zundou/milk", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:zundou/milk", "y": 270 },
+
+		"facing=north,stage=4": { "model": "chinjufumod:zundou/milk_hot", "y": 180 },
+		"facing=south,stage=4": { "model": "chinjufumod:zundou/milk_hot" },
+		"facing=west,stage=4": { "model": "chinjufumod:zundou/milk_hot", "y": 90 },
+		"facing=east,stage=4": { "model": "chinjufumod:zundou/milk_hot", "y": 270 }
+	}
+}

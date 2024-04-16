@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:snowman/down_bot_normal", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:snowman/down_bot_normal", "y": 0 },
+		"facing=west,stage=1": { "model": "chinjufumod:snowman/down_bot_normal", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:snowman/down_bot_normal", "y": 270 },
+		
+			"facing=north,stage=2": { "model": "chinjufumod:snowman/down_bot_carrot", "y": 180 },
+			"facing=south,stage=2": { "model": "chinjufumod:snowman/down_bot_carrot", "y": 0 },
+			"facing=west,stage=2": { "model": "chinjufumod:snowman/down_bot_carrot", "y": 90 },
+			"facing=east,stage=2": { "model": "chinjufumod:snowman/down_bot_carrot", "y": 270 },
+		
+		"facing=north,stage=3": { "model": "chinjufumod:snowman/down_bot_roma", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:snowman/down_bot_roma", "y": 0 },
+		"facing=west,stage=3": { "model": "chinjufumod:snowman/down_bot_roma", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:snowman/down_bot_roma", "y": 270 },
+		
+			"facing=north,stage=4": { "model": "chinjufumod:snowman/down_bot_bucket", "y": 180 },
+			"facing=south,stage=4": { "model": "chinjufumod:snowman/down_bot_bucket", "y": 0 },
+			"facing=west,stage=4": { "model": "chinjufumod:snowman/down_bot_bucket", "y": 90 },
+			"facing=east,stage=4": { "model": "chinjufumod:snowman/down_bot_bucket", "y": 270 }
+	}
+}

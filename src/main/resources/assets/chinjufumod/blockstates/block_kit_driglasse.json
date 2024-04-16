@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "chinjufumod:shelfdish/driglasse", "y": 180 },
+		"facing=south": { "model": "chinjufumod:shelfdish/driglasse", "y": 0 },
+		"facing=west":  { "model": "chinjufumod:shelfdish/driglasse", "y": 90 },
+		"facing=east":  { "model": "chinjufumod:shelfdish/driglasse", "y": 270 }
+	}
+}

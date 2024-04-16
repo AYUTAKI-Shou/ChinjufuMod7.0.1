@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_choco",
+
+	"ingredients": [
+		{ "item": "minecraft:sugar" },
+		{ "type": "forge:ore_dict", "ore": "bucketMilk" },
+		{ "item": "chinjufumod:item_cocoa_mass" }
+	],
+
+	"result": { "item": "chinjufumod:item_choco_raw", "data": 0, "count": 1 }
+}

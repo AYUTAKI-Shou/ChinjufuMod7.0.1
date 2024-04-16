@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"facing=north,right=false": { "model": "chinjufumod:kitchen/reizou_closeleft", "y": 180 },
+		"facing=south,right=false": { "model": "chinjufumod:kitchen/reizou_closeleft", "y": 0 },
+		"facing=west,right=false": { "model": "chinjufumod:kitchen/reizou_closeleft", "y": 90 },
+		"facing=east,right=false": { "model": "chinjufumod:kitchen/reizou_closeleft", "y": 270 },
+
+			"facing=north,right=true": { "model": "chinjufumod:kitchen/reizou_closeright", "y": 180 },
+			"facing=south,right=true": { "model": "chinjufumod:kitchen/reizou_closeright", "y": 0 },
+			"facing=west,right=true": { "model": "chinjufumod:kitchen/reizou_closeright", "y": 90 },
+			"facing=east,right=true": { "model": "chinjufumod:kitchen/reizou_closeright", "y": 270 }
+	}
+}

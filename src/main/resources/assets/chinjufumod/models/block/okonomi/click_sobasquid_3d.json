@@ -1,0 +1,10 @@
+{
+	"parent": "chinjufumod:block/base/click_soba3d",
+	"textures": {
+		"particle": "chinjufumod:block/okonomis_bake_re",
+		"okonomi": "chinjufumod:block/okonomis_bake_re",
+		"cabbage": "chinjufumod:block/okonomicabbage_raw",
+		"soba": "chinjufumod:block/ramen_boil",
+		"kote": "chinjufumod:block/dish_lightg"
+	}
+}

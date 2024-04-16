@@ -1,0 +1,9 @@
+{
+	"variants": {
+		"double=false,half=bottom": { "model": "chinjufumod:brick/slab_diorite_bottom" },
+		"double=false,half=top": { "model": "chinjufumod:brick/slab_diorite_top" },
+
+		"double=true,half=top": { "model": "chinjufumod:brick/diorite" },
+		"double=true,half=bottom": { "model": "chinjufumod:brick/diorite" }
+	}
+}

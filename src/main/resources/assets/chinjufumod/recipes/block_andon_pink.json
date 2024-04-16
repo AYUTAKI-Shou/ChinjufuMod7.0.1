@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_andon",
+
+	"ingredients": [
+		{ "item": "chinjufumod:block_andon", "data": 1 },
+		{ "item": "chinjufumod:block_andon", "data": 1 },
+		{ "item": "chinjufumod:block_andon", "data": 1 },
+		{ "item": "chinjufumod:block_andon", "data": 1 },
+		{ "type": "forge:ore_dict", "ore": "dyePink" }
+	],
+
+	"result": { "item": "chinjufumod:block_andon_2", "data": 3, "count" : 4 }
+}

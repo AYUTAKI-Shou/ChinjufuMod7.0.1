@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_gohan",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "bucketWater" },
+		{ "type": "forge:ore_dict", "ore": "cropBambooshoot" },
+		{ "type": "forge:ore_dict", "ore": "cropBambooshoot" },
+		{ "item": "chinjufumod:item_kome" },
+		{ "item": "chinjufumod:item_kome" },
+		{ "item": "chinjufumod:item_kome" },
+		{ "type": "forge:ore_dict", "ore": "foodSoysauce" },
+		{ "type": "forge:ore_dict", "ore": "dustDashi" },
+		{ "item": "chinjufumod:block_food_karanabe" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_nabegohantake_n", "data": 1, "count" : 1 }
+}

@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_keiryukui",
+
+	"pattern": [
+		" Y ",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_keiryukui", "data": 0 },
+		"Y": { "type": "forge:ore_dict", "ore": "dyeBlack" }
+	},
+
+	"result": { "item": "chinjufumod:block_keiryukui_b", "data": 0, "count": 3 }
+}

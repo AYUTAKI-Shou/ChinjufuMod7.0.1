@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_door",
+
+	"pattern": [
+		"XX",
+		"XX",
+		"XX"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "slabWoodOak" }
+	},
+
+	"result": { "item": "chinjufumod:block_kido", "data": 0, "count": 3 }
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/ingotw",
+	"textures": {
+		"particle": "chinjufumod:block/gold_side",
+		"up": "chinjufumod:block/gold_up_we",
+		"down": "chinjufumod:block/gold_down",
+		"side": "chinjufumod:block/gold_side"
+	 }
+}

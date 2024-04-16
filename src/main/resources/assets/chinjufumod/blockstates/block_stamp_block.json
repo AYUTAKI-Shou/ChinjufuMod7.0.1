@@ -1,0 +1,8 @@
+{
+  "variants": {
+	"facing=north": { "model": "chinjufumod:admiralstamp" },
+	"facing=south": { "model": "chinjufumod:admiralstamp", "y": 180 },
+	"facing=west":  { "model": "chinjufumod:admiralstamp", "y": 270 },
+	"facing=east":  { "model": "chinjufumod:admiralstamp", "y": 90 }
+  }
+}

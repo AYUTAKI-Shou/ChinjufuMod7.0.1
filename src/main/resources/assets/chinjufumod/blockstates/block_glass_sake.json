@@ -1,0 +1,36 @@
+{
+	"variants": {
+		"down=false,stage=1": { "model": "chinjufumod:glass/sakenama_1" },
+		"down=false,stage=2": { "model": "chinjufumod:glass/sakenama_2" },
+		"down=false,stage=3": { "model": "chinjufumod:glass/sake_empty" },
+		"down=false,stage=4": { "model": "chinjufumod:glass/sake_1" },
+		"down=false,stage=5": { "model": "chinjufumod:glass/sake_2" },
+		"down=false,stage=6": { "model": "chinjufumod:glass/sake_empty" },
+		"down=false,stage=7": { "model": "chinjufumod:glass/sakejuku_1" },
+		"down=false,stage=8": { "model": "chinjufumod:glass/sakejuku_2" },
+		"down=false,stage=9": { "model": "chinjufumod:glass/sake_empty" },
+		"down=false,stage=10": { "model": "chinjufumod:glass/mead_1" },
+		"down=false,stage=11": { "model": "chinjufumod:glass/mead_2" },
+		"down=false,stage=12": { "model": "chinjufumod:glass/mead_empty" },
+		"down=false,stage=13": { "model": "chinjufumod:glass/meadjuku_1" },
+		"down=false,stage=14": { "model": "chinjufumod:glass/meadjuku_2" },
+		"down=false,stage=15": { "model": "chinjufumod:glass/mead_empty" },
+
+
+		"down=true,stage=1": { "model": "chinjufumod:glass/sakenama_down1" },
+		"down=true,stage=2": { "model": "chinjufumod:glass/sakenama_down2" },
+		"down=true,stage=3": { "model": "chinjufumod:glass/sake_downempty" },
+		"down=true,stage=4": { "model": "chinjufumod:glass/sake_down1" },
+		"down=true,stage=5": { "model": "chinjufumod:glass/sake_down2" },
+		"down=true,stage=6": { "model": "chinjufumod:glass/sake_downempty" },
+		"down=true,stage=7": { "model": "chinjufumod:glass/sakejuku_down1" },
+		"down=true,stage=8": { "model": "chinjufumod:glass/sakejuku_down2" },
+		"down=true,stage=9": { "model": "chinjufumod:glass/sake_downempty" },
+		"down=true,stage=10": { "model": "chinjufumod:glass/mead_down1" },
+		"down=true,stage=11": { "model": "chinjufumod:glass/mead_down2" },
+		"down=true,stage=12": { "model": "chinjufumod:glass/mead_downempty" },
+		"down=true,stage=13": { "model": "chinjufumod:glass/meadjuku_down1" },
+		"down=true,stage=14": { "model": "chinjufumod:glass/meadjuku_down2" },
+		"down=true,stage=15": { "model": "chinjufumod:glass/mead_downempty" }
+	}
+}

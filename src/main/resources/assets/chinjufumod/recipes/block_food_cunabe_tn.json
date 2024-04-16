@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_curry",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_spice", "data": 7 },
+		[ { "type": "forge:ore_dict", "ore": "foodBlackpepper" }, { "type": "forge:ore_dict", "ore": "dustPepper" }, { "type": "forge:ore_dict", "ore": "dustBlackpepper" } ],
+		{ "type": "forge:ore_dict", "ore": "cropSpinach" },
+		{ "type": "forge:ore_dict", "ore": "cropCarrot" },
+		{ "type": "forge:ore_dict", "ore": "cropTomato" },
+		{ "type": "forge:ore_dict", "ore": "cropTomato" },
+		{ "type": "forge:ore_dict", "ore": "cropOnion" },
+		{ "type": "forge:ore_dict", "ore": "bucketWater" },
+		{ "item": "chinjufumod:block_food_zundou", "data": 0 }
+	],
+
+	"result": { "item": "chinjufumod:block_food_cunabe_n", "data": 4, "count" : 1 }
+}

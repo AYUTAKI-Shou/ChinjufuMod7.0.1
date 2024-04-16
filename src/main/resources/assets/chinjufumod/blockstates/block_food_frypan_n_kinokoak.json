@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:sushi/frypan_n_kinokoak", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:sushi/frypan_n_kinokoak" },
+		"facing=west,stage=1": { "model": "chinjufumod:sushi/frypan_n_kinokoak", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:sushi/frypan_n_kinokoak", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:sushi/frypan_b_kinokoak", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:sushi/frypan_b_kinokoak" },
+		"facing=west,stage=2": { "model": "chinjufumod:sushi/frypan_b_kinokoak", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:sushi/frypan_b_kinokoak", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:food/kettle", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:food/kettle" },
+		"facing=west,stage=3": { "model": "chinjufumod:food/kettle", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:food/kettle", "y": 270 },
+
+		"facing=north,stage=4": { "model": "chinjufumod:food/frypan_n_katsudon", "y": 180 },
+		"facing=south,stage=4": { "model": "chinjufumod:food/frypan_n_katsudon" },
+		"facing=west,stage=4": { "model": "chinjufumod:food/frypan_n_katsudon", "y": 90 },
+		"facing=east,stage=4": { "model": "chinjufumod:food/frypan_n_katsudon", "y": 270 }
+	}
+}

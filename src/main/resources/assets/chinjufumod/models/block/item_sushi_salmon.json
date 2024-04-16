@@ -1,0 +1,64 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/sushi_salmon",
+		"salmon": "chinjufumod:block/sushi_salmon",
+		"kome": "chinjufumod:block/food_gohan"
+	},
+	"elements": [
+
+		{
+			"name": "salmon2_______________________________",
+			"from": [ 7.1, 0.65, 12.0 ],
+			"to": [ 8.9, 0.9, 12.6 ],
+			"faces": {
+				"up" : { "uv": [ 3.6, 0.0, 7.2, 1.2 ], "texture": "#salmon" },
+				"down" : { "uv": [ 3.6, 0.0, 7.2, 1.2 ], "texture": "#salmon" },
+				"north": { "uv": [ 7.2, 0.0, 3.6, 0.5 ], "texture": "#salmon" },
+				"south": { "uv": [ 3.6, 1.0, 7.2, 1.5 ], "texture": "#salmon" },
+				"east" : { "uv": [ 6.7, 0.0, 7.2, 1.2 ], "texture": "#salmon", "rotation": 90 },
+				"west" : { "uv": [ 3.6, 1.2, 4.1, 0.0 ], "texture": "#salmon", "rotation": 90 }
+			}
+		},
+		{
+			"name": "salmon2",
+			"from": [ 7.1, 0.75, 12.6 ],
+			"to": [ 8.9, 1.0, 14.9 ],
+			"faces": {
+				"up" : { "uv": [ 3.6, 1.2, 7.2, 5.8 ], "texture": "#salmon" },
+				"down" : { "uv": [ 3.6, 1.2, 7.2, 5.8 ], "texture": "#salmon" },
+				"north": { "uv": [ 7.2, 1.0, 3.6, 1.5 ], "texture": "#salmon" },
+				"south": { "uv": [ 3.6, 5.5, 7.2, 6.0 ], "texture": "#salmon" },
+				"east" : { "uv": [ 6.7, 1.2, 7.2, 5.8 ], "texture": "#salmon", "rotation": 90 },
+				"west" : { "uv": [ 3.6, 5.8, 4.1, 1.2 ], "texture": "#salmon", "rotation": 90 }
+			}
+		},
+		{
+			"name": "salmon2",
+			"from": [ 7.1, 0.65, 14.9 ],
+			"to": [ 8.9, 0.9, 15.5 ],
+			"faces": {
+				"up" : { "uv": [ 3.6, 5.8, 7.2, 7.0 ], "texture": "#salmon" },
+				"down" : { "uv": [ 3.6, 5.8, 7.2, 7.0 ], "texture": "#salmon" },
+				"north": { "uv": [ 7.2, 5.5, 3.6, 6.0 ], "texture": "#salmon" },
+				"south": { "uv": [ 3.6, 6.5, 7.2, 7.0 ], "texture": "#salmon" },
+				"east" : { "uv": [ 6.7, 5.8, 7.2, 7.0 ], "texture": "#salmon", "rotation": 90 },
+				"west" : { "uv": [ 3.6, 7.0, 4.1, 5.8 ], "texture": "#salmon", "rotation": 90 }
+			}
+		},
+		{
+			"name": "kome2",
+			"from": [ 7.2, 0.01, 12.6 ],
+			"to": [ 8.8, 0.75, 14.9 ],
+			"faces": {
+				"up" : { "uv": [ 0.0, 0.0, 6.5, 9.0 ], "texture": "#kome" },
+				"down" : { "uv": [ 6.5, 9.0, 13.0, 0.0 ], "texture": "#kome" },
+				"north": { "uv": [ 0.0, 10.0, 6.5, 13.0 ], "texture": "#kome" },
+				"south": { "uv": [ 0.0, 13.0, 6.5, 16.0 ], "texture": "#kome" },
+				"east" : { "uv": [ 16.0, 10.0, 7.0, 13.0 ], "texture": "#kome" },
+				"west" : { "uv": [ 7.0, 13.0, 16.0, 16.0 ], "texture": "#kome" }
+			}
+		}
+
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"cra=false,double=false,half=bottom": { "model": "chinjufumod:plaster/slab_green_bottom" },
+		"cra=false,double=false,half=top": { "model": "chinjufumod:plaster/slab_green_top" },
+		"cra=true,double=false,half=bottom": { "model": "chinjufumod:plaster/slab_crack_green_bottom" },
+		"cra=true,double=false,half=top": { "model": "chinjufumod:plaster/slab_crack_green_top" },
+
+		"cra=false,double=true,half=bottom": { "model": "chinjufumod:plaster/green" },
+		"cra=false,double=true,half=top": { "model": "chinjufumod:plaster/green" },
+		"cra=true,double=true,half=bottom": { "model": "chinjufumod:plaster/crack_green" },
+		"cra=true,double=true,half=top": { "model": "chinjufumod:plaster/crack_green" }
+	}
+}

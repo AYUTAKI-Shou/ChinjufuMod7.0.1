@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_chestplate",
+
+	"ingredients": [
+		{ "item": "minecraft:iron_chestplate" },
+		{ "type": "forge:ore_dict", "ore": "dyeYellow" },
+		{ "item": "chinjufumod:item_workorder" },
+		{ "item": "minecraft:coal", "data": 0 },
+		{ "item": "minecraft:iron_ingot" },
+		{ "item": "chinjufumod:item_ammunition_kc" },
+		[ { "type": "forge:ore_dict", "ore": "ingotAluminium" }, { "type": "forge:ore_dict", "ore": "ingotAluminum" } ]
+	],
+
+	"result": { "item": "chinjufumod:item_kongou_chestplate", "data": 0, "count": 1 }
+}

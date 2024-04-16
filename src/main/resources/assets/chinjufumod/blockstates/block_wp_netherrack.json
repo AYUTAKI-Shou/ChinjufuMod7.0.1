@@ -1,0 +1,8 @@
+{
+  "variants": {
+	"facing=north": { "model": "chinjufumod:wallpanel/netherrack", "y": 180 },
+	"facing=south": { "model": "chinjufumod:wallpanel/netherrack" },
+	"facing=west":  { "model": "chinjufumod:wallpanel/netherrack", "y": 90 },
+	"facing=east":  { "model": "chinjufumod:wallpanel/netherrack", "y": 270 }
+  }
+}

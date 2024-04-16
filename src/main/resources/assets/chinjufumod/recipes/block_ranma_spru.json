@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_ranma",
+
+	"pattern": [
+		" Y ",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:stick", "data": 0 },
+		"Y": { "type": "forge:ore_dict", "ore": "slabWoodSpruce" }
+	},
+
+	"result": { "item": "chinjufumod:block_ranma", "data": 1, "count": 1 }
+}

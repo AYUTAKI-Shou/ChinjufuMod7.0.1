@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_boxh2",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "cropChinesecabbage" },
+		{ "type": "forge:ore_dict", "ore": "cropChinesecabbage" },
+		{ "item": "chinjufumod:block_boxh_empty", "data": 0, "count": 1 }
+	],
+
+	"result": { "item": "chinjufumod:block_boxh_hakusai", "data": 0, "count": 1 }
+}

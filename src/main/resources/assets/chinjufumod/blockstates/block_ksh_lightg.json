@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"cra=false,double=false,half=bottom": { "model": "chinjufumod:kawara/slab_lightg_bottom" },
+		"cra=false,double=false,half=top": { "model": "chinjufumod:kawara/slab_lightg_top" },
+		"cra=true,double=false,half=bottom": { "model": "chinjufumod:kawara/slab_crack_lightg_bottom" },
+		"cra=true,double=false,half=top": { "model": "chinjufumod:kawara/slab_crack_lightg_top" },
+
+		"cra=false,double=true,half=bottom": { "model": "chinjufumod:kawara/lightg" },
+		"cra=false,double=true,half=top": { "model": "chinjufumod:kawara/lightg" },
+		"cra=true,double=true,half=bottom": { "model": "chinjufumod:kawara/crack_lightg" },
+		"cra=true,double=true,half=top": { "model": "chinjufumod:kawara/crack_lightg" }
+	}
+}

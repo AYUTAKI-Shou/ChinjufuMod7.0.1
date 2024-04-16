@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/candledown",
+	"textures": {
+		"particle": "chinjufumod:block/candle_black",
+		"sara": "chinjufumod:block/candle_black",
+		"abura": "chinjufumod:block/soyoil_solid",
+		"akari": "chinjufumod:block/andon_shin"
+	 }
+}

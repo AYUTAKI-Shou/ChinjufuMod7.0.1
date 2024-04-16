@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_seeds",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "cropWheat" },
+		[ { "type": "forge:ore_dict", "ore": "cropPotato" }, { "item": "minecraft:poisonous_potato", "data": 0 } ],
+		{ "type": "forge:ore_dict", "ore": "cropCarrot" },
+		{ "type": "forge:ore_dict", "ore": "treeSaplingOak" }
+	],
+
+	"result": { "item": "chinjufumod:block_seedsbox", "data": 0, "count": 1 }
+}

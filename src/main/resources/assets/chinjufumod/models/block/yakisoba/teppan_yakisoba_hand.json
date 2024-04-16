@@ -1,0 +1,10 @@
+{
+	"parent": "chinjufumod:block/base/teppan_yakisoba_hand",
+	"textures": {
+		"particle": "chinjufumod:block/yasaiitame_raw",
+		"yasai": "chinjufumod:block/yasaiitame_raw",
+		"soba": "chinjufumod:block/ramen_boil",
+		"bowl": "chinjufumod:block/muku_oak",
+		"sara": "chinjufumod:block/dish_white"
+	}
+}

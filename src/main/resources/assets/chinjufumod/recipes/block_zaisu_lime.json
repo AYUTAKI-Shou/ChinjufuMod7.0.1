@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_zaisu",
+
+	"pattern": [
+		"XY",
+		"XX"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "slabWood" },
+		"Y": { "item": "chinjufumod:block_mzabuton", "data": 5 }
+	},
+
+	"result": { "item": "chinjufumod:block_zaisu", "data": 5, "count": 1 }
+}

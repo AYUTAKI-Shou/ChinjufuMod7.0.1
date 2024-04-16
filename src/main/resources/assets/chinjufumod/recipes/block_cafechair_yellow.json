@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_cafechair",
+
+	"pattern": [
+		" X ",
+		" Y ",
+		"YYY"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "woolYellow" },
+		"Y": { "item": "minecraft:stick", "data": 0 }
+	},
+
+	"result": { "item": "chinjufumod:block_cafechair", "data": 4, "count": 1 }
+}

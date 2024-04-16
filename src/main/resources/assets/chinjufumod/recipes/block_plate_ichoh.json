@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_plate",
+
+	"pattern": [
+		"XX"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "plankWoodGinkgo" }
+	},
+
+	"result": { "item": "chinjufumod:block_plate_s", "data": 2, "count": 1 }
+}

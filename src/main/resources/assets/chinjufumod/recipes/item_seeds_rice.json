@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_seeds",
+
+	"pattern": [
+		"X"
+	],
+
+	"key": {
+		"X": [ { "item": "chinjufumod:item_ine", "data": 0 }, { "item": "chinjufumod:item_ine", "data": 1 } ]
+	},
+
+	"result": { "item": "chinjufumod:item_seeds_rice", "data": 0, "count": 1 }
+}

@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:block/food/chickenb_hand",
+	"display": {
+		"gui": {
+			"rotation": [ 30, 40, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 1.2, 1.2, 1.2 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 70, 90, 0 ],
+			"translation": [ 0, 5, 6 ],
+			"scale": [ 0.8, 0.8, 0.8 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 90, 0 ],
+			"translation": [ 0, 7, 0 ],
+			"scale": [ 1.0, 1.0, 1.0 ]
+		},
+		"fixed": {
+			"rotation": [ 270, 270, 0 ],
+			"translation": [ 0, 0, -7.5 ],
+			"scale": [ 1.1, 1.1, 1.1 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 0.6, 0.6, 0.6 ]
+		}
+	}
+}

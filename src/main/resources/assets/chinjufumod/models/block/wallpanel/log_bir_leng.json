@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/wallpanel_leng",
+	"textures": {
+		"particle": "minecraft:blocks/log_birch",
+		"front": "minecraft:blocks/log_birch",
+		"back": "minecraft:blocks/log_birch",
+		"side": "minecraft:blocks/log_birch"
+	}
+}

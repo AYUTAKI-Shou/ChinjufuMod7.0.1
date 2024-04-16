@@ -1,0 +1,15 @@
+{
+	"parent": "chinjufumod:block/item_toami_wide_12",
+	"display": {
+		"gui": {
+			"rotation": [ 45, 0, 0 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 0.3, 0.3, 0.3 ]
+		},
+		"ground": {
+			"rotation": [ -40, 45, 0 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 1.25, 1.25, 1.25 ]
+		}
+	}
+}

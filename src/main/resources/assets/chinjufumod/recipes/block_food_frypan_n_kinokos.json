@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_pasta",
+
+	"ingredients": [
+		{ "item": "minecraft:brown_mushroom" },
+		{ "item": "minecraft:brown_mushroom" },
+		{ "item": "minecraft:brown_mushroom" },
+		{ "item": "minecraft:brown_mushroom" },
+		{ "type": "forge:ore_dict", "ore": "foodButter" },
+		{ "type": "forge:ore_dict", "ore": "foodSoysauce" },
+		{ "item": "chinjufumod:block_food_frypan" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_frypan_n1", "data": 4, "count" : 1 }
+}

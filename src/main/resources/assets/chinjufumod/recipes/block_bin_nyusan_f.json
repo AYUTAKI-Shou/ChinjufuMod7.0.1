@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_bin",
+
+	"ingredients": [
+		{ "item": "minecraft:sugar" },
+		{ "item": "minecraft:potion", "data": 0 },
+		[ { "type": "forge:ore_dict", "ore": "dustSalt" }, { "type": "forge:ore_dict", "ore": "foodSalt" }, { "type": "forge:ore_dict", "ore": "itemSalt" } ],
+		{ "item": "chinjufumod:item_kome" }
+	],
+
+	"result": { "item": "chinjufumod:block_bin_nyusan_f", "data": 0, "count" : 1 }
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "chinjufumod:block/base/dressingtable_top",
+	"textures": {
+		"particle":"chinjufumod:block/dtable_bott_s",
+		"top": "chinjufumod:block/dtable_top_s",
+		"bottom": "chinjufumod:block/dtable_bott_s",
+		"up": "minecraft:blocks/planks_spruce",
+		"item": "chinjufumod:block/dtable_item",
+		"leg": "chinjufumod:block/muku_spruce"
+	}
+}

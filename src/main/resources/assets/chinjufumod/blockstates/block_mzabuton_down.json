@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:zabuton/white_down" },
+		"stage=1": { "model": "chinjufumod:zabuton/orange_down" },
+		"stage=2": { "model": "chinjufumod:zabuton/magenta_down" },
+		"stage=3": { "model": "chinjufumod:zabuton/lightb_down" },
+		"stage=4": { "model": "chinjufumod:zabuton/yellow_down" },
+		"stage=5": { "model": "chinjufumod:zabuton/lime_down" },
+		"stage=6": { "model": "chinjufumod:zabuton/pink_down" },
+		"stage=7": { "model": "chinjufumod:zabuton/gray_down" },
+		"stage=8": { "model": "chinjufumod:zabuton/lightg_down" },
+		"stage=9": { "model": "chinjufumod:zabuton/cyan_down" },
+		"stage=10": { "model": "chinjufumod:zabuton/purple_down" },
+		"stage=11": { "model": "chinjufumod:zabuton/blue_down" },
+		"stage=12": { "model": "chinjufumod:zabuton/brown_down" },
+		"stage=13": { "model": "chinjufumod:zabuton/green_down" },
+		"stage=14": { "model": "chinjufumod:zabuton/red_down" },
+		"stage=15": { "model": "chinjufumod:zabuton/black_down" }
+	}
+}

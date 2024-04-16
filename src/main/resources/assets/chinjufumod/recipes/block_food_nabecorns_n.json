@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_nabe",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "bucketMilk" },
+		[ { "type": "forge:ore_dict", "ore": "foodBlackpepper" }, { "type": "forge:ore_dict", "ore": "dustPepper" }, { "type": "forge:ore_dict", "ore": "dustBlackpepper" } ],
+		[ { "type": "forge:ore_dict", "ore": "dustSalt" }, { "type": "forge:ore_dict", "ore": "foodSalt" }, { "type": "forge:ore_dict", "ore": "itemSalt" } ],
+		{ "type": "forge:ore_dict", "ore": "foodButter" },
+		{ "type": "forge:ore_dict", "ore": "cropCorn" },
+		{ "item": "chinjufumod:block_food_karanabe" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_nabenama_1", "data": 4, "count" : 1 }
+}

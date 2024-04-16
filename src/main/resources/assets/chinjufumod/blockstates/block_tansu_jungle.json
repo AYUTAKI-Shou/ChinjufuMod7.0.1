@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "chinjufumod:tansu/jungle", "y": 180 },
+		"facing=south": { "model": "chinjufumod:tansu/jungle", "y": 0 },
+		"facing=west":  { "model": "chinjufumod:tansu/jungle", "y": 90 },
+		"facing=east":  { "model": "chinjufumod:tansu/jungle", "y": 270 }
+	}
+}

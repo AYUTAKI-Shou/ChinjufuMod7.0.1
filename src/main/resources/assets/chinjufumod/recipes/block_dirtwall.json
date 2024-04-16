@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_jpblock",
+
+	"pattern": [
+		"XXX",
+		"ZYZ",
+		"XXX"
+	],
+	"key": {
+		"X": { "item": "minecraft:dirt", "data": 0 },
+		"Y": { "type": "forge:ore_dict", "ore": "bucketWater" },
+		"Z": [ { "type": "forge:ore_dict", "ore": "cropWheat" }, { "item": "chinjufumod:item_inewara" } ]
+	},
+	"result": { "item": "chinjufumod:block_dirtwall", "data": 0, "count": 6 }
+}

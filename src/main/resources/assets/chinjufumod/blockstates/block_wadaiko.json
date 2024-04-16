@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:wadaiko/bot" },
+		"facing=south,stage=1": { "model": "chinjufumod:wadaiko/bot", "y": 180 },
+		"facing=west,stage=1": { "model": "chinjufumod:wadaiko/bot", "y": 270 },
+		"facing=east,stage=1": { "model": "chinjufumod:wadaiko/bot", "y": 90 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:wadaiko/bot_2" },
+		"facing=south,stage=2": { "model": "chinjufumod:wadaiko/bot_2", "y": 180 },
+		"facing=west,stage=2": { "model": "chinjufumod:wadaiko/bot_2", "y": 270 },
+		"facing=east,stage=2": { "model": "chinjufumod:wadaiko/bot_2", "y": 90 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:wadaiko/jikaoki" },
+		"facing=south,stage=3": { "model": "chinjufumod:wadaiko/jikaoki" },
+		"facing=west,stage=3": { "model": "chinjufumod:wadaiko/jikaoki" },
+		"facing=east,stage=3": { "model": "chinjufumod:wadaiko/jikaoki" }
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:food/frypan_b_tamago", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:food/frypan_b_tamago" },
+		"facing=west,stage=1": { "model": "chinjufumod:food/frypan_b_tamago", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:food/frypan_b_tamago", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:food/frypan_b_eggb", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:food/frypan_b_eggb" },
+		"facing=west,stage=2": { "model": "chinjufumod:food/frypan_b_eggb", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:food/frypan_b_eggb", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:pasta/frypan_b_tomatos", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:pasta/frypan_b_tomatos" },
+		"facing=west,stage=3": { "model": "chinjufumod:pasta/frypan_b_tomatos", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:pasta/frypan_b_tomatos", "y": 270 },
+
+		"facing=north,stage=4": { "model": "chinjufumod:pasta/frypan_b_kinokos", "y": 180 },
+		"facing=south,stage=4": { "model": "chinjufumod:pasta/frypan_b_kinokos" },
+		"facing=west,stage=4": { "model": "chinjufumod:pasta/frypan_b_kinokos", "y": 90 },
+		"facing=east,stage=4": { "model": "chinjufumod:pasta/frypan_b_kinokos", "y": 270 }
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_jpblock",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_kawara", "data": 15 },
+		"Y": { "type": "forge:ore_dict", "ore": "dyeGray" }
+	},
+
+	"result": { "item": "chinjufumod:block_kawara", "data": 7, "count": 8 }
+}

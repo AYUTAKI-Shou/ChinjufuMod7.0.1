@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_uchiwa",
+
+	"ingredients": [
+		{ "item": "minecraft:stick", "data": 0 },
+		{ "item": "minecraft:paper" },
+		{ "item": "minecraft:paper" },
+		{ "type": "forge:ore_dict", "ore": "dyeWhite" }
+	],
+
+	"result": { "item": "chinjufumod:block_uchiwa", "data": 0, "count" : 1 }
+}

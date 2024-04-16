@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_sweets",
+
+	"ingredients": [
+		{ "item": "minecraft:sugar" },
+		{ "item": "minecraft:stick", "data": 0 },
+		{ "item": "minecraft:paper" },
+		{ "item": "chinjufumod:item_chaba", "data": 1 }
+	],
+
+	"result": { "item": "chinjufumod:block_watagashi_green", "data": 0, "count" : 1 }
+}

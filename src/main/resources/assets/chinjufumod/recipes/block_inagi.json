@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_seeds",
+
+	"pattern": [
+		"XXX",
+		"X X"
+	],
+
+	"key": {
+		"X": [ { "type": "forge:ore_dict", "ore": "bamboo" }, { "type": "forge:ore_dict", "ore": "cropBamboo" } ]
+	},
+
+	"result": { "item": "chinjufumod:block_inagi", "data": 0, "count": 1 }
+}

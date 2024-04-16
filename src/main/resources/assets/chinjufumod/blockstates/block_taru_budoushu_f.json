@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"axis=y,stage=0": { "model": "chinjufumod:taru/budoushu_f" },
+		"axis=z,stage=0": { "model": "chinjufumod:taru/budoushu_f", "x": 90 },
+		"axis=x,stage=0": { "model": "chinjufumod:taru/budoushu_f", "x": 90, "y": 90 },
+		"axis=none,stage=0": { "model": "chinjufumod:taru/budoushu_f" },
+
+		"axis=y,stage=1": { "model": "chinjufumod:taru/budoushu_1" },
+		"axis=z,stage=1": { "model": "chinjufumod:taru/budoushu_1", "x": 90 },
+		"axis=x,stage=1": { "model": "chinjufumod:taru/budoushu_1", "x": 90, "y": 90 },
+		"axis=none,stage=1": { "model": "chinjufumod:taru/budoushu_1" },
+
+		"axis=y,stage=2": { "model": "chinjufumod:taru/budoushu_2" },
+		"axis=z,stage=2": { "model": "chinjufumod:taru/budoushu_2", "x": 90 },
+		"axis=x,stage=2": { "model": "chinjufumod:taru/budoushu_2", "x": 90, "y": 90 },
+		"axis=none,stage=2": { "model": "chinjufumod:taru/budoushu_2" }
+	}
+}

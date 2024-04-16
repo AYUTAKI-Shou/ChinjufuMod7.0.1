@@ -1,0 +1,10 @@
+{
+	"parent": "chinjufumod:block/base/kamoislab_3west",
+	"textures": {
+		"particle": "chinjufumod:block/plaster_yellow",
+		"shikkui": "chinjufumod:block/plaster_yellow",
+		"ki": "chinjufumod:block/pillar_kaede_side",
+		"ki_top": "chinjufumod:block/pillar_kaede_top",
+		"ki_inside": "chinjufumod:block/pillar_kaede_inside"
+	}
+}

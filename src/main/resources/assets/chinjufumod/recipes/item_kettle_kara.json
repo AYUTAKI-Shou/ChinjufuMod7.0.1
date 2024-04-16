@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_kettle",
+
+	"pattern": [
+		"XXX",
+		" XX"
+	],
+
+	"key": {
+		"X": [ { "type": "forge:ore_dict", "ore": "ingotAluminium" }, { "type": "forge:ore_dict", "ore": "ingotAluminum" } ]
+	},
+
+	"result": { "item": "chinjufumod:item_kettle_kara", "data": 0, "count": 1 }
+}

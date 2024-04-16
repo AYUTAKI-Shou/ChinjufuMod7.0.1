@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_fusuma",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_fusuma", "data": 0 },
+		"Y": { "type": "forge:ore_dict", "ore": "dyeLime" }
+	},
+
+	"result": { "item": "chinjufumod:block_fusuma", "data": 5, "count": 8 }
+}

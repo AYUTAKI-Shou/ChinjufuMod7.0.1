@@ -1,0 +1,23 @@
+{
+ 	"variants": {
+	"facing=north,stage=1": { "model": "chinjufumod:admiralstamp" },
+	"facing=south,stage=1": { "model": "chinjufumod:admiralstamp", "y": 180 },
+	"facing=west,stage=1": { "model": "chinjufumod:admiralstamp", "y": 270 },
+	"facing=east,stage=1": { "model": "chinjufumod:admiralstamp", "y": 90 },
+	
+	"facing=north,stage=2": { "model": "chinjufumod:admiralstamp" },
+	"facing=south,stage=2": { "model": "chinjufumod:admiralstamp", "y": 180 },
+	"facing=west,stage=2": { "model": "chinjufumod:admiralstamp", "y": 270 },
+	"facing=east,stage=2": { "model": "chinjufumod:admiralstamp", "y": 90 },
+	
+	"facing=north,stage=3": { "model": "chinjufumod:admiralstamp" },
+	"facing=south,stage=3": { "model": "chinjufumod:admiralstamp", "y": 180 },
+	"facing=west,stage=3": { "model": "chinjufumod:admiralstamp", "y": 270 },
+	"facing=east,stage=3": { "model": "chinjufumod:admiralstamp", "y": 90 },
+	
+	"facing=north,stage=4": { "model": "chinjufumod:admiralstamp" },
+	"facing=south,stage=4": { "model": "chinjufumod:admiralstamp", "y": 180 },
+	"facing=west,stage=4": { "model": "chinjufumod:admiralstamp", "y": 270 },
+	"facing=east,stage=4": { "model": "chinjufumod:admiralstamp", "y": 90 }
+ 	}
+}

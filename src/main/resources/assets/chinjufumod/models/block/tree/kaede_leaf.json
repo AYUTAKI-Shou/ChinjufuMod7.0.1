@@ -1,0 +1,22 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/leaf_kaede",
+		"ha": "chinjufumod:block/leaf_kaede_gray"
+	},
+	"elements": [
+		{
+			"name": "ha",
+			"from": [ 0.01, 0.01, 0.01 ],
+			"to": [ 15.99, 15.99, 15.99 ],
+			"faces": {
+				"up": { "texture": "#ha", "tintindex": 7 },
+				"down" : { "texture": "#ha", "tintindex": 7 },
+				"north": { "texture": "#ha", "tintindex": 7 },
+				"south": { "texture": "#ha", "tintindex": 7 },
+				"west" : { "texture": "#ha", "tintindex": 7 },
+				"east" : { "texture": "#ha", "tintindex": 7 }
+			}
+		}
+	]
+}

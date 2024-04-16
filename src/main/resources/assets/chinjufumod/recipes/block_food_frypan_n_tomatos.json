@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_pasta",
+
+	"ingredients": [
+		[ { "type": "forge:ore_dict", "ore": "foodBlackpepper" }, { "type": "forge:ore_dict", "ore": "dustPepper" }, { "type": "forge:ore_dict", "ore": "dustBlackpepper" } ],
+		{ "type": "forge:ore_dict", "ore": "cropTomato" },
+		{ "type": "forge:ore_dict", "ore": "cropTomato" },
+		{ "type": "forge:ore_dict", "ore": "cropTomato" },
+		{ "type": "forge:ore_dict", "ore": "cropOnion" },
+		[ { "type": "forge:ore_dict", "ore": "dustSalt" }, { "type": "forge:ore_dict", "ore": "foodSalt" }, { "type": "forge:ore_dict", "ore": "itemSalt" } ],
+		{ "item": "chinjufumod:block_food_frypan" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_frypan_n1", "data": 3, "count" : 1 }
+}

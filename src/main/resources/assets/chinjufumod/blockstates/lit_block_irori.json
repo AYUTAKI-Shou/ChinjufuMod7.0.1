@@ -1,0 +1,21 @@
+{
+	"variants": {
+		"donabe=false,stage=0": { "model": "chinjufumod:irori/stage_2" },
+		"donabe=false,stage=1": { "model": "chinjufumod:irori/stage_3" },
+		"donabe=false,stage=2": { "model": "chinjufumod:irori/stage_4" },
+		"donabe=false,stage=3": { "model": "chinjufumod:irori/stage_5" },
+		"donabe=false,stage=4": { "model": "chinjufumod:irori/stage_6" },
+		"donabe=false,stage=5": { "model": "chinjufumod:irori/stage_7" },
+		"donabe=false,stage=6": { "model": "chinjufumod:irori/stage_8" },
+		"donabe=false,stage=7": { "model": "chinjufumod:irori/stage_9" },
+
+		"donabe=true,stage=0": { "model": "chinjufumod:irori/gotoku_stage_2" },
+		"donabe=true,stage=1": { "model": "chinjufumod:irori/gotoku_stage_3" },
+		"donabe=true,stage=2": { "model": "chinjufumod:irori/gotoku_stage_4" },
+		"donabe=true,stage=3": { "model": "chinjufumod:irori/gotoku_stage_5" },
+		"donabe=true,stage=4": { "model": "chinjufumod:irori/gotoku_stage_6" },
+		"donabe=true,stage=5": { "model": "chinjufumod:irori/gotoku_stage_7" },
+		"donabe=true,stage=6": { "model": "chinjufumod:irori/gotoku_stage_8" },
+		"donabe=true,stage=7": { "model": "chinjufumod:irori/gotoku_stage_9" }
+	}
+}

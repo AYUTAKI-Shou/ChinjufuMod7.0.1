@@ -1,0 +1,2861 @@
+{
+#繁体=Localization by Saiseliya and Ayutaki Shou
+#Tab
+itemGroup.tab_chinjufumod=ChinjufuMod
+itemGroup.tab_teatime=ChinjufuMod 下午茶時間
+itemGroup.tab_seasonal=ChinjufuMod 節日相關
+itemGroup.tab_cmarmor=ChinjufuMod 舾裝
+itemGroup.tab_cmodwadeco=ChinjufuMod 和風裝飾
+itemGroup.tab_cmodwablock=ChinjufuMod 和風建築方塊
+itemGroup.tab_wallpanel=ChinjufuMod 外壁裝飾
+
+#Advancements
+advancements.cm_story.root.title=歡迎來到 ChinjufuMod
+advancements.cm_story.root.description=我得到了 ChinjufuMod 的一個關鍵物品
+
+advancements.cm_story.get_stamp.title=提督歸來
+advancements.cm_story.get_stamp.description=我拿回了提督的印章
+
+advancements.cm_story.weapon.get_workorder.title=新武器和盔甲
+advancements.cm_story.weapon.get_workorder.description=我得到了工廠指示書
+advancements.cm_story.weapon.get_ammo.title=製作彈藥
+advancements.cm_story.weapon.get_ammo.description=我得到了彈藥
+advancements.cm_story.weapon.get_rensouhou.title=製作大砲
+advancements.cm_story.weapon.get_rensouhou.description=我得到了大砲
+advancements.cm_story.weapon.get_kansaiki.title=回到投手
+advancements.cm_story.weapon.get_kansaiki.description=我得到了一架攻擊機
+advancements.cm_story.weapon.get_armor.title=更強的裝甲
+advancements.cm_story.weapon.get_armor.description=我得到了 ChinjufuMod 的盔甲
+advancements.cm_story.weapon.get_bootskai.title=在水上運行
+advancements.cm_story.weapon.get_bootskai.description=我得到了一雙改良的靴子
+advancements.cm_story.weapon.get_firstaid.title=避免死亡!
+advancements.cm_story.weapon.get_firstaid.description=我得到了一個急救箱
+advancements.cm_story.weapon.get_submarine.title=海底之旅
+advancements.cm_story.weapon.get_submarine.description=我得到了潛艦型裝甲
+	
+advancements.cm_story.teatime.get_cookingtool.title=製作烹飪工具
+advancements.cm_story.teatime.get_cookingtool.description=我得到了一個烹飪工具
+advancements.cm_story.teatime.get_singledish.title=我是廚師
+advancements.cm_story.teatime.get_singledish.description=我得到了一道菜
+advancements.cm_story.teatime.get_teishoku.title=吃了很多
+advancements.cm_story.teatime.get_teishoku.description=我得到了一個套餐
+advancements.cm_story.teatime.get_tea.title=休息一下
+advancements.cm_story.teatime.get_tea.description=我得到了一杯茶
+advancements.cm_story.teatime.get_teastand.title=喝茶時間很重要
+advancements.cm_story.teatime.get_teastand.description=我得到了一個下午茶糕點組合
+
+advancements.cm_story.taru.get_koubo.title=發酵的世界
+advancements.cm_story.taru.get_koubo.description=我得到了酵母
+advancements.cm_story.taru.get_taru.title=製作發酵桶
+advancements.cm_story.taru.get_taru.description=我得到了一個發酵桶
+advancements.cm_story.taru.get_wine.title=裝瓶葡萄酒
+advancements.cm_story.taru.get_wine.description=我得到了葡萄酒
+advancements.cm_story.taru.get_wineglass.title=為你的健康
+advancements.cm_story.taru.get_wineglass.description=我得到了一杯葡萄酒
+advancements.cm_story.taru.get_vinegar.title=裝瓶米醋
+advancements.cm_story.taru.get_vinegar.description=我得到了米醋
+advancements.cm_story.taru.get_sushi.title=我是壽司廚師
+advancements.cm_story.taru.get_sushi.description=我得到了一個壽司
+advancements.cm_story.taru.get_shouyu.title=裝瓶醬油
+advancements.cm_story.taru.get_shouyu.description=我得到了醬油
+advancements.cm_story.taru.get_shouyusushi.title=美味壽司
+advancements.cm_story.taru.get_shouyusushi.description=我得到了一份醬油壽司
+
+advancements.cm_story.season.get_1_newyear.title=新年快樂
+advancements.cm_story.season.get_1_newyear.description=我得到了一個新年裝飾品
+advancements.cm_story.season.get_2_valentine.title=情人節快樂
+advancements.cm_story.season.get_2_valentine.description=我得到了一個巧克力心形
+advancements.cm_story.season.get_3_hinakazari.title=女兒節
+advancements.cm_story.season.get_3_hinakazari.description=我得到了一個女兒節娃娃擺飾
+advancements.cm_story.season.get_4_sakura.title=櫻花的季節
+advancements.cm_story.season.get_4_sakura.description=我得到了櫻花卉
+advancements.cm_story.season.get_5_tealeaf.title=收穫茶葉
+advancements.cm_story.season.get_5_tealeaf.description=我得到了新茶葉
+advancements.cm_story.season.get_6_kasa.title=雨的季節
+advancements.cm_story.season.get_6_kasa.description=我得到了一個和傘
+advancements.cm_story.season.get_7_kakigouri.title=刨冰的季節
+advancements.cm_story.season.get_7_kakigouri.description=我得到了一個刨冰
+advancements.cm_story.season.get_8_yukata.title=浴衣的季節
+advancements.cm_story.season.get_8_yukata.description=我得到了一件日式浴衣
+advancements.cm_story.season.get_9_harvest.title=收穫水稻
+advancements.cm_story.season.get_9_harvest.description=我得到了一株水稻
+advancements.cm_story.season.get_10_autumn.title=秋葉的季節
+advancements.cm_story.season.get_10_autumn.description=我得到了秋葉
+advancements.cm_story.season.get_11_kotatsu.title=冬季準備
+advancements.cm_story.season.get_11_kotatsu.description=我得到了一個被爐
+advancements.cm_story.season.get_12_xmas.title=聖誕節快樂
+advancements.cm_story.season.get_12_xmas.description=我得到了一棵聖誕樹
+
+advancements.cm_story.jpblock.get_sekkai.title=日式塊的材料
+advancements.cm_story.jpblock.get_sekkai.description=我得到了一個日式塊的材料
+advancements.cm_story.jpblock.get_jpblock.title=日式塊
+advancements.cm_story.jpblock.get_jpblock.description=我得到了一個日式塊
+advancements.cm_story.jpblock.get_slidedoor.title=滑動拉門的房
+advancements.cm_story.jpblock.get_slidedoor.description=我得到了一個滑動拉門
+advancements.cm_story.jpblock.get_tatami.title=榻榻米的房
+advancements.cm_story.jpblock.get_tatami.description=我得到了一張榻榻米
+advancements.cm_story.jpblock.get_jpgarden.title=日式園丁
+advancements.cm_story.jpblock.get_jpgarden.description=我得到了一個花園裝飾塊
+
+advancements.cm_story.crops.get_seedsbox.title=有機會獲得種子
+advancements.cm_story.crops.get_seedsbox.description=我得到了一個種子袋子
+advancements.cm_story.crops.get_seeds.title=讓我們種農作物
+advancements.cm_story.crops.get_seeds.description=我得到了 ChinjufuMod 的種子
+advancements.cm_story.crops.get_crops.title=豐收節日
+advancements.cm_story.crops.get_crops.description=我得到了 ChinjufuMod 的農作物
+
+advancements.cm_story.fishing.toami.title=尋求大收穫
+advancements.cm_story.fishing.toami.description=我得到了一個投網
+advancements.cm_story.fishing.squid.title=新海鮮
+advancements.cm_story.fishing.squid.description=我得到了一個生魷魚
+advancements.cm_story.fishing.shikake.title=等魚
+advancements.cm_story.fishing.shikake.description=我得到了一個魚陷阱
+advancements.cm_story.fishing.youshoku.title=戰略捕魚
+advancements.cm_story.fishing.youshoku.description=我得到了一個水產養殖網
+
+advancements.cm_story.crops.get_seeds_spice.title=讓我們種香料吧
+advancements.cm_story.crops.get_seeds_spice.description=我得到了一粒香料種子
+advancements.cm_story.crops.get_pepper.title=香料之王
+advancements.cm_story.crops.get_pepper.description=我得到了黑胡椒
+advancements.cm_story.crops.get_curry_roux.title=讓我們煮咖哩飯吧
+advancements.cm_story.crops.get_curry_roux.description=我得到了咖哩醬
+advancements.cm_story.crops.get_curry.title=我是咖哩廚師
+advancements.cm_story.crops.get_curry.description=我得到了咖哩飯
+
+#config
+config.bauxiteore.enabledGenerator=鋁土礦生成
+config.bauxiteore.enabledGenerator.tooltip=如果設置為[true], 它將生成鋁土礦
+config.bauxiteore.chance=鋁土礦的頻率
+config.bauxiteore.chance.tooltip=紅石礦石=25 金礦石=8
+
+config.cherrybiome.register=櫻生物群系生成
+config.cherrybiome.register.tooltip=如果設置為[true], 它將生成櫻生物群系
+config.cherrybiome.chance=櫻生物群系的頻率
+config.cherrybiome.chance.tooltip=常見=19 稀有=1
+config.cherrytree.chance=櫻樹的頻率
+config.cherrytree.chance.tooltip=常見=19 稀有=1
+
+config.acerbiome.register=楓生物群系生成
+config.acerbiome.register.tooltip=如果設置為[true], 它將生成楓生物群系
+config.acerbiome.chance=楓生物群系的頻率
+config.acerbiome.chance.tooltip=常見=19 稀有=1
+config.acertree.chance=楓樹的頻率
+config.acertree.chance.tooltip=常見=19 稀有=1
+
+config.ginkgobiome.register=銀杏生物群系生成
+config.ginkgobiome.register.tooltip=如果設置為[true], 它將生成銀杏生物群系
+config.ginkgobiome.chance=銀杏生物群系的頻率
+config.ginkgobiome.chance.tooltip=常見=19 稀有=1
+config.ginkgotree.chance=銀杏樹的頻率
+config.ginkgotree.chance.tooltip=常見=19 稀有=1
+
+config.blastblockbreak.enabled=彈藥爆炸打破塊
+config.blastblockbreak.enabled.tooltip=如果設置為[true], 彈藥爆炸會破壞方塊
+
+config.antiShadow=通過光值1消除滑動門的陰影
+config.usemakimono=使用捲軸塊
+config.usemakimono.tooltip=如果設置為[true], 則可以使用捲軸塊
+
+config.chestnutsfall=栗子從秋天的橡木樹葉落下
+config.chestnutsfall.tooltip=如果設置為[true], 栗子從秋天的橡木樹葉落下
+config.lowsound=艦載機上的低處理聲音
+config.lowsound.tooltip=如果設置為[true], 則在艦載機上使用低處理聲音
+
+config.helmet_texture=ChinjufuMod 頭盔的紋理
+config.helmet_texture.tooltip=全部=0, 不穿衣服=1, 只穿衣服=2
+config.chestplate_texture=ChinjufuMod 胸甲的紋理
+config.chestplate_texture.tooltip=全部=0, 不穿衣服=1, 只穿衣服=2
+config.leggings_texture=ChinjufuMod 護腿的紋理
+config.leggings_texture.tooltip=全部=0, 不穿衣服=1, 只穿衣服=2
+config.boots_texture=ChinjufuMod 靴子的紋理
+config.boots_texture.tooltip=全部=0, 不穿衣服=1, 只穿衣服=2
+
+
+
+#Block
+tile.block_empty_box.name=空箱子
+item.block_fuel_can.name=燃料罐
+item.block_ammunition_box.name=彈藥箱
+item.block_steel_block.name=鋼材方塊
+item.block_copper_block.name=銅錠
+item.block_gold_block.name=金錠
+item.block_netherite_block.name=下界合金錠
+item.block_bauxite_box.name=鋁土箱
+tile.block_stamp_block.name=提督的印章_塊
+tile.block_bauxite_ore.name=鋁土礦
+item.block_bauxite_ore_deep.name=深層鋁土礦
+	
+#Item
+item.item_emblem_c.name=鎮守府徽記
+item.item_admiralstamp.name=提督的印章
+item.item_admiralstamp_b.name=提督的印章
+item.item_workorder.name=工廠指示書
+item.item_bauxite.name=鋁土
+item.item_sumi_c.name=墨棒
+item.item_shousekkai_c.name=熟石灰
+item.item_claykawara.name=成形黏土_瓦
+
+tips.item_admiral_stamp.name=用作合成材料的道具
+tips.item_sumi.name=將木炭加工成文書用墨棒
+tips.item_shousekkai_c.name=用於石灰石膏的材料
+tips.item_claykawara.name=放入熔爐燒製成瓦片
+
+#Weapon
+item.item_ammunition_kc.name=大型彈藥
+item.item_ammunition_medium.name=中型弾薬
+item.item_ammunition_small.name=小型弾薬
+
+item.item_cartridge_kc.name=大型空彈殼
+item.item_cartridge_medium.name=中型空薬莢
+item.item_cartridge_small.name=小型空薬莢
+item.item_nugget_iron.name=鐵粒
+
+item.item_anchor.name=錨
+item.item_rensouhou127.name=12.7厘米連裝砲
+item.item_shigurehou.name=時雨砲
+item.item_koukakuhou100.name=10厘米高射砲
+tips.item_rensouhou127.name=Basic:3.0D, PlayerLV≧12:3.5D, LV≧19:4.0D, LV≧25:4.5D
+tips.item_shigurehou.name=Basic:3.0D, PlayerLV≧12:3.5D, LV≧19:4.0D, LV≧25:4.5D
+tips.item_koukakuhou100.name=Basic:3.5D, PlayerLV≧12:4.0D, LV≧19:4.5D, LV≧25:5.0D
+
+item.item_rensouhou155.name=15.5厘米連裝砲
+item.item_rensouhou203.name=20.3厘米連裝砲
+item.item_rensouhou203_skc34.name=SKC34 20.3厘米連裝砲
+tips.item_rensouhou155.name=Basic:4.5D, PlayerLV≧12:5.0D, LV≧19:5.5D, LV≧25:6.0D
+tips.item_rensouhou203.name=Basic:5.0D, PlayerLV≧12:5.5D, LV≧19:6.0D, LV≧25:6.5D
+tips.item_rensouhou203_skc34.name=Basic:6.0D, PlayerLV≧12:6.5D, LV≧19:7.0D, LV≧25:7.5D
+	
+item.item_rensouhou356.name=35.6厘米連裝砲
+item.item_rensouhou356_s3.name=35.6厘米三連裝砲
+item.item_rensouhou380.name=38.0厘米連裝砲
+item.item_rensouhou410.name=41.0厘米連裝砲
+tips.item_rensouhou356.name=Basic:7.5D, PlayerLV≧12:8.0D, LV≧19:8.5D, LV≧25:9.0D
+tips.item_rensouhou356_s3.name=Basic:9.0D, PlayerLV≧12:9.5D, LV≧19:10.0D, LV≧25:10.5D
+tips.item_rensouhou380.name=Basic:8.0D, PlayerLV≧12:8.5D, LV≧19:9.0D, LV≧25:9.5D
+tips.item_rensouhou410.name=Basic:9.0D, PlayerLV≧12:9.5D, LV≧19:10.0D, LV≧25:10.5D
+	
+tips.item_rensouhou_large.name=射擊大型彈藥並攻擊生物
+tips.item_rensouhou_medium.name=射擊中型彈藥並攻擊生物
+tips.item_rensouhou_small.name=射擊小型彈藥並攻擊生物
+text.chinjufumod.rightclick.empty_ammo.name=彈藥耗盡
+text.chinjufumod.rightclick.empty_fuel.name=燃料耗盡
+
+item.item_kk_type97.name=九七式艦上攻擊機
+item.item_kk_tenzan.name=天山
+item.item_kk_ryusei.name=流星
+item.item_kk_swordfish.name=Swordfish
+item.item_kk_barracuda.name=Barracuda Mk.II
+item.item_kk_mosquito.name=Mosquito TR Mk.33
+item.item_kk_tbf.name=TBF Avenger
+	
+item.item_kb_type99.name=九九式艦上轟炸機
+item.item_kb_suisei.name=彗星
+item.item_kb_typezero.name=零式艦上轟炸機
+item.item_kb_re2001.name=Re.2001
+item.item_kb_ju87.name=Ju87C
+item.item_kb_sbd.name=SBD Dauntless
+item.item_kb_f4u.name=F4U-4 Corsair
+item.item_kk_fuel.name=艦載機燃料
+tips.item_kk_fuel.name=艦載機消耗它
+tips.item_kk.name=消耗艦載機燃料飛行. 攻擊敵對生物
+
+tips.item_kk_5f.name=Basic:5.0F, PlayerLV≧12:6.0F, LV≧19:7.0F, LV≧25:8.0F
+tips.item_kk_7f.name=Basic:7.0F, PlayerLV≧12:8.0F, LV≧19:9.0F, LV≧25:10.0F
+tips.item_kk_8f.name=Basic:9.0F, PlayerLV≧12:10.0F, LV≧19:11.0F, LV≧25:12.0F
+tips.item_kk_9f.name=Basic:9.0F, PlayerLV≧12:10.0F, LV≧19:11.0F, LV≧25:12.0F
+tips.item_kk_10f.name=Basic:10.0F, PlayerLV≧12:11.0F, LV≧19:12.0F, LV≧25:13.0F
+tips.item_kk_11f.name=Basic:11.0F, PlayerLV≧12:12.0F, LV≧19:13.0F, LV≧25:14.0F
+	
+item.item_gyorai_61cm.name=61厘米魚雷
+tips.item_gyorai.name=右鍵單擊以將其扔向該生物
+tips.item_gyorai2.name=Basic:10.0F, PlayerLV≧12:11.0F, LV≧19:12.0F, LV≧25:13.0F
+item.item_binoculars.name=雙筒望遠鏡
+
+#Armor
+item.item_fubuki_helmet.name=吹雪型艦裝 頭盔
+item.item_fubuki_chestplate.name=吹雪型艦裝 胸甲
+item.item_fubuki_leggings.name=吹雪型艦裝 護腿
+item.item_fubuki_boots.name=吹雪型艦裝 靴子
+item.item_fubuki_bootskai.name=吹雪型艦裝 靴子改
+	
+item.item_kasumi_helmet.name=霞型艦裝 頭盔
+item.item_kasumi_chestplate.name=霞型艦裝 胸甲
+item.item_kasumi_leggings.name=霞型艦裝 護腿
+item.item_kasumi_boots.name=霞型艦裝 靴子
+item.item_kasumi_bootskai.name=霞型艦裝 靴子改
+	
+item.item_shigure_helmet.name=時雨型艦裝 頭盔
+item.item_shigure_chestplate.name=時雨型艦裝 胸甲
+item.item_shigure_leggings.name=時雨型艦裝 護腿
+item.item_shigure_boots.name=時雨型艦裝 靴子
+item.item_shigure_bootskai.name=時雨型艦裝 靴子改
+	
+item.item_shiratsuyu_helmet.name=白露型艦裝 頭盔
+item.item_shiratsuyu_chestplate.name=白露型艦裝 胸甲
+item.item_shiratsuyu_leggings.name=白露型艦裝 護腿
+item.item_shiratsuyu_boots.name=白露型艦裝 靴子
+item.item_shiratsuyu_bootskai.name=白露型艦裝 靴子改
+		
+item.item_akatsuki_helmet.name=暁型艦裝 頭盔
+item.item_akatsuki_chestplate.name=暁型艦裝 胸甲
+item.item_akatsuki_leggings.name=暁型艦裝 護腿
+item.item_akatsuki_boots.name=暁型艦裝 靴子
+item.item_akatsuki_bootskai.name=暁型艦裝 靴子改
+
+item.item_sendai_helmet.name=川内型艦裝 頭盔
+item.item_sendai_chestplate.name=川内型艦裝 胸甲
+item.item_sendai_leggings.name=川内型艦裝 護腿
+item.item_sendai_boots.name=川内型艦裝 靴子
+item.item_sendai_bootskai.name=川内型艦裝 靴子改
+
+item.item_yura_helmet.name=由良型艦裝 頭盔
+item.item_yura_chestplate.name=由良型艦裝 胸甲
+item.item_yura_leggings.name=由良型艦裝 護腿
+item.item_yura_boots.name=由良型艦裝 靴子
+item.item_yura_bootskai.name=由良型艦裝 靴子改
+	
+item.item_mogami_helmet.name=最上型艦裝 頭盔
+item.item_mogami_chestplate.name=最上型艦裝 胸甲
+item.item_mogami_leggings.name=最上型艦裝 護腿
+item.item_mogami_boots.name=最上型艦裝 靴子
+item.item_mogami_bootskai.name=最上型艦裝 靴子改
+	
+item.item_tone_helmet.name=利根型艦裝 頭盔
+item.item_tone_chestplate.name=利根型艦裝 胸甲
+item.item_tone_leggings.name=利根型艦裝 護腿
+item.item_tone_boots.name=利根型艦裝 靴子
+item.item_tone_bootskai.name=利根型艦裝 靴子改
+	
+item.item_ryujou_helmet.name=龍驤型艦裝头盔
+item.item_ryujou_chestplate.name=龍驤型艦裝胸甲
+item.item_ryujou_leggings.name=龍驤型艦裝护腿
+item.item_ryujou_boots.name=龍驤型艦裝靴子
+item.item_ryujou_bootskai.name=龍驤型艦裝靴子改
+
+item.item_zuihou_helmet.name=瑞鳳型艦裝头盔
+item.item_zuihou_chestplate.name=瑞鳳型艦裝胸甲
+item.item_zuihou_leggings.name=瑞鳳型艦裝护腿
+item.item_zuihou_boots.name=瑞鳳型艦裝靴子
+item.item_zuihou_bootskai.name=瑞鳳型艦裝靴子改
+
+item.item_akagi_helmet.name=赤城型艦裝 頭盔
+item.item_akagi_chestplate.name=赤城型艦裝 胸甲
+item.item_akagi_leggings.name=赤城型艦裝 護腿
+item.item_akagi_boots.name=赤城型艦裝 靴子
+item.item_akagi_bootskai.name=赤城型艦裝 靴子改
+	
+item.item_kaga_helmet.name=加賀型艦裝 頭盔
+item.item_kaga_chestplate.name=加賀型艦裝 胸甲
+item.item_kaga_leggings.name=加賀型艦裝 護腿
+item.item_kaga_boots.name=加賀型艦裝 靴子
+item.item_kaga_bootskai.name=加賀型艦裝 靴子改
+	
+item.item_kongou_helmet.name=金剛型艦裝 頭盔
+item.item_kongou_chestplate.name=金剛型艦裝 胸甲
+item.item_kongou_leggings.name=金剛型艦裝 護腿
+item.item_kongou_boots.name=金剛型艦裝 靴子
+item.item_kongou_bootskai.name=金剛型艦裝 靴子改
+	
+item.item_fusou_helmet.name=扶桑型艦裝 頭盔
+item.item_fusou_chestplate.name=扶桑型艦裝 胸甲
+item.item_fusou_leggings.name=扶桑型艦裝 護腿
+item.item_fusou_boots.name=扶桑型艦裝 靴子
+item.item_fusou_bootskai.name=扶桑型艦裝 靴子改
+	
+item.item_nagato_helmet.name=長門型艦裝 頭盔
+item.item_nagato_chestplate.name=長門型艦裝 胸甲
+item.item_nagato_leggings.name=長門型艦裝 護腿
+item.item_nagato_boots.name=長門型艦裝 靴子
+item.item_nagato_bootskai.name=長門型艦裝 靴子改
+
+item.item_i168_helmet.name=伊168型艦裝 頭盔
+item.item_i168_chestplate.name=伊168型艦裝 胸甲
+item.item_i168_leggings.name=伊168型艦裝 護腿
+item.item_i168_boots.name=伊168型艦裝 靴子
+
+item.item_i13_helmet.name=伊13型艦裝 頭盔
+item.item_i13_chestplate.name=伊13型艦裝 胸甲
+item.item_i13_leggings.name=伊13型艦裝 護腿
+item.item_i13_boots.name=伊13型艦裝 靴子
+	
+item.item_ro500_helmet.name=呂500型艦裝 頭盔
+item.item_ro500_chestplate.name=呂500型艦裝 胸甲
+item.item_ro500_leggings.name=呂500型艦裝 護腿
+item.item_ro500_boots.name=呂500型艦裝 靴子
+
+tips.item_suijou_boots.name=在水上運行
+tips.item_destroyer.name=艦種 : 驅逐艦
+tips.item_cruiser.name=艦種 : 巡洋艦
+tips.item_battleship.name=艦種 : 戰艦
+tips.item_carrier.name=艦種 : 航空母艦
+tips.item_sabumarine.name=艦種 : 潛艦
+tips.item_destroyer2.name=4件套獎 : 增加小型火砲、魚雷和錨的攻擊力
+tips.item_cruiser2.name=4件套獎 : 增加中型火砲和魚雷的攻擊力
+tips.item_battleship2.name=4件套獎 : 增加大型火砲的攻擊力
+tips.item_carrier2.name=4件套獎 : 增加飛機的攻擊力
+tips.item_sabumarine2.name=4件套獎 : 增加魚雷的攻擊力。 水下呼吸
+
+count.amount.20=剩餘量 : 20
+count.amount.19=剩餘量 : 19
+count.amount.18=剩餘量 : 18
+count.amount.17=剩餘量 : 17
+count.amount.16=剩餘量 : 16
+count.amount.15=剩餘量 : 15
+count.amount.14=剩餘量 : 14
+count.amount.13=剩餘量 : 13
+count.amount.12=剩餘量 : 12
+count.amount.11=剩餘量 : 11
+count.amount.10=剩餘量 : 10
+count.amount.9=剩餘量 : 9
+count.amount.8=剩餘量 : 8
+count.amount.7=剩餘量 : 7
+count.amount.6=剩餘量 : 6
+count.amount.5=剩餘量 : 5
+count.amount.4=剩餘量 : 4
+count.amount.3=剩餘量 : 3
+count.amount.2=剩餘量 : 2
+count.amount.1=剩餘量 : 1
+count.amount.0=剩餘量 : 空的
+	
+
+#LetterTray
+item.block_lowdesk.name=低桌
+item.block_lowdesk_acacia.name=低桌_相思木
+item.block_lowdesk_birch.name=低桌_樺木
+item.block_lowdesk_darkoak.name=低桌_黑橡木
+item.block_lowdesk_jungle.name=低桌_叢林木
+item.block_lowdesk_spruce.name=低桌_杉木
+item.block_lowdesk_ichoh.name=低桌_銀杏木
+item.block_lowdesk_kaede.name=低桌_楓木
+item.block_lowdesk_sakura.name=低桌_櫻木
+
+item.block_lettertray_c.name=羽毛筆集
+item.block_fudetray_c.name=毛筆和硯台
+tips.block_lettertray.name=用一本書和 10 經驗值, 你寫一個隨機附魔書
+
+#Funiture
+item.block_admiralchair.name=提督的椅子
+item.block_admiralchair_red.name=提督的椅子_紅色
+
+item.block_unitdesk.name=组合桌子
+item.block_unitdesk_acacia.name=组合桌子_相思木
+item.block_unitdesk_birch.name=组合桌子_樺木
+item.block_unitdesk_darkoak.name=组合桌子_黑橡木
+item.block_unitdesk_jungle.name=组合桌子_叢林木
+item.block_unitdesk_spruce.name=组合桌子_杉木
+item.block_unitdesk_ichoh.name=组合桌子_銀杏木
+item.block_unitdesk_kaede.name=组合桌子_楓木
+item.block_unitdesk_sakura.name=组合桌子_櫻木
+
+item.block_dressingtable.name=梳妝台
+item.block_dressingtable_a.name=梳妝台_相思木
+item.block_dressingtable_b.name=梳妝台_樺木
+item.block_dressingtable_d.name=梳妝台_黑橡木
+item.block_dressingtable_j.name=梳妝台_叢林木
+item.block_dressingtable_s.name=梳妝台_杉木
+
+item.block_diningchair.name=餐椅
+item.block_diningchair_a.name=餐椅_相思木
+item.block_diningchair_b.name=餐椅_樺木
+item.block_diningchair_d.name=餐椅_黑橡木
+item.block_diningchair_j.name=餐椅_叢林木
+item.block_diningchair_s.name=餐椅_杉木
+
+item.block_cafechair_black.name=咖啡椅_黑色
+item.block_cafechair_blue.name=咖啡椅_藍色
+item.block_cafechair_brown.name=咖啡椅_棕色
+item.block_cafechair_cyan.name=咖啡椅_青色
+item.block_cafechair_gray.name=咖啡椅_灰色
+item.block_cafechair_green.name=咖啡椅_綠色
+item.block_cafechair_lightb.name=咖啡椅_淺藍色
+item.block_cafechair_lightg.name=咖啡椅_淺灰色
+item.block_cafechair_lime.name=咖啡椅_淺綠色
+item.block_cafechair_magenta.name=咖啡椅_洋紅色
+item.block_cafechair_orange.name=咖啡椅_橙色
+item.block_cafechair_pink.name=咖啡椅_粉紅色
+item.block_cafechair_purple.name=咖啡椅_紫色
+item.block_cafechair_red.name=咖啡椅_紅色
+item.block_cafechair_white.name=咖啡椅_白色
+item.block_cafechair_yellow.name=咖啡椅_黃色
+
+item.block_zaisu_black.name=座椅子_黑色
+item.block_zaisu_blue.name=座椅子_藍色
+item.block_zaisu_brown.name=座椅子_棕色
+item.block_zaisu_cyan.name=座椅子_青色
+item.block_zaisu_gray.name=座椅子_灰色
+item.block_zaisu_green.name=座椅子_綠色
+item.block_zaisu_lightb.name=座椅子_淺藍色
+item.block_zaisu_lightg.name=座椅子_淺灰色
+item.block_zaisu_lime.name=座椅子_淺綠色
+item.block_zaisu_magenta.name=座椅子_洋紅色
+item.block_zaisu_orange.name=座椅子_橙色
+item.block_zaisu_pink.name=座椅子_粉紅色
+item.block_zaisu_purple.name=座椅子_紫色
+item.block_zaisu_red.name=座椅子_紅色
+item.block_zaisu_white.name=座椅子_白色
+item.block_zaisu_yellow.name=座椅子_黃色
+
+tips.block_zaisu.name=右鍵單擊坐下, 日式的無腿椅
+tips.block_isu.name=右鍵單擊坐下
+
+#School
+tile.block_blackboard.name=黑板
+
+item.block_schoolchair.name=學校椅
+item.block_schoolchair_a.name=學校椅_相思木
+item.block_schoolchair_b.name=學校椅_樺木
+item.block_schoolchair_d.name=學校椅_黑橡木
+item.block_schoolchair_j.name=學校椅_叢林木
+item.block_schoolchair_s.name=學校椅_杉木
+
+item.block_schooldesk.name=課桌
+item.block_schooldesk_a.name=課桌_相思木
+item.block_schooldesk_b.name=課桌_樺木
+item.block_schooldesk_d.name=課桌_黑橡木
+item.block_schooldesk_j.name=課桌_叢林木
+item.block_schooldesk_s.name=課桌_杉木
+
+item.block_teacherdesk.name=教師桌子
+item.block_teacherdesk_a.name=教師桌子_相思木
+item.block_teacherdesk_b.name=教師桌子_樺木
+item.block_teacherdesk_d.name=教師桌子_黑橡木
+item.block_teacherdesk_j.name=教師桌子_叢林木
+item.block_teacherdesk_s.name=教師桌子_杉木
+
+item.block_window.name=平開窗
+item.block_window_acacia.name=平開窗_相思木
+item.block_window_birch.name=平開窗_樺木
+item.block_window_darkoak.name=平開窗_黑橡木
+item.block_window_jungle.name=平開窗_叢林木
+item.block_window_spruce.name=平開窗_杉木
+item.block_window_ichoh.name=平開窗_銀杏木
+item.block_window_kaede.name=平開窗_楓木
+item.block_window_sakura.name=平開窗_櫻木
+
+tips.block_window.name=相反, 潛行設置它 右鍵單擊[打開/關閉]
+
+item.block_windowb.name=雙窗
+item.block_windowb_acacia.name=雙窗_相思木
+item.block_windowb_birch.name=雙窗_樺木
+item.block_windowb_darkoak.name=雙窗_黑橡木
+item.block_windowb_jungle.name=雙窗_叢林木
+item.block_windowb_spruce.name=雙窗_杉木
+item.block_windowb_ichoh.name=雙窗_銀杏木
+item.block_windowb_kaede.name=雙窗_楓木
+item.block_windowb_sakura.name=雙窗_櫻木
+tips.block_windowb.name=右鍵單擊[打開/關閉]
+
+item.block_windowtall.name=高大的窗戶
+item.block_windowtall_acacia.name=高大的窗戶_相思木
+item.block_windowtall_birch.name=高大的窗戶_樺木
+item.block_windowtall_darkoak.name=高大的窗戶_黑橡木
+item.block_windowtall_jungle.name=高大的窗戶_叢林木
+item.block_windowtall_spruce.name=高大的窗戶_杉木
+item.block_windowtall_ichoh.name=高大的窗戶_銀杏木
+item.block_windowtall_kaede.name=高大的窗戶_楓木
+item.block_windowtall_sakura.name=高大的窗戶_櫻木
+
+item.block_windowtallbot.name=上下推拉窗
+item.block_windowtallbot_acacia.name=上下推拉窗_相思木
+item.block_windowtallbot_birch.name=上下推拉窗_樺木
+item.block_windowtallbot_darkoak.name=上下推拉窗_黑橡木
+item.block_windowtallbot_jungle.name=上下推拉窗_叢林木
+item.block_windowtallbot_spruce.name=上下推拉窗_杉木
+item.block_windowtallbot_ichoh.name=上下推拉窗_銀杏木
+item.block_windowtallbot_kaede.name=上下推拉窗_楓木
+item.block_windowtallbot_sakura.name=上下推拉窗_櫻木
+
+tile.block_stovechimney_joint.name=煙囪_與鐵暖爐上半部右方接合
+tile.block_stovechimney.name=煙囪
+tile.block_stovechimney_topk.name=煙囪頂部_傘
+
+#Mamiya
+item.block_mendai.name=長凳
+item.block_mendai_red.name=長凳_紅色
+
+item.block_mzabuton_black.name=座布團_黑色
+item.block_mzabuton_blue.name=座布團_藍色
+item.block_mzabuton_brown.name=座布團_棕色
+item.block_mzabuton_cyan.name=座布團_青色
+item.block_mzabuton_gray.name=座布團_灰色
+item.block_mzabuton_green.name=座布團_綠色
+item.block_mzabuton_lightb.name=座布團_淺藍色
+item.block_mzabuton_lightg.name=座布團_淺灰色
+item.block_mzabuton_lime.name=座布團_淺綠色
+item.block_mzabuton_magenta.name=座布團_洋紅色
+item.block_mzabuton_orange.name=座布團_橙色
+item.block_mzabuton_pink.name=座布團_粉紅色
+item.block_mzabuton_purple.name=座布團_紫色
+item.block_mzabuton_red.name=座布團_紅色
+item.block_mzabuton_white.name=座布團_白色
+item.block_mzabuton_yellow.name=座布團_黃色
+item.block_wara_zabuton.name=座布團_稻草
+
+tips.block_mzabuton.name=右鍵單擊坐下, 日式的坐墊
+
+item.block_cafetable.name=咖啡桌
+item.block_cafetable_acacia.name=咖啡桌_相思木
+item.block_cafetable_birch.name=咖啡桌_樺木
+item.block_cafetable_darkoak.name=咖啡桌_黑橡木
+item.block_cafetable_jungle.name=咖啡桌_叢林木
+item.block_cafetable_spruce.name=咖啡桌_杉木
+item.block_cafetable_ichoh.name=咖啡桌_銀杏木
+item.block_cafetable_kaede.name=咖啡桌_楓木
+item.block_cafetable_sakura.name=咖啡桌_櫻木
+
+item.block_logchair.name=樹樁椅
+item.block_logchair_acacia.name=樹樁椅_相思木
+item.block_logchair_birch.name=樹樁椅_樺木
+item.block_logchair_darkoak.name=樹樁椅_黑橡木
+item.block_logchair_jungle.name=樹樁椅_叢林木
+item.block_logchair_spruce.name=樹樁椅_杉木
+item.block_logchair_ichoh.name=樹樁椅_銀杏木
+item.block_logchair_kaede.name=樹樁椅_楓木
+item.block_logchair_sakura.name=樹樁椅_櫻木
+
+item.block_mkasa_black.name=和傘 塊_黑色
+item.block_mkasa_blue.name=和傘 塊_藍色
+item.block_mkasa_brown.name=和傘 塊_棕色
+item.block_mkasa_cyan.name=和傘 塊_青色
+item.block_mkasa_gray.name=和傘 塊_灰色
+item.block_mkasa_green.name=和傘 塊_綠色
+item.block_mkasa_lightb.name=和傘 塊_淺藍色
+item.block_mkasa_lightg.name=和傘 塊_淺灰色
+item.block_mkasa_lime.name=和傘 塊_淺綠色
+item.block_mkasa_magenta.name=和傘 塊_洋紅色
+item.block_mkasa_orange.name=和傘 塊_橙色
+item.block_mkasa_pink.name=和傘 塊_粉紅色
+item.block_mkasa_purple.name=和傘 塊_紫色
+item.block_mkasa_red.name=和傘 塊_紅色
+item.block_mkasa_white.name=和傘 塊_白色
+item.block_mkasa_yellow.name=和傘 塊_黃色
+
+tips.block_mkasa.name=裝飾塊, 日式的油紙傘
+
+#Harbor
+tile.block_keikai.name=警戒線方塊
+tile.block_keiryukui.name=繫泊樁
+tile.block_keiryukui_b.name=繫泊樁_黑色
+
+item.block_ctruss.name=桁架
+item.block_ctruss_black.name=桁架_黑色
+item.block_ctruss_blue.name=桁架_藍色
+item.block_ctruss_brown.name=桁架_棕色
+item.block_ctruss_cyan.name=桁架_青色
+item.block_ctruss_gray.name=桁架_灰色
+item.block_ctruss_green.name=桁架_綠色
+item.block_ctruss_lightb.name=桁架_淺藍色
+item.block_ctruss_lime.name=桁架_淺綠色
+item.block_ctruss_magenta.name=桁架_洋紅色
+item.block_ctruss_orange.name=桁架_橙色
+item.block_ctruss_pink.name=桁架_粉紅色
+item.block_ctruss_purple.name=桁架_紫色
+item.block_ctruss_red.name=桁架_紅色
+item.block_ctruss_white.name=桁架_白色
+item.block_ctruss_yellow.name=桁架_黃色
+
+#Seasons
+item.block_kagamimochi.name=鏡餅
+tips.block_kagamimochi.name=日本於新年供奉鏡餅祈求豐收 (12月28日-1月11日)
+tile.block_shimenawa.name=注連繩
+tips.block_shimenawa.name=日本新年裝飾家門以招來年神消災解厄 (12月13日-1月15日)
+item.block_kadomatsu.name=門松
+tips.block_kadomatsu.name=日本於新年裝飾門松祈求健康長壽 (12月13-1月15)
+
+item.block_yunomi.name=茶碗
+tips.block_yunomi.name=日本的飲茶瓷器
+
+item.block_chabudai.name=低餐桌
+item.block_chabudai_acacia.name=低餐桌_相思木
+item.block_chabudai_birch.name=低餐桌_樺木
+item.block_chabudai_darkoak.name=低餐桌_黑橡木
+item.block_chabudai_jungle.name=低餐桌_叢林木
+item.block_chabudai_spruce.name=低餐桌_杉木
+item.block_chabudai_ichoh.name=低餐桌_銀杏木
+item.block_chabudai_kaede.name=低餐桌_楓木
+item.block_chabudai_sakura.name=低餐桌_櫻木
+tips.block_chabudai.name=日本傳統式的低餐桌
+
+item.block_kotatsu.name=被爐
+item.block_kotatsu_acacia.name=被爐_相思木
+item.block_kotatsu_birch.name=被爐_樺木
+item.block_kotatsu_darkoak.name=被爐_黑橡木
+item.block_kotatsu_jungle.name=被爐_叢林木
+item.block_kotatsu_spruce.name=被爐_杉木
+item.block_kotatsu_ichoh.name=被爐_銀杏木
+item.block_kotatsu_kaede.name=被爐_楓木
+item.block_kotatsu_sakura.name=被爐_櫻木
+tips.block_kotatsu.name=結合桌子,棉被與暖爐的溫暖家具
+
+tile.block_hinadan.name=女兒節擺飾底座
+tips.block_hinadan.name=女兒節娃娃擺飾的底座
+tile.block_hinakazari.name=女兒節娃娃擺飾
+tips.block_hinakazari.name=日本3月3日為女兒節 會擺設女兒節娃娃祝福女兒健康成長
+
+#Wallpane
+tile.block_pillar_aca_c.name=支柱_相思木
+tile.block_pillar_bir_c.name=支柱_樺木
+tile.block_pillar_doak_c.name=支柱_黑橡木
+tile.block_pillar_jun_c.name=支柱_叢林木
+tile.block_pillar_oak_c.name=支柱_橡木
+tile.block_pillar_spru_c.name=支柱_杉木
+
+tile.block_rockstairs_and.name=安山岩階梯
+tile.block_rockstairs_dio.name=閃長岩階梯
+tile.block_rockstairs_gra.name=花崗岩階梯
+
+tile.block_rand_slabhalf.name=安山岩半磚
+tile.block_rdio_slabhalf.name=閃長岩半磚
+tile.block_rgra_slabhalf.name=花崗岩半磚
+
+tile.block_brick_and_c.name=安山岩磚
+tile.block_brick_dio_c.name=閃長岩磚
+tile.block_brick_gra_c.name=花崗岩磚
+
+tile.block_brick_and_ch_c.name=浮雕安山岩磚
+tile.block_brick_dio_ch_c.name=浮雕閃長岩磚
+tile.block_brick_gra_ch_c.name=浮雕花崗岩磚
+
+tile.block_brick_and_cr_c.name=裂安山岩磚
+tile.block_brick_dio_cr_c.name=裂閃長岩磚
+tile.block_brick_gra_cr_c.name=裂花崗岩磚
+
+tile.block_brick_and_mos_c.name=青苔安山岩磚
+tile.block_brick_dio_mos_c.name=青苔閃長岩磚
+tile.block_brick_gra_mos_c.name=青苔花崗岩磚
+
+tile.block_brickstairs_and_c.name=安山岩磚階梯
+tile.block_brickstairs_dio_c.name=閃長岩磚階梯
+tile.block_brickstairs_gra_c.name=花崗岩磚階梯
+
+tile.block_bac_slabhalf.name=安山岩半磚
+tile.block_bdc_slabhalf.name=閃長岩半磚
+tile.block_bgc_slabhalf.name=花崗岩半磚
+
+tile.block_brick_stone_pil_c.name=支柱_石頭
+tile.block_brick_and_pil_c.name=支柱_安山岩
+tile.block_brick_dio_pil_c.name=支柱_閃長岩
+tile.block_brick_gra_pil_c.name=支柱_花崗岩
+
+tile.block_wp_log_aca.name=面板_相思原木
+tile.block_wp_log_bir.name=面板_樺原木
+tile.block_wp_log_doak.name=面板_黑橡原木
+tile.block_wp_log_jun.name=面板_叢林原木
+tile.block_wp_log_oak.name=面板_橡原木
+tile.block_wp_log_spru.name=面板_杉原木
+
+tile.block_wp_plank_aca.name=面板_相思木材
+tile.block_wp_plank_bir.name=面板_樺木材
+tile.block_wp_plank_doak.name=面板_黑橡木材
+tile.block_wp_plank_jun.name=面板_叢林木材
+tile.block_wp_plank_oak.name=面板_橡木材
+tile.block_wp_plank_spru.name=面板_杉木材
+
+tile.block_wp_stone.name=面板_石頭
+tile.block_wp_stone_m.name=面板_鵝卵石
+
+tile.block_wp_stone_and.name=面板_安山岩
+tile.block_wp_stone_dio.name=面板_閃長岩
+tile.block_wp_stone_gra.name=面板_花崗岩
+
+tile.block_wp_stone_b.name=面板_石磚
+tile.block_wp_stone_andb.name=面板_安山岩磚
+tile.block_wp_stone_diob.name=面板_閃長岩磚
+tile.block_wp_stone_grab.name=面板_花崗岩磚
+
+tile.block_wp_stone_p.name=面板_石頭的支柱
+tile.block_wp_stone_andp.name=面板_安山岩支柱
+tile.block_wp_stone_diop.name=面板_閃長岩支柱
+tile.block_wp_stone_grap.name=面板_花崗岩支柱
+
+tile.block_wp_brick.name=面板_磚塊
+
+tile.block_wp_sand_stone.name=面板_砂岩
+tile.block_wp_redsand_stone.name=面板_紅砂岩
+
+tile.block_wp_prisma.name=面板_海磷石
+tile.block_wp_obsidian.name=面板_黑曜石
+
+tile.block_wp_clay.name=面板_陶土
+tile.block_wp_clay_black.name=面板_黑色陶土
+tile.block_wp_clay_blue.name=面板_藍色陶土
+tile.block_wp_clay_brown.name=面板_棕色陶土
+tile.block_wp_clay_cyan.name=面板_青色陶土
+tile.block_wp_clay_gray.name=面板_灰色陶土
+tile.block_wp_clay_green.name=面板_綠色陶土
+tile.block_wp_clay_lightb.name=面板_淺藍色陶土
+tile.block_wp_clay_lightg.name=面板_淺灰色陶土
+tile.block_wp_clay_lime.name=面板_淺綠色陶土
+tile.block_wp_clay_magenta.name=面板_洋紅色陶土
+tile.block_wp_clay_orange.name=面板_橙色陶土
+tile.block_wp_clay_pink.name=面板_粉紅色陶土
+tile.block_wp_clay_purple.name=面板_紫色陶土
+tile.block_wp_clay_red.name=面板_紅色陶土
+tile.block_wp_clay_white.name=面板_白色陶土
+tile.block_wp_clay_yellow.name=面板_黃色陶土
+
+tile.block_wp_glass.name=面板_玻璃
+tile.block_wp_glass_black.name=面板_黑色玻璃
+tile.block_wp_glass_blue.name=面板_藍色玻璃
+tile.block_wp_glass_brown.name=面板_棕色玻璃
+tile.block_wp_glass_cyan.name=面板_青色玻璃
+tile.block_wp_glass_gray.name=面板_灰色玻璃
+tile.block_wp_glass_green.name=面板_綠色玻璃
+tile.block_wp_glass_lightb.name=面板_淺藍色玻璃
+tile.block_wp_glass_lightg.name=面板_淺灰色玻璃
+tile.block_wp_glass_lime.name=面板_淺綠色玻璃
+tile.block_wp_glass_magenta.name=面板_洋紅色玻璃
+tile.block_wp_glass_orange.name=面板_橙色玻璃
+tile.block_wp_glass_pink.name=面板_粉紅色玻璃
+tile.block_wp_glass_purple.name=面板_紫色玻璃
+tile.block_wp_glass_red.name=面板_紅色玻璃
+tile.block_wp_glass_white.name=面板_白色玻璃
+tile.block_wp_glass_yellow.name=面板_黃色玻璃
+
+tile.block_wp_netherrack.name=面板_地獄石
+tile.block_wp_netherb.name=面板_地獄磚
+tile.block_wp_netherb10.name=面板_地獄磚
+tile.block_wp_quartz.name=面板_石英磚
+tile.block_wp_quartz_pil.name=面板_柱狀石英磚
+
+tile.block_wp_endstone.name=面板_終界石
+tile.block_wp_endstone_b.name=面板_終界石磚
+
+tile.block_wp_purpur.name=面板_紫珀石
+tile.block_wp_purpur_pil.name=面板_柱狀紫珀石磚
+
+tile.block_wp_dirtwall.name=面板_土坯
+tile.block_wp_plaster_black.name=面板_石灰石膏_黑色
+tile.block_wp_plaster_blue.name=面板_石灰石膏_藍色
+tile.block_wp_plaster_brown.name=面板_石灰石膏_棕色
+tile.block_wp_plaster_cyan.name=面板_石灰石膏_青色
+tile.block_wp_plaster_gray.name=面板_石灰石膏_灰色
+tile.block_wp_plaster_green.name=面板_石灰石膏_綠色
+tile.block_wp_plaster_lightb.name=面板_石灰石膏_淺藍色
+tile.block_wp_plaster_lightg.name=面板_石灰石膏_淺灰色
+tile.block_wp_plaster_lime.name=面板_石灰石膏_淺綠色
+tile.block_wp_plaster_magenta.name=面板_石灰石膏_洋紅色
+tile.block_wp_plaster_orange.name=面板_石灰石膏_橙色
+tile.block_wp_plaster_pink.name=面板_石灰石膏_粉紅色
+tile.block_wp_plaster_purple.name=面板_石灰石膏_紫色
+tile.block_wp_plaster_red.name=面板_石灰石膏_紅色
+tile.block_wp_plaster_white.name=面板_石灰石膏_白色
+tile.block_wp_plaster_yellow.name=面板_石灰石膏_黃色
+
+tile.block_wp_namako_black.name=面板_菱紋_黑色
+tile.block_wp_namako_blue.name=面板_菱紋_藍色
+tile.block_wp_namako_brown.name=面板_菱紋_棕色
+tile.block_wp_namako_cyan.name=面板_菱紋_青色
+tile.block_wp_namako_gray.name=面板_菱紋_灰色
+tile.block_wp_namako_green.name=面板_菱紋_綠色
+tile.block_wp_namako_lightb.name=面板_菱紋_淺藍色
+tile.block_wp_namako_lightg.name=面板_菱紋_淺灰色
+tile.block_wp_namako_lime.name=面板_菱紋_淺綠色
+tile.block_wp_namako_magenta.name=面板_菱紋_洋紅色
+tile.block_wp_namako_orange.name=面板_菱紋_橙色
+tile.block_wp_namako_pink.name=面板_菱紋_粉紅色
+tile.block_wp_namako_purple.name=面板_菱紋_紫色
+tile.block_wp_namako_red.name=面板_菱紋_紅色
+tile.block_wp_namako_white.name=面板_菱紋_白色
+tile.block_wp_namako_yellow.name=面板_菱紋_黃色
+
+tile.block_wp_namako_b_black.name=面板_菱紋_甲_黑色
+tile.block_wp_namako_b_blue.name=面板_菱紋_甲_藍色
+tile.block_wp_namako_b_brown.name=面板_菱紋_甲_棕色
+tile.block_wp_namako_b_cyan.name=面板_菱紋_甲_青色
+tile.block_wp_namako_b_gray.name=面板_菱紋_甲_灰色
+tile.block_wp_namako_b_green.name=面板_菱紋_甲_綠色
+tile.block_wp_namako_b_lightb.name=面板_菱紋_甲_淺藍色
+tile.block_wp_namako_b_lightg.name=面板_菱紋_甲_淺灰色
+tile.block_wp_namako_b_lime.name=面板_菱紋_甲_淺綠色
+tile.block_wp_namako_b_magenta.name=面板_菱紋_甲_洋紅色
+tile.block_wp_namako_b_orange.name=面板_菱紋_甲_橙色
+tile.block_wp_namako_b_pink.name=面板_菱紋_甲_粉紅色
+tile.block_wp_namako_b_purple.name=面板_菱紋_甲_紫色
+tile.block_wp_namako_b_red.name=面板_菱紋_甲_紅色
+tile.block_wp_namako_b_white.name=面板_菱紋_甲_白色
+tile.block_wp_namako_b_yellow.name=面板_菱紋_甲_黃色
+
+tips.wp_stage2.name=通過右鍵單擊潛行進行更改 2階段
+tips.wp_stage3.name=通過右鍵單擊潛行進行更改 3階段
+tips.wp_stage4.name=通過右鍵單擊潛行進行更改 4階段
+
+#Fusuma
+item.block_shoujih.name=障子窗
+item.block_shoujih_acacia.name=障子窗_相思木
+item.block_shoujih_birch.name=障子窗_樺木
+item.block_shoujih_darkoak.name=障子窗_黑橡木
+item.block_shoujih_jungle.name=障子窗_叢林木
+item.block_shoujih_spruce.name=障子窗_杉木
+
+#Ranma
+item.block_ranma_aca.name=楣窗_相思木
+item.block_ranma_bir.name=楣窗_樺木
+item.block_ranma_doak.name=楣窗_黑橡木
+item.block_ranma_jun.name=楣窗_叢林木
+item.block_ranma_oak.name=楣窗
+item.block_ranma_spru.name=楣窗_杉木
+tips.block_ranma.name=採光,通風,裝飾用木窗
+
+item.block_ranmab_aca.name=楣窗_甲_相思木
+item.block_ranmab_bir.name=楣窗_甲_樺木
+item.block_ranmab_doak.name=楣窗_甲_黑橡木
+item.block_ranmab_jun.name=楣窗_甲_叢林木
+item.block_ranmab_oak.name=楣窗_甲
+item.block_ranmab_spru.name=楣窗_甲_杉木
+
+item.block_ranmac_aca.name=楣窗_乙_相思木
+item.block_ranmac_bir.name=楣窗_乙_樺木
+item.block_ranmac_doak.name=楣窗_乙_黑橡木
+item.block_ranmac_jun.name=楣窗_乙_叢林木
+item.block_ranmac_oak.name=楣窗_乙
+item.block_ranmac_spru.name=楣窗_乙_杉木
+
+item.block_kanki_aca.name=通風口_相思木
+item.block_kanki_bir.name=通風口_樺木
+item.block_kanki_doak.name=通風口_黑橡木
+item.block_kanki_jun.name=通風口_叢林木
+item.block_kanki_oak.name=通風口
+item.block_kanki_spru.name=通風口_杉木
+
+item.block_koushi_oak.name=垂直格子
+item.block_koushi_aca.name=垂直格子_相思木
+item.block_koushi_bir.name=垂直格子_樺木
+item.block_koushi_doak.name=垂直格子_黑橡木
+item.block_koushi_jun.name=垂直格子_叢林木
+item.block_koushi_spru.name=垂直格子_杉木
+
+#Tatami
+tile.block_tatamih.name=榻榻米_無邊
+tile.block_tatamih_black.name=榻榻米_黑色
+tile.block_tatamih_blue.name=榻榻米_藍色
+tile.block_tatamih_brown.name=榻榻米_棕色
+tile.block_tatamih_cyan.name=榻榻米_青色
+tile.block_tatamih_gray.name=榻榻米_灰色
+tile.block_tatamih_green.name=榻榻米_綠色
+tile.block_tatamih_lightb.name=榻榻米_淺藍色
+tile.block_tatamih_lightg.name=榻榻米_淺灰色
+tile.block_tatamih_lime.name=榻榻米_淺綠色
+tile.block_tatamih_magenta.name=榻榻米_洋紅色
+tile.block_tatamih_orange.name=榻榻米_橙色
+tile.block_tatamih_pink.name=榻榻米_粉紅色
+tile.block_tatamih_purple.name=榻榻米_紫色
+tile.block_tatamih_red.name=榻榻米_紅色
+tile.block_tatamih_yellow.name=榻榻米_黃色
+tile.block_tatamih_white.name=榻榻米_白色
+tips.block_tatami.name=用稻草編織多疊製成的地板鋪材
+
+item.block_futon_c_black.name=鋪墊_黑色
+item.block_futon_c_blue.name=鋪墊_藍色
+item.block_futon_c_brown.name=鋪墊_棕色
+item.block_futon_c_cyan.name=鋪墊_青色
+item.block_futon_c_gray.name=鋪墊_灰色
+item.block_futon_c_green.name=鋪墊_綠色
+item.block_futon_c_lightb.name=鋪墊_淺藍色
+item.block_futon_c_lightg.name=鋪墊_淺灰色
+item.block_futon_c_lime.name=鋪墊_淺綠色
+item.block_futon_c_magenta.name=鋪墊_洋紅色
+item.block_futon_c_orange.name=鋪墊_橙色
+item.block_futon_c_pink.name=鋪墊_粉紅色
+item.block_futon_c_purple.name=鋪墊_紫色
+item.block_futon_c_red.name=鋪墊_紅色
+item.block_futon_c_yellow.name=鋪墊_黃色
+item.block_futon_c_white.name=鋪墊_白色
+tips.block_futon.name=右鍵單擊潛行[打開/關閉], 坐著和再生
+
+#Kawara
+item.block_kawara_black.name=瓦
+item.block_kawara_blue.name=瓦_藍色
+item.block_kawara_brown.name=瓦_棕色
+item.block_kawara_cyan.name=瓦_青色
+item.block_kawara_gray.name=瓦_灰色
+item.block_kawara_green.name=瓦_綠色
+item.block_kawara_lightb.name=瓦_淺藍色
+item.block_kawara_lightg.name=瓦_淺灰色
+item.block_kawara_lime.name=瓦_淺綠色
+item.block_kawara_magenta.name=瓦_洋紅色
+item.block_kawara_orange.name=瓦_橙色
+item.block_kawara_pink.name=瓦_粉紅色
+item.block_kawara_purple.name=瓦_紫色
+item.block_kawara_red.name=瓦_紅色
+item.block_kawara_yellow.name=瓦_黃色
+item.block_kawara_white.name=瓦_白色
+tips.block_kawara.name=通過烘烤粘土製成的屋頂材料
+
+tile.block_kst_black.name=瓦_階梯
+tile.block_kst_blue.name=瓦_階梯_藍色
+tile.block_kst_brown.name=瓦_階梯_棕色
+tile.block_kst_cyan.name=瓦_階梯_青色
+tile.block_kst_gray.name=瓦_階梯_灰色
+tile.block_kst_green.name=瓦_階梯_綠色
+tile.block_kst_lightb.name=瓦_階梯_淺藍色
+tile.block_kst_lightg.name=瓦_階梯_淺灰色
+tile.block_kst_lime.name=瓦_階梯_淺綠色
+tile.block_kst_magenta.name=瓦_階梯_洋紅色
+tile.block_kst_orange.name=瓦_階梯_橙色
+tile.block_kst_pink.name=瓦_階梯_粉紅色
+tile.block_kst_purple.name=瓦_階梯_紫色
+tile.block_kst_red.name=瓦_階梯_紅色
+tile.block_kst_yellow.name=瓦_階梯_黃色
+tile.block_kst_white.name=瓦_階梯_白色
+
+tile.block_ksh_black.name=瓦_半磚
+tile.block_ksh_blue.name=瓦_半磚_藍色
+tile.block_ksh_brown.name=瓦_半磚_棕色
+tile.block_ksh_cyan.name=瓦_半磚_青色
+tile.block_ksh_gray.name=瓦_半磚_灰色
+tile.block_ksh_green.name=瓦_半磚_綠色
+tile.block_ksh_lightb.name=瓦_半磚_淺藍色
+tile.block_ksh_lightg.name=瓦_半磚_淺灰色
+tile.block_ksh_lime.name=瓦_半磚_淺綠色
+tile.block_ksh_magenta.name=瓦_半磚_洋紅色
+tile.block_ksh_orange.name=瓦_半磚_橙色
+tile.block_ksh_pink.name=瓦_半磚_粉紅色
+tile.block_ksh_purple.name=瓦_半磚_紫色
+tile.block_ksh_red.name=瓦_半磚_紅色
+tile.block_ksh_yellow.name=瓦_半磚_黃色
+tile.block_ksh_white.name=瓦_半磚_白色
+
+item.block_namako_black.name=菱紋塊_黑色
+item.block_namako_blue.name=菱紋塊_藍色
+item.block_namako_brown.name=菱紋塊_棕色
+item.block_namako_cyan.name=菱紋塊_青色
+item.block_namako_gray.name=菱紋塊_灰色
+item.block_namako_green.name=菱紋塊_綠色
+item.block_namako_lightb.name=菱紋塊_淺藍色
+item.block_namako_lightg.name=菱紋塊_淺灰色
+item.block_namako_lime.name=菱紋塊_淺綠色
+item.block_namako_magenta.name=菱紋塊_洋紅色
+item.block_namako_orange.name=菱紋塊_橙色
+item.block_namako_pink.name=菱紋塊_粉紅色
+item.block_namako_purple.name=菱紋塊_紫色
+item.block_namako_red.name=菱紋塊_紅色
+item.block_namako_yellow.name=菱紋塊_黃色
+item.block_namako_white.name=菱紋塊
+tips.block_namako.name=將瓦片貼附在石灰石膏上製作建材
+
+tile.block_nst_black.name=菱紋階梯_黑色
+tile.block_nst_blue.name=菱紋階梯_藍色
+tile.block_nst_brown.name=菱紋階梯_棕色
+tile.block_nst_cyan.name=菱紋階梯_青色
+tile.block_nst_gray.name=菱紋階梯_灰色
+tile.block_nst_green.name=菱紋階梯_綠色
+tile.block_nst_lightb.name=菱紋階梯_淺藍色
+tile.block_nst_lightg.name=菱紋階梯_淺灰色
+tile.block_nst_lime.name=菱紋階梯_淺綠色
+tile.block_nst_magenta.name=菱紋階梯_洋紅色
+tile.block_nst_orange.name=菱紋階梯_橙色
+tile.block_nst_pink.name=菱紋階梯_粉紅色
+tile.block_nst_purple.name=菱紋階梯_紫色
+tile.block_nst_red.name=菱紋階梯_紅色
+tile.block_nst_yellow.name=菱紋階梯_黃色
+tile.block_nst_white.name=菱紋階梯
+
+tile.block_nsh_black.name=菱紋半磚_黑色
+tile.block_nsh_blue.name=菱紋半磚_藍色
+tile.block_nsh_brown.name=菱紋半磚_棕色
+tile.block_nsh_cyan.name=菱紋半磚_青色
+tile.block_nsh_gray.name=菱紋半磚_灰色
+tile.block_nsh_green.name=菱紋半磚_綠色
+tile.block_nsh_lightb.name=菱紋半磚_淺藍色
+tile.block_nsh_lightg.name=菱紋半磚_淺灰色
+tile.block_nsh_lime.name=菱紋半磚_淺綠色
+tile.block_nsh_magenta.name=菱紋半磚_洋紅色
+tile.block_nsh_orange.name=菱紋半磚_橙色
+tile.block_nsh_pink.name=菱紋半磚_粉紅色
+tile.block_nsh_purple.name=菱紋半磚_紫色
+tile.block_nsh_red.name=菱紋半磚_紅色
+tile.block_nsh_yellow.name=菱紋半磚_黃色
+tile.block_nsh_white.name=菱紋半磚
+
+item.block_namako_b_black.name=菱紋塊_甲_黑色
+item.block_namako_b_blue.name=菱紋塊_甲_藍色
+item.block_namako_b_brown.name=菱紋塊_甲_棕色
+item.block_namako_b_cyan.name=菱紋塊_甲_青色
+item.block_namako_b_gray.name=菱紋塊_甲_灰色
+item.block_namako_b_green.name=菱紋塊_甲_綠色
+item.block_namako_b_lightb.name=菱紋塊_甲_淺藍色
+item.block_namako_b_lightg.name=菱紋塊_甲_淺灰色
+item.block_namako_b_lime.name=菱紋塊_甲_淺綠色
+item.block_namako_b_magenta.name=菱紋塊_甲_洋紅色
+item.block_namako_b_orange.name=菱紋塊_甲_橙色
+item.block_namako_b_pink.name=菱紋塊_甲_粉紅色
+item.block_namako_b_purple.name=菱紋塊_甲_紫色
+item.block_namako_b_red.name=菱紋塊_甲_紅色
+item.block_namako_b_yellow.name=菱紋塊_甲_黃色
+item.block_namako_b_white.name=菱紋塊_甲
+
+tile.block_nst_b_black.name=菱紋階梯_甲_黑色
+tile.block_nst_b_blue.name=菱紋階梯_甲_藍色
+tile.block_nst_b_brown.name=菱紋階梯_甲_棕色
+tile.block_nst_b_cyan.name=菱紋階梯_甲_青色
+tile.block_nst_b_gray.name=菱紋階梯_甲_灰色
+tile.block_nst_b_green.name=菱紋階梯_甲_綠色
+tile.block_nst_b_lightb.name=菱紋階梯_甲_淺藍色
+tile.block_nst_b_lightg.name=菱紋階梯_甲_淺灰色
+tile.block_nst_b_lime.name=菱紋階梯_甲_淺綠色
+tile.block_nst_b_magenta.name=菱紋階梯_甲_洋紅色
+tile.block_nst_b_orange.name=菱紋階梯_甲_橙色
+tile.block_nst_b_pink.name=菱紋階梯_甲_粉紅色
+tile.block_nst_b_purple.name=菱紋階梯_甲_紫色
+tile.block_nst_b_red.name=菱紋階梯_甲_紅色
+tile.block_nst_b_yellow.name=菱紋階梯_甲_黃色
+tile.block_nst_b_white.name=菱紋階梯_甲
+
+tile.block_nsh_b_black.name=菱紋半磚_甲_黑色
+tile.block_nsh_b_blue.name=菱紋半磚_甲_藍色
+tile.block_nsh_b_brown.name=菱紋半磚_甲_棕色
+tile.block_nsh_b_cyan.name=菱紋半磚_甲_青色
+tile.block_nsh_b_gray.name=菱紋半磚_甲_灰色
+tile.block_nsh_b_green.name=菱紋半磚_甲_綠色
+tile.block_nsh_b_lightb.name=菱紋半磚_甲_淺藍色
+tile.block_nsh_b_lightg.name=菱紋半磚_甲_淺灰色
+tile.block_nsh_b_lime.name=菱紋半磚_甲_淺綠色
+tile.block_nsh_b_magenta.name=菱紋半磚_甲_洋紅色
+tile.block_nsh_b_orange.name=菱紋半磚_甲_橙色
+tile.block_nsh_b_pink.name=菱紋半磚_甲_粉紅色
+tile.block_nsh_b_purple.name=菱紋半磚_甲_紫色
+tile.block_nsh_b_red.name=菱紋半磚_甲_紅色
+tile.block_nsh_b_yellow.name=菱紋半磚_甲_黃色
+tile.block_nsh_b_white.name=菱紋半磚_甲
+
+item.block_dirtwall.name=土坯
+tile.block_dirtwall_st.name=土坯_階梯
+tile.block_dirtwall_sh.name=土坯_半磚
+
+#Plaster
+item.block_plaster_black.name=石灰石膏塊_黑色
+item.block_plaster_blue.name=石灰石膏塊_藍色
+item.block_plaster_brown.name=石灰石膏塊_棕色
+item.block_plaster_cyan.name=石灰石膏塊_青色
+item.block_plaster_gray.name=石灰石膏塊_灰色
+item.block_plaster_green.name=石灰石膏塊_綠色
+item.block_plaster_lightb.name=石灰石膏塊_淺藍色
+item.block_plaster_lightg.name=石灰石膏塊_淺灰色
+item.block_plaster_lime.name=石灰石膏塊_淺綠色
+item.block_plaster_magenta.name=石灰石膏塊_洋紅色
+item.block_plaster_orange.name=石灰石膏塊_橙色
+item.block_plaster_pink.name=石灰石膏塊_粉紅色
+item.block_plaster_purple.name=石灰石膏塊_紫色
+item.block_plaster_red.name=石灰石膏塊_紅色
+item.block_plaster_yellow.name=石灰石膏塊_黃色
+item.block_plaster_white.name=石灰石膏塊
+tips.block_plaster.name=使用熟石灰的建築材料
+
+tile.block_pst_black.name=石灰石膏階梯_黑色
+tile.block_pst_blue.name=石灰石膏階梯_藍色
+tile.block_pst_brown.name=石灰石膏階梯_棕色
+tile.block_pst_cyan.name=石灰石膏階梯_青色
+tile.block_pst_gray.name=石灰石膏階梯_灰色
+tile.block_pst_green.name=石灰石膏階梯_綠色
+tile.block_pst_lightb.name=石灰石膏階梯_淺藍色
+tile.block_pst_lightg.name=石灰石膏階梯_淺灰色
+tile.block_pst_lime.name=石灰石膏階梯_淺綠色
+tile.block_pst_magenta.name=石灰石膏階梯_洋紅色
+tile.block_pst_orange.name=石灰石膏階梯_橙色
+tile.block_pst_pink.name=石灰石膏階梯_粉紅色
+tile.block_pst_purple.name=石灰石膏階梯_紫色
+tile.block_pst_red.name=石灰石膏階梯_紅色
+tile.block_pst_yellow.name=石灰石膏階梯_黃色
+tile.block_pst_white.name=石灰石膏階梯
+
+tile.block_psh_black.name=石灰石膏半磚_黑色
+tile.block_psh_blue.name=石灰石膏半磚_藍色
+tile.block_psh_brown.name=石灰石膏半磚_棕色
+tile.block_psh_cyan.name=石灰石膏半磚_青色
+tile.block_psh_gray.name=石灰石膏半磚_灰色
+tile.block_psh_green.name=石灰石膏半磚_綠色
+tile.block_psh_lightb.name=石灰石膏半磚_淺藍色
+tile.block_psh_lightg.name=石灰石膏半磚_淺灰色
+tile.block_psh_lime.name=石灰石膏半磚_淺綠色
+tile.block_psh_magenta.name=石灰石膏半磚_洋紅色
+tile.block_psh_orange.name=石灰石膏半磚_橙色
+tile.block_psh_pink.name=石灰石膏半磚_粉紅色
+tile.block_psh_purple.name=石灰石膏半磚_紫色
+tile.block_psh_red.name=石灰石膏半磚_紅色
+tile.block_psh_yellow.name=石灰石膏半磚_黃色
+tile.block_psh_white.name=石灰石膏半磚
+
+#Noren
+item.block_noren_black.name=門簾_黑色
+item.block_noren_blue.name=門簾_藍色
+item.block_noren_brown.name=門簾_棕色
+item.block_noren_cyan.name=門簾_青色
+item.block_noren_gray.name=門簾_灰色
+item.block_noren_green.name=門簾_綠色
+item.block_noren_lightb.name=門簾_淺藍色
+item.block_noren_lightg.name=門簾_淺灰色
+item.block_noren_lime.name=門簾_淺綠色
+item.block_noren_magenta.name=門簾_洋紅色
+item.block_noren_orange.name=門簾_橙色
+item.block_noren_pink.name=門簾_粉紅色
+item.block_noren_purple.name=門簾_紫色
+item.block_noren_red.name=門簾_紅色
+item.block_noren_yellow.name=門簾_黃色
+item.block_noren_white.name=門簾_白色
+tips.block_noren.name=用於遮陽跟抵禦寒風的大門掛布
+
+#TeaTime
+#Garden
+tile.block_sudare_1.name=百葉窗
+tips.block_sudare.name=右鍵單擊潛行[打開/關閉]
+
+item.block_ishitourou_stone.name=低石燈籠
+item.block_ishitourou_and.name=低石燈籠_安山岩
+item.block_ishitourou_dio.name=低石燈籠_閃長岩
+item.block_ishitourou_gra.name=低石燈籠_花崗岩
+tips.block_ishitourou.name=用打火石點燃火 右鍵單擊熄燈
+
+item.block_longtourou_stone.name=石燈籠
+item.block_longtourou_and.name=石燈籠_安山岩
+item.block_longtourou_dio.name=石燈籠_閃長岩
+item.block_longtourou_gra.name=石燈籠_花崗岩
+
+item.block_chouzubachi_kara.name=手水鉢
+item.block_chouzu_and_kara.name=手水鉢_安山岩
+item.block_chouzu_dio_kara.name=手水鉢_閃長岩
+item.block_chouzu_gra_kara.name=手水鉢_花崗岩
+tips.block_chouzubachi.name=將水倒入其中 右鍵單擊可洗手 與水桶一起投入水
+
+item.block_longacacia_bot.name=樹籬_相思木
+item.block_longbirch_bot.name=樹籬_樺木
+item.block_longdarkoak_bot.name=樹籬_黑橡木
+item.block_longjungle_bot.name=樹籬_叢林木
+item.block_longoak_bot.name=樹籬_橡木
+item.block_longspruce_bot.name=樹籬_杉木
+
+item.block_low_acacia.name=低樹籬_相思木
+item.block_low_birch.name=低樹籬_樺木
+item.block_low_darkoak.name=低樹籬_黑橡木
+item.block_low_jungle.name=低樹籬_叢林木
+item.block_low_oak.name=低樹籬_橡木
+item.block_low_spruce.name=低樹籬_杉木
+
+item.block_teatable.name=茶桌
+
+#Hakkou
+item.block_bin_koubo_f.name=酵母培養瓶
+tips.block_bin_koubo.name=隨著時間變成酵母 培養後破碎並收集
+
+item.block_taru_hakkou.name=發酵桶
+tips.block_taru_hakkou.name=放入(合成)各種原料或加入酵母可開始釀造加工品
+
+item.block_taru_kouji_f.name=米麴架子
+tips.block_taru_kouji.name=將蘑菇跟米放入發酵製作米麴 放置熟成後右鍵單擊收成
+
+item.block_taru_shubo_f.name=酒母桶
+tips.block_taru_shubo.name=釀造酒類的基底酵母菌 放置熟成後用木碗右鍵收成
+
+item.block_taru_moromi_f.name=生酒桶
+tips.block_taru_moromi.name=釀造清酒原料的酒桶 放置熟成後用木碗右鍵收成
+
+item.block_taru_jukusei_f.name=熟成酒桶
+tips.block_taru_jukusei.name=將清酒放入桶中再熟成 放置熟成後右鍵單擊收成
+
+tile.block_taru_ringoshu_f.name=蘋果酒桶
+tips.block_taru_ringoshu.name=放入蘋果跟酵母釀造蘋果酒 放置熟成後用酒瓶右鍵收成
+
+tile.block_taru_budoushu_f.name=葡萄酒桶
+tips.block_taru_budoushu.name=放入葡萄跟酵母釀造葡萄酒 放置熟成後用酒瓶右鍵收成
+
+item.block_taru_miso_f.name=味噌桶
+tips.block_taru_miso.name=釀造味噌的釀造桶 放置熟成後右鍵單擊收成
+
+item.block_taru_koucha_f.name=茶葉氧化盤
+tips.block_taru_koucha.name=將綠茶葉分裝使其發酵成紅茶葉 放置熟成後右鍵單擊收成
+
+tile.block_bot_sakenama_1.name=生酒
+tips.block_bot_sakenama.name=新釀的生酒 可以裝杯飲用 也可以燒製成清酒
+tile.block_bot_sake_1.name=清酒
+tips.block_bot_sake.name=可以倒入玻璃杯中細細品味
+tile.block_bot_sakejuku_1.name=熟成酒
+
+tile.block_bot_cider_1.name=蘋果酒
+tile.block_bot_ciderjuku_1.name=成熟蘋果酒
+tile.block_bot_wine_1.name=葡萄酒
+tile.block_bot_winejuku_1.name=成熟葡萄酒
+
+item.block_food_nabeaz_n.name=土鍋_放入酒糟
+item.block_food_nabeaz_1.name=土鍋_燒甜酒
+tips.block_food_nabeaz_1.name=用日式茶杯右鍵盛裝
+
+item.block_glass_sakenama.name=一杯生酒
+item.block_glass_sake.name=一杯清酒
+item.block_glass_sakejuku.name=一杯熟成酒
+item.block_glass_amazake.name=一杯甜酒
+
+item.block_glass_cider.name=一杯蘋果酒
+item.block_glass_ciderjuku.name=一杯成熟蘋果酒
+item.block_glass_wine.name=一杯葡萄酒
+item.block_glass_winejuku.name=一杯成熟葡萄酒
+
+item.block_food_nabenimame_n.name=土鍋_大豆
+item.block_food_nabenimame_b.name=土鍋_蒸煮大豆
+tips.block_food_nabenimame_b.name=用木碗右鍵盛裝
+
+#Kitchen
+tile.block_kitchen.name=廚房櫃檯
+tips.block_kitchen.name=可以將廚具放在櫥櫃空間
+
+tile.block_kit_board.name=砧板
+tips.block_kit_board.name=具有合成台功能
+
+item.block_kit_sink.name=流理臺
+tips.block_kit_sink.name=在底下2格的位置有水源 可右鍵開關水龍頭獲得水
+
+tile.block_kit_stove.name=灶具
+tips.block_kit_stove.name=右鍵單擊潛行[打開], 右鍵單擊[關閉]
+
+tile.block_kit_oven.name=烤箱一體灶
+tile.block_kit_oven_black.name=烤箱一體灶_黑色
+container.kitchen_oven=裡面的烤箱一體灶
+tips.block_kit_oven.name=可用於烹飪和冶煉
+
+tile.block_irori.name=日式圍爐
+container.irori=日式圍爐_內部
+tips.block_irori.name=日式的地爐 別名圍爐裏 用木炭火加熱土鍋
+
+tile.block_kit_kanki.name=換氣扇
+tips.block_kit_kanki.name=右鍵單擊開關 潛行右鍵改變方向款式
+
+tile.block_kit_duct.name=通風管
+tile.block_kit_ductend.name=通風口
+tips.block_kit_ductend.name=潛行右鍵改變方向款式
+
+tile.block_kit_tana.name=餐具櫃
+tips.block_kit_tana.name=可將各種餐具跟茶具放在櫃子上
+
+container.cstove=鐵暖爐_內部
+tile.block_cstove_bot.name=鐵暖爐
+tips.block_cstove_bot.name=鐵暖爐上部可用作熔爐
+
+#Pantry
+tile.block_boxh_empty.name=空盒子
+tile.block_boxh_apple.name=蘋果盒子
+tile.block_boxh_beef.name=生牛肉盒子
+tile.block_boxh_beetroot.name=甜菜根盒子
+tile.block_boxh_bread.name=麵包盒子
+tile.block_boxh_carrot.name=胡蘿蔔盒子
+tile.block_boxh_chicken.name=生雞肉盒子
+tile.block_boxh_chorus.name=歌莱果盒子
+tile.block_boxh_coco.name=可可豆袋子
+tile.block_boxh_egg.name=雞蛋盒子
+tile.block_boxh_fish.name=生魚盒子
+tile.block_boxh_flour.name=小麥袋子
+tile.block_boxh_mutton.name=生羊肉盒子
+tile.block_boxh_pork.name=生猪肉盒子
+tile.block_boxh_potato.name=馬鈴薯盒子
+tile.block_boxh_rabbit.name=生兎肉盒子
+tile.block_boxh_cod.name=生鱈魚盒子
+tile.block_boxh_swberry.name=甜莓盒子
+
+tile.block_boxh_cabbage.name=捲心菜盒子
+tile.block_boxh_hakusai.name=白菜盒子
+tile.block_boxh_corn.name=玉米盒子
+tile.block_boxh_grape.name=葡萄盒子
+tile.block_boxh_onion.name=洋蔥盒子
+tile.block_boxh_rice.name=米袋子
+tile.block_boxh_soy.name=大豆袋子
+tile.block_boxh_spinach.name=菠菜盒子
+tile.block_boxh_tomato.name=番茄盒子
+tile.block_boxh_tgreen.name=綠茶袋子
+tile.block_boxh_tred.name=紅茶袋子
+
+tile.block_tea_chadutsu.name=綠茶罐
+tile.block_tea_can.name=紅茶罐
+tile.block_tawara_cm.name=米俵
+
+#Foodblock
+tips.block_frypan.name=需要放在爐具上烹調 [熔爐/爐灶/烤箱一體灶]
+tips.block_nabe.name=需要放在爐具上烹調 [熔爐/爐灶/烤箱一體灶/日式圍爐]
+tips.block_kettle.name=需要放在爐具上燒熱水壺 [熔爐/爐灶/烤箱一體灶/日式圍爐/鐵製暖爐]
+tips.block_simpledish.name=右鍵單擊以使用它, 然後在潛行時放置它
+
+item.block_kettle_full.name=水壺_生水
+
+item.block_food_karanabe.name=空的土鍋
+tips.block_food_karanabe.name=將食物放入工作台中並加熱
+
+item.block_food_nabeshio_n.name=土鍋_海水
+item.block_food_nabeshio_b.name=土鍋_蒸餾鹽
+item.block_food_nabetoufu_n.name=土鍋_豆漿
+item.block_food_nabetoufu_b.name=土鍋_豆腐
+tips.block_food_nabetoufu_b.name=右鍵單擊拿取豆腐
+
+item.block_food_nabe_n.name=土鍋_生味噌雞肉鍋
+item.block_food_nabe_1.name=土鍋_味噌雞肉鍋
+tips.block_food_nabe_1.name=用湯碗右鍵盛裝
+item.block_food_tonsui_1.name=碗裝味噌雞肉湯
+
+item.block_food_nabegohan_n.name=土鍋_生米
+item.block_food_nabegohan_1.name=土鍋_蒸熟的米飯
+tips.block_food_nabegohan_1.name=用飯碗或盤子或碗右鍵盛裝
+		
+item.block_food_gohan_1.name=茶碗裝米飯
+item.block_food_rice_1.name=裝盤米飯
+item.block_food_nabemiso_n.name=土鍋_生味噌湯
+item.block_food_nabemiso_1.name=土鍋_味噌湯
+tips.block_food_nabemiso_1.name=用漆器右鍵盛裝
+
+item.block_food_misosp_1.name=味噌湯
+item.block_food_nabecorns_n.name=土鍋_生玉米濃湯
+item.block_food_nabecorns_1.name=土鍋_玉米濃湯
+tips.block_food_nabecorns_1.name=用盤子 右鍵盛裝
+item.block_food_cornsp_1.name=玉米濃湯
+
+item.block_food_frypan.name=平底鍋
+
+item.block_food_tgy_1.name=日式玉子燒
+item.block_food_tgytei_1.name=日式玉子燒套餐
+item.block_food_yakizakanatei_1.name=烤魚套餐
+item.block_food_yakijyaketei_1.name=烤三文魚套餐
+item.block_food_egb_1.name=裝盤煎蛋漢堡排
+item.block_food_egbset_1.name=煎蛋漢堡排套餐
+
+item.block_food_stewnabe_n.name=深底鍋_未調理的奶油燉雞
+item.block_food_stewnabe_1.name=深底鍋_奶油燉雞
+item.block_food_stew_1.name=奶油燉雞
+
+item.block_food_roastchicken_1.name=烤全雞
+tips.block_roastchicken_1.name=用盤子 右鍵盛裝
+item.block_food_chickenb_1.name=裝盤烤雞
+
+item.block_food_sconeset_1.name=下午茶糕點組合
+
+item.block_food_teastand.name=下午茶點心架
+item.block_food_teacup_1.name=英式紅茶
+item.block_food_teapot_1.name=英式茶壺_紅茶
+tips.block_food_teapot_1.name=用英式茶杯來享受下午茶
+item.block_food_teapot.name=英式茶壺
+item.block_food_teaset_1.name=下午茶組合
+
+item.block_food_jpteacup_1.name=日式綠茶
+item.block_food_kyusu_1.name=日式茶壺_綠茶
+tips.block_food_kyusu_1.name=用日式茶杯飲用
+item.block_food_kyusu.name=日式茶壺
+item.block_food_jpteaset_1.name=綠茶配米菓
+
+item.block_food_icecream_1.name=奶冰淇淋
+
+#FoodItem
+item.item_food_bun.name=小餐包
+item.item_food_cake.name=奶油小蛋糕
+item.item_food_scone.name=司康餅
+item.item_food_senbei.name=米菓
+tips.item_food_senbei.name=日式煎餅 別名仙貝
+
+item.item_food_chickensand.name=雞肉三明治
+item.item_food_eggsand.name=雞蛋三明治
+
+item.item_food_cabbage.name=捲心菜
+item.item_food_corn.name=玉米
+item.item_food_grape.name=葡萄
+item.item_food_onion.name=洋蔥
+item.item_food_spinach.name=菠菜
+item.item_food_tomato.name=番茄
+item.item_food_cornb.name=烤玉米
+item.item_food_hakusai.name=白菜
+
+#TTimeItem
+item.item_chaba.name=新茶葉
+item.item_chaba_green.name=綠茶葉
+item.item_chaba_red.name=紅茶葉
+
+item.item_salt.name=鹽
+item.item_nigari.name=鹵水
+tips.item_nigari.name=用於製作豆腐
+
+item.item_sakekasu.name=酒糟
+tips.item_sakekasu.name=用土鍋烹調甜酒或直接加工成肥料(骨粉)
+
+item.item_koubo.name=酵母
+tips.item_koubo.name=用於各種發酵加工品的基本材料
+
+item.item_mushigome.name=碗裝米飯
+
+item.item_komekouji.name=米麴
+tips.item_komekouji.name=用於製作酒母.生酒.味噌等發酵品
+
+item.item_shubo.name=酒母
+tips.item_shubo.name=用於釀造生酒用的材料
+
+item.item_moromi.name=生酒
+tips.item_moromi.name=倒進酒瓶中製作成瓶裝生酒
+
+item.item_nimame.name=煮大豆
+item.item_miso.name=味噌
+item.item_food_toufu.name=豆腐
+
+item.item_ine.name=水稻
+item.item_kome.name=稻米
+item.item_saya.name=大豆豆莢
+item.item_soy.name=大豆
+item.item_flour.name=麵粉
+item.item_butter.name=牛油
+
+item.item_kiji_bun.name=小餐包麵團
+tips.item_kiji_bun.name=放入熔爐內烘焙成小餐包
+
+item.item_kiji_burg.name=生牛肉漢堡排
+tips.item_kiji_burg.name=用平底鍋跟雞蛋一起料理成煎蛋漢堡排
+
+item.item_kiji_scone.name=司康餅麵團
+tips.item_kiji_scone.name=放入熔爐內烘焙成司康餅
+
+item.item_kiji_senbei.name=米菓麵團
+tips.item_kiji_senbei.name=放入熔爐內烘焙成米菓
+
+item.item_match_cm.name=火柴
+tips.item_match_cm.name=右鍵單擊一個塊, 它將燃燒
+item.item_kettle_kara.name=空水壺
+item.item_kettle_boil.name=熱水壺
+
+item.item_food_sara.name=盤子
+item.item_food_chawan.name=飯茶碗
+tips.item_food_chawan.name=一個適合裝熱騰騰米飯的碗
+
+item.item_food_shikki.name=漆器
+tips.item_food_shikki.name=在木碗表面塗上樹脂生漆製作精美的生活工藝品
+
+item.item_food_tonsui.name=湯碗
+tips.item_food_tonsui.name=比飯碗更大的瓷碗
+
+item.item_food_yunomi.name=日式茶杯
+tips.item_food_yunomi.name=日本人常用的陶瓷茶杯
+
+item.item_food_teacup.name=英式茶杯
+item.item_food_driglass.name=玻璃杯
+item.item_food_sakebot.name=酒瓶
+
+item.item_clay_yunomi.name=成形黏土_日式茶杯
+tips.item_clay_yunomi.name=放入熔爐燒製成日式茶杯
+
+item.item_clay_kyusu.name=成形黏土_日式茶壺
+tips.item_clay_kyusu.name=放入熔爐燒製成日式茶壺
+
+item.item_clay_teacup.name=成形黏土_英式茶杯
+tips.item_clay_teacup.name=放入熔爐燒製成英式茶杯
+
+item.item_clay_teapot.name=成形黏土_英式茶壺
+tips.item_clay_teapot.name=放入熔爐燒製成英式茶壺
+
+item.item_clay_sara.name=成形黏土_盤子
+tips.item_clay_sara.name=放入熔爐燒製成盤子
+
+item.item_clay_chawan.name=成形黏土_飯茶碗
+tips.item_clay_chawan.name=放入熔爐燒製成飯碗
+
+item.item_clay_nabe.name=成形黏土_土鍋
+tips.item_clay_nabe.name=放入熔爐燒製成土鍋
+
+item.item_clay_tonsui.name=成形黏土_湯碗
+tips.item_clay_tonsui.name=放入熔爐燒製成湯碗
+
+item.item_seeds_cabbage.name=捲心菜種子
+item.item_seeds_soy.name=大豆種子
+item.item_seeds_spinach.name=菠菜種子
+item.item_seeds_tomato.name=番茄種子
+item.item_seeds_corn.name=玉米種子
+item.item_seeds_onion.name=洋葱種子
+item.item_seeds_rice.name=稻米種子
+tips.block_rice.name=將其種植在稻田或耕地上。在稻田上多生長一個階段
+item.item_seeds_hakusai.name=白菜種子
+
+item.block_seedsbox.name=種子袋子
+tips.block_seedsbox.name=放置後打破可以獲得各種種子 共有16種
+
+item.block_wood_chanoki_nae.name=茶樹苗
+tips.block_wood_chanoki_nae.name=把它種在明亮的泥土裡, 它會長成一棵樹
+
+item.block_wood_grape_nae.name=葡萄樹苗
+tips.block_wood_grape_nae.name=把它種在明亮的泥土裡, 它會長成一棵樹
+
+#Xmas
+item.item_ingot_alumi.name=鋁
+item.block_alumi_block.name=鋁塊
+
+item.item_santaakashi_helmet.name=明石 聖誕老人 帽子
+item.item_santaakashi_chestplate.name=明石 聖誕老人 披肩
+item.item_santaakashi_leggings.name=明石 聖誕老人 連衣裙
+item.item_santaakashi_boots.name=明石 聖誕老人 靴子
+item.item_santakumano_helmet.name=熊野 聖誕老人 髮夾
+item.item_santakumano_chestplate.name=熊野 聖誕老人 披肩
+item.item_santakumano_leggings.name=熊野 聖誕老人 連衣裙
+item.item_santakumano_boots.name=熊野 聖誕老人 靴子
+item.item_santasuzuya_helmet.name=鈴谷 聖誕老人 髮夾
+item.item_santasuzuya_chestplate.name=鈴谷 聖誕老人 緞帶
+item.item_santasuzuya_leggings.name=鈴谷 聖誕老人 連衣裙
+item.item_santasuzuya_boots.name=鈴谷 聖誕老人 靴子
+item.item_santaryujou_helmet.name=龍驤 聖誕老人 帽子
+item.item_santaryujou_chestplate.name=龍驤 聖誕老人 外套
+item.item_santaryujou_leggings.name=龍驤 聖誕老人 裙子
+item.item_santaryujou_boots.name=龍驤 聖誕老人 靴子
+
+item.item_santattk_helmet.name=聖誕老人 帽子
+item.item_santattk_chestplate.name=聖誕老人 外套
+item.item_santattk_leggings.name=聖誕老人 長褲
+item.item_santattk_boots.name=聖誕老人 靴子
+
+item.block_xmastree.name=聖誕樹
+item.block_xmastree_w.name=聖誕樹_白色
+
+item.block_present_app.name=禮物盒
+item.block_present_bla.name=禮物盒
+item.block_present_bok.name=禮物盒
+item.block_present_dia.name=禮物盒
+item.block_present_lap.name=禮物盒
+item.block_present_chc.name=禮物盒
+item.block_present_chh.name=禮物盒
+
+#3.2.1
+item.block_bin_nyusan_f.name=乳酸菌培養瓶
+tips.block_bin_nyusan.name=隨著時間的推移變成乳酸桿菌 培養後破碎並收集
+item.item_nyusan.name=乳酸菌
+tips.item_nyusan.name=用於製作奶酪和巧克力
+item.item_rennet.name=凝乳酶
+tips.item_rennet.name=用於製作奶酪
+
+item.block_zundou_milk.name=深底鍋_奶
+item.block_food_cheesecurd.name=凝乳
+tips.block_cheesecurd.name=在工藝中製作新鮮的奶酪。隨著時間的推移製作奶
+item.item_food_cheesef.name=鮮奶酪
+item.block_food_cheese_1.name=奶酪
+tips.block_pizza_cheese.name=放置後, 右鍵單擊以分成幾部分
+item.item_food_cheese.name=一塊奶酪
+tile.block_kit_cheese_tana.name=架子上的奶酪
+tips.block_kit_cheese_tana.name=放置的凝乳會老化
+
+item.item_kiji_pizza.name=披薩麵團
+item.item_food_pizza_n.name=未調理番茄披薩
+item.block_food_pizza_1.name=烤番茄披薩
+item.item_food_pizza.name=一塊番茄披薩
+
+item.block_tansu_oak.name=五斗櫥_橡木
+item.block_tansu_acacia.name=五斗櫥_相思木
+item.block_tansu_birch.name=五斗櫥_樺木
+item.block_tansu_doak.name=五斗櫥_黑橡木
+item.block_tansu_jungle.name=五斗櫥_叢林木
+item.block_tansu_spruce.name=五斗櫥_杉木
+item.block_tansu_sakura.name=五斗櫥_櫻木
+item.block_tansu_kaede.name=五斗櫥_楓木
+item.block_tansu_ichoh.name=五斗櫥_銀杏木
+
+tile.block_fall_leaf.name=落葉
+tips.block_fall_leaf.name=使用鍬，就會變成草徑。使用鋤，就會是稻田
+tile.block_tree_ichoh_leaf.name=銀杏樹葉
+tile.block_tree_kaede_leaf.name=楓樹葉
+tile.block_tree_sakura_flow.name=櫻花卉
+tile.block_tree_oakkare_leaf.name=秋天的橡木樹葉
+item.block_carpet_ichoh.name=銀杏樹葉地毯
+item.block_carpet_kaede.name=楓樹葉地毯
+item.block_carpet_sakura.name=櫻花卉地毯
+item.block_carpet_ochiba.name=秋天的橡木地毯
+tile.block_tree_ichoh_nae.name=銀杏樹苗
+tile.block_tree_kaede_nae.name=楓樹苗
+tile.block_tree_sakura_nae.name=櫻樹苗
+tile.block_tree_oakkare_nae.name=秋天的橡木樹苗
+tile.block_tree_ichoh_log.name=銀杏原木
+tile.block_tree_kaede_log.name=楓原木
+tile.block_tree_sakura_log.name=櫻原木
+item.block_planks_ichoh.name=銀杏木材
+item.block_planks_kaede.name=楓木材
+item.block_planks_sakura.name=櫻木材
+tile.block_pillar_ichoh.name=支柱_銀杏木
+tile.block_pillar_kaede.name=支柱_楓木
+tile.block_pillar_sakura.name=支柱_櫻木
+tile.block_slabhalf_ichoh.name=銀杏木半磚
+tile.block_slabhalf_kaede.name=楓木半磚
+tile.block_slabhalf_sakura.name=櫻木半磚
+tile.block_stairs_ichoh.name=銀杏木階梯
+tile.block_stairs_kaede.name=楓木階梯
+tile.block_stairs_sakura.name=櫻木階梯
+
+item.block_longichoh_bot.name=樹籬_銀杏木
+item.block_longkaede_bot.name=樹籬_楓木
+item.block_longsakura_bot.name=樹籬_櫻木
+item.block_longoakkare_bot.name=樹籬_秋天的橡木
+item.block_low_ichoh.name=低樹籬_銀杏木
+item.block_low_kaede.name=低樹籬_楓木
+item.block_low_sakura.name=低樹籬_櫻木
+item.block_low_oakkare.name=低樹籬_秋天的橡木
+
+item.block_diningchair_ich.name=餐椅_銀杏木
+item.block_diningchair_kae.name=餐椅_楓木
+item.block_diningchair_saku.name=餐椅_櫻木
+item.block_dressingtable_ich.name=梳妝台_銀杏木
+item.block_dressingtable_kae.name=梳妝台_楓木
+item.block_dressingtable_saku.name=梳妝台_櫻木
+item.block_schoolchair_ich.name=學校椅_銀杏木
+item.block_schoolchair_kae.name=學校椅_楓木
+item.block_schoolchair_saku.name=學校椅_櫻木
+item.block_schooldesk_ich.name=課桌_銀杏木
+item.block_schooldesk_kae.name=課桌_楓木
+item.block_schooldesk_saku.name=課桌_櫻木
+item.block_teacherdesk_ich.name=教師桌子_銀杏木
+item.block_teacherdesk_kae.name=教師桌子_楓木
+item.block_teacherdesk_saku.name=教師桌子_櫻木
+
+item.block_shoujih_ichoh.name=障子窗_銀杏木
+item.block_shoujih_kaede.name=障子窗_楓木
+item.block_shoujih_sakura.name=障子窗_櫻木
+
+item.block_kanki_ich.name=通風口_銀杏木
+item.block_kanki_kae.name=通風口_楓木
+item.block_kanki_saku.name=通風口_櫻木
+item.block_koushi_ich.name=垂直格子_銀杏木
+item.block_koushi_kae.name=垂直格子_楓木
+item.block_koushi_saku.name=垂直格子_櫻木
+item.block_ranmab_ich.name=楣窗_甲_銀杏木
+item.block_ranmab_kae.name=楣窗_甲_楓木
+item.block_ranmab_saku.name=楣窗_甲_櫻木
+item.block_ranmac_ich.name=楣窗_乙_銀杏木
+item.block_ranmac_kae.name=楣窗_乙_楓木
+item.block_ranmac_saku.name=楣窗_乙_櫻木
+item.block_ranma_ich.name=楣窗_銀杏木
+item.block_ranma_kae.name=楣窗_楓木
+item.block_ranma_saku.name=楣窗_櫻木
+
+tile.block_wp_log_ichoh.name=面板_銀杏原木
+tile.block_wp_log_kaede.name=面板_楓原木
+tile.block_wp_log_sakura.name=面板_櫻原木
+tile.block_wp_plank_ichoh.name=面板_銀杏木材
+tile.block_wp_plank_kaede.name=面板_楓木材
+tile.block_wp_plank_sakura.name=面板_櫻木材
+
+tile.block_boxh_cherry.name=櫻桃盒子
+
+item.item_food_cherry.name=櫻桃
+item.item_seeds_cherry.name=櫻桃種子
+
+item.item_sword_sakura.name=櫻木之劍
+item.item_sword_ichoh.name=銀杏木之劍
+item.item_sword_kaede.name=楓木之劍
+
+item.item_inewara.name=稻草
+item.item_warahai.name=稻草灰
+item.block_zundou_aku.name=深底鍋_鹼水
+tips.block_zundou_aku.name=通過煮草屋頂塊，得到一根紗線
+item.item_oriito.name=紗線
+item.item_tanmono.name=布
+
+item.item_ykt_getadoak.name=浴衣下駄_黑橡木
+item.item_ykt_getaoak.name=浴衣下駄_橡木
+item.item_ykt_ikaduchi_kazari.name=雷型髮夾
+item.item_ykt_ikaduchi_mini.name=雷型日式浴衣 體
+item.item_ykt_ikaduchi_long.name=雷型日式浴衣 腿
+item.item_ykt_inaduma_kazari.name=電型髮夾
+item.item_ykt_inaduma_mini.name=電型日式浴衣 體
+item.item_ykt_inaduma_long.name=電型日式浴衣 腿
+item.item_ykt_hamakaze_kazari.name=浜風型髮夾
+item.item_ykt_hamakaze_mini.name=浜風型日式浴衣 體
+item.item_ykt_hamakaze_long.name=浜風型日式浴衣 腿
+item.item_ykt_urakaze_kazari.name=浦風型狐狸面具
+item.item_ykt_urakaze_mini.name=浦風型日式浴衣 體
+item.item_ykt_urakaze_long.name=浦風型日式浴衣 腿
+item.item_ykt_kawakaze_kazari.name=江風型狐狸面具
+item.item_ykt_kawakaze_mini.name=江風型日式浴衣 體
+item.item_ykt_kawakaze_long.name=江風型日式浴衣 腿
+item.item_ykt_oboro_kazari.name=朧型髮夾
+item.item_ykt_oboro_mini.name=朧型日式浴衣 體
+item.item_ykt_oboro_long.name=朧型日式浴衣 腿
+item.item_ykt_ttoku_mini.name=男子的日式浴衣 體
+item.item_ykt_ttoku_long.name=男子的日式浴衣 腿
+item.item_ykt_ttokub_mini.name=男子的日式浴衣_藍褐色 體
+item.item_ykt_ttokub_long.name=男子的日式浴衣_藍褐色 腿
+
+tips.item_ykt.name=普通的衣服穿在裸露的皮膚上
+
+item.block_uchiwa_black.name=團扇_黑色
+item.block_uchiwa_blue.name=團扇_藍色
+item.block_uchiwa_brown.name=團扇_棕色
+item.block_uchiwa_cyan.name=團扇_青色
+item.block_uchiwa_gray.name=團扇_灰色
+item.block_uchiwa_green.name=團扇_綠色
+item.block_uchiwa_lightb.name=團扇_淺藍色
+item.block_uchiwa_lightg.name=團扇_淺灰色
+item.block_uchiwa_lime.name=團扇_淺綠色
+item.block_uchiwa_magenta.name=團扇_洋紅色
+item.block_uchiwa_orange.name=團扇_橙色
+item.block_uchiwa_pink.name=團扇_粉紅色
+item.block_uchiwa_purple.name=團扇_紫色
+item.block_uchiwa_red.name=團扇_紅色
+item.block_uchiwa_white.name=團扇_白色
+item.block_uchiwa_yellow.name=團扇_黃色
+
+tips.block_uchiwa.name=裝飾塊
+
+tips.block_wataame.name=取下包裝 成為棉花糖
+tile.block_watagashi.name=包裝棉花糖
+tile.block_watagashi_green.name=包裝棉花糖_綠茶
+tile.block_watagashi_pink.name=包裝棉花糖_櫻桃
+tile.block_watagashi_red.name=包裝棉花糖_葡萄
+tile.block_watagashi_yellow.name=包裝棉花糖_蘋果
+item.item_food_watagashi.name=棉花糖
+item.item_food_watagashi_g.name=棉花糖_綠茶
+item.item_food_watagashi_p.name=棉花糖_櫻桃
+item.item_food_watagashi_r.name=棉花糖_葡萄
+item.item_food_watagashi_y.name=棉花糖_蘋果
+
+item.block_kakigouri_block1.name=刨冰
+item.block_kakigouri_green1.name=刨冰_綠茶
+item.block_kakigouri_pink1.name=刨冰_櫻桃
+item.block_kakigouri_red1.name=刨冰_葡萄
+item.block_kakigouri_yellow1.name=刨冰_蘋果
+tile.block_kakigouri_hata.name=刨冰的旗幟
+
+tips.block_kakigouri.name=刨冰甜點
+
+tile.block_tabakusa.name=草屋頂塊
+tile.block_tabawara.name=稻草屋頂塊
+tile.block_tabakaya.name=茅草屋頂塊
+
+tile.block_tabakusa_roof.name=草屋頂
+tile.block_tabawara_roof.name=稻草屋頂
+tile.block_tabakaya_roof.name=茅草屋頂
+tips.block_tabakusa_roof.name=定向屋頂材料 潛行右鍵點擊以更改類型
+
+tile.block_tabakusa_stairs.name=草屋頂樓梯
+tile.block_tabawara_stairs.name=稻草屋頂樓梯
+tile.block_tabakaya_stairs.name=茅草屋頂樓梯
+
+tile.block_tatamih_y.name=曬傷的榻榻米_無邊
+tile.block_tatamih_y_black.name=曬傷的榻榻米_黑色
+tile.block_tatamih_y_blue.name=曬傷的榻榻米_藍色
+tile.block_tatamih_y_brown.name=榻榻米_棕色
+tile.block_tatamih_y_cyan.name=曬傷的榻榻米_青色
+tile.block_tatamih_y_gray.name=曬傷的榻榻米_灰色
+tile.block_tatamih_y_green.name=曬傷的榻榻米_綠色
+tile.block_tatamih_y_lightb.name=曬傷的榻榻米_淺藍色
+tile.block_tatamih_y_lightg.name=曬傷的榻榻米_淺灰色
+tile.block_tatamih_y_lime.name=曬傷的榻榻米_淺綠色
+tile.block_tatamih_y_magenta.name=曬傷的榻榻米_洋紅色
+tile.block_tatamih_y_orange.name=曬傷的榻榻米_橙色
+tile.block_tatamih_y_pink.name=曬傷的榻榻米_粉紅色
+tile.block_tatamih_y_purple.name=曬傷的榻榻米_紫色
+tile.block_tatamih_y_red.name=曬傷的榻榻米_紅色
+tile.block_tatamih_y_yellow.name=曬傷的榻榻米_黃色
+tile.block_tatamih_y_white.name=曬傷的榻榻米_白色
+
+tile.block_lamp.name=壁燈
+tips.block_lamp.name=右鍵單擊開關
+
+tile.block_standbedroom.name=臥室檯燈
+tile.block_standarm.name=檯燈
+
+item.block_candle_black.name=蠟燭燈_黑色
+item.block_candle_blue.name=蠟燭燈_藍色
+item.block_candle_brown.name=榻榻米_棕色
+item.block_candle_cyan.name=蠟燭燈_青色
+item.block_candle_gray.name=蠟燭燈_灰色
+item.block_candle_green.name=蠟燭燈_綠色
+item.block_candle_lightb.name=蠟燭燈_淺藍色
+item.block_candle_lightg.name=蠟燭燈_淺灰色
+item.block_candle_lime.name=蠟燭燈_淺綠色
+item.block_candle_magenta.name=蠟燭燈_洋紅色
+item.block_candle_orange.name=蠟燭燈_橙色
+item.block_candle_pink.name=蠟燭燈_粉紅色
+item.block_candle_purple.name=蠟燭燈_紫色
+item.block_candle_red.name=蠟燭燈_紅色
+item.block_candle_yellow.name=蠟燭燈_黃色
+item.block_candle_white.name=蠟燭燈
+
+item.block_andon_black.name=方形紙罩座燈_黑色
+item.block_andon_blue.name=方形紙罩座燈_藍色
+item.block_andon_brown.name=榻榻米_棕色
+item.block_andon_cyan.name=方形紙罩座燈_青色
+item.block_andon_gray.name=方形紙罩座燈_灰色
+item.block_andon_green.name=方形紙罩座燈_綠色
+item.block_andon_lightb.name=方形紙罩座燈_淺藍色
+item.block_andon_lightg.name=方形紙罩座燈_淺灰色
+item.block_andon_lime.name=方形紙罩座燈_淺綠色
+item.block_andon_magenta.name=方形紙罩座燈_洋紅色
+item.block_andon_orange.name=方形紙罩座燈_橙色
+item.block_andon_pink.name=方形紙罩座燈_粉紅色
+item.block_andon_purple.name=方形紙罩座燈_紫色
+item.block_andon_red.name=方形紙罩座燈_紅色
+item.block_andon_yellow.name=方形紙罩座燈_黃色
+item.block_andon_white.name=方形紙罩座燈
+tips.block_andon.name=落地燈 用打火石點燃火 右鍵單擊關閉
+
+#SE
+chinjufumod.subtitle.kk_propeller.name=螺旋槳聲音
+chinjufumod.subtitle.kk_propeller_12.name=螺旋槳聲音
+chinjufumod.subtitle.kk_starting.name=發動機聲音
+chinjufumod.subtitle.kk_atack.name=飛機的攻擊
+chinjufumod.subtitle.kk_atack2.name=飛機的攻擊
+chinjufumod.subtitle.kk_impact.name=飛機碰撞
+chinjufumod.subtitle.kk_break.name=飛機爆炸
+chinjufumod.subtitle.kk_stop.name=飛機著陸
+chinjufumod.subtitle.water_splash.name=墜入水中
+chinjufumod.subtitle.am_fire.name=射擊大砲
+chinjufumod.subtitle.am_impact.name=爆炸
+chinjufumod.subtitle.am_cartridge.name=空彈殼
+chinjufumod.subtitle.am_cartridge2.name=空彈殼
+chinjufumod.subtitle.am_cartridge3.name=空彈殼
+chinjufumod.subtitle.wake_water.name=在水上運行
+chinjufumod.subtitle.tansu_open.name=打開抽屜
+chinjufumod.subtitle.tansu_close.name=關閉抽屜
+chinjufumod.subtitle.window_open.name=打開窗口
+chinjufumod.subtitle.window_close.name=關閉窗口
+chinjufumod.subtitle.window_updown.name=上下推拉窗
+chinjufumod.subtitle.amado_cancel.name=防雨窗
+
+chinjufumod.subtitle.fusuma.name=障子／紙拉門
+chinjufumod.subtitle.fusuma_short.name=障子窗
+chinjufumod.subtitle.hikido.name=滑動門
+chinjufumod.subtitle.hikido_short.name=滑動門
+chinjufumod.subtitle.kinuzure.name=布擦
+chinjufumod.subtitle.sit_chair.name=坐在椅子上
+chinjufumod.subtitle.juu.name=用煎鍋做飯
+chinjufumod.subtitle.gutsugutsu.name=沸騰的聲音
+chinjufumod.subtitle.tea.name=倒茶
+chinjufumod.subtitle.sake.name=倒酒
+chinjufumod.subtitle.paku.name=吃
+chinjufumod.subtitle.goku.name=喝
+chinjufumod.subtitle.kitchen_cut.name=菜刀
+chinjufumod.subtitle.water_start.name=打開水龍頭
+chinjufumod.subtitle.water_stop.name=關閉水龍頭
+chinjufumod.subtitle.shishiodoshi.name=鹿威
+
+#4.0
+item.block_sofa_leather.name=真皮沙發
+item.block_sofa_black.name=沙發_黑色
+item.block_sofa_blue.name=沙發_藍色
+item.block_sofa_brown.name=沙發_棕色
+item.block_sofa_cyan.name=沙發_青色
+item.block_sofa_gray.name=沙發_灰色
+item.block_sofa_green.name=沙發_綠色
+item.block_sofa_lightblue.name=沙發_淺藍色
+item.block_sofa_lightgray.name=沙發_淺灰色
+item.block_sofa_lime.name=沙發_淺綠色
+item.block_sofa_magenta.name=沙發_洋紅色
+item.block_sofa_orange.name=沙發_橙色
+item.block_sofa_pink.name=沙發_粉紅色
+item.block_sofa_purple.name=沙發_紫色
+item.block_sofa_red.name=沙發_紅色
+item.block_sofa_white.name=沙發_白色
+item.block_sofa_yellow.name=沙發_黃色
+
+item.block_bench.name=長椅_叢林木
+item.block_bench_aca.name=長椅_相思木
+item.block_bench_bir.name=長椅_樺木
+item.block_bench_doak.name=長椅_黑橡木
+item.block_bench_jun.name=長椅_叢林木
+item.block_bench_spru.name=長椅_杉木
+item.block_bench_saku.name=長椅_櫻木
+item.block_bench_kae.name=長椅_楓木
+item.block_bench_ich.name=長椅_銀杏木
+
+item.block_bonsai_oak.name=盆栽_叢林木
+item.block_bonsai_acacia.name=盆栽_相思木
+item.block_bonsai_birch.name=盆栽_樺木
+item.block_bonsai_darkoak.name=盆栽_黑橡木
+item.block_bonsai_jungle.name=盆栽_叢林木
+item.block_bonsai_spruce.name=盆栽_杉木
+item.block_bonsai_sakura.name=盆栽_櫻木
+item.block_bonsai_kaede.name=盆栽_楓木
+item.block_bonsai_ichoh.name=盆栽_銀杏木
+item.block_bonsai_oakkare.name=盆栽_秋天的橡木
+tips.block_bonsai.name=潛行右鍵改變款式
+
+item.block_kanyouoak_bot.name=觀葉植物_橡木
+item.block_kanyouacacia_bot.name=觀葉植物_金合欢木
+item.block_kanyoubirch_bot.name=觀葉植物_白桦木
+item.block_kanyoudarkoak_bot.name=觀葉植物_深色橡木
+item.block_kanyoujungle_bot.name=觀葉植物_丛林木
+item.block_kanyouspruce_bot.name=觀葉植物_云杉木
+item.block_kanyousakura_bot.name=觀葉植物_樱木
+item.block_kanyoukaede_bot.name=觀葉植物_枫木
+item.block_kanyouichoh_bot.name=觀葉植物_银杏木
+item.block_kanyouoakkare_bot.name=觀葉植物_秋天的橡木
+tips.block_kanyou.name=類型更改, 當您將其置於潛行時
+	
+item.block_ironfence_bot.name=鐵柵欄
+
+item.block_door_sakura.name=櫻木門
+item.block_door_ichoh.name=銀杏木門
+item.block_door_kaede.name=楓木門
+
+item.block_gate_iron.name=鐵大門
+item.block_gate_irongrill.name=鐵柵大門
+item.block_gate_spruce_b.name=杉木大門
+item.block_gate_spruce.name=杉木大門_甲
+tips.block_gate.name=相反, 潛行設置它 紅石[打開/關閉]
+
+tile.block_taru_cocoa_f.name=可可桶
+tips.block_taru_cocoa.name=桶發酵可可豆 用木碗右鍵收成
+
+item.item_cocoa_ferm.name=發酵可可
+tips.item_cocoa_ferm.name=冶煉它變成烤可可
+
+item.item_cocoa_roast.name=烤可可
+tips.item_cocoa_roast.name=製作它變成可可塊
+
+item.item_cocoa_mass.name=可可塊
+tips.item_cocoa_mass.name=當加入糖和奶時, 它變成碗用巧克力
+
+item.item_choco_raw.name=碗用巧克力
+tips.item_choco_raw.name=製作它變成巧克力
+
+item.item_food_choco_heart.name=巧克力心形
+item.item_food_choco.name=巧克力
+item.item_food_choco_apple.name=巧克力_蘋果
+item.item_food_choco_cherry.name=巧克力_櫻桃
+item.item_food_choco_grape.name=巧克力_葡萄
+item.item_food_choco_greentea.name=巧克力_綠茶
+
+item.item_shield_kuchiku.name=驅逐艦的盾牌
+item.item_shield_yura.name=由良的盾牌
+item.item_shield_mogami.name=最上的盾牌
+item.item_shield_kongou.name=金剛的盾牌
+tips.item_shield.name=右鍵單擊以進行防禦 可用鐵錠修復
+tips.item_shield2.name=當玩家停止阻擋時, 它會從生物身上反彈
+	
+chinjufumod.subtitle.gyorai.name=魚雷的聲音
+chinjufumod.subtitle.gate_wood.name=樹門
+chinjufumod.subtitle.gate_iron_open.name=鐵門
+chinjufumod.subtitle.gate_iron_close.name=鐵門
+
+item.block_shouji.name=障子
+item.block_shouji_acacia.name=障子_相思木
+item.block_shouji_birch.name=障子_樺木
+item.block_shouji_darkoak.name=障子_黑橡木
+item.block_shouji_jungle.name=障子_叢林木
+item.block_shouji_spruce.name=障子_杉木
+tips.block_shouji.name=它是一個隔間兼滑動拉門 相反, 潛行設置它 右鍵單擊[打開/關閉]
+
+item.block_shoujib.name=障子_甲
+item.block_shoujib_acacia.name=障子_甲_相思木
+item.block_shoujib_birch.name=障子_甲_樺木
+item.block_shoujib_darkoak.name=障子_甲_黑橡木
+item.block_shoujib_jungle.name=障子_甲_叢林木
+item.block_shoujib_spruce.name=障子_甲_杉木
+
+item.block_garasudo.name=玻璃木拉門
+item.block_garasudo_acacia.name=玻璃木拉門_相思木
+item.block_garasudo_birch.name=玻璃木拉門_樺木
+item.block_garasudo_darkoak.name=玻璃木拉門_黑橡木
+item.block_garasudo_jungle.name=玻璃木拉門_叢林木
+item.block_garasudo_spruce.name=玻璃木拉門_杉木
+
+item.block_garasudob.name=玻璃木拉門_甲
+item.block_garasudob_acacia.name=玻璃木拉門_甲_相思木
+item.block_garasudob_birch.name=玻璃木拉門_甲_樺木
+item.block_garasudob_darkoak.name=玻璃木拉門_甲_黑橡木
+item.block_garasudob_jungle.name=玻璃木拉門_甲_叢林木
+item.block_garasudob_spruce.name=玻璃木拉門_甲_杉木
+tips.block_garasudo.name=它是一個滑動拉門 相反, 潛行設置它 右鍵單擊[打開/關閉]
+
+item.block_fusuma.name=紙拉門
+item.block_fusuma_black.name=紙拉門_黑色
+item.block_fusuma_blue.name=紙拉門_藍色
+item.block_fusuma_brown.name=紙拉門_棕色
+item.block_fusuma_cyan.name=紙拉門_青色
+item.block_fusuma_gray.name=紙拉門_灰色
+item.block_fusuma_green.name=紙拉門_綠色
+item.block_fusuma_lightb.name=紙拉門_淺藍色
+item.block_fusuma_lightg.name=紙拉門_淺灰色
+item.block_fusuma_lime.name=紙拉門_淺綠色
+item.block_fusuma_magenta.name=紙拉門_洋紅色
+item.block_fusuma_orange.name=紙拉門_橙色
+item.block_fusuma_pink.name=紙拉門_粉紅色
+item.block_fusuma_purple.name=紙拉門_紫色
+item.block_fusuma_red.name=紙拉門_紅色
+item.block_fusuma_yellow.name=紙拉門_黃色
+tips.block_fusuma.name=它是一個隔間兼滑動拉門 相反, 潛行設置它 右鍵單擊[打開/關閉]
+
+item.block_fusumab.name=紙拉門_甲
+item.block_fusumab_black.name=紙拉門_甲_黑色
+item.block_fusumab_blue.name=紙拉門_甲_藍色
+item.block_fusumab_brown.name=紙拉門_甲_棕色
+item.block_fusumab_cyan.name=紙拉門_甲_青色
+item.block_fusumab_gray.name=紙拉門_甲_灰色
+item.block_fusumab_green.name=紙拉門_甲_綠色
+item.block_fusumab_lightb.name=紙拉門_甲_淺藍色
+item.block_fusumab_lightg.name=紙拉門_甲_淺灰色
+item.block_fusumab_lime.name=紙拉門_甲_淺綠色
+item.block_fusumab_magenta.name=紙拉門_甲_洋紅色
+item.block_fusumab_orange.name=紙拉門_甲_橙色
+item.block_fusumab_pink.name=紙拉門_甲_粉紅色
+item.block_fusumab_purple.name=紙拉門_甲_紫色
+item.block_fusumab_red.name=紙拉門_甲_紅色
+item.block_fusumab_yellow.name=紙拉門_甲_黃色
+
+item.block_shouji_ichoh.name=障子_銀杏木
+item.block_shouji_kaede.name=障子_楓木
+item.block_shouji_sakura.name=障子_櫻木
+item.block_shoujib_ichoh.name=障子_甲_銀杏木
+item.block_shoujib_kaede.name=障子_甲_楓木
+item.block_shoujib_sakura.name=障子_甲_櫻木
+
+item.block_garasudob_ichoh.name=玻璃木拉門_甲_銀杏木
+item.block_garasudob_kaede.name=玻璃木拉門_甲_楓木
+item.block_garasudob_sakura.name=玻璃木拉門_甲_櫻木
+item.block_garasudo_ichoh.name=玻璃木拉門_銀杏木
+item.block_garasudo_kaede.name=玻璃木拉門_楓木
+item.block_garasudo_sakura.name=玻璃木拉門_櫻木
+
+#4.0.1
+item.block_food_dongyu_1.name=日式牛肉飯
+tips.block_food_dongyu_1.name=
+item.block_food_donkatsu_1.name=日式豬排丼飯
+tips.block_food_donkatsu_1.name=
+item.block_food_donmeshi_1.name=大碗米飯
+item.block_food_donoyako_1.name=雞和蛋飯
+tips.block_food_donoyako_1.name=
+
+item.block_food_frypan_n_tamago.name=平底鍋_生雞蛋
+item.block_food_frypan_n_eggb.name=平底鍋_生雞蛋漢堡排
+item.block_food_frypan_n_gyudon.name=平底鍋_未調理的日式牛肉飯
+item.block_food_frypan_n_katsu.name=平底鍋_未調理的日式炸豬排
+item.block_food_frypan_n_katsudon.name=平底鍋_未調理的日式豬排丼飯
+item.block_food_frypan_n_oyakodon.name=平底鍋_未調理的雞和蛋飯
+item.block_food_frypan_n_kinokos.name=平底鍋_未調理的蘑菇
+item.block_food_frypan_n_tomatos.name=平底鍋_未調理的番茄醬
+
+item.block_food_frypan_b_tamago.name=平底鍋_玉子燒
+tips.block_food_frypan_sara.name=用盤子 右鍵盛裝
+item.block_food_frypan_b_eggb.name=平底鍋_煎蛋漢堡排
+item.block_food_frypan_b_gyudon.name=平底鍋_日式牛肉飯
+tips.block_food_frypan_donburi.name=用大碗米飯 右鍵盛裝
+item.block_food_frypan_b_katsu.name=平底鍋_日式炸豬排
+item.block_food_frypan_b_katsudon.name=平底鍋_日式豬排丼飯
+item.block_food_frypan_b_oyakodon.name=平底鍋_雞和蛋飯
+item.block_food_frypan_b_kinokos.name=煎鍋_蘑菇
+item.block_food_frypan_b_tomatos.name=平底鍋_番茄醬
+tips.block_food_frypan_pasta.name=用碟裝意大利面 右鍵盛裝
+
+item.item_food_pasta_n.name=生義大利麵
+item.item_food_pasta_s.name=裝盤義大利麵
+
+item.block_zundou_shiomizu.name=用鹽水的深底鍋
+tips.block_zundou_shiomizu.name=煮意大利面和魚
+
+item.block_food_pastacheese_1.name=芝士醬義大利麵
+item.block_food_pastakinoko_1.name=蘑菇義大利麵
+item.block_food_pastatoma_1.name=番茄醬義大利麵
+
+item.block_taru_hakusai_f.name=白菜桶 第一階段
+tips.block_taru_hakusai_f.name=製作咸白菜的桶 如果有水流出, 則將其銷毀並收集
+item.block_taru_hakusai_f2.name=白菜桶 第二階段
+tips.block_taru_hakusai_f2.name=製作咸白菜的桶 使用碟子收集 4次
+item.item_food_hakusai2.name=白菜微咸
+item.block_food_hsd_1.name=咸白菜
+
+item.block_taru_komezu_f.name=米醋桶
+tips.block_taru_komezu.name=製作米醋的桶 使用玻璃瓶收集 4次
+item.block_komezu_bot.name=米醋
+item.block_komezu_bot_2.name=米醋
+
+item.block_taru_shouyu_f.name=醬油桶
+tips.block_taru_shouyu.name=製作醬油的桶 使用玻璃瓶收集 4次
+item.block_shouyu_bot.name=醬油
+item.block_shouyu_bot_2.name=醬油
+item.block_shouyu_bot_3.name=醬油
+item.block_shouyu_bot_4.name=醬油
+chinjufumod.subtitle.shouyu.name=倒入醬油
+tips.block_bot.name=４次
+tips.block_bot_2.name=３次
+tips.block_bot_3.name=２次
+tips.block_bot_4.name=１次
+
+item.item_food_kirimi_salmon.name=三文魚片
+item.item_food_kirimi_fish.name=魚片
+item.item_food_kirimi_beef.name=牛肉片
+item.item_food_kirimi_tamago.name=玉子燒片
+tips.item_food_kirimi.name=拿它，然後右鍵單擊壽司飯做成壽司
+
+item.block_food_sushimeshi.name=壽司飯
+tips.block_food_sushimeshi.name=從切片製作壽司
+
+item.block_food_shouyusara_1.name=醬油菜
+tips.block_food_shouyusara_1.name=與壽司一起使用
+
+item.item_food_sushi_salmon.name=壽司_三文魚
+item.item_food_sushi_fish.name=壽司_魚
+item.item_food_sushi_beef.name=壽司_牛肉
+item.item_food_sushi_tamago.name=壽司_玉子燒
+item.item_food_sushishouyu_salmon.name=醬油壽司_三文魚
+item.item_food_sushishouyu_fish.name=醬油壽司_魚
+item.item_food_sushishouyu_beef.name=醬油壽司_牛肉
+item.item_food_sushishouyu_tamago.name=醬油壽司_玉子燒
+
+item.block_food_sushiset_4shoku.name=壽司套
+item.block_food_sushiset_salmon.name=壽司套_三文魚
+item.block_food_sushiset_fish.name=壽司套_魚
+item.block_food_sushiset_beef.name=壽司套_牛肉
+item.block_food_sushiset_tamago.name=壽司套_玉子燒
+
+item.block_food_sushigeta_kara.name=壽司木製板
+tips.block_food_sushigeta_kara.name=倒入醬油並放壽司
+
+item.block_food_sushioke_kara.name=壽司桶
+item.block_food_sushiokefull_1.name=壽司拼盤
+
+item.block_niboshi.name=水煮魚
+tips.block_niboshi_boiled.name=乾燥後 收集在玻璃瓶中
+item.block_dashi_bot.name=日式上湯粉
+item.block_dashi_bot_2.name=日式上湯粉
+item.block_dashi_bot_3.name=日式上湯粉
+item.block_dashi_bot_4.name=日式上湯粉
+
+item.block_food_dashinabe_1.name=裝滿日式湯底的深底鍋
+tips.block_food_dashinabe_1.name=用大陶碗醬油 右鍵盛裝
+
+item.item_clay_donburi.name=成形黏土_大陶碗
+tips.item_clay_donburi.name=放入熔爐燒製成大陶碗
+
+item.item_food_donburi.name=大陶碗
+tips.item_food_donburi.name=用於烏龍麵和米飯, 拉麵
+
+item.item_food_udon_n.name=生的烏冬面
+item.block_zundou_mizu.name=裝滿水的深底鍋
+
+item.item_food_shouyu_don.name=大陶碗醬油
+item.item_food_tsuyu_don.name=大陶碗湯湯
+item.block_food_udonsu_1.name=烏龍麵
+item.block_food_udonniku_1.name=牛肉烏龍麵
+item.block_food_udontsukimi_1.name=月見烏龍麵
+
+item.block_food_senbei.name=盤子上的米菓
+item.block_food_scone.name=盤子上的司康餅
+item.block_food_mikan.name=盤子上的蜜柑
+
+item.block_wood_mikan.name=蜜柑樹苗
+tips.block_wood_mikan.name=把它種在溫暖明亮的泥土裡, 它會長成一棵樹
+item.item_food_mikan.name=蜜柑
+tile.block_boxh_citrus.name=蜜柑盒子
+tile.block_boxh_salmon.name=三文魚盒子
+
+tile.block_kit2_tana.name=酒架
+tips.block_kit2_tana.name=可以容納葡萄酒, 蘋果酒，清酒
+
+item.block_koushib_oak.name=水平格子
+item.block_koushib_aca.name=水平格子_相思木
+item.block_koushib_bir.name=水平格子_樺木
+item.block_koushib_doak.name=水平格子_黑橡木
+item.block_koushib_jun.name=水平格子_叢林木
+item.block_koushib_spru.name=水平格子_杉木
+item.block_koushib_ich.name=水平格子_銀杏木
+item.block_koushib_kae.name=水平格子_楓木
+item.block_koushib_saku.name=水平格子_櫻木
+
+item.block_shishiodoshi.name=鹿威
+tips.block_shishiodoshi.name=相反, 潛行設置它 右鍵單擊[開始/停下]
+
+item.block_hodagi_a_bot.name=蘑菇木頭
+tips.block_hodagi_a_bot.name=將蘑菇放在光照水平小於或等於11的地方時，蘑菇會生長
+item.block_taru_kinoko_f.name=蘑菇架子
+tips.block_taru_kinoko.name=用蘑菇製作日式上湯粉的架子。收集在玻璃瓶中
+item.block_taru_konbu_f.name=海帶架子
+tips.block_taru_konbu.name=用海帶製作日式上湯粉的架子。收集在玻璃瓶中
+
+item.block_measurecup.name=量杯
+tips.block_measurecup.name=一個杯子來畫水用於烹飪
+item.item_measurecup_full.name=量杯加水
+tips.item_measurecup_full.name=水用於烹飪
+
+item.block_suiden.name=稻田
+tips.block_suiden.name=在這裡種大米。如果附近沒有水，就會變成泥土
+
+tile.block_noriami.name=海藻網
+tips.block_noriami.name=放在水面上, 種植海藻
+item.block_taru_nori_f.name=紫菜架子
+tips.block_taru_nori.name=用生海藻製作海苔和紫菜的架子
+
+tile.block_food_frypan_n_kinokoak.name=蘑菇加醬油和糖
+item.item_food_frypan_b_kinokoak.name=煮蘑菇加醬油和糖
+tips.item_frypan_kinokoak.name=粗卷壽司材料
+
+item.item_food_norinama.name=生海藻
+item.item_food_noriita.name=海苔和紫菜
+item.item_food_onigiri.name=飯糰
+item.item_food_onigirishake.name=飯糰_三文魚
+item.item_food_futomaki.name=粗卷壽司
+
+item.block_shoujihalf.name=半障子
+item.block_shoujihalf_acacia.name=半障子_相思木
+item.block_shoujihalf_birch.name=半障子_樺木
+item.block_shoujihalf_darkoak.name=半障子_黑橡木
+item.block_shoujihalf_jungle.name=半障子_叢林木
+item.block_shoujihalf_spruce.name=半障子_杉木
+item.block_shoujihalf_ichoh.name=半障子_銀杏木
+item.block_shoujihalf_kaede.name=半障子_楓木
+item.block_shoujihalf_sakura.name=半障子_櫻木
+tips.block_shoujihalf.name=相反, 潛行設置它 右鍵單擊[打開/關閉]
+
+item.block_garasudohalf.name=半玻璃木拉門
+item.block_garasudohalf_acacia.name=半玻璃木拉門_相思木
+item.block_garasudohalf_birch.name=半玻璃木拉門_樺木
+item.block_garasudohalf_darkoak.name=半玻璃木拉門_黑橡木
+item.block_garasudohalf_jungle.name=半玻璃木拉門_叢林木
+item.block_garasudohalf_spruce.name=半玻璃木拉門_杉木
+item.block_garasudohalf_ichoh.name=半玻璃木拉門_銀杏木
+item.block_garasudohalf_kaede.name=半玻璃木拉門_楓木
+item.block_garasudohalf_sakura.name=半玻璃木拉門_櫻木
+
+item.block_tobukurowin.name=防雨窗套窗_黑橡木
+item.block_tobukuro.name=防雨窗套_黑橡木
+item.block_tobukurowin_spruce.name=防雨窗套窗
+item.block_tobukuro_spruce.name=防雨窗套
+tips.block_tobukuro.name=防雨滑窗的箱子。相反, 潛行設置它。右鍵單擊[打開/關閉]
+
+item.block_takeakari.name=竹燈
+item.block_takeakari_y.name=曬傷的竹燈
+item.block_takeakari_k.name=熏竹燈
+tips.block_takeakari.name=用打火石點燃火 右鍵單擊關閉
+
+item.item_kushi_sakana.name=生魚串
+item.item_kushi_sakana_c.name=串燒魚
+tips.item_kushi_sakana.name=把它貼在日式圍爐上, 然後煮它
+
+tile.block_taru_hachimitsushu_f.name=蜂蜜酒樽
+tips.block_taru_hachimitsushu.name=放入蜂蜜跟酵母釀造蜂蜜酒 放置熟成後用酒瓶右鍵收成
+tile.block_bot_mead_1.name=蜂蜜酒
+tile.block_bot_meadjuku_1.name=成熟蜂蜜酒
+item.block_glass_mead.name=一杯蜂蜜酒
+item.block_glass_meadjuku.name=一杯成熟蜂蜜酒
+
+item.item_rotten_food.name=腐敗的食物
+tips.item_rotten_food.name=可堆肥物品
+	
+tile.block_marinelamp.name=船用燈
+
+tile.block_bamboo_cube.name=竹塊
+tile.block_bamboo_y_cube.name=曬傷的竹塊
+tile.block_bamboo_k_cube.name=熏竹塊
+tile.block_bamboo_stairs.name=竹階梯
+tile.block_bamboo_y_stairs.name=曬傷的竹階梯
+tile.block_bamboo_k_stairs.name=熏竹階梯
+tile.block_bamboo_slab.name=竹半磚
+tile.block_bamboo_y_slab.name=曬傷的竹半磚
+tile.block_bamboo_k_slab.name=熏竹半磚
+
+tile.block_wp_bamboo.name=面板_竹塊
+tile.block_wp_bamboo_y.name=面板_曬傷的竹塊
+tile.block_wp_bamboo_k.name=面板_熏竹塊
+
+item.block_bamboo_fence.name=竹柵欄
+item.block_bamboo_y_fence.name=曬傷的竹柵欄
+item.block_bamboo_k_fence.name=熏竹柵欄
+item.block_bamboo_fencegate.name=竹柵欄門
+item.block_bamboo_y_fencegate.name=曬傷的竹柵欄門
+item.block_bamboo_k_fencegate.name=熏竹柵欄門
+item.block_bamboo_door.name=竹門
+item.block_bamboo_y_door.name=曬傷的竹門
+item.block_bamboo_k_door.name=熏竹門
+
+item.block_fence_sakura.name=櫻木柵欄
+item.block_fence_kaede.name=楓木柵欄
+item.block_fence_ichoh.name=銀杏木柵欄
+item.block_fencegate_sakura.name=櫻木柵欄門
+item.block_fencegate_kaede.name=楓木柵欄門
+item.block_fencegate_ichoh.name=銀杏木柵欄門
+
+item.block_inagi.name=曬水稻的木架
+tips.block_inagi.name=掛八株水稻。乾燥後, 右鍵單擊以收集水稻植株
+item.item_ine_dry.name=水稻幹
+
+item.block_button_sakura.name=櫻木按鈕
+item.block_button_kaede.name=楓木按鈕
+item.block_button_ichoh.name=銀杏木按鈕
+item.block_plate_sakura.name=櫻木壓力板
+item.block_plate_kaede.name=楓木壓力板
+item.block_plate_ichoh.name=銀杏木壓力板
+tile.block_trapdoor_sakura.name=櫻木地板門
+tile.block_trapdoor_kaede.name=楓木地板門
+tile.block_trapdoor_ichoh.name=銀杏木地板門
+
+item.block_bamboo_button.name=竹按鈕
+item.block_bamboo_y_button.name=曬傷的竹按鈕
+item.block_bamboo_k_button.name=熏竹按鈕
+item.block_bamboo_plate.name=竹壓力板
+item.block_bamboo_y_plate.name=曬傷的竹壓力板
+item.block_bamboo_k_plate.name=熏竹壓力板
+tile.block_bamboo_trapdoor.name=竹地板門
+tile.block_bamboo_y_trapdoor.name=曬傷的竹地板門
+tile.block_bamboo_k_trapdoor.name=熏竹地板門
+
+item.block_mizuoke.name=木桶
+tips.block_mizuoke.name=用木桶取水或奶
+item.block_mizuoke_full.name=水木桶
+tips.block_mizuoke_full.name=木製水桶, 可以把沙子變成鹽田
+item.item_mizuoke_milk.name=奶木桶
+tips.item_mizuoke_milk.name=木製奶桶
+
+tile.block_enden.name=鹽田
+tips.block_enden.name=利用太陽光製鹽
+
+item.block_wadaiko.name=和太鼓
+tile.block_wadaiko_small.name=小和太鼓
+tips.block_wadaiko.name=用木棒玩的樂器 潛行右鍵改變款式
+chinjufumod.subtitle.wadaiko_top.name=和太鼓的聲音
+chinjufumod.subtitle.wadaiko_side.name=和太鼓邊緣的聲音
+
+#Kamoi
+item.block_kamoi_oak.name=半柱
+item.block_kamoi_acacia.name=半柱_相思木
+item.block_kamoi_birch.name=半柱_樺木
+item.block_kamoi_darkoak.name=半柱_黑橡木
+item.block_kamoi_jungle.name=半柱_叢林木
+item.block_kamoi_spruce.name=半柱_杉木
+item.block_kamoi_sakura.name=半柱_櫻木
+item.block_kamoi_kaede.name=半柱_楓木
+item.block_kamoi_ichoh.name=半柱_銀杏木
+
+item.item_hake.name=畫筆
+tips.item_hake.name=用染料製作彩色畫筆
+
+item.item_hake_black.name=彩色畫筆_黑色
+item.item_hake_blue.name=彩色畫筆_藍色
+item.item_hake_brown.name=彩色畫筆_棕色
+item.item_hake_cyan.name=彩色畫筆_青色
+item.item_hake_gray.name=彩色畫筆_灰色
+item.item_hake_green.name=彩色畫筆_綠色
+item.item_hake_lightblue.name=彩色畫筆_淺藍色
+item.item_hake_lightgray.name=彩色畫筆_淺灰色
+item.item_hake_lime.name=彩色畫筆_淺綠色
+item.item_hake_magenta.name=彩色畫筆_洋紅色
+item.item_hake_orange.name=彩色畫筆_橙色
+item.item_hake_pink.name=彩色畫筆_粉紅色
+item.item_hake_purple.name=彩色畫筆_紫色
+item.item_hake_red.name=彩色畫筆_紅色
+item.item_hake_yellow.name=彩色畫筆_黃色
+item.item_hake_white.name=彩色畫筆_白色
+
+tips.item_hake_color.name=重新染色塊
+chinjufumod.subtitle.paint.name=繪畫的聲音
+
+item.item_kumade.name=耙
+tips.item_kumade.name=在沙子和礫石上畫一個圖案
+item.item_chisel.name=鑿
+tips.item_chisel.name=把石頭和花崗岩變成花園石頭
+	
+#6.1.2
+item.block_dirtwall_wall.name=土坯牆
+item.block_pwall_black.name=石灰石膏牆_黑色
+item.block_pwall_blue.name=石灰石膏牆_藍色
+item.block_pwall_brown.name=石灰石膏牆_棕色
+item.block_pwall_cyan.name=石灰石膏牆_青色
+item.block_pwall_gray.name=石灰石膏牆_灰色
+item.block_pwall_green.name=石灰石膏牆_綠色
+item.block_pwall_lightb.name=石灰石膏牆_淺藍色
+item.block_pwall_lightg.name=石灰石膏牆_淺灰色
+item.block_pwall_lime.name=石灰石膏牆_淺綠色
+item.block_pwall_magenta.name=石灰石膏牆_洋紅色
+item.block_pwall_orange.name=石灰石膏牆_橙色
+item.block_pwall_pink.name=石灰石膏牆_粉紅色
+item.block_pwall_purple.name=石灰石膏牆_紫色
+item.block_pwall_red.name=石灰石膏牆_紅色
+item.block_pwall_yellow.name=石灰石膏牆_黃色
+item.block_pwall_white.name=石灰石膏牆
+	
+item.block_nwall_black.name=菱紋牆_黑色
+item.block_nwall_blue.name=菱紋牆_藍色
+item.block_nwall_brown.name=菱紋牆_棕色
+item.block_nwall_cyan.name=菱紋牆_青色
+item.block_nwall_gray.name=菱紋牆_灰色
+item.block_nwall_green.name=菱紋牆_綠色
+item.block_nwall_lightb.name=菱紋牆_淺藍色
+item.block_nwall_lightg.name=菱紋牆_淺灰色
+item.block_nwall_lime.name=菱紋牆_淺綠色
+item.block_nwall_magenta.name=菱紋牆_洋紅色
+item.block_nwall_orange.name=菱紋牆_橙色
+item.block_nwall_pink.name=菱紋牆_粉紅色
+item.block_nwall_purple.name=菱紋牆_紫色
+item.block_nwall_red.name=菱紋牆_紅色
+item.block_nwall_yellow.name=菱紋牆_黃色
+item.block_nwall_white.name=菱紋牆
+	
+item.block_nwall_b_black.name=菱紋牆_甲_黑色
+item.block_nwall_b_blue.name=菱紋牆_甲_藍色
+item.block_nwall_b_brown.name=菱紋牆_甲_棕色
+item.block_nwall_b_cyan.name=菱紋牆_甲_青色
+item.block_nwall_b_gray.name=菱紋牆_甲_灰色
+item.block_nwall_b_green.name=菱紋牆_甲_綠色
+item.block_nwall_b_lightb.name=菱紋牆_甲_淺藍色
+item.block_nwall_b_lightg.name=菱紋牆_甲_淺灰色
+item.block_nwall_b_lime.name=菱紋牆_甲_淺綠色
+item.block_nwall_b_magenta.name=菱紋牆_甲_洋紅色
+item.block_nwall_b_orange.name=菱紋牆_甲_橙色
+item.block_nwall_b_pink.name=菱紋牆_甲_粉紅色
+item.block_nwall_b_purple.name=菱紋牆_甲_紫色
+item.block_nwall_b_red.name=菱紋牆_甲_紅色
+item.block_nwall_b_yellow.name=菱紋牆_甲_黃色
+item.block_nwall_b_white.name=菱紋牆_甲
+	
+tile.block_dirtwall_sama.name=土坯箭縫
+tile.block_sama_black.name=石灰石膏箭縫_黑色
+tile.block_sama_blue.name=石灰石膏箭縫_藍色
+tile.block_sama_brown.name=石灰石膏箭縫_棕色
+tile.block_sama_cyan.name=石灰石膏箭縫_青色
+tile.block_sama_gray.name=石灰石膏箭縫_灰色
+tile.block_sama_green.name=石灰石膏箭縫_綠色
+tile.block_sama_lightb.name=石灰石膏箭縫_淺藍色
+tile.block_sama_lightg.name=石灰石膏箭縫_淺灰色
+tile.block_sama_lime.name=石灰石膏箭縫_淺綠色
+tile.block_sama_magenta.name=石灰石膏箭縫_洋紅色
+tile.block_sama_orange.name=石灰石膏箭縫_橙色
+tile.block_sama_pink.name=石灰石膏箭縫_粉紅色
+tile.block_sama_purple.name=石灰石膏箭縫_紫色
+tile.block_sama_red.name=石灰石膏箭縫_紅色
+tile.block_sama_yellow.name=石灰石膏箭縫_黃色
+tile.block_sama_white.name=石灰石膏箭縫
+tips.block_sama.name=堆疊相同的塊以使其更厚
+	
+item.block_kwall_black.name=牆壁屋頂_黑色
+item.block_kwall_blue.name=牆壁屋頂_藍色
+item.block_kwall_brown.name=牆壁屋頂_棕色
+item.block_kwall_cyan.name=牆壁屋頂_青色
+item.block_kwall_gray.name=牆壁屋頂_灰色
+item.block_kwall_green.name=牆壁屋頂_綠色
+item.block_kwall_lightb.name=牆壁屋頂_淺藍色
+item.block_kwall_lightg.name=牆壁屋頂_淺灰色
+item.block_kwall_lime.name=牆壁屋頂_淺綠色
+item.block_kwall_magenta.name=牆壁屋頂_洋紅色
+item.block_kwall_orange.name=牆壁屋頂_橙色
+item.block_kwall_pink.name=牆壁屋頂_粉紅色
+item.block_kwall_purple.name=牆壁屋頂_紫色
+item.block_kwall_red.name=牆壁屋頂_紅色
+item.block_kwall_yellow.name=牆壁屋頂_黃色
+item.block_kwall_white.name=牆壁屋頂_白色
+	
+tile.block_makibishi.name=鐵蒺藜
+tips.block_makibishi.name=踩到它的人會受到傷害
+	
+item.item_shouhou_empty.name=空白報告
+tips.item_shouhou_empty.name=使用'毛筆和硯台'或'羽毛筆集'記錄 100經驗値
+item.item_shouhou.name=戰報
+tips.item_shouhou.name=用它來獲得 100經驗値
+
+item.item_toami.name=投網
+tips.item_toami.name=如果你把它扔在一條魚上, 你就能捕到魚
+item.block_ami_shikake.name=魚陷阱
+tips.block_ami_shikake.name=如果你把它放在海洋或河流中, 你可以捕到魚
+item.block_ami_youshoku.name=水產養殖網
+tips.block_ami_youshoku.name=增加網中釋放的鱈魚、鮭魚和熱帶魚的數量
+tips.repair_ami.name=您可以使用線和 3經驗值來修復它
+	
+name.farmedcod.name=養殖鱈魚
+name.farmedsalmon.name=養殖鮭魚
+name.farmedtropicalfish.name=養殖熱帶魚
+name.capturedcod.name=捕獲的鱈魚
+name.capturedsalmon.name=捕獲的鮭魚
+name.capturedtropicalfish.name=捕獲的熱帶魚
+	
+item.item_squid_raw.name=生魷魚
+item.item_squid_cut.name=魷魚體
+item.item_squid_cooked.name=烤魷魚
+tips.item_squid_raw.name=可分為2個墨囊和一個魷魚體
+item.block_food_donkaisen_1.name=海鮮蓋飯
+tips.block_food_donkaisen_1.name=
+	
+tile.block_snowcore.name=小雪球
+tips.block_snowcore.name=在雪地上滾動使它變大, 將其中的兩個堆疊起來堆一個雪人
+item.block_snowman.name=雪人
+item.block_snowman_bot1.name=雪人
+tips.block_snowman.name=它通過使用胡蘿蔔和羊毛而改變
+	
+chinjufumod.subtitle.throw.name=投擲聲音	
+chinjufumod.subtitle.write_report.name=寫作的聲音
+chinjufumod.subtitle.open.name=打開
+chinjufumod.subtitle.open_oven.name=打開
+chinjufumod.subtitle.touch_block.name=你碰了塊
+chinjufumod.subtitle.error.name=錯誤聲音
+chinjufumod.subtitle.swing.name=擺動的聲音
+	
+text.chinjufumod.rightclick.waterlogged.name=它不能使用，因為它是含水
+text.chinjufumod.rightclick.notenough_exp.name=你沒有足夠的經驗値
+text.chinjufumod.rightclick.nothave.name=你手上沒有任何可用的物品
+text.chinjufumod.rightclick.notenough_items.name=你沒有足夠數量的物品
+text.chinjufumod.rightclick.notsneak.name=潛行時右鍵單擊它
+text.chinjufumod.rightclick.noplace.name=沒有地方可以放置它
+text.chinjufumod.rightclick.fullitem.name=你的手上堆滿了物品
+text.chinjufumod.rightclick.earlycollect.name=現在收集還為時過早
+text.chinjufumod.rightclick.earlyuse.name=現在使用還為時過早
+text.chinjufumod.rightclick.sleeping.name=它在睡覺
+text.chinjufumod.rightclick.heat.name=讓它加熱
+text.chinjufumod.rightclick.cool.name=讓它冷卻
+text.chinjufumod.rightclick.blocked.name=要使用的表面被阻塞
+text.chinjufumod.rightclick.empty.name=它是空的
+text.chinjufumod.rightclick.repair.name=它需要修理
+text.chinjufumod.rightclick.notdig.name=它不在這裡
+
+item.block_take.name=竹子
+tile.block_takenoko.name=竹筍
+tips.block_takenoko.name=如果你烤它, 你可以吃它
+tips.block_takenoko2.name=如果你種植它, 它會變成竹子
+item.item_food_takenoko.name=熟竹筍
+	
+item.item_chestnuts_burr.name=栗子殼
+tile.block_chestnuts.name=栗子
+tips.block_chestnuts.name=它可以分為2個水果和一個殼
+item.item_chestnut.name=板栗果
+tips.item_chestnut.name=如果你烤它, 你可以吃它
+item.item_food_chestnut.name=熟栗子
+item.block_food_nabekuri_n.name=土鍋_生栗子
+item.block_food_nabekuri_b.name=土鍋_煮熟的栗子
+item.item_chestnut_boil.name=煮熟的栗子碗
+item.item_chestnut_mash.name=栗子泥碗
+item.item_food_chestnutsweet.name=栗金飩
+tips.item_chestnutsweet.name=用栗子泥製成的糖果
+item.item_food_chestnutchoco.name=巧克力_栗子
+
+tile.block_boxh_takenoko.name=竹筍盒子
+tile.block_boxh_chestnut.name=栗子袋子
+
+item.block_food_nabegohantake_n.name=土鍋_生米和竹筍
+item.block_food_nabegohantake_1.name=土鍋_蒸熟的米飯和竹筍
+item.block_food_gohantake_1.name=茶碗裝米飯和竹筍
+item.block_food_tgyteitake_1.name=日式玉子燒套餐_米飯和竹筍
+item.block_food_yakizakanateitake_1.name=烤魚套餐_米飯和竹筍
+item.block_food_yakijyaketeitake_1.name=烤三文魚套餐_米飯和竹筍
+tips.block_food_nabegohantake_1.name=用飯碗或碗右鍵盛裝
+	
+item.block_food_nabegohankuri_n.name=土鍋_生米和栗子
+item.block_food_nabegohankuri_1.name=土鍋_蒸熟的米飯和栗子
+item.block_food_gohankuri_1.name=茶碗裝米飯和栗子
+item.block_food_tgyteikuri_1.name=日式玉子燒套餐_米飯和栗子
+item.block_food_yakizakanateikuri_1.name=烤魚套餐_米飯和栗子
+item.block_food_yakijyaketeikuri_1.name=烤三文魚套餐_米飯和栗子
+	
+item.item_mushigome_take.name=碗裝米飯和竹筍
+item.item_mushigome_kuri.name=碗裝米飯和栗子
+item.item_food_onigiritakenoko.name=飯糰_竹筍
+item.item_food_onigirikuri.name=飯糰_栗子
+	
+item.item_bentouhako.name=便當盒
+item.item_bentou.name=烤魚便當
+item.item_bentoushake.name=烤三文魚便當
+item.item_bentou_take.name=烤魚便當_米飯和竹筍
+item.item_bentoushake_take.name=烤三文魚便當_米飯和竹筍
+item.item_bentou_kuri.name=烤魚便當_米飯和栗子
+item.item_bentoushake_kuri.name=烤三文魚便當_米飯和栗子
+tips.item_bentou.name=右鍵點擊就可以吃了
+	
+item.item_kaihori.name=鐵耙
+tips.item_kaihori.name=在沙灘上, 從水邊的沙子裡收集文蛤
+item.item_hamaguri_shell.name=蛤殼
+tile.block_hamaguri.name=文蛤
+item.item_food_hamaguri.name=烤文蛤
+item.block_food_frypan_n_seafood.name=平底鍋_未調理海鮮醬
+item.block_food_frypan_b_seafood.name=平底鍋_海鮮醬
+item.block_food_pastaseafood_1.name=海鮮義大利麵
+	
+item.block_curtain_white.name=窗簾_白色
+item.block_curtain_orange.name=窗簾_橙色
+item.block_curtain_magenta.name=窗簾_洋紅色
+item.block_curtain_lightblue.name=窗簾_淺藍色
+item.block_curtain_yellow.name=窗簾_黃色
+item.block_curtain_lime.name=窗簾_淺綠色
+item.block_curtain_pink.name=窗簾_粉紅色
+item.block_curtain_gray.name=窗簾_灰色
+item.block_curtain_lightgray.name=窗簾_淺灰色
+item.block_curtain_cyan.name=窗簾_青色
+item.block_curtain_purple.name=窗簾_紫色
+item.block_curtain_blue.name=窗簾_藍色
+item.block_curtain_brown.name=窗簾_棕色
+item.block_curtain_green.name=窗簾_綠色
+item.block_curtain_red.name=窗簾_紅色
+item.block_curtain_black.name=窗簾_黑色
+	
+item.block_curtaintall_white.name=長窗簾_白色
+item.block_curtaintall_orange.name=長窗簾_橙色
+item.block_curtaintall_magenta.name=長窗簾_洋紅色
+item.block_curtaintall_lightblue.name=長窗簾_淺藍色
+item.block_curtaintall_yellow.name=長窗簾_黃色
+item.block_curtaintall_lime.name=長窗簾_淺綠色
+item.block_curtaintall_pink.name=長窗簾_粉紅色
+item.block_curtaintall_gray.name=長窗簾_灰色
+item.block_curtaintall_lightgray.name=長窗簾_淺灰色
+item.block_curtaintall_cyan.name=長窗簾_青色
+item.block_curtaintall_purple.name=長窗簾_紫色
+item.block_curtaintall_blue.name=長窗簾_藍色
+item.block_curtaintall_brown.name=長窗簾_棕色
+item.block_curtaintall_green.name=長窗簾_綠色
+item.block_curtaintall_red.name=長窗簾_紅色
+item.block_curtaintall_black.name=長窗簾_黑色
+	
+item.block_curtainlarge_white.name=大窗簾_白色
+item.block_curtainlarge_orange.name=大窗簾_橙色
+item.block_curtainlarge_magenta.name=大窗簾_洋紅色
+item.block_curtainlarge_lightblue.name=大窗簾_淺藍色
+item.block_curtainlarge_yellow.name=大窗簾_黃色
+item.block_curtainlarge_lime.name=大窗簾_淺綠色
+item.block_curtainlarge_pink.name=大窗簾_粉紅色
+item.block_curtainlarge_gray.name=大窗簾_灰色
+item.block_curtainlarge_lightgray.name=大窗簾_淺灰色
+item.block_curtainlarge_cyan.name=大窗簾_青色
+item.block_curtainlarge_purple.name=大窗簾_紫色
+item.block_curtainlarge_blue.name=大窗簾_藍色
+item.block_curtainlarge_brown.name=大窗簾_棕色
+item.block_curtainlarge_green.name=大窗簾_綠色
+item.block_curtainlarge_red.name=大窗簾_紅色
+item.block_curtainlarge_black.name=大窗簾_黑色
+chinjufumod.subtitle.curtain.name=窗簾
+	
+item.item_ammunition_kijyuu.name=機槍彈藥
+tips.item_ammunition_kijyuu.name=只能用在機槍上
+item.item_cartridge_kijyuu.name=機槍空彈殼
+item.item_3rensou_kijyuu.name=原型25毫米三聯機槍
+tips.item_3rensou_kijyuu.name=射擊機槍彈藥並攻擊生物
+tips.item_3rensou_kijyuu2.name=右鍵單擊並按住可連續射擊
+tips.item_3rensou_kijyuu3.name=Basic:1.0D, PlayerLV≧19:1.5D, LV≧25:2.0D
+chinjufumod.subtitle.am_hit.name=子彈擊中
+chinjufumod.subtitle.set_gun.name=炮就绪
+chinjufumod.subtitle.empty_ammo.name=彈藥耗盡
+	
+item.item_kit_firstaid.name=急救箱
+item.item_kit_goddess.name=急救箱_女神
+tips.item_kit_firstaid.name=如果你把它放在你的副手或主手上, 你可以避免一次死亡
+text.chinjufumod.firstaid.name=啟動緊急損害控制!!
+item.block_lightembed.name=嵌入式燈
+	
+item.item_seeds_pepper.name=胡椒樹苗
+item.item_seeds_cumin.name=孜然種子
+item.item_seeds_turmeric.name=薑黃根莖
+item.item_seeds_chilipepper.name=辣椒種子
+tips.item_seeds_pepper.name=把它種在溫暖明亮的泥土裡, 它會長成一棵樹
+tips.item_seeds_cumin.name=把它種在溫暖明亮的耕地裡, 它就會生長
+tips.item_seeds_turmeric.name=把它種在陰涼明亮的耕地裡, 它就會生長
+text.chinjufumod.too_cold.name=它不能種植在寒冷的生物群系中
+text.chinjufumod.too_hot.name=它不能種植在炎熱的生物群系中
+
+item.item_crop_pepper.name=胡椒子
+tips.item_crop_pepper.name=使用發酵桶乾燥
+item.item_crop_pepperdry.name=干胡椒子
+tips.item_crop_pepperdry.name=製作它變成粉狀香料
+item.block_taru_pepper_f.name=胡椒架
+tips.block_taru_pepper.name=用于晾晒胡椒子的架子
+item.item_crop_chilipepper.name=辣椒
+tile.block_boxh_bpepper.name=干胡椒袋子
+tile.block_boxh_chili.name=辣椒袋子
+tile.block_boxh_cumin.name=孜然袋子
+tile.block_boxh_turmeric.name=薑黃袋子
+	
+item.item_dust_blackpepper.name=黑胡椒
+item.item_dust_cumin.name=孜然
+item.item_dust_turmeric.name=薑黃
+item.item_dust_chili.name=辣椒粉
+item.item_curry_roux.name=咖哩醬
+item.block_food_frypan_n_roux.name=平底鍋_未調理咖哩醬
+
+item.block_food_zundou.name=深底鍋
+item.block_food_cunabe_n.name=深底鍋_未調理的牛肉咖哩
+item.block_food_cunabe_1.name=深底鍋_牛肉咖哩
+tips.block_food_cunabe_1.name=這跟一盤白飯非常相配
+item.block_food_curry_1.name=牛肉咖哩飯
+item.block_food_curryset_1.name=牛肉咖哩飯配菜套餐
+	
+item.block_food_cunabe_cn.name=深底鍋_未調理的雞肉咖哩
+item.block_food_cunabe_tn.name=深底鍋_未調理的番茄咖哩
+item.block_food_cunabe_c1.name=深底鍋_雞肉咖哩
+item.block_food_cunabe_t1.name=深底鍋_番茄咖哩
+item.block_food_curry_c1.name=雞肉咖哩飯
+item.block_food_curry_t1.name=番茄咖哩飯
+item.block_food_curryset_c1.name=雞肉咖哩飯配菜套餐
+item.block_food_curryset_t1.name=番茄咖哩飯配菜套餐
+	
+item.block_itabei.name=木板圍欄
+item.block_itabei_spruce.name=木板圍欄_杉木
+item.block_itabei_birch.name=木板圍欄_樺木
+item.block_itabei_jungle.name=木板圍欄_叢林木
+item.block_itabei_acacia.name=木板圍欄_相思木
+item.block_itabei_darkoak.name=木板圍欄_黑橡木
+item.block_itabei_sakura.name=木板圍欄_櫻木
+item.block_itabei_kaede.name=木板圍欄_楓木
+item.block_itabei_ichoh.name=木板圍欄_銀杏木
+item.block_kido.name=木板門
+item.block_kido_spruce.name=木板門_杉木
+item.block_kido_birch.name=木板門_樺木
+item.block_kido_jungle.name=木板門_叢林木
+item.block_kido_acacia.name=木板門_相思木
+item.block_kido_darkoak.name=木板門_黑橡木
+item.block_kido_sakura.name=木板門_櫻木
+item.block_kido_kaede.name=木板門_楓木
+item.block_kido_ichoh.name=木板門_銀杏木
+	
+item.block_food_frypan_n_osauce.name=煎鍋_未調理御好燒醬
+item.block_food_frypan_b_osauce.name=煎鍋_御好燒醬
+tips.block_food_frypan_osauce.name=煮熟後 收集在玻璃瓶中
+item.block_food_teppan_n_okonomiyaki.name=未經調理禦好燒配豬肉
+item.block_food_teppan_n_okonomis.name=未經調理禦好燒配魷魚
+item.block_food_teppan_n_okonomic.name=未經調理禦好燒配芝士
+item.block_food_okonomiyaki_1.name=禦好燒配豬肉
+item.block_food_okonomis_1.name=禦好燒配魷魚
+item.block_food_okonomic_1.name=禦好燒配芝士
+item.block_mayo_bot.name=蛋黃醬
+item.block_mayo_bot_2.name=蛋黃醬
+item.block_mayo_bot_3.name=蛋黃醬
+item.block_mayo_bot_4.name=蛋黃醬
+item.block_osauce_bot.name=御好燒醬
+item.block_osauce_bot_2.name=御好燒醬
+item.block_osauce_bot_3.name=御好燒醬
+item.block_osauce_bot_4.name=御好燒醬
+tips.block_osauce_bot.name=高粘度辣醬油
+	
+item.item_food_pizza_cn.name=未調理芝士披薩
+item.item_food_pizza_sn.name=未調理魷魚披薩
+item.item_food_pizza_tn.name=未調理雞肉披薩
+item.block_food_pizza_c1.name=烤芝士披薩
+item.block_food_pizza_s1.name=烤魷魚披薩
+item.block_food_pizza_t1.name=烤雞肉披薩
+item.item_food_pizzac.name=一塊芝士披薩
+item.item_food_pizzas.name=一塊魷魚披薩
+item.item_food_pizzat.name=一塊雞肉披薩
+	
+#6.4.1
+item.item_seeds_greenonion.name=大蔥種子
+item.item_food_greenonion.name=大葱
+tile.block_boxh_greenonion.name=大葱盒子
+
+item.item_kansui.name=鹼水
+item.item_food_ramen_n.name=日式拉麵麵條
+item.item_food_tare_shouyu.name=醬油拉麵醬
+item.item_food_tare_miso.name=味噌拉麵醬
+item.item_food_tare_shio.name=鹽拉麵醬
+item.item_food_rsoup_shouyu.name=醬油拉麵湯
+item.item_food_rsoup_miso.name=味噌拉麵湯
+item.item_food_rsoup_shio.name=鹽拉麵湯
+item.block_food_rsoup_n.name=未調理雞高湯
+item.block_food_rsoup_1.name=雞高湯
+	
+tips.item_kansui.name=日式拉麵麵條的材料.
+tips.item_food_tare.name=右鍵單擊雞高湯
+tips.item_food_rsoup.name=右鍵單擊煮熟的日式拉麵麵條
+tips.item_food_shouyu_don.name=右鍵單擊裝滿日式湯底的深底鍋
+tips.item_food_tsuyu_don.name=右鍵單擊煮熟的烏龍麵
+	
+item.block_food_ramenshouyu_1.name=醬油拉麵
+item.block_food_ramenmiso_1.name=味噌拉麵
+item.block_food_ramenshio_1.name=鹽拉麵
+	
+item.item_food_sobaplate.name=煮鹼麵條
+tips.item_food_sobaplate.name=炒麵和禦好燒的材料.
+item.block_food_teppan_n_okonomisoba.name=未經調理禦好燒配豬肉和麵條
+item.block_food_teppan_n_okonomisobas.name=未經調理禦好燒配魷魚和麵條
+item.block_food_teppan_n_okonomisobac.name=未經調理禦好燒配芝士和麵條
+item.block_food_okonomisoba_1.name=禦好燒配豬肉和麵條
+item.block_food_okonomisobas_1.name=禦好燒配魷魚和麵條
+item.block_food_okonomisobac_1.name=禦好燒配芝士和麵條
+item.block_food_teppan_n_yakisoba.name=未調理辣醬油炒麵
+item.block_food_teppan_n_yakisobashio.name=未調理鹽炒麵
+item.block_food_yakisoba_1.name=辣醬油炒麵
+item.block_food_yakisobashio_1.name=鹽炒麵
+	
+tile.block_kit_reizou.name=冰箱
+chinjufumod.subtitle.reizou_open.name=打開
+chinjufumod.subtitle.reizou_close.name=關閉
+item.item_kineyoko.name=木杵
+tile.block_usutsuki.name=木臼
+tips.block_usutsuki.name=搗麻糬的工具
+item.item_mochi.name=日式麻糬
+item.item_food_mochinori.name=磯部麻糬
+tips.item_food_mochinori.name=海苔和醬油麻糬
+item.item_food_mochikinako.name=黃豆粉麻糬
+tips.item_food_mochikinako.name=麻糬加黃豆粉和糖
+	
+tile.block_report_box.name=戰果報告框
+tips.block_report_box.name=列印工廠指示書為戰果
+chinjufumod.subtitle.basalt_deltas_click2.name=噪音
+}

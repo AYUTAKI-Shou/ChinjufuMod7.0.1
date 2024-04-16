@@ -1,0 +1,43 @@
+{
+	"variants": {
+		"down=false,facing=north,stage=1": { "model": "chinjufumod:bottle/wine_empty", "y": 180 },
+		"down=false,facing=south,stage=1": { "model": "chinjufumod:bottle/wine_empty", "y": 0 },
+		"down=false,facing=west,stage=1": { "model": "chinjufumod:bottle/wine_empty", "y": 90 },
+		"down=false,facing=east,stage=1": { "model": "chinjufumod:bottle/wine_empty", "y": 270 },
+
+		"down=false,facing=north,stage=2": { "model": "chinjufumod:bottle/winejuku_empty", "y": 180 },
+		"down=false,facing=south,stage=2": { "model": "chinjufumod:bottle/winejuku_empty", "y": 0 },
+		"down=false,facing=west,stage=2": { "model": "chinjufumod:bottle/winejuku_empty", "y": 90 },
+		"down=false,facing=east,stage=2": { "model": "chinjufumod:bottle/winejuku_empty", "y": 270 },
+
+		"down=false,facing=north,stage=3": { "model": "chinjufumod:bottle/cider_empty", "y": 180 },
+		"down=false,facing=south,stage=3": { "model": "chinjufumod:bottle/cider_empty", "y": 0 },
+		"down=false,facing=west,stage=3": { "model": "chinjufumod:bottle/cider_empty", "y": 90 },
+		"down=false,facing=east,stage=3": { "model": "chinjufumod:bottle/cider_empty", "y": 270 },
+
+		"down=false,facing=north,stage=4": { "model": "chinjufumod:bottle/ciderjuku_empty", "y": 180 },
+		"down=false,facing=south,stage=4": { "model": "chinjufumod:bottle/ciderjuku_empty", "y": 0 },
+		"down=false,facing=west,stage=4": { "model": "chinjufumod:bottle/ciderjuku_empty", "y": 90 },
+		"down=false,facing=east,stage=4": { "model": "chinjufumod:bottle/ciderjuku_empty", "y": 270 },
+
+		"down=true,facing=north,stage=1": { "model": "chinjufumod:bottle/wine_downempty", "y": 180 },
+		"down=true,facing=south,stage=1": { "model": "chinjufumod:bottle/wine_downempty", "y": 0 },
+		"down=true,facing=west,stage=1": { "model": "chinjufumod:bottle/wine_downempty", "y": 90 },
+		"down=true,facing=east,stage=1": { "model": "chinjufumod:bottle/wine_downempty", "y": 270 },
+
+		"down=true,facing=north,stage=2": { "model": "chinjufumod:bottle/winejuku_downempty", "y": 180 },
+		"down=true,facing=south,stage=2": { "model": "chinjufumod:bottle/winejuku_downempty", "y": 0 },
+		"down=true,facing=west,stage=2": { "model": "chinjufumod:bottle/winejuku_downempty", "y": 90 },
+		"down=true,facing=east,stage=2": { "model": "chinjufumod:bottle/winejuku_downempty", "y": 270 },
+
+		"down=true,facing=north,stage=3": { "model": "chinjufumod:bottle/cider_downempty", "y": 180 },
+		"down=true,facing=south,stage=3": { "model": "chinjufumod:bottle/cider_downempty", "y": 0 },
+		"down=true,facing=west,stage=3": { "model": "chinjufumod:bottle/cider_downempty", "y": 90 },
+		"down=true,facing=east,stage=3": { "model": "chinjufumod:bottle/cider_downempty", "y": 270 },
+
+		"down=true,facing=north,stage=4": { "model": "chinjufumod:bottle/ciderjuku_downempty", "y": 180 },
+		"down=true,facing=south,stage=4": { "model": "chinjufumod:bottle/ciderjuku_downempty", "y": 0 },
+		"down=true,facing=west,stage=4": { "model": "chinjufumod:bottle/ciderjuku_downempty", "y": 90 },
+		"down=true,facing=east,stage=4": { "model": "chinjufumod:bottle/ciderjuku_downempty", "y": 270 }
+	}
+}

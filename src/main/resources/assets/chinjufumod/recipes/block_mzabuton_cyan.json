@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_mzabuton",
+
+	"pattern": [
+		"X",
+		"Y",
+		"X"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "carpetCyan" },
+		"Y": { "type": "forge:ore_dict", "ore": "carpetWhite" }
+	},
+
+	"result": { "item": "chinjufumod:block_mzabuton", "data": 9, "count": 1 }
+}

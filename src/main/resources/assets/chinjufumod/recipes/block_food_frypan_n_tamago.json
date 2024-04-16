@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_frypan",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "egg" },
+		{ "type": "forge:ore_dict", "ore": "egg" },
+		{ "type": "forge:ore_dict", "ore": "egg" },
+		{ "item": "minecraft:sugar" },
+		[ { "item": "chinjufumod:item_measurecup_full", "data": 0 }, { "item": "minecraft:potion", "data": 0 } ],
+		{ "type": "forge:ore_dict", "ore": "foodSoysauce" },
+		{ "type": "forge:ore_dict", "ore": "dustDashi" },
+		{ "item": "chinjufumod:block_food_frypan" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_frypan_n1", "data": 1, "count" : 1 }
+}

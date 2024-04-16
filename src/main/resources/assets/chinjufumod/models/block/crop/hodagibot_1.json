@@ -1,0 +1,23 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "minecraft:blocks/log_oak",
+		"side": "minecraft:blocks/log_oak",
+		"top": "minecraft:blocks/log_oak_top"
+	},
+	"elements":[
+		{
+			"name": "bot",
+			"from": [ 5, 0, 5 ],
+			"to": [ 11, 12, 11 ],
+			"rotation": { "origin": [ 8, 10.3, 8 ], "axis": "x", "angle": -22.5, "rescale": false },
+			"faces": {
+				"down" : { "texture":"#top" },
+				"north": { "uv": [ 5.0, 4.0, 11.0, 16.0 ], "texture":"#side" },
+				"south": { "uv": [ 5.0, 4.0, 11.0, 16.0 ], "texture":"#side" },
+				"west" : { "uv": [ 5.0, 4.0, 11.0, 16.0 ], "texture":"#side" },
+				"east" : { "uv": [ 5.0, 4.0, 11.0, 16.0 ], "texture":"#side" }
+			}
+		}
+	]
+}

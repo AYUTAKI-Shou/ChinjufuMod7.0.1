@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_chestplate",
+
+	"ingredients": [
+		{ "item": "minecraft:iron_chestplate" },
+		{ "type": "forge:ore_dict", "ore": "dyeBlack" },
+		{ "item": "chinjufumod:item_workorder" }
+	],
+
+	"result": { "item": "chinjufumod:item_shigure_chestplate", "data": 0, "count": 1 }
+}

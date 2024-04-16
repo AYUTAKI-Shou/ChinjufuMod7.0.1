@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:admiralchair" },
+		"facing=south,stage=1": { "model": "chinjufumod:admiralchair", "y": 180 },
+		"facing=west,stage=1": { "model": "chinjufumod:admiralchair", "y": 270 },
+		"facing=east,stage=1": { "model": "chinjufumod:admiralchair", "y": 90 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:admiralchair_red" },
+		"facing=south,stage=2": { "model": "chinjufumod:admiralchair_red", "y": 180 },
+		"facing=west,stage=2": { "model": "chinjufumod:admiralchair_red", "y": 270 },
+		"facing=east,stage=2": { "model": "chinjufumod:admiralchair_red", "y": 90 }
+	}
+}

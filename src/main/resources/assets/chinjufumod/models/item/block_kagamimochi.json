@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:block/season/kagamimochi",
+	"display": {
+		"gui": {
+			"rotation": [ 30, 45, 0 ],
+			"translation": [ 0, 1.0, 0 ],
+			"scale": [ 0.9, 0.9, 0.9 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 90, 180, 0 ],
+			"translation": [ 0, 2, 0 ],
+			"scale": [ 0.7, 0.7, 0.7 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 180, 0 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 0.7, 0.7, 0.7 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 180, 0 ],
+			"translation": [ 0, 0, 0.51 ],
+			"scale": [ 0.6, 0.6, 0.6 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		}
+	}
+}

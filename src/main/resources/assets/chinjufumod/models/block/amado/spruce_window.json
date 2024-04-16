@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/amado_window",
+	"textures": {
+		"particle": "chinjufumod:block/muku_spruce",
+		"fuchi": "minecraft:blocks/planks_spruce",
+		"amado": "chinjufumod:block/muku_spruce"
+	}
+}

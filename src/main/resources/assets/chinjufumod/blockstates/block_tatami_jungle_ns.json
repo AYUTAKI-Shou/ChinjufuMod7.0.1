@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:tatami_wood/white_jungle_n" },
+		"stage=1": { "model": "chinjufumod:tatami_wood/orange_jungle_n" },
+		"stage=2": { "model": "chinjufumod:tatami_wood/magenta_jungle_n" },
+		"stage=3": { "model": "chinjufumod:tatami_wood/lightblue_jungle_n" },
+		"stage=4": { "model": "chinjufumod:tatami_wood/yellow_jungle_n" },
+		"stage=5": { "model": "chinjufumod:tatami_wood/lime_jungle_n" },
+		"stage=6": { "model": "chinjufumod:tatami_wood/pink_jungle_n" },
+		"stage=7": { "model": "chinjufumod:tatami_wood/gray_jungle_n" },
+		"stage=8": { "model": "chinjufumod:tatami_wood/lightgray_jungle_n" },
+		"stage=9": { "model": "chinjufumod:tatami_wood/cyan_jungle_n" },
+		"stage=10": { "model": "chinjufumod:tatami_wood/purple_jungle_n" },
+		"stage=11": { "model": "chinjufumod:tatami_wood/blue_jungle_n" },
+		"stage=12": { "model": "chinjufumod:tatami_wood/brown_jungle_n" },
+		"stage=13": { "model": "chinjufumod:tatami_wood/green_jungle_n" },
+		"stage=14": { "model": "chinjufumod:tatami_wood/red_jungle_n" },
+		"stage=15": { "model": "chinjufumod:tatami_wood/black_jungle_n" }
+	}
+}

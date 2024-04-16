@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"axis=y":  { "model": "chinjufumod:pillar/darkoak" },
+		"axis=z":   { "model": "chinjufumod:pillar/darkoak", "x": 90 },
+		"axis=x":   { "model": "chinjufumod:pillar/darkoak", "x": 90, "y": 90 },
+		"axis=none": { "model": "chinjufumod:pillar/darkoak" }
+	}
+}

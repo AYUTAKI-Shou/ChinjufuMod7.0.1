@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"facing=up": { "model": "chinjufumod:lamp/marinelamp" },
+		"facing=down": { "model": "chinjufumod:lamp/marinelamp", "x": 180 },
+		"facing=north": { "model": "chinjufumod:lamp/marinelamp", "x": 270, "y": 180 },
+		"facing=south": { "model": "chinjufumod:lamp/marinelamp", "x": 270, "y": 0 },
+		"facing=west": { "model": "chinjufumod:lamp/marinelamp", "x": 270, "y": 90 },
+		"facing=east": { "model": "chinjufumod:lamp/marinelamp", "x": 270, "y": 270 }
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_boxh",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": [ { "type": "forge:ore_dict", "ore": "pork" }, { "type": "forge:ore_dict", "ore": "listAllporkraw" } ],
+		"Y": { "item": "chinjufumod:block_boxh_empty", "data": 0 }
+	},
+
+	"result": { "item": "chinjufumod:block_boxh_pork", "data": 0, "count": 1 }
+}

@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_taru",
+
+	"ingredients": [
+		{ "item": "minecraft:stone_slab", "data": 0 },
+		{ "item": "minecraft:stone_slab", "data": 0 },
+		{ "type": "forge:ore_dict", "ore": "cropChinesecabbage" },
+		[ { "type": "forge:ore_dict", "ore": "dustSalt" },
+		 { "type": "forge:ore_dict", "ore": "foodSalt" },
+		 { "type": "forge:ore_dict", "ore": "itemSalt" } ],
+		[ { "type": "forge:ore_dict", "ore": "dustSalt" },
+		 { "type": "forge:ore_dict", "ore": "foodSalt" },
+		 { "type": "forge:ore_dict", "ore": "itemSalt" } ],
+		{ "item": "chinjufumod:block_taru_hakkou", "data": 0 }
+	],
+
+	"result": { "item": "chinjufumod:block_taru_hakusai_f", "data": 1, "count": 1 }
+}

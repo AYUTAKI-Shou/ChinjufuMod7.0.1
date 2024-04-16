@@ -1,0 +1,35 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_tatamih"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "type": "forge:ore_dict", "ore": "cropWheat" } ]
+			}
+		},
+		"has_material2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "minecraft:reeds", "data": 0 } ]
+			}
+		},
+		"has_material3": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_inewara", "data": 0 } ]
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_material",
+			"has_material2",
+			"has_material3"
+		]
+	]
+}

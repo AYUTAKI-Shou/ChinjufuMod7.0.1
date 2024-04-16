@@ -1,0 +1,25 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:item_kiji_bun",
+			"chinjufumod:item_kiji_pizza",
+			"chinjufumod:item_kiji_scone",
+
+			"chinjufumod:item_food_pasta_n",
+			"chinjufumod:item_food_udon_n"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "type": "forge:ore_dict", "ore": "foodFlour" } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

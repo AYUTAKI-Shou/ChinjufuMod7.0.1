@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_leggings",
+
+	"ingredients": [
+		{ "item": "minecraft:leather_leggings" },
+		{ "type": "forge:ore_dict", "ore": "dyeWhite" },
+		{ "item": "minecraft:coal", "data": 0 },
+		{ "item": "minecraft:iron_ingot" },
+		{ "item": "chinjufumod:item_workorder" }
+	],
+
+	"result": { "item": "chinjufumod:item_ro500_leggings", "data": 0, "count": 1 }
+}

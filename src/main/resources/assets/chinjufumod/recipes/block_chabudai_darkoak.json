@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_lowdesk",
+
+	"pattern": [
+		"Y"
+	],
+
+	"key": {
+		"Y": { "item": "chinjufumod:block_lowdesk", "data": 5 }
+	},
+
+	"result": { "item": "chinjufumod:block_chabudai", "data": 5, "count": 1 }
+}

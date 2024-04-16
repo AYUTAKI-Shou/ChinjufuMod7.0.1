@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_hake",
+
+	"pattern": [
+		"X",
+		"Y"
+	],
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "dyeYellow" },
+		"Y": { "item": "chinjufumod:item_hake" }
+	},
+	"result": { "item": "chinjufumod:item_hake_yellow", "data": 0, "count": 1 }
+}

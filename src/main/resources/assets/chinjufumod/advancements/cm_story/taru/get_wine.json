@@ -1,0 +1,35 @@
+{
+	"parent": "chinjufumod:cm_story/taru/get_taru",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.taru.get_wine.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.taru.get_wine.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_bot_wine_1"
+		},
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_bot_wine_1", "data": 0 } ] }
+		},
+		"has_material2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_bot_winejuku_1", "data": 0 } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material",
+			"has_material2"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

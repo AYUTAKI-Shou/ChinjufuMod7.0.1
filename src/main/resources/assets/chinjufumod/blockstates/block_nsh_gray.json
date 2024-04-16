@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"cra=false,double=false,half=bottom": { "model": "chinjufumod:namako/slab_gray_bottom" },
+		"cra=false,double=false,half=top": { "model": "chinjufumod:namako/slab_gray_top" },
+		"cra=true,double=false,half=bottom": { "model": "chinjufumod:namako/slab_crack_gray_bottom" },
+		"cra=true,double=false,half=top": { "model": "chinjufumod:namako/slab_crack_gray_top" },
+
+		"cra=false,double=true,half=bottom": { "model": "chinjufumod:namako/gray" },
+		"cra=false,double=true,half=top": { "model": "chinjufumod:namako/gray" },
+		"cra=true,double=true,half=bottom": { "model": "chinjufumod:namako/crack_gray" },
+		"cra=true,double=true,half=top": { "model": "chinjufumod:namako/crack_gray" }
+	}
+}

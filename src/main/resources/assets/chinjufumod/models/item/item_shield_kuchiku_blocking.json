@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:block/item_shield_kuchiku",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [ 210, -160, 0 ],
+			"translation": [ -8, -4, 3 ],
+			"scale": [ 1.25, 1.25, 1.25 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [ 30, -30, 0 ],
+			"translation": [ -8, -1, 3 ],
+			"scale": [ 1.25, 1.25, 1.25 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 0, 180 ],
+			"translation": [ -13, -3, 10 ],
+			"scale": [ 1.25, 1.25, 1.25 ]
+		},
+		"firstperson_lefthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ -13, -1, 9 ],
+			"scale": [ 1.25, 1.25, 1.25 ]
+		},
+		"gui": {
+			"rotation": [ 15, 150, 0 ],
+			"translation": [ -1, 3.5, 0 ],
+			"scale": [ 1.1, 1.1, 1.1 ]
+		}
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_taru",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_nimame" },
+		{ "type": "forge:ore_dict", "ore": "foodFlour" },
+		{ "item": "chinjufumod:item_komekouji" },
+		[ { "type": "forge:ore_dict", "ore": "dustSalt" },
+		 { "type": "forge:ore_dict", "ore": "foodSalt" },
+		 { "type": "forge:ore_dict", "ore": "itemSalt" } ],
+		{ "type": "forge:ore_dict", "ore": "bucketWater" },
+		{ "item": "chinjufumod:block_taru_hakkou", "data": 0 }
+	],
+
+	"result": { "item": "chinjufumod:block_taru_hakkou_2", "data": 1, "count": 1 }
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_diningchair",
+
+	"pattern": [
+		"X  ",
+		"XXX",
+		"Y Y"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "slabWoodOak" },
+		"Y": { "item": "minecraft:stick", "data": 0 }
+	},
+
+	"result": { "item": "chinjufumod:block_diningchair", "data": 0, "count": 1 }
+}

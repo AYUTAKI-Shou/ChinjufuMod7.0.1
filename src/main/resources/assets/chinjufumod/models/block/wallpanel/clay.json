@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/wallpanel_wide",
+	"textures": {
+		"particle": "minecraft:blocks/hardened_clay",
+		"front": "minecraft:blocks/hardened_clay",
+		"back": "minecraft:blocks/hardened_clay",
+		"side": "minecraft:blocks/hardened_clay"
+	}
+}

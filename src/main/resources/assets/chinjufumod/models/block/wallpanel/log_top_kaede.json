@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/wallpanel_wide",
+	"textures": {
+		"particle": "chinjufumod:block/log_kaede_top",
+		"front": "chinjufumod:block/log_kaede_top",
+		"back": "chinjufumod:block/log_kaede_top",
+		"side": "chinjufumod:block/log_kaede"
+	}
+}

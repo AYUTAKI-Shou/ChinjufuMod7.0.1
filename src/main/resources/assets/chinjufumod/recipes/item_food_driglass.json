@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_dish",
+
+	"pattern": [
+		" X",
+		"XX"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "blockGlassColorless" }
+	},
+
+	"result": { "item": "chinjufumod:item_food_dish", "data": 7, "count": 3 }
+}

@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_bin",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "cropApple" },
+		{ "item": "minecraft:sugar" },
+		{ "item": "minecraft:potion", "data": 0 }
+	],
+
+	"result": { "item": "chinjufumod:block_bin_koubo_f", "data": 0, "count" : 1 }
+}

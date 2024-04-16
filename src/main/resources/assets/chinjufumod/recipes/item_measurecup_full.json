@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_measurecup",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "bucketWater" },
+		{ "item": "chinjufumod:block_measurecup" },
+		{ "item": "chinjufumod:block_measurecup" },
+		{ "item": "chinjufumod:block_measurecup" },
+		{ "item": "chinjufumod:block_measurecup" }
+	],
+
+	"result": { "item": "chinjufumod:item_measurecup_full", "data": 0, "count": 4 }
+}

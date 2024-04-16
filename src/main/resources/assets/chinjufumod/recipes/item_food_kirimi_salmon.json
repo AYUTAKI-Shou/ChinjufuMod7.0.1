@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_sushi",
+
+	"ingredients": [
+		{ "item": "minecraft:fish", "data": 1 }
+	],
+
+	"result": { "item": "chinjufumod:item_food_kirimi", "data": 1, "count": 4 }
+}

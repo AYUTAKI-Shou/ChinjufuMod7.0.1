@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_kitchen",
+
+	"ingredients": [
+		{ "item": "chinjufumod:block_kit_duct", "data": 0 },
+		[ { "type": "forge:ore_dict", "ore": "ingotAluminium" },
+				{ "type": "forge:ore_dict", "ore": "ingotAluminum" } ]
+	],
+
+	"result": { "item": "chinjufumod:block_kit_ductend", "data": 0, "count" : 1 }
+}

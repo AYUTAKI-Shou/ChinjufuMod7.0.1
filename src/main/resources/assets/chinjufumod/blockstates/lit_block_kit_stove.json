@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"facing=north,teppen=false": { "model": "chinjufumod:kitchen/lit_stove", "y": 180 },
+		"facing=south,teppen=false": { "model": "chinjufumod:kitchen/lit_stove", "y": 0 },
+		"facing=west,teppen=false":  { "model": "chinjufumod:kitchen/lit_stove", "y": 90 },
+		"facing=east,teppen=false":  { "model": "chinjufumod:kitchen/lit_stove", "y": 270 },
+		
+			"facing=north,teppen=true": { "model": "chinjufumod:kitchen/lit_teppan", "y": 180 },
+			"facing=south,teppen=true": { "model": "chinjufumod:kitchen/lit_teppan", "y": 0 },
+			"facing=west,teppen=true":  { "model": "chinjufumod:kitchen/lit_teppan", "y": 90 },
+			"facing=east,teppen=true":  { "model": "chinjufumod:kitchen/lit_teppan", "y": 270 }
+	}
+}

@@ -1,0 +1,29 @@
+{
+	"parent": "chinjufumod:cm_story/taru/get_sushi",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.taru.get_shouyu.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.taru.get_shouyu.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_shouyu_bot"
+		},
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_shouyu_bot", "data": 0 } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+	"facing=north": { "model": "chinjufumod:zaisu/blue" },
+	"facing=south": { "model": "chinjufumod:zaisu/blue", "y": 180 },
+	"facing=west":  { "model": "chinjufumod:zaisu/blue", "y": 270 },
+	"facing=east":  { "model": "chinjufumod:zaisu/blue", "y": 90 }
+  }
+}

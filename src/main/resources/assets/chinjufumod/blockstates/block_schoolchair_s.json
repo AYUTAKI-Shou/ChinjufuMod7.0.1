@@ -1,0 +1,8 @@
+{
+  "variants": {
+	"facing=north": { "model": "chinjufumod:school/chair_spruce" },
+	"facing=south": { "model": "chinjufumod:school/chair_spruce", "y": 180 },
+	"facing=west":  { "model": "chinjufumod:school/chair_spruce", "y": 270 },
+	"facing=east":  { "model": "chinjufumod:school/chair_spruce", "y": 90 }
+  }
+}

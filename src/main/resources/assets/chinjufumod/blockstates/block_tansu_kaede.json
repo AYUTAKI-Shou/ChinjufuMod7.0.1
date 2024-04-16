@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "chinjufumod:tansu/kaede", "y": 180 },
+		"facing=south": { "model": "chinjufumod:tansu/kaede", "y": 0 },
+		"facing=west":  { "model": "chinjufumod:tansu/kaede", "y": 90 },
+		"facing=east":  { "model": "chinjufumod:tansu/kaede", "y": 270 }
+	}
+}

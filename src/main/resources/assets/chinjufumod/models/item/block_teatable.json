@@ -1,0 +1,15 @@
+{
+	"parent": "chinjufumod:block/endai/teatable_cen",
+	"display": {
+		"gui": {
+			"rotation": [ 30, 45, 0 ],
+			"translation": [ 0, -1, 0 ],
+			"scale": [ 0.625, 0.625, 0.625 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, -1, -0.5 ],
+			"scale": [ 0.6, 0.6, 0.6 ]
+		}
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "chinjufumod:shelfwine/empty", "y": 180 },
+		"facing=south": { "model": "chinjufumod:shelfwine/empty", "y": 0 },
+		"facing=west":  { "model": "chinjufumod:shelfwine/empty", "y": 90 },
+		"facing=east":  { "model": "chinjufumod:shelfwine/empty", "y": 270 }
+	}
+}

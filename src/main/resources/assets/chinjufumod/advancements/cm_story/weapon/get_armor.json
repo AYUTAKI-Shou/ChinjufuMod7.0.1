@@ -1,0 +1,422 @@
+{
+	"parent": "chinjufumod:cm_story/weapon/get_workorder",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.weapon.get_armor.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.weapon.get_armor.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_fubuki_chestplate"
+		},
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_fubuki_helmet" } ] }
+		},
+		"has_material2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_fubuki_chestplate" } ] }
+		},
+		"has_material3": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_fubuki_leggings" } ] }
+		},
+		"has_material4": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_fubuki_boots" } ] }
+		},
+		
+		"has_material5": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_kasumi_helmet" } ] }
+		},
+		"has_material6": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_kasumi_chestplate" } ] }
+		},
+		"has_material7": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_kasumi_leggings" } ] }
+		},
+		"has_material8": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_kasumi_boots" } ] }
+		},
+		
+		"has_material9": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_shiratsuyu_helmet" } ] }
+		},
+		"has_material10": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_shiratsuyu_chestplate" } ] }
+		},
+		"has_material11": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_shiratsuyu_leggings" } ] }
+		},
+		"has_material12": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_shiratsuyu_boots" } ] }
+		},
+		
+		"has_material13": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_shigure_helmet" } ] }
+		},
+		"has_material14": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_shigure_chestplate" } ] }
+		},
+		"has_material15": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_shigure_leggings" } ] }
+		},
+		"has_material16": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_shigure_boots" } ] }
+		},
+		
+		"has_material17": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_sendai_helmet" } ] }
+		},
+		"has_material18": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_sendai_chestplate" } ] }
+		},
+		"has_material19": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_sendai_leggings" } ] }
+		},
+		"has_material20": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_sendai_boots" } ] }
+		},
+		
+		"has_material21": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_yura_helmet" } ] }
+		},
+		"has_material22": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_yura_chestplate" } ] }
+		},
+		"has_material23": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_yura_leggings" } ] }
+		},
+		"has_material24": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_yura_boots" } ] }
+		},
+		
+		"has_material25": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_mogami_helmet" } ] }
+		},
+		"has_material26": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_mogami_chestplate" } ] }
+		},
+		"has_material27": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_mogami_leggings" } ] }
+		},
+		"has_material28": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_mogami_boots" } ] }
+		},
+		
+		"has_material29": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_tone_helmet" } ] }
+		},
+		"has_material30": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_tone_chestplate" } ] }
+		},
+		"has_material31": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_tone_leggings" } ] }
+		},
+		"has_material32": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_tone_boots" } ] }
+		},
+		
+		"has_material33": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_ryujou_helmet" } ] }
+		},
+		"has_material34": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_ryujou_chestplate" } ] }
+		},
+		"has_material35": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_ryujou_leggings" } ] }
+		},
+		"has_material36": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_ryujou_boots" } ] }
+		},
+		
+		"has_material37": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_zuihou_helmet" } ] }
+		},
+		"has_material38": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_zuihou_chestplate" } ] }
+		},
+		"has_material39": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_zuihou_leggings" } ] }
+		},
+		"has_material40": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_zuihou_boots" } ] }
+		},
+		
+		"has_material41": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_akagi_helmet" } ] }
+		},
+		"has_material42": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_akagi_chestplate" } ] }
+		},
+		"has_material43": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_akagi_leggings" } ] }
+		},
+		"has_material44": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_akagi_boots" } ] }
+		},
+		
+		"has_material45": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_kaga_helmet" } ] }
+		},
+		"has_material46": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_kaga_chestplate" } ] }
+		},
+		"has_material47": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_kaga_leggings" } ] }
+		},
+		"has_material48": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_kaga_boots" } ] }
+		},
+		
+		"has_material49": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_kongou_helmet" } ] }
+		},
+		"has_material50": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_kongou_chestplate" } ] }
+		},
+		"has_material51": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_kongou_leggings" } ] }
+		},
+		"has_material52": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_kongou_boots" } ] }
+		},
+		
+		"has_material53": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_akatsuki_helmet" } ] }
+		},
+		"has_material54": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_akatsuki_chestplate" } ] }
+		},
+		"has_material55": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_akatsuki_leggings" } ] }
+		},
+		"has_material56": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_akatsuki_boots" } ] }
+		},
+		
+		"has_material57": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_fusou_helmet" } ] }
+		},
+		"has_material58": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_fusou_chestplate" } ] }
+		},
+		"has_material59": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_fusou_leggings" } ] }
+		},
+		"has_material60": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_fusou_boots" } ] }
+		},
+		
+		"has_material61": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_nagato_helmet" } ] }
+		},
+		"has_material62": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_nagato_chestplate" } ] }
+		},
+		"has_material63": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_nagato_leggings" } ] }
+		},
+		"has_material64": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_nagato_boots" } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material",
+			"has_material2",
+			"has_material3",
+			"has_material4",
+			"has_material5",
+			"has_material6",
+			"has_material7",
+			"has_material8",
+			"has_material9",
+			"has_material10",
+			"has_material11",
+			"has_material12",
+			"has_material13",
+			"has_material14",
+			"has_material15",
+			"has_material16",
+			"has_material17",
+			"has_material18",
+			"has_material19",
+			"has_material20",
+			"has_material21",
+			"has_material22",
+			"has_material23",
+			"has_material24",
+			"has_material25",
+			"has_material26",
+			"has_material27",
+			"has_material28",
+			"has_material29",
+			"has_material30",
+			"has_material31",
+			"has_material32",
+			"has_material33",
+			"has_material34",
+			"has_material35",
+			"has_material36",
+			"has_material37",
+			"has_material38",
+			"has_material39",
+			"has_material40",
+			"has_material41",
+			"has_material42",
+			"has_material43",
+			"has_material44",
+			"has_material45",
+			"has_material46",
+			"has_material47",
+			"has_material48",
+			"has_material49",
+			"has_material50",
+			"has_material51",
+			"has_material52",
+			"has_material53",
+			"has_material54",
+			"has_material55",
+			"has_material56",
+			"has_material57",
+			"has_material58",
+			"has_material59",
+			"has_material60",
+			"has_material61",
+			"has_material62",
+			"has_material63",
+			"has_material64"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

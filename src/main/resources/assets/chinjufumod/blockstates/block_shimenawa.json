@@ -1,0 +1,8 @@
+{
+  "variants": {
+	"facing=north": { "model": "chinjufumod:season/shimenawa", "y": 180 },
+	"facing=south": { "model": "chinjufumod:season/shimenawa" },
+	"facing=west":  { "model": "chinjufumod:season/shimenawa", "y": 90 },
+	"facing=east":  { "model": "chinjufumod:season/shimenawa", "y": 270 }
+  }
+}

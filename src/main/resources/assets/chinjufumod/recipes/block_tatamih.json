@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_tatami",
+
+	"pattern": [
+		"YYY",
+		"YXY",
+		"YYY"
+	],
+
+	"key": {
+		"X": [ { "type": "forge:ore_dict", "ore": "plankWood" }, { "type": "forge:ore_dict", "ore": "plankWoodCherry" }, 
+		{ "type": "forge:ore_dict", "ore": "plankWoodAcer" }, { "type": "forge:ore_dict", "ore": "plankWoodGinkgo" } ],
+		"Y": [ { "type": "forge:ore_dict", "ore": "cropWheat" },
+				{ "item": "minecraft:reeds", "data": 0 },
+				{ "item": "chinjufumod:item_inewara", "data": 0 } ]
+	},
+
+	"result": { "item": "chinjufumod:block_tatamih", "data": 0, "count": 4 }
+}

@@ -1,0 +1,8 @@
+{
+  "variants": {
+	"facing=north": { "model": "chinjufumod:school/chair_ichoh" },
+	"facing=south": { "model": "chinjufumod:school/chair_ichoh", "y": 180 },
+	"facing=west":  { "model": "chinjufumod:school/chair_ichoh", "y": 270 },
+	"facing=east":  { "model": "chinjufumod:school/chair_ichoh", "y": 90 }
+  }
+}

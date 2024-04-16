@@ -1,0 +1,17 @@
+{
+	"variants": {
+		"facing=up,powered=false" : { "model": "chinjufumod:bamboo/koge_button", "uvlock": true, "y": 180 },
+		"facing=down,powered=false" : { "model": "chinjufumod:bamboo/koge_button", "uvlock": true, "x": 180 },
+		"facing=east,powered=false" : { "model": "chinjufumod:bamboo/koge_button_ew", "uvlock": true, "x": 90, "y": 90 },
+		"facing=west,powered=false" : { "model": "chinjufumod:bamboo/koge_button_ew", "uvlock": true, "x": 90, "y": 270 },
+		"facing=south,powered=false" : { "model": "chinjufumod:bamboo/koge_button", "uvlock": true, "x": 90, "y": 180 },
+		"facing=north,powered=false" : { "model": "chinjufumod:bamboo/koge_button", "uvlock": true, "x": 90 },
+
+		"facing=up,powered=true" : { "model": "chinjufumod:bamboo/koge_button_pressed", "uvlock": true, "y": 180 },
+		"facing=down,powered=true" : { "model": "chinjufumod:bamboo/koge_button_pressed", "uvlock": true, "x": 180 },
+		"facing=east,powered=true" : { "model": "chinjufumod:bamboo/koge_button_pressed_ew", "uvlock": true, "x": 90, "y": 90 },
+		"facing=west,powered=true" : { "model": "chinjufumod:bamboo/koge_button_pressed_ew", "uvlock": true, "x": 90, "y": 270 },
+		"facing=south,powered=true" : { "model": "chinjufumod:bamboo/koge_button_pressed", "uvlock": true, "x": 90, "y": 180 },
+		"facing=north,powered=true" : { "model": "chinjufumod:bamboo/koge_button_pressed", "uvlock": true, "x": 90 }
+	}
+}

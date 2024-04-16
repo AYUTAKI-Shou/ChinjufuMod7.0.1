@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_sweets",
+
+	"ingredients": [
+		{ "item": "minecraft:ice" },
+		{ "type": "forge:ore_dict", "ore": "dyeRed" },
+		{ "type": "forge:ore_dict", "ore": "dyeCyan"},
+		{ "item": "chinjufumod:item_tanmono" }
+	],
+
+	"result": { "item": "chinjufumod:block_kakigouri_hata", "data": 0, "count" : 1 }
+}

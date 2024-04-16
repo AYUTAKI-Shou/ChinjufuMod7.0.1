@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_lamp",
+
+	"pattern": [
+		"ZXZ",
+		"XYX",
+		"ZXZ"
+	],
+
+	"key": {
+		"X": [ { "item": "minecraft:iron_ingot" },  { "type": "forge:ore_dict", "ore": "ingotAluminium" }, { "type": "forge:ore_dict", "ore": "ingotAluminum" } ],
+		"Y": { "item": "minecraft:glowstone" },
+		"Z": { "type": "forge:ore_dict", "ore": "paneGlassColorless" }
+	},
+
+	"result": { "item": "chinjufumod:block_lightembed", "data": 0, "count": 4 }
+}

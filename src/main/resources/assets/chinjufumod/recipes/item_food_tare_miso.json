@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_ramen",
+
+	"ingredients": [
+		{ "item": "minecraft:sugar" },
+		{ "type": "forge:ore_dict", "ore": "foodMisopaste" },
+		{ "type": "forge:ore_dict", "ore": "cropGreenonion" },
+		[ { "type": "forge:ore_dict", "ore": "cookedPork" }, { "type": "forge:ore_dict", "ore": "listAllporkcooked" } ],
+		{ "type": "forge:ore_dict", "ore": "egg" },
+		{ "item": "chinjufumod:item_food_dish", "data": 6 },
+		{ "item": "chinjufumod:item_food_dish", "data": 6 }
+	],
+
+	"result": { "item": "chinjufumod:item_ramen_n", "data": 2, "count": 2 }
+}

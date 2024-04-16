@@ -1,0 +1,8 @@
+{
+  "variants": {
+	"facing=north": { "model": "chinjufumod:school/chair_darkoak" },
+	"facing=south": { "model": "chinjufumod:school/chair_darkoak", "y": 180 },
+	"facing=west":  { "model": "chinjufumod:school/chair_darkoak", "y": 270 },
+	"facing=east":  { "model": "chinjufumod:school/chair_darkoak", "y": 90 }
+  }
+}

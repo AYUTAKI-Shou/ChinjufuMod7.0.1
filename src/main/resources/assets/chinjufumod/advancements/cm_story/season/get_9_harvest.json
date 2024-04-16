@@ -1,0 +1,29 @@
+{
+	"parent": "chinjufumod:cm_story/season/get_8_yukata",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.season.get_9_harvest.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.season.get_9_harvest.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_ine", "data": 0
+		},
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_ine", "data": 0 } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

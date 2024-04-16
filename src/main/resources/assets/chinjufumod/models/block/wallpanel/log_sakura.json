@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/wallpanel_wide",
+	"textures": {
+		"particle": "chinjufumod:block/log_sakura",
+		"front": "chinjufumod:block/log_sakura",
+		"back": "chinjufumod:block/log_sakura",
+		"side": "chinjufumod:block/log_sakura"
+	}
+}

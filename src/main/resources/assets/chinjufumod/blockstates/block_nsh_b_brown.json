@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"cra=false,double=false,half=bottom": { "model": "chinjufumod:namakob/slab_brown_bottom" },
+		"cra=false,double=false,half=top": { "model": "chinjufumod:namakob/slab_brown_top" },
+		"cra=true,double=false,half=bottom": { "model": "chinjufumod:namakob/slab_crack_brown_bottom" },
+		"cra=true,double=false,half=top": { "model": "chinjufumod:namakob/slab_crack_brown_top" },
+
+		"cra=false,double=true,half=bottom": { "model": "chinjufumod:namakob/brown" },
+		"cra=false,double=true,half=top": { "model": "chinjufumod:namakob/brown" },
+		"cra=true,double=true,half=bottom": { "model": "chinjufumod:namakob/crack_brown" },
+		"cra=true,double=true,half=top": { "model": "chinjufumod:namakob/crack_brown" }
+	}
+}

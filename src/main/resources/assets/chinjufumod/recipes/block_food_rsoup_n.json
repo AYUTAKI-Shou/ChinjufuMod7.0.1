@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_ramen",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "cropGreenonion" },
+		{ "type": "forge:ore_dict", "ore": "cropCarrot" },
+		[ { "type": "forge:ore_dict", "ore": "chicken" }, { "type": "forge:ore_dict", "ore": "listAllchickenraw" } ],
+		{ "type": "forge:ore_dict", "ore": "cropOnion" },
+		{ "type": "forge:ore_dict", "ore": "bucketWater" },
+		{ "item": "chinjufumod:block_food_zundou", "data": 0 }
+	],
+
+	"result": { "item": "chinjufumod:block_food_rsoup_n", "data": 0, "count" : 1 }
+}

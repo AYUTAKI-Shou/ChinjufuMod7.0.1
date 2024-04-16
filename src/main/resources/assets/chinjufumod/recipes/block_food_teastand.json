@@ -1,0 +1,17 @@
+{
+	"type": "forge:ore_shaped",
+	"group": "cm_tea",
+
+	"pattern": [
+		"YX ",
+		"XXX",
+		"YX "
+	],
+
+	"key": {
+		"X": [{ "type": "forge:ore_dict", "ore": "ingotAluminium" }, { "type": "forge:ore_dict", "ore": "ingotAluminum" }],
+		"Y": { "item": "chinjufumod:item_food_sara" }
+	},
+
+	"result": { "item": "chinjufumod:block_food_teastand", "data": 0, "count" : 1 }
+}

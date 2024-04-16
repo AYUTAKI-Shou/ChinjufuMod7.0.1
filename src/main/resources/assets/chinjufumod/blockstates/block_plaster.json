@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:plaster/white" },
+		"stage=1": { "model": "chinjufumod:plaster/orange" },
+		"stage=2": { "model": "chinjufumod:plaster/magenta" },
+		"stage=3": { "model": "chinjufumod:plaster/lightb" },
+		"stage=4": { "model": "chinjufumod:plaster/yellow" },
+		"stage=5": { "model": "chinjufumod:plaster/lime" },
+		"stage=6": { "model": "chinjufumod:plaster/pink" },
+		"stage=7": { "model": "chinjufumod:plaster/gray" },
+		"stage=8": { "model": "chinjufumod:plaster/lightg" },
+		"stage=9": { "model": "chinjufumod:plaster/cyan" },
+		"stage=10": { "model": "chinjufumod:plaster/purple" },
+		"stage=11": { "model": "chinjufumod:plaster/blue" },
+		"stage=12": { "model": "chinjufumod:plaster/brown" },
+		"stage=13": { "model": "chinjufumod:plaster/green" },
+		"stage=14": { "model": "chinjufumod:plaster/red" },
+		"stage=15": { "model": "chinjufumod:plaster/black" }
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_hake",
+
+	"pattern": [
+		"X",
+		"Y"
+	],
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "wool" },
+		"Y": { "item": "minecraft:stick", "data": 0 }
+	},
+	"result": { "item": "chinjufumod:item_hake", "data": 0, "count": 1 }
+}

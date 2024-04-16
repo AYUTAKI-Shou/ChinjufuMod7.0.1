@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_button",
+
+	"pattern": [
+		"X"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "plankWoodAcer" }
+	},
+
+	"result": { "item": "chinjufumod:block_button_s", "data": 1, "count": 1 }
+}

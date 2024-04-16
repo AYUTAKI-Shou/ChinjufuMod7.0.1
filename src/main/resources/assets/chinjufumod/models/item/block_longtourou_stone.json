@@ -1,0 +1,25 @@
+{
+	"parent": "chinjufumod:block/ishitourou/stone_long",
+	"display": {
+		"gui": {
+			"rotation": [ 5, 45, 0 ],
+			"translation": [ 0, -3.5, 0 ],
+			"scale": [ 0.45, 0.45, 0.45 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 70, 45, 0 ],
+			"translation": [ 0, 1.5, 0 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 45, 0 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 180, 0 ],
+			"translation": [ 0, -4, 0.01 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		}
+	}
+}

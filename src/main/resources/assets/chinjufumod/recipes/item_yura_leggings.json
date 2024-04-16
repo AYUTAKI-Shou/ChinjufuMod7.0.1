@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_leggings",
+
+	"ingredients": [
+		{ "item": "minecraft:iron_leggings" },
+		{ "type": "forge:ore_dict", "ore": "dyePink" },
+		{ "item": "chinjufumod:item_workorder" },
+		{ "item": "minecraft:coal", "data": 0 },
+		{ "item": "chinjufumod:item_ammunition_kc" }
+	],
+
+	"result": { "item": "chinjufumod:item_yura_leggings", "data": 0, "count": 1 }
+}

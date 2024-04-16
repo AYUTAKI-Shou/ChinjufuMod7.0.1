@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_tea",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_food_senbei", "data": 0 },
+		{ "item": "chinjufumod:item_food_senbei", "data": 0 },
+		{ "item": "chinjufumod:item_food_senbei", "data": 0 },
+		{ "item": "chinjufumod:item_food_senbei", "data": 0 },
+		{ "item": "chinjufumod:item_food_sara", "data": 0 }
+	],
+
+	"result": { "item": "chinjufumod:block_food_jpchauke", "data": 0, "count" : 1 }
+}

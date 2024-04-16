@@ -1,0 +1,9 @@
+{
+	"variants": {
+		"double=false,half=bottom": { "model": "chinjufumod:rock/slab_andesite_bottom" },
+		"double=false,half=top": { "model": "chinjufumod:rock/slab_andesite_top" },
+
+		"double=true,half=top": { "model": "minecraft:andesite" },
+		"double=true,half=bottom": { "model": "minecraft:andesite" }
+	}
+}

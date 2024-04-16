@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_food_roastchicken",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "listAllchickencooked" },
+		{ "type": "forge:ore_dict", "ore": "cropCarrot" },
+		{ "type": "forge:ore_dict", "ore": "cropTomato" },
+		{ "type": "forge:ore_dict", "ore": "cropSpinach" },
+		{ "type": "forge:ore_dict", "ore": "cropCabbage" },
+		{ "item": "chinjufumod:item_food_sara" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_roastchicken_1", "data": 0, "count" : 1 }
+}

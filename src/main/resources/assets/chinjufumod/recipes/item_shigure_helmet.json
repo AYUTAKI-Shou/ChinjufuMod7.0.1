@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_helmet",
+
+	"ingredients": [
+		{ "item": "minecraft:iron_helmet" },
+		{ "type": "forge:ore_dict", "ore": "dyeBlack" },
+		{ "item": "chinjufumod:item_workorder" }
+	],
+
+	"result": { "item": "chinjufumod:item_shigure_helmet", "data": 0, "count": 1 }
+}

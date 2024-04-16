@@ -1,0 +1,37 @@
+{
+	"variants": {
+		"down=false,stage=0": { "model": "chinjufumod:candle/lit_white" },
+		"down=false,stage=1": { "model": "chinjufumod:candle/lit_orange" },
+		"down=false,stage=2": { "model": "chinjufumod:candle/lit_magenta" },
+		"down=false,stage=3": { "model": "chinjufumod:candle/lit_lightb" },
+		"down=false,stage=4": { "model": "chinjufumod:candle/lit_yellow" },
+		"down=false,stage=5": { "model": "chinjufumod:candle/lit_lime" },
+		"down=false,stage=6": { "model": "chinjufumod:candle/lit_pink" },
+		"down=false,stage=7": { "model": "chinjufumod:candle/lit_gray" },
+		"down=false,stage=8": { "model": "chinjufumod:candle/lit_lightg" },
+		"down=false,stage=9": { "model": "chinjufumod:candle/lit_cyan" },
+		"down=false,stage=10": { "model": "chinjufumod:candle/lit_purple" },
+		"down=false,stage=11": { "model": "chinjufumod:candle/lit_blue" },
+		"down=false,stage=12": { "model": "chinjufumod:candle/lit_brown" },
+		"down=false,stage=13": { "model": "chinjufumod:candle/lit_green" },
+		"down=false,stage=14": { "model": "chinjufumod:candle/lit_red" },
+		"down=false,stage=15": { "model": "chinjufumod:candle/lit_black" },
+
+		"down=true,stage=0": { "model": "chinjufumod:candle/lit_down_white" },
+		"down=true,stage=1": { "model": "chinjufumod:candle/lit_down_orange" },
+		"down=true,stage=2": { "model": "chinjufumod:candle/lit_down_magenta" },
+		"down=true,stage=3": { "model": "chinjufumod:candle/lit_down_lightb" },
+		"down=true,stage=4": { "model": "chinjufumod:candle/lit_down_yellow" },
+		"down=true,stage=5": { "model": "chinjufumod:candle/lit_down_lime" },
+		"down=true,stage=6": { "model": "chinjufumod:candle/lit_down_pink" },
+		"down=true,stage=7": { "model": "chinjufumod:candle/lit_down_gray" },
+		"down=true,stage=8": { "model": "chinjufumod:candle/lit_down_lightg" },
+		"down=true,stage=9": { "model": "chinjufumod:candle/lit_down_cyan" },
+		"down=true,stage=10": { "model": "chinjufumod:candle/lit_down_purple" },
+		"down=true,stage=11": { "model": "chinjufumod:candle/lit_down_blue" },
+		"down=true,stage=12": { "model": "chinjufumod:candle/lit_down_brown" },
+		"down=true,stage=13": { "model": "chinjufumod:candle/lit_down_green" },
+		"down=true,stage=14": { "model": "chinjufumod:candle/lit_down_red" },
+		"down=true,stage=15": { "model": "chinjufumod:candle/lit_down_black" }
+	}
+}

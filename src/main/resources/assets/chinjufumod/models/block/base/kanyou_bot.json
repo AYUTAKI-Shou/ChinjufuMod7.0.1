@@ -1,0 +1,120 @@
+{
+	"parent": "block/block",
+	"elements": [
+		{
+			"name": "miki_bot",
+			"from": [ 7, 2, 7 ],
+			"to": [ 9, 16, 9 ],
+			"faces": {
+				"down" : { "uv": [ 7.0, 7.0, 9.0, 9.0 ], "texture": "#miki_top" },
+				"north": { "uv": [ 0.0, 0.0, 2.0, 14.0 ], "texture": "#miki" },
+				"south": { "uv": [ 4.0, 0.0, 6.0, 14.0 ], "texture": "#miki" },
+				"east" : { "uv": [ 1.0, 0.0, 3.0, 14.0 ], "texture": "#miki" },
+				"west" : { "uv": [ 12.0, 0.0, 14.0, 14.0 ], "texture": "#miki" }
+			}
+		},
+
+		{
+			"name": "hachi_bot1",
+			"from": [ 4.5, 0, 4.5 ],
+			"to": [ 11.5, 0.5, 7 ],
+			"faces": {
+				"up": { "uv": [ 4.5, 4.5, 11.5, 7.0 ], "texture": "#hachi" },
+				"down" : { "uv": [ 4.5, 4.5, 11.5, 7.0 ], "texture": "#hachi", "cullface": "down" },
+				"north": { "uv": [ 4.5, 15.5, 11.5, 16.0 ], "texture": "#hachi" },
+				"south": { "uv": [ 4.5, 15.5, 11.5, 16.0 ], "texture": "#hachi" },
+				"east" : { "uv": [ 11.5, 15.5, 9.0, 16.0 ], "texture": "#hachi" },
+				"west" : { "uv": [ 4.5, 15.5, 7.0, 16.0 ], "texture": "#hachi" }
+			}
+		},
+		{
+			"name": "hachi_bot2",
+			"from": [ 4.5, 0, 9 ],
+			"to": [ 11.5, 0.5, 11.5 ],
+			"faces": {
+				"up": { "uv": [ 4.5, 9.0, 11.5, 11.5 ], "texture": "#hachi" },
+				"down" : { "uv": [ 4.5, 9.0, 11.5, 11.5 ], "texture": "#hachi", "cullface": "down" },
+				"north": { "uv": [ 4.5, 15.5, 11.5, 16.0 ], "texture": "#hachi" },
+				"south": { "uv": [ 4.5, 15.5, 11.5, 16.0 ], "texture": "#hachi" },
+				"east" : { "uv": [ 7.0, 15.5, 4.5, 16.0 ], "texture": "#hachi" },
+				"west" : { "uv": [ 9.0, 15.5, 11.5, 16.0 ], "texture": "#hachi" }
+			}
+		},
+		{
+			"name": "hachi_bot3",
+			"from": [ 4.5, 0, 7 ],
+			"to": [ 7, 0.5, 9 ],
+			"faces": {
+				"up": { "uv": [ 4.5, 7.0, 7.0, 9.0 ], "texture": "#hachi" },
+				"down" : { "uv": [ 4.5, 7.0, 7.0, 9.0 ], "texture": "#hachi", "cullface": "down" },
+				"east" : { "uv": [ 9.0, 15.5, 7.0, 16.0 ], "texture": "#hachi" },
+				"west" : { "uv": [ 7.0, 15.5, 9.0, 16.0 ], "texture": "#hachi" }
+			}
+		},
+			{
+			"name": "hachi_bot4",
+			"from": [ 9, 0, 7 ],
+			"to": [ 11.5, 0.5, 9 ],
+			"faces": {
+				"up": { "uv": [ 9.0, 7.0, 11.5, 9.0 ], "texture": "#hachi" },
+				"down" : { "uv": [ 9.0, 7.0, 11.5, 9.0 ], "texture": "#hachi", "cullface": "down" },
+				"east" : { "uv": [ 9.0, 15.5, 7.0, 16.0 ], "texture": "#hachi" },
+				"west" : { "uv": [ 7.0, 15.5, 9.0, 16.0 ], "texture": "#hachi" }
+			}
+		},
+
+		{
+			"name": "hachi_nor",
+			"from": [ 4.5, 0.5, 4.5 ],
+			"to": [ 11.5, 6, 5 ],
+			"faces": {
+				"up": { "uv": [ 11.5, 4.5, 4.5, 5.0 ], "texture": "#hachi" },
+				"north": { "uv": [ 4.5, 10.0, 11.5, 15.5 ], "texture": "#hachi" },
+				"south": { "uv": [ 11.5, 10.0, 4.5, 15.5 ], "texture": "#hachi" },
+				"east" : { "uv": [ 11.5, 10.0, 11.0, 15.5 ], "texture": "#hachi" },
+				"west" : { "uv": [ 4.5, 10.0, 5.0, 15.5 ], "texture": "#hachi" }
+			}
+		},
+		{
+			"name": "hachi_sou",
+			"from": [ 4.5, 0.5, 11 ],
+			"to": [ 11.5, 6, 11.5 ],
+			"faces": {
+				"up": { "uv": [ 4.5, 11.0, 11.5, 11.5 ], "texture": "#hachi" },
+				"north": { "uv": [ 11.5, 10.0, 4.5, 15.5 ], "texture": "#hachi" },
+				"south": { "uv": [ 4.5, 10.0, 11.5, 15.5 ], "texture": "#hachi" },
+				"east" : { "uv": [ 4.5, 10.0, 5.0, 15.5 ], "texture": "#hachi" },
+				"west" : { "uv": [ 11.0, 10.0, 11.5, 15.5 ], "texture": "#hachi" }
+			}
+		},
+		{
+			"name": "hachi_west",
+			"from": [ 4.5, 0.5, 5 ],
+			"to": [ 5, 6, 11 ],
+			"faces": {
+				"up": { "uv": [ 5.0, 4.5, 11.0, 5.0 ], "texture": "#hachi", "rotation": 90 },
+				"east" : { "uv": [ 11.0, 10.0, 5.0, 15.5 ], "texture": "#hachi" },
+				"west" : { "uv": [ 5.0, 10.0, 11.0, 15.5 ], "texture": "#hachi" }
+			}
+		},
+		{
+			"name": "hachi_east",
+			"from": [ 11, 0.5, 5 ],
+			"to": [ 11.5, 6, 11 ],
+			"faces": {
+				"up": { "uv": [ 11.0, 11.5, 5.0, 11.0 ], "texture": "#hachi", "rotation": 90 },
+				"east" : { "uv": [ 5.0, 10.0, 11.0, 15.5 ], "texture": "#hachi" },
+				"west" : { "uv": [ 11.0, 10.0, 5.0, 15.5 ], "texture": "#hachi" }
+			}
+		},
+		{
+			"name": "tuchi",
+			"from": [ 5, 0.5, 5 ],
+			"to": [ 11, 5, 11 ],
+			"faces": {
+				"up": { "uv": [ 5.0, 5.0, 11.0, 11.0 ], "texture": "#tuchi" },
+				"down" : { "uv": [ 5.0, 5.0, 11.0, 11.0 ], "texture": "#tuchi" }
+			}
+		}
+	]
+}

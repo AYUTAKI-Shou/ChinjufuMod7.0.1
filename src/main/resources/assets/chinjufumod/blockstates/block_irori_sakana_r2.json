@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:irori_sakana/rcrr" },
+		"stage=1": { "model": "chinjufumod:irori_sakana/rcrc" },
+		"stage=2": { "model": "chinjufumod:irori_sakana/rcce" },
+		"stage=3": { "model": "chinjufumod:irori_sakana/rccr" },
+		"stage=4": { "model": "chinjufumod:irori_sakana/rccc" },
+		"stage=5": { "model": "chinjufumod:irori_sakana/ceee" },
+		"stage=6": { "model": "chinjufumod:irori_sakana/ceer" },
+		"stage=7": { "model": "chinjufumod:irori_sakana/ceec" },
+		"stage=8": { "model": "chinjufumod:irori_sakana/cere" },
+		"stage=9": { "model": "chinjufumod:irori_sakana/cerr" },
+		"stage=10": { "model": "chinjufumod:irori_sakana/cerc" },
+		"stage=11": { "model": "chinjufumod:irori_sakana/cece" },
+		"stage=12": { "model": "chinjufumod:irori_sakana/cecr" },
+		"stage=13": { "model": "chinjufumod:irori_sakana/cecc" },
+		"stage=14": { "model": "chinjufumod:irori_sakana/cree" },
+		"stage=15": { "model": "chinjufumod:irori_sakana/crer" }
+	}
+}

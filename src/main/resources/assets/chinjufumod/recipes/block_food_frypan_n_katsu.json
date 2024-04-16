@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_donburi",
+
+	"ingredients": [
+		[ { "type": "forge:ore_dict", "ore": "foodBlackpepper" }, { "type": "forge:ore_dict", "ore": "dustPepper" }, { "type": "forge:ore_dict", "ore": "dustBlackpepper" } ],
+		{ "type": "forge:ore_dict", "ore": "egg" },
+		[ { "type": "forge:ore_dict", "ore": "pork" }, { "type": "forge:ore_dict", "ore": "listAllporkraw" } ],
+		[ { "type": "forge:ore_dict", "ore": "dustSalt" }, { "type": "forge:ore_dict", "ore": "foodSalt" }, { "type": "forge:ore_dict", "ore": "itemSalt" } ],
+		{ "item": "chinjufumod:item_food_bun" },
+		{ "type": "forge:ore_dict", "ore": "foodFlour" },
+		{ "item": "chinjufumod:block_food_frypan" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_frypan_n2", "data": 3, "count" : 1 }
+}

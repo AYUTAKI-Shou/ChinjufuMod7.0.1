@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:food/nabe_tori_n", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:food/nabe_tori_n" },
+		"facing=west,stage=1": { "model": "chinjufumod:food/nabe_tori_n", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:food/nabe_tori_n", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:food/nabe_miso_n", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:food/nabe_miso_n" },
+		"facing=west,stage=2": { "model": "chinjufumod:food/nabe_miso_n", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:food/nabe_miso_n", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:gohan/nabe_gohan_n", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:gohan/nabe_gohan_n" },
+		"facing=west,stage=3": { "model": "chinjufumod:gohan/nabe_gohan_n", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:gohan/nabe_gohan_n", "y": 270 },
+
+		"facing=north,stage=4": { "model": "chinjufumod:food/nabe_cornsoup_n", "y": 180 },
+		"facing=south,stage=4": { "model": "chinjufumod:food/nabe_cornsoup_n" },
+		"facing=west,stage=4": { "model": "chinjufumod:food/nabe_cornsoup_n", "y": 90 },
+		"facing=east,stage=4": { "model": "chinjufumod:food/nabe_cornsoup_n", "y": 270 }
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"cor=false,facing=north,half=bottom": { "model": "chinjufumod:taba/kusa_roof_bot", "y": 90 },
+		"cor=false,facing=south,half=bottom": { "model": "chinjufumod:taba/kusa_roof_bot", "y": 270 },
+		"cor=false,facing=west,half=bottom": { "model": "chinjufumod:taba/kusa_roof_bot", "y": 0 },
+		"cor=false,facing=east,half=bottom": { "model": "chinjufumod:taba/kusa_roof_bot", "y": 180 },
+
+		"cor=false,facing=north,half=top": { "model": "chinjufumod:taba/kusa_roof_top", "y": 90 },
+		"cor=false,facing=south,half=top": { "model": "chinjufumod:taba/kusa_roof_top", "y": 270 },
+		"cor=false,facing=west,half=top": { "model": "chinjufumod:taba/kusa_roof_top", "y": 0 },
+		"cor=false,facing=east,half=top": { "model": "chinjufumod:taba/kusa_roof_top", "y": 180 },
+
+		"cor=true,facing=north,half=bottom": { "model": "chinjufumod:taba/kusa_roofcor_bot", "y": 180 },
+		"cor=true,facing=south,half=bottom": { "model": "chinjufumod:taba/kusa_roofcor_bot", "y": 0 },
+		"cor=true,facing=west,half=bottom": { "model": "chinjufumod:taba/kusa_roofcor_bot", "y": 90 },
+		"cor=true,facing=east,half=bottom": { "model": "chinjufumod:taba/kusa_roofcor_bot", "y": 270 },
+
+		"cor=true,facing=north,half=top": { "model": "chinjufumod:taba/kusa_roofcor_top", "y": 180 },
+		"cor=true,facing=south,half=top": { "model": "chinjufumod:taba/kusa_roofcor_top", "y": 0 },
+		"cor=true,facing=west,half=top": { "model": "chinjufumod:taba/kusa_roofcor_top", "y": 90 },
+		"cor=true,facing=east,half=top": { "model": "chinjufumod:taba/kusa_roofcor_top", "y": 270 }
+	}
+}

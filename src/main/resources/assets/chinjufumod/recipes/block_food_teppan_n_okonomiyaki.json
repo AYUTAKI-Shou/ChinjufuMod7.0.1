@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_okonomiyaki",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "cropCabbage" },
+		[ { "type": "forge:ore_dict", "ore": "pork" }, { "type": "forge:ore_dict", "ore": "listAllporkraw" } ],
+		{ "type": "forge:ore_dict", "ore": "foodMayonaise" },
+		{ "type": "forge:ore_dict", "ore": "foodWorcestershiresauce" },
+		{ "type": "forge:ore_dict", "ore": "egg" },
+		{ "type": "forge:ore_dict", "ore": "foodFlour" },
+		{ "type": "forge:ore_dict", "ore": "dustDashi" },
+		[ { "item": "chinjufumod:item_measurecup_full", "data": 0 }, { "item": "minecraft:potion", "data": 0 } ],
+		{ "item": "minecraft:bowl" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_frypan_n4", "data": 2, "count" : 1 }
+}

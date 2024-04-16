@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"normal": [
+			{ "model": "chinjufumod:wooden/carpet_ichoh" },
+			{ "model": "chinjufumod:wooden/carpet_ichoh", "y": 90 },
+			{ "model": "chinjufumod:wooden/carpet_ichoh", "y": 180 },
+			{ "model": "chinjufumod:wooden/carpet_ichoh", "y": 270 }
+		]
+	}
+}

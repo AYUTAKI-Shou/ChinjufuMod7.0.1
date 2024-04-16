@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_helmet",
+
+	"ingredients": [
+		{ "item": "minecraft:iron_helmet" },
+		{ "type": "forge:ore_dict", "ore": "dyeBlack" },
+		{ "item": "chinjufumod:item_workorder" },
+		{ "item": "minecraft:coal", "data": 0 },
+		{ "item": "minecraft:iron_ingot" },
+		{ "item": "chinjufumod:item_ammunition_kc" },
+		[ { "type": "forge:ore_dict", "ore": "ingotAluminium" }, { "type": "forge:ore_dict", "ore": "ingotAluminum" } ]
+	],
+
+	"result": { "item": "chinjufumod:item_nagato_helmet", "data": 0, "count": 1 }
+}

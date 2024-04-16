@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_sushi",
+
+	"ingredients": [
+		{ "item": "chinjufumod:block_food_tgy_1" },
+		{ "item": "minecraft:fish", "data": 0 },
+		{ "item": "minecraft:fish", "data": 1 },
+		[ { "type": "forge:ore_dict", "ore": "beef" }, { "type": "forge:ore_dict", "ore": "listAllbeefraw" } ],
+		{ "item": "chinjufumod:block_food_sushimeshi" },
+		{ "item": "chinjufumod:block_food_sushioke_kara" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_sushiokefull_1", "data": 0, "count" : 1 }
+}

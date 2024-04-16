@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_sweets",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "egg" },
+		{ "item": "minecraft:sugar" },
+		{ "type": "forge:ore_dict", "ore": "bucketMilk" },
+		{ "item": "minecraft:snowball" },
+		{ "item": "chinjufumod:item_food_dish", "data": 7 }
+	],
+
+	"result": { "item": "chinjufumod:block_food_icecream_1", "data": 0, "count" : 1 }
+}

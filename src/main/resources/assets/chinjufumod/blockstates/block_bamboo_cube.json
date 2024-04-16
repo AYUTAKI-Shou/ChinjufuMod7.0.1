@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"axis=y": { "model": "chinjufumod:bamboo/cube", "x": 270 },
+		"axis=z": { "model": "chinjufumod:bamboo/cube" },
+		"axis=x": { "model": "chinjufumod:bamboo/cube", "y": 270 },
+		"axis=none": { "model": "chinjufumod:bamboo/cube" }
+	}
+}

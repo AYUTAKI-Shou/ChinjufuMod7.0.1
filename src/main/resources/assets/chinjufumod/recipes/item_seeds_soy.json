@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_seeds",
+
+	"pattern": [
+		"X"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:item_saya", "data": 0 }
+	},
+
+	"result": { "item": "chinjufumod:item_seeds_soy", "data": 0, "count": 1 }
+}

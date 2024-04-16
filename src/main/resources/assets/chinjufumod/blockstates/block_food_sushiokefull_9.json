@@ -1,0 +1,43 @@
+{
+	"variants": {
+		"down=false,facing=north,stage=1": { "model": "chinjufumod:sushi/sushiokefull_9", "y": 180 },
+		"down=false,facing=south,stage=1": { "model": "chinjufumod:sushi/sushiokefull_9" },
+		"down=false,facing=west,stage=1": { "model": "chinjufumod:sushi/sushiokefull_9", "y": 90 },
+		"down=false,facing=east,stage=1": { "model": "chinjufumod:sushi/sushiokefull_9", "y": 270 },
+
+		"down=false,facing=north,stage=2": { "model": "chinjufumod:sushi/sushiokefull_a", "y": 180 },
+		"down=false,facing=south,stage=2": { "model": "chinjufumod:sushi/sushiokefull_a" },
+		"down=false,facing=west,stage=2": { "model": "chinjufumod:sushi/sushiokefull_a", "y": 90 },
+		"down=false,facing=east,stage=2": { "model": "chinjufumod:sushi/sushiokefull_a", "y": 270 },
+
+		"down=false,facing=north,stage=3": { "model": "chinjufumod:sushi/sushiokefull_b", "y": 180 },
+		"down=false,facing=south,stage=3": { "model": "chinjufumod:sushi/sushiokefull_b" },
+		"down=false,facing=west,stage=3": { "model": "chinjufumod:sushi/sushiokefull_b", "y": 90 },
+		"down=false,facing=east,stage=3": { "model": "chinjufumod:sushi/sushiokefull_b", "y": 270 },
+
+		"down=false,facing=north,stage=4": { "model": "chinjufumod:sushi/sushiokefull_c", "y": 180 },
+		"down=false,facing=south,stage=4": { "model": "chinjufumod:sushi/sushiokefull_c" },
+		"down=false,facing=west,stage=4": { "model": "chinjufumod:sushi/sushiokefull_c", "y": 90 },
+		"down=false,facing=east,stage=4": { "model": "chinjufumod:sushi/sushiokefull_c", "y": 270 },
+
+		"down=true,facing=north,stage=1": { "model": "chinjufumod:sushi/sushiokefull_d9", "y": 180 },
+		"down=true,facing=south,stage=1": { "model": "chinjufumod:sushi/sushiokefull_d9" },
+		"down=true,facing=west,stage=1": { "model": "chinjufumod:sushi/sushiokefull_d9", "y": 90 },
+		"down=true,facing=east,stage=1": { "model": "chinjufumod:sushi/sushiokefull_d9", "y": 270 },
+
+		"down=true,facing=north,stage=2": { "model": "chinjufumod:sushi/sushiokefull_da", "y": 180 },
+		"down=true,facing=south,stage=2": { "model": "chinjufumod:sushi/sushiokefull_da" },
+		"down=true,facing=west,stage=2": { "model": "chinjufumod:sushi/sushiokefull_da", "y": 90 },
+		"down=true,facing=east,stage=2": { "model": "chinjufumod:sushi/sushiokefull_da", "y": 270 },
+
+		"down=true,facing=north,stage=3": { "model": "chinjufumod:sushi/sushiokefull_db", "y": 180 },
+		"down=true,facing=south,stage=3": { "model": "chinjufumod:sushi/sushiokefull_db" },
+		"down=true,facing=west,stage=3": { "model": "chinjufumod:sushi/sushiokefull_db", "y": 90 },
+		"down=true,facing=east,stage=3": { "model": "chinjufumod:sushi/sushiokefull_db", "y": 270 },
+
+		"down=true,facing=north,stage=4": { "model": "chinjufumod:sushi/sushiokefull_dc", "y": 180 },
+		"down=true,facing=south,stage=4": { "model": "chinjufumod:sushi/sushiokefull_dc" },
+		"down=true,facing=west,stage=4": { "model": "chinjufumod:sushi/sushiokefull_dc", "y": 90 },
+		"down=true,facing=east,stage=4": { "model": "chinjufumod:sushi/sushiokefull_dc", "y": 270 }
+	}
+}

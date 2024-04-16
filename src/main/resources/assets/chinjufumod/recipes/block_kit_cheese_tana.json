@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_cheese",
+
+	"pattern": [
+		"XYX",
+		"XYX",
+		"XYX"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "plankWoodSpruce" },
+		"Y": { "type": "forge:ore_dict", "ore": "slabWoodSpruce" }
+	},
+
+	"result": { "item": "chinjufumod:block_kit_cheese_tana", "data": 0, "count": 4 }
+}

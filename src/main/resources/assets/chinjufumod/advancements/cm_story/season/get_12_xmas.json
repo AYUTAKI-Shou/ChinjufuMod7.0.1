@@ -1,0 +1,35 @@
+{
+	"parent": "chinjufumod:cm_story/season/get_11_kotatsu",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.season.get_12_xmas.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.season.get_12_xmas.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_kadomatsu", "data": 3
+		},
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_kadomatsu", "data": 3 } ] }
+		},
+		"has_material2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_kadomatsu", "data": 4 } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material",
+			"has_material2"
+		]
+	],
+	"rewards": { "experience": 20 }
+}

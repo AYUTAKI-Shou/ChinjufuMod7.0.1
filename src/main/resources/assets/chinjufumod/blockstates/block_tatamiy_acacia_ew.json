@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:tatami2_wood/white_acacia_e", "y": 90 },
+		"stage=1": { "model": "chinjufumod:tatami2_wood/orange_acacia_e", "y": 90 },
+		"stage=2": { "model": "chinjufumod:tatami2_wood/magenta_acacia_e", "y": 90 },
+		"stage=3": { "model": "chinjufumod:tatami2_wood/lightblue_acacia_e", "y": 90 },
+		"stage=4": { "model": "chinjufumod:tatami2_wood/yellow_acacia_e", "y": 90 },
+		"stage=5": { "model": "chinjufumod:tatami2_wood/lime_acacia_e", "y": 90 },
+		"stage=6": { "model": "chinjufumod:tatami2_wood/pink_acacia_e", "y": 90 },
+		"stage=7": { "model": "chinjufumod:tatami2_wood/gray_acacia_e", "y": 90 },
+		"stage=8": { "model": "chinjufumod:tatami2_wood/lightgray_acacia_e", "y": 90 },
+		"stage=9": { "model": "chinjufumod:tatami2_wood/cyan_acacia_e", "y": 90 },
+		"stage=10": { "model": "chinjufumod:tatami2_wood/purple_acacia_e", "y": 90 },
+		"stage=11": { "model": "chinjufumod:tatami2_wood/blue_acacia_e", "y": 90 },
+		"stage=12": { "model": "chinjufumod:tatami2_wood/brown_acacia_e", "y": 90 },
+		"stage=13": { "model": "chinjufumod:tatami2_wood/green_acacia_e", "y": 90 },
+		"stage=14": { "model": "chinjufumod:tatami2_wood/red_acacia_e", "y": 90 },
+		"stage=15": { "model": "chinjufumod:tatami2_wood/black_acacia_e", "y": 90 }
+	}
+}

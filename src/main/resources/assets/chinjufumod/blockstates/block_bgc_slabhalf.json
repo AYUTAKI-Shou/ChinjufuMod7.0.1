@@ -1,0 +1,9 @@
+{
+	"variants": {
+		"double=false,half=bottom": { "model": "chinjufumod:brick/slab_granite_bottom" },
+		"double=false,half=top": { "model": "chinjufumod:brick/slab_granite_top" },
+
+		"double=true,half=top": { "model": "chinjufumod:brick/granite" },
+		"double=true,half=bottom": { "model": "chinjufumod:brick/granite" }
+	}
+}

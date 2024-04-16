@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_helmet",
+
+	"ingredients": [
+		{ "item": "minecraft:iron_helmet" },
+		{ "type": "forge:ore_dict", "ore": "dyeWhite" },
+		{ "item": "chinjufumod:item_workorder" },
+		{ "item": "minecraft:coal", "data": 0 },
+		[{ "type": "forge:ore_dict", "ore": "ingotAluminium" },
+				{ "type": "forge:ore_dict", "ore": "ingotAluminum" }]
+	],
+
+	"result": { "item": "chinjufumod:item_zuihou_helmet", "data": 0, "count": 1 }
+}

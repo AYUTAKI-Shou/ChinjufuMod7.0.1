@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_okonomiyaki",
+
+	"ingredients": [
+		[ { "type": "forge:ore_dict", "ore": "pork" }, { "type": "forge:ore_dict", "ore": "listAllporkraw" } ],
+		{ "type": "forge:ore_dict", "ore": "cropCabbage" },
+		{ "type": "forge:ore_dict", "ore": "cropCarrot" },
+		{ "type": "forge:ore_dict", "ore": "cropOnion" },
+		{ "type": "forge:ore_dict", "ore": "foodWorcestershiresauce" },
+		{ "item": "chinjufumod:item_ramen_n", "data": 7 },
+		{ "item": "minecraft:bowl" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_frypan_n4", "data": 8, "count" : 1 }
+}

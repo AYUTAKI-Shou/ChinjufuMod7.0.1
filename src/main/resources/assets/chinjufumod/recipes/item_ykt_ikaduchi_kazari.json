@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_yukata",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "slabWoodAcer" },
+		{ "type": "forge:ore_dict", "ore": "dyeOrange" }
+	],
+
+	"result": { "item": "chinjufumod:item_ykt_ikaduchi_kazari", "data": 0, "count": 1 }
+}

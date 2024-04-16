@@ -1,0 +1,2861 @@
+{
+#イタリア語
+#Tab
+itemGroup.tab_chinjufumod=ChinjufuMod
+itemGroup.tab_teatime=ChinjufuMod TeaTime
+itemGroup.tab_seasonal=ChinjufuMod Seasonal
+itemGroup.tab_cmarmor=ChinjufuMod Outfitting
+itemGroup.tab_cmodwadeco=ChinjufuMod JP deco
+itemGroup.tab_cmodwablock=ChinjufuMod JP block
+itemGroup.tab_wallpanel=ChinjufuMod WallPanel
+
+#Advancements
+advancements.cm_story.root.title=Benvenuto in ChinjufuMod
+advancements.cm_story.root.description=Ho un elemento chiave di ChinjufuMod.
+
+advancements.cm_story.get_stamp.title=Il ritorno dell'Ammiraglio
+advancements.cm_story.get_stamp.description=Ho riavuto il Sigillo Ammiraglio.
+
+advancements.cm_story.weapon.get_workorder.title=Nuove armi e armature
+advancements.cm_story.weapon.get_workorder.description=Ho un Ordine di lavoro.
+advancements.cm_story.weapon.get_ammo.title=Crea una munizioni
+advancements.cm_story.weapon.get_ammo.description=Ho una munizioni.
+advancements.cm_story.weapon.get_rensouhou.title=Crea un cannone
+advancements.cm_story.weapon.get_rensouhou.description=Ho un cannone.
+advancements.cm_story.weapon.get_kansaiki.title=Ritorno al lanciatore
+advancements.cm_story.weapon.get_kansaiki.description=Ho un aereo d'attacco.
+advancements.cm_story.weapon.get_armor.title=Armatura più forte
+advancements.cm_story.weapon.get_armor.description=Ho un'armatura di ChinjufuMod.
+advancements.cm_story.weapon.get_bootskai.title=Correndo sull'acqua
+advancements.cm_story.weapon.get_bootskai.description=Ho degli stivali migliorati.
+advancements.cm_story.weapon.get_firstaid.title=Evita la morte!
+advancements.cm_story.weapon.get_firstaid.description=Ho un kit di pronto soccorso.
+advancements.cm_story.weapon.get_submarine.title=Viaggio sottomarino
+advancements.cm_story.weapon.get_submarine.description=Ho un'armatura tipo sommergibile.
+	
+advancements.cm_story.teatime.get_cookingtool.title=Crea uno strumento di cottura
+advancements.cm_story.teatime.get_cookingtool.description= Ho uno strumento di cottura.
+advancements.cm_story.teatime.get_singledish.title=Io sono uno chef.
+advancements.cm_story.teatime.get_singledish.description=Ho un piatto unico.
+advancements.cm_story.teatime.get_teishoku.title=Mangia molto
+advancements.cm_story.teatime.get_teishoku.description=Ho un piatto menu.
+advancements.cm_story.teatime.get_tea.title=Prenditi una pausa
+advancements.cm_story.teatime.get_tea.description=Ho una tazza di tè.
+advancements.cm_story.teatime.get_teastand.title=L'ora del tè è importante
+advancements.cm_story.teatime.get_teastand.description=Ho un Tea stand con Scone.
+
+advancements.cm_story.taru.get_koubo.title=Il mondo della fermentazione
+advancements.cm_story.taru.get_koubo.description=Ho il lievito.
+advancements.cm_story.taru.get_taru.title=Crea una botte di fermentazione
+advancements.cm_story.taru.get_taru.description=Ho una botte di fermentazione.
+advancements.cm_story.taru.get_wine.title=Imbottigliamento vino
+advancements.cm_story.taru.get_wine.description=Ho il vino.
+advancements.cm_story.taru.get_wineglass.title=Salute!
+advancements.cm_story.taru.get_wineglass.description=Ho un vetro con vino.
+advancements.cm_story.taru.get_vinegar.title=Imbottigliamento aceto di riso
+advancements.cm_story.taru.get_vinegar.description=Ho l'aceto di riso.
+advancements.cm_story.taru.get_sushi.title=Sono uno chef di SUSHI.
+advancements.cm_story.taru.get_sushi.description=Ho un SUSHI.
+advancements.cm_story.taru.get_shouyu.title=Imbottigliamento salsa di soia
+advancements.cm_story.taru.get_shouyu.description=Ho una salsa di soia.
+advancements.cm_story.taru.get_shouyusushi.title=Delizioso SUSHI
+advancements.cm_story.taru.get_shouyusushi.description=Ho un SUSHI con salsa di soia.
+
+advancements.cm_story.season.get_1_newyear.title=Felice Anno Nuovo
+advancements.cm_story.season.get_1_newyear.description=Ho una decorazione per il nuovo anno.
+advancements.cm_story.season.get_2_valentine.title=Buon San Valentino
+advancements.cm_story.season.get_2_valentine.description=Ho un Cioccolato a forma di cuore.
+advancements.cm_story.season.get_3_hinakazari.title=HINAMATSURI
+advancements.cm_story.season.get_3_hinakazari.description=Ho un HINAKAZARI.
+advancements.cm_story.season.get_4_sakura.title=Stagione di Ciliegio
+advancements.cm_story.season.get_4_sakura.description=Ho dei Ciliegio fiore.
+advancements.cm_story.season.get_5_tealeaf.title=Raccolta delle foglie di tè
+advancements.cm_story.season.get_5_tealeaf.description=Ho le foglie di tè.
+advancements.cm_story.season.get_6_kasa.title=Stagione della pioggia
+advancements.cm_story.season.get_6_kasa.description=Ho un WAGASA blocco.
+advancements.cm_story.season.get_7_kakigouri.title=Stagione di Kakigōri
+advancements.cm_story.season.get_7_kakigouri.description=Ho un Kakigōri.
+advancements.cm_story.season.get_8_yukata.title=Stagione di YUKATA
+advancements.cm_story.season.get_8_yukata.description=Ho uno YUKATA
+advancements.cm_story.season.get_9_harvest.title=Raccolta delle pianta di riso
+advancements.cm_story.season.get_9_harvest.description=Ho una pianta di riso.
+advancements.cm_story.season.get_10_autumn.title=Stagione delle foglie autunnali
+advancements.cm_story.season.get_10_autumn.description=Ho le foglie autunnali.
+advancements.cm_story.season.get_11_kotatsu.title=Preparazione invernale
+advancements.cm_story.season.get_11_kotatsu.description=Ho un KOTATSU.
+advancements.cm_story.season.get_12_xmas.title=Buon Natale
+advancements.cm_story.season.get_12_xmas.description=Ho un albero di Natale.
+
+advancements.cm_story.jpblock.get_sekkai.title=Materiale di blocco in stile giapponese
+advancements.cm_story.jpblock.get_sekkai.description=Ho un materiale di blocco in stile giapponese.
+advancements.cm_story.jpblock.get_jpblock.title=Blocco in stile giapponese
+advancements.cm_story.jpblock.get_jpblock.description=Ho un blocco in stile giapponese.
+advancements.cm_story.jpblock.get_slidedoor.title=Stanza con porta scorrevole
+advancements.cm_story.jpblock.get_slidedoor.description=Ho una porta scorrevole.
+advancements.cm_story.jpblock.get_tatami.title=Stanza TATAMI
+advancements.cm_story.jpblock.get_tatami.description=Ho un TATAMI.
+advancements.cm_story.jpblock.get_jpgarden.title=Giardiniere in stile giapponese
+advancements.cm_story.jpblock.get_jpgarden.description=Ho un blocco per la decorazione del giardino.
+
+advancements.cm_story.crops.get_seedsbox.title=Possibilità di ottenere semi
+advancements.cm_story.crops.get_seedsbox.description=Ho un Sacco di semi.
+advancements.cm_story.crops.get_seeds.title=Coltiviamo i raccolti
+advancements.cm_story.crops.get_seeds.description=Ho i semi di ChinjufuMod.
+advancements.cm_story.crops.get_crops.title=Festa del raccolto
+advancements.cm_story.crops.get_crops.description=Ho i raccolti di ChinjufuMod.
+
+advancements.cm_story.fishing.toami.title=Alla ricerca di una grande cattura
+advancements.cm_story.fishing.toami.description=Ho un Giacchio.
+advancements.cm_story.fishing.squid.title=Nuovo pesce
+advancements.cm_story.fishing.squid.description=Ho un Calamaro crudo.
+advancements.cm_story.fishing.shikake.title=In attesa di pesce
+advancements.cm_story.fishing.shikake.description=Ho una Trappola per pesci.
+advancements.cm_story.fishing.youshoku.title=Pesca strategica
+advancements.cm_story.fishing.youshoku.description=Ho una Rete per acquacoltura.
+
+advancements.cm_story.crops.get_seeds_spice.title=Coltivare le spezie.
+advancements.cm_story.crops.get_seeds_spice.description=Ho un seme di spezie.
+advancements.cm_story.crops.get_pepper.title=Il re delle spezie
+advancements.cm_story.crops.get_pepper.description=Ho il pepe nero.
+advancements.cm_story.crops.get_curry_roux.title=Cuciniamo un curry e riso
+advancements.cm_story.crops.get_curry_roux.description=Ho un roux al curry.
+advancements.cm_story.crops.get_curry.title=Sono uno chef di curry.
+advancements.cm_story.crops.get_curry.description=Ho un curry e riso.
+
+#config
+config.bauxiteore.enabledGenerator=Generazione di Bauxite grezzo
+config.bauxiteore.enabledGenerator.tooltip=Se impostato su [true], genererà Bauxite grezzo.
+config.bauxiteore.chance=Frequenza di Bauxite grezzo
+config.bauxiteore.chance.tooltip=Redstone grezza=25, Oro grezzo=8
+
+config.cherrybiome.register=Registrazione Ciliegio Bioma
+config.cherrybiome.register.tooltip=Se impostato su [true], genererà Ciliegio Bioma.
+config.cherrybiome.chance=Frequenza di Ciliegio biome
+config.cherrybiome.chance.tooltip=Comune=19, Raro=1
+config.cherrytree.chance=Frequenza di albero di Ciliegio
+config.cherrytree.chance.tooltip=Comune=19, Raro=1
+
+config.acerbiome.register=Registrazione Acer Bioma
+config.acerbiome.register.tooltip=Se impostato su [true], genererà Acer Bioma.
+config.acerbiome.chance=Frequenza di Acer Bioma
+config.acerbiome.chance.tooltip=Comune=Comune=19, Raro=1
+config.acertree.chance=Frequenza di albero di Acer
+config.acertree.chance.tooltip=Comune=19, Raro=1
+
+config.ginkgobiome.register=Registrazione Ginkgo Bioma
+config.ginkgobiome.register.tooltip=Se impostato su [true], genererà Ginkgo Bioma.
+config.ginkgobiome.chance=Frequenza di Ginkgo Bioma
+config.ginkgobiome.chance.tooltip=Comune=19, Raro=1
+config.ginkgotree.chance=Frequenza di albero di Ginkgo
+config.ginkgotree.chance.tooltip=Comune=19, Raro=1
+
+config.blastblockbreak.enabled=Munizioni Esplosione rompe i blocchi
+config.blastblockbreak.enabled.tooltip=Se impostato su [true], rompere i blocchi con un'esplosione di munizioni.
+
+config.antiShadow=Cancella l'ombra della porta scorrevole con il valore di luce 1.
+config.usemakimono=Usa i blocchi di rotolo
+config.usemakimono.tooltip=Se impostato su [true], puoi usare il blocco di rotolo.
+
+config.chestnutsfall=Le castagne cadono dalla quercia autunnale foglie.
+config.chestnutsfall.tooltip=Se impostato su [true], le castagne cadono dalla quercia autunnale foglie.
+config.lowsound=Suono a bassa elaborazione su aereo imbarcato.
+config.lowsound.tooltip=Se impostato su [true], usa un suono con un'elaborazione più bassa su aereo imbarcato.
+
+config.helmet_texture=Texture di elmo di ChinjufuMod
+config.helmet_texture.tooltip=Tutto=0, Senza vestiti=1, Solo vestiti=2
+config.chestplate_texture=Texture di corazza di ChinjufuMod
+config.chestplate_texture.tooltip=Tutto=0, Senza vestiti=1, Solo vestiti=2
+config.leggings_texture=Texture di gambiera di ChinjufuMod
+config.leggings_texture.tooltip=Tutto=0, Senza vestiti=1, Solo vestiti=2
+config.boots_texture=Texture di stivali di ChinjufuMod
+config.boots_texture.tooltip=Tutto=0, Senza vestiti=1, Solo vestiti=2
+
+
+
+#Block
+tile.block_empty_box.name=Scatola vuota
+item.block_fuel_can.name=Lattine di carburante
+item.block_ammunition_box.name=Scatola di munizioni
+item.block_steel_block.name=Blocco di acciaio
+item.block_copper_block.name=Lingotti di rame
+item.block_gold_block.name=Lingotti d'oro
+item.block_netherite_block.name=Lingotti di netherite
+item.block_bauxite_box.name=Scatola di bauxite
+tile.block_stamp_block.name=Sigillo Ammiraglio_blocco
+tile.block_bauxite_ore.name=Bauxite grezzo
+item.block_bauxite_ore_deep.name=Bauxite grezzo in ardesia profonda
+	
+#Item
+item.item_emblem_c.name=Emblema
+item.item_admiralstamp.name=Sigillo Ammiraglio
+item.item_admiralstamp_b.name=Sigillo Ammiraglio
+item.item_workorder.name=Ordine di lavoro
+item.item_bauxite.name=Bauxite
+item.item_sumi_c.name=SUMI
+item.item_shousekkai_c.name=Calce spenta
+item.item_claykawara.name=Argilla modellata_KAWARA
+
+tips.item_admiral_stamp.name=Articolo usato come materiale di artigianato.
+tips.item_sumi.name=Fuliggine curata con adesivo.
+tips.item_shousekkai_c.name=Materiale di SHIKKUI.
+tips.item_claykawara.name=Bruciare in un fornace, questo si trasforma in KAWARA.
+
+#Weapon
+item.item_ammunition_kc.name=Munizioni grandi
+item.item_ammunition_medium.name=Munizioni medio
+item.item_ammunition_small.name=Munizioni piccole
+
+item.item_cartridge_kc.name=Bossoli vuoti grandi
+item.item_cartridge_medium.name=Bossoli vuoti medio
+item.item_cartridge_small.name=Bossoli vuoti piccole
+item.item_nugget_iron.name=Grumi di ferro
+
+item.item_anchor.name=Ancora
+item.item_rensouhou127.name=Cannone navale da 12.7cm
+item.item_shigurehou.name=SHIGURE cannone
+item.item_koukakuhou100.name=Cannone navale antiaereo da 10.0cm
+tips.item_rensouhou127.name=Basic:3.0D, PlayerLV≧12:3.5D, LV≧19:4.0D, LV≧25:4.5D
+tips.item_shigurehou.name=Basic:3.0D, PlayerLV≧12:3.5D, LV≧19:4.0D, LV≧25:4.5D
+tips.item_koukakuhou100.name=Basic:3.5D, PlayerLV≧12:4.0D, LV≧19:4.5D, LV≧25:5.0D
+
+item.item_rensouhou155.name=Cannone navale da 15.5cm
+item.item_rensouhou203.name=Cannone navale da 20.3cm
+item.item_rensouhou203_skc34.name=SKC34 cannone navale da 20.3cm
+tips.item_rensouhou155.name=Basic:4.5D, PlayerLV≧12:5.0D, LV≧19:5.5D, LV≧25:6.0D
+tips.item_rensouhou203.name=Basic:5.0D, PlayerLV≧12:5.5D, LV≧19:6.0D, LV≧25:6.5D
+tips.item_rensouhou203_skc34.name=Basic:6.0D, PlayerLV≧12:6.5D, LV≧19:7.0D, LV≧25:7.5D
+	
+item.item_rensouhou356.name=Cannone navale da 35.6cm
+item.item_rensouhou356_s3.name=Triplicare cannone navale da 35.6cm
+item.item_rensouhou380.name=Cannone navale da 38.0cm
+item.item_rensouhou410.name=Cannone navale da 41.0cm
+tips.item_rensouhou356.name=Basic:7.5D, PlayerLV≧12:8.0D, LV≧19:8.5D, LV≧25:9.0D
+tips.item_rensouhou356_s3.name=Basic:9.0D, PlayerLV≧12:9.5D, LV≧19:10.0D, LV≧25:10.5D
+tips.item_rensouhou380.name=Basic:8.0D, PlayerLV≧12:8.5D, LV≧19:9.0D, LV≧25:9.5D
+tips.item_rensouhou410.name=Basic:9.0D, PlayerLV≧12:9.5D, LV≧19:10.0D, LV≧25:10.5D
+	
+tips.item_rensouhou_large.name=Sparare grandi munizioni e attacca gli esseri viventi.
+tips.item_rensouhou_medium.name=Sparare medio munizioni e attacca gli esseri viventi.
+tips.item_rensouhou_small.name=Sparare piccole munizioni e attacca gli esseri viventi.
+text.chinjufumod.rightclick.empty_ammo.name=Finite le munizioni
+text.chinjufumod.rightclick.empty_fuel.name=Finito il carburante.
+
+item.item_kk_type97.name=Type97 Torpedo Bomber (Kate)
+item.item_kk_tenzan.name=TENZAN (Jill)
+item.item_kk_ryusei.name=RYUSEI (Grace)
+item.item_kk_swordfish.name=Swordfish
+item.item_kk_barracuda.name=Barracuda Mk.II
+item.item_kk_mosquito.name=Mosquito TR Mk.33
+item.item_kk_tbf.name=TBF Avenger
+	
+item.item_kb_type99.name=Type99 Carrier Bomber (Val)
+item.item_kb_suisei.name=SUISEI (Judy)
+item.item_kb_typezero.name=Type0 Carrier Bomber
+item.item_kb_re2001.name=Re.2001
+item.item_kb_ju87.name=Ju87C
+item.item_kb_sbd.name=SBD Dauntless
+item.item_kb_f4u.name=F4U-4 Corsair
+item.item_kk_fuel.name=Carburante di aereo imbarcato
+tips.item_kk_fuel.name=Aereo imbarcato consumalo.
+tips.item_kk.name=Consumare un carburante di aereo imbarcato per volare. Attacca i mostri.
+
+tips.item_kk_5f.name=Basic:5.0F, PlayerLV≧12:6.0F, LV≧19:7.0F, LV≧25:8.0F
+tips.item_kk_7f.name=Basic:7.0F, PlayerLV≧12:8.0F, LV≧19:9.0F, LV≧25:10.0F
+tips.item_kk_8f.name=Basic:9.0F, PlayerLV≧12:10.0F, LV≧19:11.0F, LV≧25:12.0F
+tips.item_kk_9f.name=Basic:9.0F, PlayerLV≧12:10.0F, LV≧19:11.0F, LV≧25:12.0F
+tips.item_kk_10f.name=Basic:10.0F, PlayerLV≧12:11.0F, LV≧19:12.0F, LV≧25:13.0F
+tips.item_kk_11f.name=Basic:11.0F, PlayerLV≧12:12.0F, LV≧19:13.0F, LV≧25:14.0F
+	
+item.item_gyorai_61cm.name=Siluro da 61cm
+tips.item_gyorai.name=Fare clic con il tasto destro per lanciarlo contro la creatura.
+tips.item_gyorai2.name=Basic:10.0F, PlayerLV≧12:11.0F, LV≧19:12.0F, LV≧25:13.0F
+item.item_binoculars.name=Binocolo
+
+#Armor
+item.item_fubuki_helmet.name=FUBUKI tipo Elmo
+item.item_fubuki_chestplate.name=FUBUKI tipo Corazza
+item.item_fubuki_leggings.name=FUBUKI tipo Gambiera
+item.item_fubuki_boots.name=FUBUKI tipo Stivali
+item.item_fubuki_bootskai.name=FUBUKI tipo Stivali migliorati
+	
+item.item_kasumi_helmet.name=KASUMI tipo Elmo
+item.item_kasumi_chestplate.name=KASUMI tipo Corazza
+item.item_kasumi_leggings.name=KASUMI tipo Gambiera
+item.item_kasumi_boots.name=KASUMI tipo Stivali
+item.item_kasumi_bootskai.name=KASUMI tipo Stivali migliorati
+	
+item.item_shigure_helmet.name=SHIGURE tipo Elmo
+item.item_shigure_chestplate.name=SHIGURE tipo Corazza
+item.item_shigure_leggings.name=SHIGURE tipo Gambiera
+item.item_shigure_boots.name=SHIGURE tipo Stivali
+item.item_shigure_bootskai.name=SHIGURE tipo Stivali migliorati
+	
+item.item_shiratsuyu_helmet.name=SHIRATSUYU tipo Elmo
+item.item_shiratsuyu_chestplate.name=SHIRATSUYU tipo Corazza
+item.item_shiratsuyu_leggings.name=SHIRATSUYU tipo Gambiera
+item.item_shiratsuyu_boots.name=SHIRATSUYU tipo Stivali
+item.item_shiratsuyu_bootskai.name=SHIRATSUYU tipo Stivali migliorati
+		
+item.item_akatsuki_helmet.name=AKATSUKI tipo Elmo
+item.item_akatsuki_chestplate.name=AKATSUKI tipo Corazza
+item.item_akatsuki_leggings.name=AKATSUKI tipo Gambiera
+item.item_akatsuki_boots.name=AKATSUKI tipo Stivali
+item.item_akatsuki_bootskai.name=AKATSUKI tipo Stivali migliorati
+
+item.item_sendai_helmet.name=SENDAI tipo Elmo
+item.item_sendai_chestplate.name=SENDAI tipo Corazza
+item.item_sendai_leggings.name=SENDAI tipo Gambiera
+item.item_sendai_boots.name=SENDAI tipo Stivali
+item.item_sendai_bootskai.name=SENDAI tipo Stivali migliorati
+
+item.item_yura_helmet.name=YURA tipo Elmo
+item.item_yura_chestplate.name=YURA tipo Corazza
+item.item_yura_leggings.name=YURA tipo Gambiera
+item.item_yura_boots.name=YURA tipo Stivali
+item.item_yura_bootskai.name=YURA tipo Stivali migliorati
+	
+item.item_mogami_helmet.name=MOGAMI tipo Elmo
+item.item_mogami_chestplate.name=MOGAMI tipo Corazza
+item.item_mogami_leggings.name=MOGAMI tipo Gambiera
+item.item_mogami_boots.name=MOGAMI tipo Stivali
+item.item_mogami_bootskai.name=MOGAMI tipo Stivali migliorati
+	
+item.item_tone_helmet.name=TONE tipo Elmo
+item.item_tone_chestplate.name=TONE tipo Corazza
+item.item_tone_leggings.name=TONE tipo Gambiera
+item.item_tone_boots.name=TONE tipo Stivali
+item.item_tone_bootskai.name=TONE tipo Stivali migliorati
+	
+item.item_ryujou_helmet.name=RYUJOU tipo Elmo
+item.item_ryujou_chestplate.name=RYUJOU tipo Corazza
+item.item_ryujou_leggings.name=RYUJOU tipo Gambiera
+item.item_ryujou_boots.name=RYUJOU tipo Stivali
+item.item_ryujou_bootskai.name=RYUJOU tipo Stivali migliorati
+
+item.item_zuihou_helmet.name=ZUIHOU tipo Elmo
+item.item_zuihou_chestplate.name=ZUIHOU tipo Corazza
+item.item_zuihou_leggings.name=ZUIHOU tipo Gambiera
+item.item_zuihou_boots.name=ZUIHOU tipo Stivali
+item.item_zuihou_bootskai.name=ZUIHOU tipo Stivali migliorati
+
+item.item_akagi_helmet.name=AKAGI tipo Elmo
+item.item_akagi_chestplate.name=AKAGI tipo Corazza
+item.item_akagi_leggings.name=AKAGI tipo Gambiera
+item.item_akagi_boots.name=AKAGI tipo Stivali
+item.item_akagi_bootskai.name=AKAGI tipo Stivali migliorati
+	
+item.item_kaga_helmet.name=KAGA tipo Elmo
+item.item_kaga_chestplate.name=KAGA tipo Corazza
+item.item_kaga_leggings.name=KAGA tipo Gambiera
+item.item_kaga_boots.name=KAGA tipo Stivali
+item.item_kaga_bootskai.name=KAGA tipo Stivali migliorati
+	
+item.item_kongou_helmet.name=KONGOU tipo Elmo
+item.item_kongou_chestplate.name=KONGOU tipo Corazza
+item.item_kongou_leggings.name=KONGOU tipo Gambiera
+item.item_kongou_boots.name=KONGOU tipo Stivali
+item.item_kongou_bootskai.name=KONGOU tipo Stivali migliorati
+	
+item.item_fusou_helmet.name=FUSOU tipo Elmo
+item.item_fusou_chestplate.name=FUSOU tipo Corazza
+item.item_fusou_leggings.name=FUSOU tipo Gambiera
+item.item_fusou_boots.name=FUSOU tipo Stivali
+item.item_fusou_bootskai.name=FUSOU tipo Stivali migliorati
+	
+item.item_nagato_helmet.name=NAGATO tipo Elmo
+item.item_nagato_chestplate.name=NAGATO tipo Corazza
+item.item_nagato_leggings.name=NAGATO tipo Gambiera
+item.item_nagato_boots.name=NAGATO tipo Stivali
+item.item_nagato_bootskai.name=NAGATO tipo Stivali migliorati
+
+item.item_i168_helmet.name=I-168 tipo Elmo
+item.item_i168_chestplate.name=I-168 tipo Corazza
+item.item_i168_leggings.name=I-168 tipo Gambiera
+item.item_i168_boots.name=I-168 tipo Stivali
+
+item.item_i13_helmet.name=I-13 tipo Elmo
+item.item_i13_chestplate.name=I-13 tipo Corazza
+item.item_i13_leggings.name=I-13 tipo Gambiera
+item.item_i13_boots.name=I-13 tipo Stivali
+	
+item.item_ro500_helmet.name=Ro-500 tipo Elmo
+item.item_ro500_chestplate.name=Ro-500 tipo Corazza
+item.item_ro500_leggings.name=Ro-500 tipo Gambiera
+item.item_ro500_boots.name=Ro-500 tipo Stivali
+
+tips.item_suijou_boots.name=Correndo sull'acqua
+tips.item_destroyer.name=Tipo : Cacciatorpediniere
+tips.item_cruiser.name=Tipo : Incrociatore 
+tips.item_battleship.name=Tipo : Nave da battaglia
+tips.item_carrier.name=Tipo : Portaerei
+tips.item_sabumarine.name=Tipo : Sommergibile
+tips.item_destroyer2.name=4 pezzi : Aumenta la potenza d'attacco di cannoni piccoli, siluri e ancore.
+tips.item_cruiser2.name=4 pezzi : Aumenta la potenza d'attacco di cannoni medi e siluri.
+tips.item_battleship2.name=4 pezzi : Aumenta la potenza d'attacco dei cannoni grandi.
+tips.item_carrier2.name=4 pezzi : Aumenta la potenza d'attacco degli aerei.
+tips.item_sabumarine2.name=4 pezzi : Aumenta la potenza d'attacco di siluri. Respirazione acquatica.
+
+count.amount.20=Importo residuo : 20
+count.amount.19=Importo residuo : 19
+count.amount.18=Importo residuo : 18
+count.amount.17=Importo residuo : 17
+count.amount.16=Importo residuo : 16
+count.amount.15=Importo residuo : 15
+count.amount.14=Importo residuo : 14
+count.amount.13=Importo residuo : 13
+count.amount.12=Importo residuo : 12
+count.amount.11=Importo residuo : 11
+count.amount.10=Importo residuo : 10
+count.amount.9=Importo residuo : 9
+count.amount.8=Importo residuo : 8
+count.amount.7=Importo residuo : 7
+count.amount.6=Importo residuo : 6
+count.amount.5=Importo residuo : 5
+count.amount.4=Importo residuo : 4
+count.amount.3=Importo residuo : 3
+count.amount.2=Importo residuo : 2
+count.amount.1=Importo residuo : 1
+count.amount.0=Importo residuo : Vuoto
+	
+
+#LetterTray
+item.block_lowdesk.name=Bassa scrivania
+item.block_lowdesk_acacia.name=Bassa scrivania_acacia
+item.block_lowdesk_birch.name=Bassa scrivania_betulla
+item.block_lowdesk_darkoak.name=Bassa scrivania_quercia scura
+item.block_lowdesk_jungle.name=Bassa scrivania_giungla
+item.block_lowdesk_spruce.name=Bassa scrivania_abete
+item.block_lowdesk_ichoh.name=Bassa scrivania_ginkgo
+item.block_lowdesk_kaede.name=Bassa scrivania_acer
+item.block_lowdesk_sakura.name=Bassa scrivania_ciliegio
+
+item.block_lettertray_c.name=Quill penna set
+item.block_fudetray_c.name=Pennello e inchiostro di pietra
+tips.block_lettertray.name=Usando un libro e 10 punti EX, scrivi un libro incantato a caso.
+	
+#Funiture
+item.block_admiralchair.name=Sedia ammiraglio
+item.block_admiralchair_red.name=Sedia ammiraglio rosso
+
+item.block_unitdesk.name=Unità di scrivania
+item.block_unitdesk_acacia.name=Unità di scrivania_acacia
+item.block_unitdesk_birch.name=Unità di scrivania_betulla
+item.block_unitdesk_darkoak.name=Unità di scrivania_quercia scura
+item.block_unitdesk_jungle.name=Unità di scrivania_giungla
+item.block_unitdesk_spruce.name=Unità di scrivania_abete
+item.block_unitdesk_ichoh.name=Unità di scrivania_ginkgo
+item.block_unitdesk_kaede.name=Unità di scrivania_acer
+item.block_unitdesk_sakura.name=Unità di scrivania_ciliegio
+
+item.block_dressingtable.name=Toletta
+item.block_dressingtable_a.name=Toletta_acacia
+item.block_dressingtable_b.name=Toletta_betulla
+item.block_dressingtable_d.name=Toletta_quercia scura
+item.block_dressingtable_j.name=Toletta_giungla
+item.block_dressingtable_s.name=Toletta_abete
+
+item.block_diningchair.name=Sedia da pranzo
+item.block_diningchair_a.name=Sedia da pranzo_acacia
+item.block_diningchair_b.name=Sedia da pranzo_betulla
+item.block_diningchair_d.name=Sedia da pranzo_quercia scura
+item.block_diningchair_j.name=Sedia da pranzo_giungla
+item.block_diningchair_s.name=Sedia da pranzo_abete
+
+item.block_cafechair_black.name=Sedia caffè nero
+item.block_cafechair_blue.name=Sedia caffè blu
+item.block_cafechair_brown.name=Sedia caffè marrone
+item.block_cafechair_cyan.name=Sedia caffè ciano
+item.block_cafechair_gray.name=Sedia caffè grigia
+item.block_cafechair_green.name=Sedia caffè verde
+item.block_cafechair_lightb.name=Sedia caffè azzurra
+item.block_cafechair_lightg.name=Sedia caffè grigio chiaro
+item.block_cafechair_lime.name=Sedia caffè lime
+item.block_cafechair_magenta.name=Sedia caffè magenta
+item.block_cafechair_orange.name=Sedia caffè arancione
+item.block_cafechair_pink.name=Sedia caffè rosa
+item.block_cafechair_purple.name=Sedia caffè viola
+item.block_cafechair_red.name=Sedia caffè rosso
+item.block_cafechair_white.name=Sedia caffè bianca
+item.block_cafechair_yellow.name=Sedia caffè gialla
+
+item.block_zaisu_black.name=ZAISU nero
+item.block_zaisu_blue.name=ZAISU blu
+item.block_zaisu_brown.name=ZAISU marrone
+item.block_zaisu_cyan.name=ZAISU ciano
+item.block_zaisu_gray.name=ZAISU grigia
+item.block_zaisu_green.name=ZAISU verde
+item.block_zaisu_lightb.name=ZAISU azzurra
+item.block_zaisu_lightg.name=ZAISU grigio chiaro
+item.block_zaisu_lime.name=ZAISU lime
+item.block_zaisu_magenta.name=ZAISU magenta
+item.block_zaisu_orange.name=ZAISU arancione
+item.block_zaisu_pink.name=ZAISU rosa
+item.block_zaisu_purple.name=ZAISU viola
+item.block_zaisu_red.name=ZAISU rosso
+item.block_zaisu_white.name=ZAISU bianca
+item.block_zaisu_yellow.name=ZAISU gialla
+
+tips.block_zaisu.name=Fare clic destro per sedersi. Sedia senza gambe.
+tips.block_isu.name=Fare clic destro per sedersi.
+
+#School
+tile.block_blackboard.name=Lavagna
+
+item.block_schoolchair.name=Scuola sedia
+item.block_schoolchair_a.name=Scuola sedia_acacia
+item.block_schoolchair_b.name=Scuola sedia_betulla
+item.block_schoolchair_d.name=Scuola sedia_quercia scura
+item.block_schoolchair_j.name=Scuola sedia_giungla
+item.block_schoolchair_s.name=Scuola sedia_abete
+
+item.block_schooldesk.name=Scuola scrivania
+item.block_schooldesk_a.name=Scuola scrivania_acacia
+item.block_schooldesk_b.name=Scuola scrivania_betulla
+item.block_schooldesk_d.name=Scuola scrivania_quercia scura
+item.block_schooldesk_j.name=Scuola scrivania_giungla
+item.block_schooldesk_s.name=Scuola scrivania_abete
+
+item.block_teacherdesk.name=Insegnanti scrivania
+item.block_teacherdesk_a.name=Insegnanti scrivania_acacia
+item.block_teacherdesk_b.name=Insegnanti scrivania_betulla
+item.block_teacherdesk_d.name=Insegnanti scrivania_quercia scura
+item.block_teacherdesk_j.name=Insegnanti scrivania_giungla
+item.block_teacherdesk_s.name=Insegnanti scrivania_abete
+
+item.block_window.name=Finestra
+item.block_window_acacia.name=Finestra_acacia
+item.block_window_birch.name=Finestra_betulla
+item.block_window_darkoak.name=Finestra_quercia scura
+item.block_window_jungle.name=Finestra_giungla
+item.block_window_spruce.name=Finestra_abete
+item.block_window_ichoh.name=Finestra_ginkgo
+item.block_window_kaede.name=Finestra_acer
+item.block_window_sakura.name=Finestra_ciliegio
+
+tips.block_window.name=Retromarcia, mettendolo in accovacciati. Fare clic destro [apri / chiudi].
+
+item.block_windowb.name=Doppia finestra
+item.block_windowb_acacia.name=Doppia finestra_acacia
+item.block_windowb_birch.name=Doppia finestra_betulla
+item.block_windowb_darkoak.name=Doppia finestra_quercia scura
+item.block_windowb_jungle.name=Doppia finestra_giungla
+item.block_windowb_spruce.name=Doppia finestra_abete
+item.block_windowb_ichoh.name=Doppia finestra_ginkgo
+item.block_windowb_kaede.name=Doppia finestra_acer
+item.block_windowb_sakura.name=Doppia finestra_ciliegio
+tips.block_windowb.name=Fare clic destro [apri / chiudi].
+
+item.block_windowtall.name=Finestra alta
+item.block_windowtall_acacia.name=Finestra alta_acacia
+item.block_windowtall_birch.name=Finestra alta_betulla
+item.block_windowtall_darkoak.name=Finestra alta_quercia scura
+item.block_windowtall_jungle.name=Finestra alta_giungla
+item.block_windowtall_spruce.name=Finestra alta_abete
+item.block_windowtall_ichoh.name=Finestra alta_ginkgo
+item.block_windowtall_kaede.name=Finestra alta_acer
+item.block_windowtall_sakura.name=Finestra alta_ciliegio
+
+item.block_windowtallbot.name=Finestra a ghigliottina
+item.block_windowtallbot_acacia.name=Finestra a ghigliottina_acacia
+item.block_windowtallbot_birch.name=Finestra a ghigliottina_betulla
+item.block_windowtallbot_darkoak.name=Finestra a ghigliottina_quercia scura
+item.block_windowtallbot_jungle.name=Finestra a ghigliottina_giungla
+item.block_windowtallbot_spruce.name=Finestra a ghigliottina_abete
+item.block_windowtallbot_ichoh.name=Finestra a ghigliottina_ginkgo
+item.block_windowtallbot_kaede.name=Finestra a ghigliottina_acer
+item.block_windowtallbot_sakura.name=Finestra a ghigliottina_ciliegio
+
+tile.block_stovechimney_joint.name=Base camino
+tile.block_stovechimney.name=Camino
+tile.block_stovechimney_topk.name=Comignolo_ombrello
+
+#Mamiya
+item.block_mendai.name=Panca
+item.block_mendai_red.name=Panca rosso
+
+item.block_mzabuton_black.name=ZABUTON nero
+item.block_mzabuton_blue.name=ZABUTON blu
+item.block_mzabuton_brown.name=ZABUTON marrone
+item.block_mzabuton_cyan.name=ZABUTON ciano
+item.block_mzabuton_gray.name=ZABUTON grigia
+item.block_mzabuton_green.name=ZABUTON verde
+item.block_mzabuton_lightb.name=ZABUTON azzurra
+item.block_mzabuton_lightg.name=ZABUTON grigio chiaro
+item.block_mzabuton_lime.name=ZABUTON lime
+item.block_mzabuton_magenta.name=ZABUTON magenta
+item.block_mzabuton_orange.name=ZABUTON arancione
+item.block_mzabuton_pink.name=ZABUTON rosa
+item.block_mzabuton_purple.name=ZABUTON viola
+item.block_mzabuton_red.name=ZABUTON rosso
+item.block_mzabuton_white.name=ZABUTON bianca
+item.block_mzabuton_yellow.name=ZABUTON gialla
+item.block_wara_zabuton.name=ZABUTON paglia
+
+tips.block_mzabuton.name=Fare clic destro per sedersi. Cuscino seduta.
+
+item.block_cafetable.name=Caffè tavola
+item.block_cafetable_acacia.name=Caffè tavola_acacia
+item.block_cafetable_birch.name=Caffè tavola_betulla
+item.block_cafetable_darkoak.name=Caffè tavola_quercia scura
+item.block_cafetable_jungle.name=Caffè tavola_giungla
+item.block_cafetable_spruce.name=Caffè tavola_abete
+item.block_cafetable_ichoh.name=Caffè tavola_ginkgo
+item.block_cafetable_kaede.name=Caffè tavola_acer
+item.block_cafetable_sakura.name=Caffè tavola_ciliegio
+
+item.block_logchair.name=Sedia tronchi
+item.block_logchair_acacia.name=Sedia tronchi_acacia
+item.block_logchair_birch.name=Sedia tronchi_betulla
+item.block_logchair_darkoak.name=Sedia tronchi_quercia scura
+item.block_logchair_jungle.name=Sedia tronchi_giungla
+item.block_logchair_spruce.name=Sedia tronchi_abete
+item.block_logchair_ichoh.name=Sedia tronchi_ginkgo
+item.block_logchair_kaede.name=Sedia tronchi_acer
+item.block_logchair_sakura.name=Sedia tronchi_ciliegio
+
+item.block_mkasa_black.name=WAGASA blocco nero
+item.block_mkasa_blue.name=WAGASA blocco blu
+item.block_mkasa_brown.name=WAGASA blocco marrone
+item.block_mkasa_cyan.name=WAGASA blocco ciano
+item.block_mkasa_gray.name=WAGASA blocco grigia
+item.block_mkasa_green.name=WAGASA blocco verde
+item.block_mkasa_lightb.name=WAGASA blocco azzurra
+item.block_mkasa_lightg.name=WAGASA blocco grigio chiaro
+item.block_mkasa_lime.name=WAGASA blocco lime
+item.block_mkasa_magenta.name=WAGASA blocco magenta
+item.block_mkasa_orange.name=WAGASA blocco arancione
+item.block_mkasa_pink.name=WAGASA blocco rosa
+item.block_mkasa_purple.name=WAGASA blocco viola
+item.block_mkasa_red.name=WAGASA blocco rosso
+item.block_mkasa_white.name=WAGASA blocco bianca
+item.block_mkasa_yellow.name=WAGASA blocco gialla
+
+tips.block_mkasa.name=Blocco decorativo. Ombrello in stile giapponese.
+
+#Harbor
+tile.block_keikai.name=Blocco avvertimento
+tile.block_keiryukui.name=Mucchio di ormeggio
+tile.block_keiryukui_b.name=Mucchio di ormeggio nero
+
+item.block_ctruss.name=Traliccio
+item.block_ctruss_black.name=Traliccio nero
+item.block_ctruss_blue.name=Traliccio blu
+item.block_ctruss_brown.name=Traliccio marrone
+item.block_ctruss_cyan.name=Traliccio ciano
+item.block_ctruss_gray.name=Traliccio grigia
+item.block_ctruss_green.name=Traliccio verde
+item.block_ctruss_lightb.name=Traliccio azzurra
+item.block_ctruss_lime.name=Traliccio lime
+item.block_ctruss_magenta.name=Traliccio magenta
+item.block_ctruss_orange.name=Traliccio arancione
+item.block_ctruss_pink.name=Traliccio rosa
+item.block_ctruss_purple.name=Traliccio viola
+item.block_ctruss_red.name=Traliccio rosso
+item.block_ctruss_white.name=Traliccio bianca
+item.block_ctruss_yellow.name=Traliccio gialla
+
+#Seasons
+item.block_kagamimochi.name=KAGAMIMOCHI
+tips.block_kagamimochi.name=L'offerta per <TOSHIGAMI>. Per pregare per un buon raccolto. Dec.28-Jan.11
+tile.block_shimenawa.name=SHIMENAWA
+tips.block_shimenawa.name=Decorazione di Capodanno per dare il benvenuto <TOSHIGAMI>. Dillo <TOSHIGAMI> per pulire la casa. Dec.13-Jan.15
+item.block_kadomatsu.name=KADOMATSU
+tips.block_kadomatsu.name=Decorazione di Capodanno per dare il benvenuto <TOSHIGAMI>. Pregare per la longevità. Dec.13-Jan.15
+
+item.block_yunomi.name=YUNOMI
+tips.block_yunomi.name=Coppa del tè giapponese
+
+item.block_chabudai.name=CHABUDAI
+item.block_chabudai_acacia.name=CHABUDAI_acacia
+item.block_chabudai_birch.name=CHABUDAI_betulla
+item.block_chabudai_darkoak.name=CHABUDAI_quercia scura
+item.block_chabudai_jungle.name=CHABUDAI_giungla
+item.block_chabudai_spruce.name=CHABUDAI_abete
+item.block_chabudai_ichoh.name=CHABUDAI_ginkgo
+item.block_chabudai_kaede.name=CHABUDAI_acer
+item.block_chabudai_sakura.name=CHABUDAI_ciliegio
+tips.block_chabudai.name=Tavolino per i pasti.
+
+item.block_kotatsu.name=KOTATSU
+item.block_kotatsu_acacia.name=KOTATSU_acacia
+item.block_kotatsu_birch.name=KOTATSU_betulla
+item.block_kotatsu_darkoak.name=KOTATSU_quercia scura
+item.block_kotatsu_jungle.name=KOTATSU_giungla
+item.block_kotatsu_spruce.name=KOTATSU_abete
+item.block_kotatsu_ichoh.name=KOTATSU_ginkgo
+item.block_kotatsu_kaede.name=KOTATSU_acer
+item.block_kotatsu_sakura.name=KOTATSU_ciliegio
+tips.block_kotatsu.name=Attrezzature di riscaldamento combinando tavolo e trapunta.
+
+tile.block_hinadan.name=HINADAN
+tips.block_hinadan.name=La base di HINAKAZARI.
+tile.block_hinakazari.name=HINAKAZARI
+tips.block_hinakazari.name=Decorazione <HINAMATSURI>. Mar.3 è <HINAMATSURI> a pregare per una crescita sana ragazze.
+
+#Wallpane
+tile.block_pillar_aca_c.name=Pilastro di acacia
+tile.block_pillar_bir_c.name=Pilastro di betulla
+tile.block_pillar_doak_c.name=Pilastro di quercia scura
+tile.block_pillar_jun_c.name=Pilastro di giungla
+tile.block_pillar_oak_c.name=Pilastro di quercia
+tile.block_pillar_spru_c.name=Pilastro di abete
+
+tile.block_rockstairs_and.name=Scalini di andesite
+tile.block_rockstairs_dio.name=Scalini di diorite
+tile.block_rockstairs_gra.name=Scalini di granito
+
+tile.block_rand_slabhalf.name=Lastra di andesite
+tile.block_rdio_slabhalf.name=Lastra di diorite
+tile.block_rgra_slabhalf.name=Lastra di granito
+
+tile.block_brick_and_c.name=Mattoni di andesite
+tile.block_brick_dio_c.name=Mattoni di diorite
+tile.block_brick_gra_c.name=Mattoni di granito
+
+tile.block_brick_and_ch_c.name=Mattoni di andesite intagliati
+tile.block_brick_dio_ch_c.name=Mattoni di diorite intagliati
+tile.block_brick_gra_ch_c.name=Mattoni di granito intagliati
+
+tile.block_brick_and_cr_c.name=Mattoni di andesite incrinati
+tile.block_brick_dio_cr_c.name=Mattoni di diorite incrinati
+tile.block_brick_gra_cr_c.name=Mattoni di granito incrinati
+
+tile.block_brick_and_mos_c.name=Mattoni di andesite muschiosi
+tile.block_brick_dio_mos_c.name=Mattoni di diorite muschiosi
+tile.block_brick_gra_mos_c.name=Mattoni di granito muschiosi
+
+tile.block_brickstairs_and_c.name=Scalini di mattoni di andesite
+tile.block_brickstairs_dio_c.name=Scalini di mattoni di diorite
+tile.block_brickstairs_gra_c.name=Scalini di mattoni di granito
+
+tile.block_bac_slabhalf.name=Lastra di mattoni di andesite
+tile.block_bdc_slabhalf.name=Lastra di mattoni di diorite
+tile.block_bgc_slabhalf.name=Lastra di mattoni di granito
+
+tile.block_brick_stone_pil_c.name=Pilastro di roccia
+tile.block_brick_and_pil_c.name=Pilastro di andesite
+tile.block_brick_dio_pil_c.name=Pilastro di diorite
+tile.block_brick_gra_pil_c.name=Pilastro di granito
+
+tile.block_wp_log_aca.name=Pannello_legno d'acacia
+tile.block_wp_log_bir.name=Pannello_legno di betulla
+tile.block_wp_log_doak.name=Pannello_legno di quercia scura
+tile.block_wp_log_jun.name=Pannello_legno della giungla
+tile.block_wp_log_oak.name=Pannello_legno di quercia
+tile.block_wp_log_spru.name=Pannello_legno d'abete
+
+tile.block_wp_plank_aca.name=Pannello_acacia
+tile.block_wp_plank_bir.name=Pannello_betulla
+tile.block_wp_plank_doak.name=Pannello_quercia scur
+tile.block_wp_plank_jun.name=Pannello_giungla
+tile.block_wp_plank_oak.name=Pannello_quercia
+tile.block_wp_plank_spru.name=Pannello_abete
+
+tile.block_wp_stone.name=Pannello_roccia
+tile.block_wp_stone_m.name=Pannello_pietre
+
+tile.block_wp_stone_and.name=Pannello_andesite
+tile.block_wp_stone_dio.name=Pannello_diorite
+tile.block_wp_stone_gra.name=Pannello_granito
+
+tile.block_wp_stone_b.name=Pannello_mattoni roccia
+tile.block_wp_stone_andb.name=Pannello_mattoni andesite
+tile.block_wp_stone_diob.name=Pannello_mattoni diorite
+tile.block_wp_stone_grab.name=Pannello_mattoni granito
+
+tile.block_wp_stone_p.name=Pannello_pilastro roccia
+tile.block_wp_stone_andp.name=Pannello_pilastro andesite
+tile.block_wp_stone_diop.name=Pannello_pilastro diorite
+tile.block_wp_stone_grap.name=Pannello_pilastro granito
+
+tile.block_wp_brick.name=Pannello_mattoni
+
+tile.block_wp_sand_stone.name=Pannello_arenaria
+tile.block_wp_redsand_stone.name=Pannello_arenaria rosso
+
+tile.block_wp_prisma.name=Pannello_prismarino
+tile.block_wp_obsidian.name=Pannello_ossidiana
+
+tile.block_wp_clay.name=Pannello_terracotta
+tile.block_wp_clay_black.name=Pannello_terracotta nera
+tile.block_wp_clay_blue.name=Pannello_terracotta blu
+tile.block_wp_clay_brown.name=Pannello_terracotta marrone
+tile.block_wp_clay_cyan.name=Pannello_terracotta ciano
+tile.block_wp_clay_gray.name=Pannello_terracotta grigia
+tile.block_wp_clay_green.name=Pannello_terracotta verde
+tile.block_wp_clay_lightb.name=Pannello_terracotta azzurra
+tile.block_wp_clay_lightg.name=Pannello_terracotta grigio chiaro
+tile.block_wp_clay_lime.name=Pannello_terracotta lime
+tile.block_wp_clay_magenta.name=Pannello_terracotta magenta
+tile.block_wp_clay_orange.name=Pannello_terracotta arancione
+tile.block_wp_clay_pink.name=Pannello_terracotta rosa
+tile.block_wp_clay_purple.name=Pannello_terracotta viola
+tile.block_wp_clay_red.name=Pannello_terracotta rossa
+tile.block_wp_clay_white.name=Pannello_terracotta bianca
+tile.block_wp_clay_yellow.name=Pannello_terracotta gialla
+
+tile.block_wp_glass.name=Pannello_vetro
+tile.block_wp_glass_black.name=Pannello_vetro nero
+tile.block_wp_glass_blue.name=Pannello_vetro blu
+tile.block_wp_glass_brown.name=Pannello_vetro marrone
+tile.block_wp_glass_cyan.name=Pannello_vetro ciano
+tile.block_wp_glass_gray.name=Pannello_vetro grigio
+tile.block_wp_glass_green.name=Pannello_vetro verde
+tile.block_wp_glass_lightb.name=Pannello_vetro azzurro
+tile.block_wp_glass_lightg.name=Pannello_vetro grigio chiaro
+tile.block_wp_glass_lime.name=Pannello_vetro lime
+tile.block_wp_glass_magenta.name=Pannello_vetro magenta
+tile.block_wp_glass_orange.name=Pannello_vetro arancione
+tile.block_wp_glass_pink.name=Pannello_vetro rosa
+tile.block_wp_glass_purple.name=Pannello_vetro viola
+tile.block_wp_glass_red.name=Pannello_vetro rosso
+tile.block_wp_glass_white.name=Pannello_vetro bianca
+tile.block_wp_glass_yellow.name=Pannello_vetro giallo
+
+tile.block_wp_netherrack.name=Pannello_Netherrack
+tile.block_wp_netherb.name=Pannello_mattoni del Nether
+tile.block_wp_netherb10.name=Pannello_mattoni del Nether
+tile.block_wp_quartz.name=Pannello_quarzo
+tile.block_wp_quartz_pil.name=Pannello_pilastro quarzo
+
+tile.block_wp_endstone.name=Pannello_pietra dell'End
+tile.block_wp_endstone_b.name=Pannello_mattoni di pietra dell'End
+
+tile.block_wp_purpur.name=Pannello_purpur
+tile.block_wp_purpur_pil.name=Pannello_pilastro purpur
+
+tile.block_wp_dirtwall.name=Pannello_Adobe
+tile.block_wp_plaster_black.name=Pannello_SHIKKUI nero
+tile.block_wp_plaster_blue.name=Pannello_SHIKKUI blu
+tile.block_wp_plaster_brown.name=Pannello_SHIKKUI marrone
+tile.block_wp_plaster_cyan.name=Pannello_SHIKKUI ciano
+tile.block_wp_plaster_gray.name=Pannello_SHIKKUI grigio
+tile.block_wp_plaster_green.name=Pannello_SHIKKUI verde
+tile.block_wp_plaster_lightb.name=Pannello_SHIKKUI azzurro
+tile.block_wp_plaster_lightg.name=Pannello_SHIKKUI grigio chiaro
+tile.block_wp_plaster_lime.name=Pannello_SHIKKUI lime
+tile.block_wp_plaster_magenta.name=Pannello_SHIKKUI magenta
+tile.block_wp_plaster_orange.name=Pannello_SHIKKUI arancione
+tile.block_wp_plaster_pink.name=Pannello_SHIKKUI rosa
+tile.block_wp_plaster_purple.name=Pannello_SHIKKUI viola
+tile.block_wp_plaster_red.name=Pannello_SHIKKUI rosso
+tile.block_wp_plaster_white.name=Pannello_SHIKKUI bianca
+tile.block_wp_plaster_yellow.name=Pannello_SHIKKUI giallo
+
+tile.block_wp_namako_black.name=Pannello_NAMAKO nero
+tile.block_wp_namako_blue.name=Pannello_NAMAKO blu
+tile.block_wp_namako_brown.name=Pannello_NAMAKO marrone
+tile.block_wp_namako_cyan.name=Pannello_NAMAKO ciano
+tile.block_wp_namako_gray.name=Pannello_NAMAKO grigio
+tile.block_wp_namako_green.name=Pannello_NAMAKO verde
+tile.block_wp_namako_lightb.name=Pannello_NAMAKO azzurro
+tile.block_wp_namako_lightg.name=Pannello_NAMAKO grigio chiaro
+tile.block_wp_namako_lime.name=Pannello_NAMAKO lime
+tile.block_wp_namako_magenta.name=Pannello_NAMAKO magenta
+tile.block_wp_namako_orange.name=Pannello_NAMAKO arancione
+tile.block_wp_namako_pink.name=Pannello_NAMAKO rosa
+tile.block_wp_namako_purple.name=Pannello_NAMAKO viola
+tile.block_wp_namako_red.name=Pannello_NAMAKO rosso
+tile.block_wp_namako_white.name=Pannello_NAMAKO bianca
+tile.block_wp_namako_yellow.name=Pannello_NAMAKO giallo
+
+tile.block_wp_namako_b_black.name=Pannello_NAMAKO tipo2 nero
+tile.block_wp_namako_b_blue.name=Pannello_NAMAKO tipo2 blu
+tile.block_wp_namako_b_brown.name=Pannello_NAMAKO tipo2 marrone
+tile.block_wp_namako_b_cyan.name=Pannello_NAMAKO tipo2 ciano
+tile.block_wp_namako_b_gray.name=Pannello_NAMAKO tipo2 grigio
+tile.block_wp_namako_b_green.name=Pannello_NAMAKO tipo2 verde
+tile.block_wp_namako_b_lightb.name=Pannello_NAMAKO tipo2 azzurro
+tile.block_wp_namako_b_lightg.name=Pannello_NAMAKO tipo2 grigio chiaro
+tile.block_wp_namako_b_lime.name=Pannello_NAMAKO tipo2 lime
+tile.block_wp_namako_b_magenta.name=Pannello_NAMAKO tipo2 magenta
+tile.block_wp_namako_b_orange.name=Pannello_NAMAKO tipo2 arancione
+tile.block_wp_namako_b_pink.name=Pannello_NAMAKO tipo2 rosa
+tile.block_wp_namako_b_purple.name=Pannello_NAMAKO tipo2 viola
+tile.block_wp_namako_b_red.name=Pannello_NAMAKO tipo2 rosso
+tile.block_wp_namako_b_white.name=Pannello_NAMAKO tipo2 bianca
+tile.block_wp_namako_b_yellow.name=Pannello_NAMAKO tipo2 giallo
+
+tips.wp_stage2.name=Cambia con fai clic destro in accovacciati. 2 fasi.
+tips.wp_stage3.name=Cambia con fai clic destro in accovacciati. 3 fasi.
+tips.wp_stage4.name=Cambia con fai clic destro in accovacciati. 4 fasi.
+
+#Fusuma
+item.block_shoujih.name=SHOUJI finestra
+item.block_shoujih_acacia.name=SHOUJI finestra_acacia
+item.block_shoujih_birch.name=SHOUJI finestra_betulla
+item.block_shoujih_darkoak.name=SHOUJI finestra_quercia scura
+item.block_shoujih_jungle.name=SHOUJI finestra_giungla
+item.block_shoujih_spruce.name=SHOUJI finestra_abete
+
+#Ranma
+item.block_ranma_aca.name=RANMA_acacia
+item.block_ranma_bir.name=RANMA_betulla
+item.block_ranma_doak.name=RANMA_quercia scura
+item.block_ranma_jun.name=RANMA_giungla
+item.block_ranma_oak.name=RANMA
+item.block_ranma_spru.name=RANMA_abete
+tips.block_ranma.name=E 'utilizzato per l'illuminazione diurna, la ventilazione, la decorazione.
+
+item.block_ranmab_aca.name=RANMA tipo2_acacia
+item.block_ranmab_bir.name=RANMA tipo2_betulla
+item.block_ranmab_doak.name=RANMA tipo2_quercia scura
+item.block_ranmab_jun.name=RANMA tipo2_giungla
+item.block_ranmab_oak.name=RANMA tipo2
+item.block_ranmab_spru.name=RANMA tipo2_abete
+
+item.block_ranmac_aca.name=RANMA tipo3_acacia
+item.block_ranmac_bir.name=RANMA tipo3_betulla
+item.block_ranmac_doak.name=RANMA tipo3_quercia scura
+item.block_ranmac_jun.name=RANMA tipo3_giungla
+item.block_ranmac_oak.name=RANMA tipo3
+item.block_ranmac_spru.name=RANMA tipo3_abete
+
+item.block_kanki_aca.name=Ventilazione_acacia
+item.block_kanki_bir.name=Ventilazione_betulla
+item.block_kanki_doak.name=Ventilazione_quercia scura
+item.block_kanki_jun.name=Ventilazione_giungla
+item.block_kanki_oak.name=Ventilazione
+item.block_kanki_spru.name=Ventilazione_abete
+
+item.block_koushi_oak.name=Reticolo verticale
+item.block_koushi_aca.name=Reticolo verticale_acacia
+item.block_koushi_bir.name=Reticolo verticale_betulla
+item.block_koushi_doak.name=Reticolo verticale_quercia scura
+item.block_koushi_jun.name=Reticolo verticale_giungla
+item.block_koushi_spru.name=Reticolo verticale_abete
+
+#Tatami
+tile.block_tatamih.name=TATAMI_senza bordo
+tile.block_tatamih_black.name=TATAMI nero
+tile.block_tatamih_blue.name=TATAMI blu
+tile.block_tatamih_brown.name=TATAMI marrone
+tile.block_tatamih_cyan.name=TATAMI ciano
+tile.block_tatamih_gray.name=TATAMI grigia
+tile.block_tatamih_green.name=TATAMI verde
+tile.block_tatamih_lightb.name=TATAMI azzurra
+tile.block_tatamih_lightg.name=TATAMI grigio chiaro
+tile.block_tatamih_lime.name=TATAMI lime
+tile.block_tatamih_magenta.name=TATAMI magenta
+tile.block_tatamih_orange.name=TATAMI arancione
+tile.block_tatamih_pink.name=TATAMI rosa
+tile.block_tatamih_purple.name=TATAMI viola
+tile.block_tatamih_red.name=TATAMI rosso
+tile.block_tatamih_yellow.name=TATAMI gialla
+tile.block_tatamih_white.name=TATAMI bianca
+tips.block_tatami.name=Materiali per pavimenti direzionali.
+
+item.block_futon_c_black.name=FUTON nero
+item.block_futon_c_blue.name=FUTON blu
+item.block_futon_c_brown.name=FUTON marrone
+item.block_futon_c_cyan.name=FUTON ciano
+item.block_futon_c_gray.name=FUTON grigia
+item.block_futon_c_green.name=FUTON verde
+item.block_futon_c_lightb.name=FUTON azzurra
+item.block_futon_c_lightg.name=FUTON grigio chiaro
+item.block_futon_c_lime.name=FUTON lime
+item.block_futon_c_magenta.name=FUTON magenta
+item.block_futon_c_orange.name=FUTON arancione
+item.block_futon_c_pink.name=FUTON rosa
+item.block_futon_c_purple.name=FUTON viola
+item.block_futon_c_red.name=FUTON rosso
+item.block_futon_c_yellow.name=FUTON gialla
+item.block_futon_c_white.name=FUTON bianca
+tips.block_futon.name=Apri con fai clic destro in accovacciati. Seduta e rigenerazione.
+
+#Kawara
+item.block_kawara_black.name=KAWARA
+item.block_kawara_blue.name=KAWARA blu
+item.block_kawara_brown.name=KAWARA marrone
+item.block_kawara_cyan.name=KAWARA ciano
+item.block_kawara_gray.name=KAWARA grigia
+item.block_kawara_green.name=KAWARA verde
+item.block_kawara_lightb.name=KAWARA azzurra
+item.block_kawara_lightg.name=KAWARA grigio chiaro
+item.block_kawara_lime.name=KAWARA lime
+item.block_kawara_magenta.name=KAWARA magenta
+item.block_kawara_orange.name=KAWARA arancione
+item.block_kawara_pink.name=KAWARA rosa
+item.block_kawara_purple.name=KAWARA viola
+item.block_kawara_red.name=KAWARA rosso
+item.block_kawara_yellow.name=KAWARA gialla
+item.block_kawara_white.name=KAWARA bianca
+tips.block_kawara.name=Materiale di copertura fatto da argilla cottura.
+
+tile.block_kst_black.name=KAWARA scalini
+tile.block_kst_blue.name=KAWARA scalini blu
+tile.block_kst_brown.name=KAWARA scalini marrone
+tile.block_kst_cyan.name=KAWARA scalini ciano
+tile.block_kst_gray.name=KAWARA scalini grigia
+tile.block_kst_green.name=KAWARA scalini verde
+tile.block_kst_lightb.name=KAWARA scalini azzurra
+tile.block_kst_lightg.name=KAWARA scalini grigio chiaro
+tile.block_kst_lime.name=KAWARA scalini lime
+tile.block_kst_magenta.name=KAWARA scalini magenta
+tile.block_kst_orange.name=KAWARA scalini arancione
+tile.block_kst_pink.name=KAWARA scalini rosa
+tile.block_kst_purple.name=KAWARA scalini viola
+tile.block_kst_red.name=KAWARA scalini rosso
+tile.block_kst_yellow.name=KAWARA scalini gialla
+tile.block_kst_white.name=KAWARA scalini bianca
+
+tile.block_ksh_black.name=KAWARA lastra
+tile.block_ksh_blue.name=KAWARA lastra blu
+tile.block_ksh_brown.name=KAWARA lastra marrone
+tile.block_ksh_cyan.name=KAWARA lastra ciano
+tile.block_ksh_gray.name=KAWARA lastra grigia
+tile.block_ksh_green.name=KAWARA lastra verde
+tile.block_ksh_lightb.name=KAWARA lastra azzurra
+tile.block_ksh_lightg.name=KAWARA lastra grigio chiaro
+tile.block_ksh_lime.name=KAWARA lastra lime
+tile.block_ksh_magenta.name=KAWARA lastra magenta
+tile.block_ksh_orange.name=KAWARA lastra arancione
+tile.block_ksh_pink.name=KAWARA lastra rosa
+tile.block_ksh_purple.name=KAWARA lastra viola
+tile.block_ksh_red.name=KAWARA lastra rosso
+tile.block_ksh_yellow.name=KAWARA lastra gialla
+tile.block_ksh_white.name=KAWARA lastra bianca
+
+item.block_namako_black.name=NAMAKO blocco nero
+item.block_namako_blue.name=NAMAKO blocco blu
+item.block_namako_brown.name=NAMAKO blocco marrone
+item.block_namako_cyan.name=NAMAKO blocco ciano
+item.block_namako_gray.name=NAMAKO blocco grigia
+item.block_namako_green.name=NAMAKO blocco verde
+item.block_namako_lightb.name=NAMAKO blocco azzurra
+item.block_namako_lightg.name=NAMAKO blocco grigio chiaro
+item.block_namako_lime.name=NAMAKO blocco lime
+item.block_namako_magenta.name=NAMAKO blocco magenta
+item.block_namako_orange.name=NAMAKO blocco arancione
+item.block_namako_pink.name=NAMAKO blocco rosa
+item.block_namako_purple.name=NAMAKO blocco viola
+item.block_namako_red.name=NAMAKO blocco rosso
+item.block_namako_yellow.name=NAMAKO blocco gialla
+item.block_namako_white.name=NAMAKO blocco
+tips.block_namako.name=Pareti realizzate in Kawara e SHIKKUI.
+
+tile.block_nst_black.name=NAMAKO scalini nero
+tile.block_nst_blue.name=NAMAKO scalini blu
+tile.block_nst_brown.name=NAMAKO scalini marrone
+tile.block_nst_cyan.name=NAMAKO scalini ciano
+tile.block_nst_gray.name=NAMAKO scalini grigia
+tile.block_nst_green.name=NAMAKO scalini verde
+tile.block_nst_lightb.name=NAMAKO scalini azzurra
+tile.block_nst_lightg.name=NAMAKO scalini grigio chiaro
+tile.block_nst_lime.name=NAMAKO scalini lime
+tile.block_nst_magenta.name=NAMAKO scalini magenta
+tile.block_nst_orange.name=NAMAKO scalini arancione
+tile.block_nst_pink.name=NAMAKO scalini rosa
+tile.block_nst_purple.name=NAMAKO scalini viola
+tile.block_nst_red.name=NAMAKO scalini rosso
+tile.block_nst_yellow.name=NAMAKO scalini gialla
+tile.block_nst_white.name=NAMAKO scalini
+
+tile.block_nsh_black.name=NAMAKO lastra nero
+tile.block_nsh_blue.name=NAMAKO lastra blu
+tile.block_nsh_brown.name=NAMAKO lastra marrone
+tile.block_nsh_cyan.name=NAMAKO lastra ciano
+tile.block_nsh_gray.name=NAMAKO lastra grigia
+tile.block_nsh_green.name=NAMAKO lastra verde
+tile.block_nsh_lightb.name=NAMAKO lastra azzurra
+tile.block_nsh_lightg.name=NAMAKO lastra grigio chiaro
+tile.block_nsh_lime.name=NAMAKO lastra lime
+tile.block_nsh_magenta.name=NAMAKO lastra magenta
+tile.block_nsh_orange.name=NAMAKO lastra arancione
+tile.block_nsh_pink.name=NAMAKO lastra rosa
+tile.block_nsh_purple.name=NAMAKO lastra viola
+tile.block_nsh_red.name=NAMAKO lastra rosso
+tile.block_nsh_yellow.name=NAMAKO lastra gialla
+tile.block_nsh_white.name=NAMAKO lastra
+
+item.block_namako_b_black.name=NAMAKO blocco tipo2 nero
+item.block_namako_b_blue.name=NAMAKO blocco tipo2 blu
+item.block_namako_b_brown.name=NAMAKO blocco tipo2 marrone
+item.block_namako_b_cyan.name=NAMAKO blocco tipo2 ciano
+item.block_namako_b_gray.name=NAMAKO blocco tipo2 grigia
+item.block_namako_b_green.name=NAMAKO blocco tipo2 verde
+item.block_namako_b_lightb.name=NAMAKO blocco tipo2 azzurra
+item.block_namako_b_lightg.name=NAMAKO blocco tipo2 grigio chiaro
+item.block_namako_b_lime.name=NAMAKO blocco tipo2 lime
+item.block_namako_b_magenta.name=NAMAKO blocco tipo2 magenta
+item.block_namako_b_orange.name=NAMAKO blocco tipo2 arancione
+item.block_namako_b_pink.name=NAMAKO blocco tipo2 rosa
+item.block_namako_b_purple.name=NAMAKO blocco tipo2 viola
+item.block_namako_b_red.name=NAMAKO blocco tipo2 rosso
+item.block_namako_b_yellow.name=NAMAKO blocco tipo2 gialla
+item.block_namako_b_white.name=NAMAKO blocco tipo2
+
+tile.block_nst_b_black.name=NAMAKO scalini tipo2 nero
+tile.block_nst_b_blue.name=NAMAKO scalini tipo2 blu
+tile.block_nst_b_brown.name=NAMAKO scalini tipo2 marrone
+tile.block_nst_b_cyan.name=NAMAKO scalini tipo2 ciano
+tile.block_nst_b_gray.name=NAMAKO scalini tipo2 grigia
+tile.block_nst_b_green.name=NAMAKO scalini tipo2 verde
+tile.block_nst_b_lightb.name=NAMAKO scalini tipo2 azzurra
+tile.block_nst_b_lightg.name=NAMAKO scalini tipo2 grigio chiaro
+tile.block_nst_b_lime.name=NAMAKO scalini tipo2 lime
+tile.block_nst_b_magenta.name=NAMAKO scalini tipo2 magenta
+tile.block_nst_b_orange.name=NAMAKO scalini tipo2 arancione
+tile.block_nst_b_pink.name=NAMAKO scalini tipo2 rosa
+tile.block_nst_b_purple.name=NAMAKO scalini tipo2 viola
+tile.block_nst_b_red.name=NAMAKO scalini tipo2 rosso
+tile.block_nst_b_yellow.name=NAMAKO scalini tipo2 gialla
+tile.block_nst_b_white.name=NAMAKO scalini tipo2
+
+tile.block_nsh_b_black.name=NAMAKO lastra tipo2 nero
+tile.block_nsh_b_blue.name=NAMAKO lastra tipo2 blu
+tile.block_nsh_b_brown.name=NAMAKO lastra tipo2 marrone
+tile.block_nsh_b_cyan.name=NAMAKO lastra tipo2 ciano
+tile.block_nsh_b_gray.name=NAMAKO lastra tipo2 grigia
+tile.block_nsh_b_green.name=NAMAKO lastra tipo2 verde
+tile.block_nsh_b_lightb.name=NAMAKO lastra tipo2 azzurra
+tile.block_nsh_b_lightg.name=NAMAKO lastra tipo2 grigio chiaro
+tile.block_nsh_b_lime.name=NAMAKO lastra tipo2 lime
+tile.block_nsh_b_magenta.name=NAMAKO lastra tipo2 magenta
+tile.block_nsh_b_orange.name=NAMAKO lastra tipo2 arancione
+tile.block_nsh_b_pink.name=NAMAKO lastra tipo2 rosa
+tile.block_nsh_b_purple.name=NAMAKO lastra tipo2 viola
+tile.block_nsh_b_red.name=NAMAKO lastra tipo2 rosso
+tile.block_nsh_b_yellow.name=NAMAKO lastra tipo2 gialla
+tile.block_nsh_b_white.name=NAMAKO lastra tipo2
+
+item.block_dirtwall.name=Adobe blocco
+tile.block_dirtwall_st.name=Adobe scalini
+tile.block_dirtwall_sh.name=Adobe lastra
+
+#Plaster
+item.block_plaster_black.name=SHIKKUI nero
+item.block_plaster_blue.name=SHIKKUI blu
+item.block_plaster_brown.name=SHIKKUI marrone
+item.block_plaster_cyan.name=SHIKKUI ciano
+item.block_plaster_gray.name=SHIKKUI grigia
+item.block_plaster_green.name=SHIKKUI verde
+item.block_plaster_lightb.name=SHIKKUI azzurra
+item.block_plaster_lightg.name=SHIKKUI grigio chiaro
+item.block_plaster_lime.name=SHIKKUI lime
+item.block_plaster_magenta.name=SHIKKUI magenta
+item.block_plaster_orange.name=SHIKKUI arancione
+item.block_plaster_pink.name=SHIKKUI rosa
+item.block_plaster_purple.name=SHIKKUI viola
+item.block_plaster_red.name=SHIKKUI rosso
+item.block_plaster_yellow.name=SHIKKUI gialla
+item.block_plaster_white.name=SHIKKUI
+tips.block_plaster.name=Materiali di costruzione utilizzando calce spenta.
+
+tile.block_pst_black.name=SHIKKUI scalini nero
+tile.block_pst_blue.name=SHIKKUI scalini blu
+tile.block_pst_brown.name=SHIKKUI scalini marrone
+tile.block_pst_cyan.name=SHIKKUI scalini ciano
+tile.block_pst_gray.name=SHIKKUI scalini grigia
+tile.block_pst_green.name=SHIKKUI scalini verde
+tile.block_pst_lightb.name=SHIKKUI scalini azzurra
+tile.block_pst_lightg.name=SHIKKUI scalini grigio chiaro
+tile.block_pst_lime.name=SHIKKUI scalini lime
+tile.block_pst_magenta.name=SHIKKUI scalini magenta
+tile.block_pst_orange.name=SHIKKUI scalini arancione
+tile.block_pst_pink.name=SHIKKUI scalini rosa
+tile.block_pst_purple.name=SHIKKUI scalini viola
+tile.block_pst_red.name=SHIKKUI scalini rosso
+tile.block_pst_yellow.name=SHIKKUI scalini gialla
+tile.block_pst_white.name=SHIKKUI scalini
+
+tile.block_psh_black.name=SHIKKUI lastra nero
+tile.block_psh_blue.name=SHIKKUI lastra blu
+tile.block_psh_brown.name=SHIKKUI lastra marrone
+tile.block_psh_cyan.name=SHIKKUI lastra ciano
+tile.block_psh_gray.name=SHIKKUI lastra grigia
+tile.block_psh_green.name=SHIKKUI lastra verde
+tile.block_psh_lightb.name=SHIKKUI lastra azzurra
+tile.block_psh_lightg.name=SHIKKUI lastra grigio chiaro
+tile.block_psh_lime.name=SHIKKUI lastra lime
+tile.block_psh_magenta.name=SHIKKUI lastra magenta
+tile.block_psh_orange.name=SHIKKUI lastra arancione
+tile.block_psh_pink.name=SHIKKUI lastra rosa
+tile.block_psh_purple.name=SHIKKUI lastra viola
+tile.block_psh_red.name=SHIKKUI lastra rosso
+tile.block_psh_yellow.name=SHIKKUI lastra gialla
+tile.block_psh_white.name=SHIKKUI lastra
+
+#Noren
+item.block_noren_black.name=NOREN nero
+item.block_noren_blue.name=NOREN blu
+item.block_noren_brown.name=NOREN marrone
+item.block_noren_cyan.name=NOREN ciano
+item.block_noren_gray.name=NOREN grigia
+item.block_noren_green.name=NOREN verde
+item.block_noren_lightb.name=NOREN azzurra
+item.block_noren_lightg.name=NOREN grigio chiaro
+item.block_noren_lime.name=NOREN lime
+item.block_noren_magenta.name=NOREN magenta
+item.block_noren_orange.name=NOREN arancione
+item.block_noren_pink.name=NOREN rosa
+item.block_noren_purple.name=NOREN viola
+item.block_noren_red.name=NOREN rosso
+item.block_noren_yellow.name=NOREN gialla
+item.block_noren_white.name=NOREN bianca
+tips.block_noren.name=Panno per l'uso in tende da sole e gli occhi bendati.
+
+#TeaTime
+#Garden
+tile.block_sudare_1.name=SUDARE
+tips.block_sudare.name=Rattan cieco. Fai clic destro in accovacciati [aprire / chiudere].
+
+item.block_ishitourou_stone.name=ISHITOUROU bassa
+item.block_ishitourou_and.name=ISHITOUROU bassa di andesite
+item.block_ishitourou_dio.name=ISHITOUROU bassa di diorite
+item.block_ishitourou_gra.name=ISHITOUROU bassa di granito
+tips.block_ishitourou.name=Lanterna di pietra. Accendere un fuoco con Acciarino. Fare clic destro [spento].
+
+item.block_longtourou_stone.name=ISHITOUROU
+item.block_longtourou_and.name=ISHITOUROU di andesite
+item.block_longtourou_dio.name=ISHITOUROU di diorite
+item.block_longtourou_gra.name=ISHITOUROU di granito
+
+item.block_chouzubachi_kara.name=CHOZUBACHI
+item.block_chouzu_and_kara.name=CHOZUBACHI di andesite
+item.block_chouzu_dio_kara.name=CHOZUBACHI di diorite
+item.block_chouzu_gra_kara.name=CHOZUBACHI di granito
+tips.block_chouzubachi.name=Ciotola di pietra. Mettere in acqua con Secchio d'acqua.
+
+item.block_longacacia_bot.name=Siepe di acacia
+item.block_longbirch_bot.name=Siepe di betulla
+item.block_longdarkoak_bot.name=Siepe di quercia scura
+item.block_longjungle_bot.name=Siepe di giungla
+item.block_longoak_bot.name=Siepe di quercia
+item.block_longspruce_bot.name=Siepe di abete
+
+item.block_low_acacia.name=Siepe bassa di acacia
+item.block_low_birch.name=Siepe bassa di betulla
+item.block_low_darkoak.name=Siepe bassa di quercia scura
+item.block_low_jungle.name=Siepe bassa di giungla
+item.block_low_oak.name=Siepe bassa di quercia
+item.block_low_spruce.name=Siepe bassa di abete
+
+item.block_teatable.name=Tavolo da tè
+
+#Hakkou
+item.block_bin_koubo_f.name=Bottiglia di cultura del lievito
+tips.block_bin_koubo.name=Fare il lievito dalla mela. Dopo la cultura, distruggi e raccogli.
+
+item.block_taru_hakkou.name=Botte di fermentazione
+tips.block_taru_hakkou.name=Botte utilizzato per la fermentazione di alcool e MISO ecc.
+
+item.block_taru_kouji_f.name=Scaffale di KOMEKOUJI
+tips.block_taru_kouji.name=Scaffale per la produzione di malto di riso. Colleziona a mano vuota.
+
+item.block_taru_shubo_f.name=Botte di SHUBO
+tips.block_taru_shubo.name=Botte per la produzione di mash di lievito. Portalo con una ciotola.
+
+item.block_taru_moromi_f.name=Botte di MOROMI
+tips.block_taru_moromi.name=Botte per la produzione di MOROMI-mash. Portalo con una ciotola.
+
+item.block_taru_jukusei_f.name=Botte di SAKE invecchiato
+tips.block_taru_jukusei.name=Botte per la produzione di SAKE invecchiato. Dopo la fermentazione, raccogliere a mani nude.
+
+tile.block_taru_ringoshu_f.name=Botte di Sidro
+tips.block_taru_ringoshu.name=Botte per la produzione di Sidro. Dopo la fermentazione, raccogliere con una bottiglia di vino.
+
+tile.block_taru_budoushu_f.name=Botte da Vino
+tips.block_taru_budoushu.name=Botte per la produzione di Vino. Dopo la fermentazione, raccogliere con una bottiglia di vino.
+
+item.block_taru_miso_f.name=Botte di MISO
+tips.block_taru_miso.name=Botte per la produzione di MISO. Colleziona a mano vuota.
+
+item.block_taru_koucha_f.name=Vassoi di te
+tips.block_taru_koucha.name=Vassoi per l'ossidazione delle foglie di te. Colleziona a mano vuota.
+
+tile.block_bot_sakenama_1.name=Puro SAKE
+tips.block_bot_sakenama.name=Bruciare in un forno, questo diventa un SAKE. Puoi bere questo con un bicchiere di bevande.
+tile.block_bot_sake_1.name=SAKE
+tips.block_bot_sake.name=Puoi bere questo con un bicchiere di bevande.
+tile.block_bot_sakejuku_1.name=SAKE invecchiato
+
+tile.block_bot_cider_1.name=Sidro
+tile.block_bot_ciderjuku_1.name=Sidro invecchiato
+tile.block_bot_wine_1.name=Vino
+tile.block_bot_winejuku_1.name=Vino invecchiato
+
+item.block_food_nabeaz_n.name=DONABE con Torta SAKE
+item.block_food_nabeaz_1.name=DONABE con Dolce meta SAKE
+tips.block_food_nabeaz_1.name=Puoi bere questo con un YUNOMI.
+
+item.block_glass_sakenama.name=Vetro con puro SAKE
+item.block_glass_sake.name=Vetro con SAKE
+item.block_glass_sakejuku.name=Vetro con SAKE invecchiato
+item.block_glass_amazake.name=Tazza con Dolce meta SAKE
+
+item.block_glass_cider.name=Vetro con Sidro
+item.block_glass_ciderjuku.name=Vetro con Sidro invecchiato
+item.block_glass_wine.name=Vetro con Vino
+item.block_glass_winejuku.name=Vetro con Vino invecchiato
+
+item.block_food_nabenimame_n.name=DONABE con soia
+item.block_food_nabenimame_b.name=DONABE con soia bollita
+tips.block_food_nabenimame_b.name=Portalo con una ciotola.
+
+#Kitchen
+tile.block_kitchen.name=Contatore di cucina
+tips.block_kitchen.name=Puo conservare utensili da cucina.
+
+tile.block_kit_board.name=Tagliere
+tips.block_kit_board.name=Puo essere usato come un Banco da lavoro.
+
+item.block_kit_sink.name=Lavello
+tips.block_kit_sink.name=Se c'e acqua sotto 2 blocchi, fare clic con il tasto destro per attivare/disattivare.
+
+tile.block_kit_stove.name=Piano di cottura
+tips.block_kit_stove.name=Accovacciati con fare clic destro [acceso]. Fare clic destro [spento].
+
+tile.block_kit_oven.name=Forno di cottura
+tile.block_kit_oven_black.name=Forno di cottura nero
+container.kitchen_oven=Forno di cottura interno
+tips.block_kit_oven.name=Puo essere utilizzato per la cottura e la fusione.
+
+tile.block_irori.name=IRORI
+container.irori=IRORI interno
+tips.block_irori.name=Camino giapponese. Riscaldare il DONABE con il fuoco di carbonella.
+
+tile.block_kit_kanki.name=Ventilatore
+tips.block_kit_kanki.name=Fare clic destro [acceso/spento]. Accovacciati con fare clic destro [tipo di cambio].
+
+tile.block_kit_duct.name=Condotto di ventilazione
+tile.block_kit_ductend.name=Condotto dell'aria
+tips.block_kit_ductend.name=Accovacciati con fare clic destro [tipo di cambio].
+
+tile.block_kit_tana.name=Credenza
+tips.block_kit_tana.name=Puo conservare i piatti per tipo.
+
+container.cstove=Stufa a legna_interno
+tile.block_cstove_bot.name=Stufa a legna
+tips.block_cstove_bot.name=Stufa a legna superiore essere usato come Fornace.
+
+#Pantry
+tile.block_boxh_empty.name=Scatola vuota
+tile.block_boxh_apple.name=Scatola di mela
+tile.block_boxh_beef.name=Scatola di manzo crudo
+tile.block_boxh_beetroot.name=Scatola di barbabietola
+tile.block_boxh_bread.name=Scatola di pane
+tile.block_boxh_carrot.name=Scatola di carota
+tile.block_boxh_chicken.name=Scatola di pollo crudo
+tile.block_boxh_chorus.name=Scatola di frutto corale
+tile.block_boxh_coco.name=Sacco di cacao
+tile.block_boxh_egg.name=Scatola di uovo
+tile.block_boxh_fish.name=Scatola di merluzzo crudo
+tile.block_boxh_flour.name=Sacco di grano
+tile.block_boxh_mutton.name=Scatola di carne ovina cruda
+tile.block_boxh_pork.name=Scatola di costoletta di maiale cruda
+tile.block_boxh_potato.name=Scatola di patata
+tile.block_boxh_rabbit.name=Scatola di coniglio crudo
+tile.block_boxh_cod.name=Scatola di merluzzo crudo
+tile.block_boxh_swberry.name=Scatola di bacche dolci
+
+tile.block_boxh_cabbage.name=Scatola di cavolo
+tile.block_boxh_hakusai.name=Scatola di cavolo cinese
+tile.block_boxh_corn.name=Scatola di mais
+tile.block_boxh_grape.name=Scatola di uva
+tile.block_boxh_onion.name=Scatola di cipolle
+tile.block_boxh_rice.name=Sacco di riso
+tile.block_boxh_soy.name=Sacco di soia
+tile.block_boxh_spinach.name=Scatola di spinaci
+tile.block_boxh_tomato.name=Scatola di pomodori
+tile.block_boxh_tgreen.name=Sacco di te verde
+tile.block_boxh_tred.name=Sacco di te nero
+
+tile.block_tea_chadutsu.name=Lattine di te verde
+tile.block_tea_can.name=Lattine di te
+tile.block_tawara_cm.name=TAWARA
+
+#Foodblock
+tips.block_frypan.name=Puo cucinare su [Fornace / Piano di cottura / Forno di cottura].
+tips.block_nabe.name=Puo cuocere su [Fornace / Piano di cottura / Forno di cottura / IRORI].
+tips.block_kettle.name=Fare bollire l'acqua su [Fornace / Piano di cottura / Forno di cottura / IRORI / Stufa a legna].
+tips.block_simpledish.name=Usalo facendo clic con il tasto destro e mettilo mentre accovacciati.
+
+item.block_kettle_full.name=Bollitore con acqua
+
+item.block_food_karanabe.name=Vuoto DONABE
+tips.block_food_karanabe.name=Metti i cibi nella Banco da lavoro e riscaldabili.
+
+item.block_food_nabeshio_n.name=DONABE con acqua di mare
+item.block_food_nabeshio_b.name=DONABE con sale
+item.block_food_nabetoufu_n.name=DONABE con Soymilk
+item.block_food_nabetoufu_b.name=DONABE con TOFU
+tips.block_food_nabetoufu_b.name=Colleziona a mano vuota.
+
+item.block_food_nabe_n.name=DONABE con pollo crudo
+item.block_food_nabe_1.name=DONABE con pollo cotto
+tips.block_food_nabe_1.name=Prendilo con un TONSUI.
+
+item.block_food_tonsui_1.name=TONSUI con pollo cotto
+item.block_food_nabegohan_n.name=DONABE con riso grezzo
+item.block_food_nabegohan_1.name=DONABE con riso cotto
+tips.block_food_nabegohan_1.name=Portalo con un CHAWAN, una piatto o una ciotola.
+
+item.block_food_gohan_1.name=CHAWAN con riso cotto
+item.block_food_rice_1.name=Piatto con riso cotto
+item.block_food_nabemiso_n.name=DONABE con zuppa crudo MISO
+item.block_food_nabemiso_1.name=DONABE con zuppa MISO
+tips.block_food_nabemiso_1.name=Prendi con un SHIKKI.
+
+item.block_food_misosp_1.name=Zuppa di miso
+item.block_food_nabecorns_n.name=DONABE con zuppa di mais crudo
+item.block_food_nabecorns_1.name=DONABE con zuppa di mais
+tips.block_food_nabecorns_1.name=Prendilo con una piatto.
+item.block_food_cornsp_1.name=Zuppa di mais
+
+item.block_food_frypan.name=Padella
+
+item.block_food_tgy_1.name=Piatto con omelette
+item.block_food_tgytei_1.name=Menu di omelette
+item.block_food_yakizakanatei_1.name=Menu di pesce alla griglia
+item.block_food_yakijyaketei_1.name=Menu di salmon griglia
+item.block_food_egb_1.name=Piatto con uovo e hamburg
+item.block_food_egbset_1.name=Menu di uovo e hamburg
+
+item.block_food_stewnabe_n.name=Pentola con stufato in crema cruda
+item.block_food_stewnabe_1.name=Pentola con stufato in crema cotta
+item.block_food_stew_1.name=Stufato di pollo in crema
+
+item.block_food_roastchicken_1.name=Pollo arrosto
+tips.block_roastchicken_1.name=Prendilo con una piatto.
+item.block_food_chickenb_1.name=Piatto con pollo arrosto
+
+item.block_food_sconeset_1.name=Tea stand con scone
+
+item.block_food_teastand.name=Tea stand
+item.block_food_teacup_1.name=Tazza di te con te nero
+item.block_food_teapot_1.name=Teiera con te nero
+tips.block_food_teapot_1.name=Prendilo con un teacup.
+
+item.block_food_teapot.name=Teiera vuota
+item.block_food_teaset_1.name=Te nero con scone
+item.block_food_jpteacup_1.name=YUNOMI con te verde
+item.block_food_kyusu_1.name=KYUSU con te verde
+tips.block_food_kyusu_1.name=Prendilo con un YUNOMI.
+
+item.block_food_kyusu.name=Vuoto KYUSU
+item.block_food_jpteaset_1.name=Te verde con SENBEI
+item.block_food_icecream_1.name=Gelato
+
+#FoodItem
+item.item_food_bun.name=Brioche
+item.item_food_cake.name=Tagliare la torta
+item.item_food_scone.name=Scone
+item.item_food_senbei.name=SENBEI
+tips.item_food_senbei.name=Un cracker di riso
+
+item.item_food_chickensand.name=Panino al pollo
+item.item_food_eggsand.name=Panino all'uovo
+
+item.item_food_cabbage.name=Cavolo
+item.item_food_corn.name=Mais
+item.item_food_grape.name=Uva
+item.item_food_onion.name=Cipolle
+item.item_food_spinach.name=Spinaci
+item.item_food_tomato.name=Pomodori
+item.item_food_cornb.name=Mais arrosto
+item.item_food_hakusai.name=Cavolo cinese
+
+#TTimeItem
+item.item_chaba.name=Foglia di tè
+item.item_chaba_green.name=Tè verde
+item.item_chaba_red.name=Tè nero
+
+item.item_salt.name=Sale
+item.item_nigari.name=Sale amaro
+tips.item_nigari.name=Si usa per fare il TOFU.
+
+item.item_sakekasu.name=Torta SAKE
+tips.item_sakekasu.name=Utilizzato per dolce metà SAKE o Fertilizzante.
+
+item.item_koubo.name=Lievito
+tips.item_koubo.name=Si usa per la fermentazione di cose.
+
+item.item_mushigome.name=Ciotola con riso cotto
+
+item.item_komekouji.name=KOMEKOUJI
+tips.item_komekouji.name=Viene usato quando si fa SAKE e MISO.
+
+item.item_shubo.name=SHUBO
+tips.item_shubo.name=Fermentando in un barile diventa MOROMI.
+
+item.item_moromi.name=MOROMI
+tips.item_moromi.name=Crafting diventa Pure SAKE and SAKE torta.
+
+item.item_nimame.name=Soia bollita
+item.item_miso.name=MISO
+item.item_food_toufu.name=TOFU
+
+item.item_ine.name=Pianta di riso
+item.item_kome.name=Riso
+item.item_saya.name=Soia nel baccello
+item.item_soy.name=Soia
+item.item_flour.name=Farina
+item.item_butter.name=Burro
+
+item.item_kiji_bun.name=Pasta di Brioche
+tips.item_kiji_bun.name=Bruciare in un forno, questo si trasforma in un Brioche.
+
+item.item_kiji_burg.name=Hamburg di manzo crudo
+tips.item_kiji_burg.name=Cuoce in una padella e diventa un hamburger di manzo.
+
+item.item_kiji_scone.name=Pasta di Scone
+tips.item_kiji_scone.name=Bruciare in un forno, questo si trasforma in un Scone.
+
+item.item_kiji_senbei.name=Pasta di Cracker di riso
+tips.item_kiji_senbei.name=Bruciare in un forno, questo si trasforma in un SENBEI.
+
+item.item_match_cm.name=Fosforo
+tips.item_match_cm.name=Fai clic con il tasto destro su un blocco e brucerà.
+item.item_kettle_kara.name=Bollitore vuoto
+item.item_kettle_boil.name=Bollitore con acqua calda
+
+item.item_food_sara.name=Piatto
+item.item_food_chawan.name=CHAWAN
+tips.item_food_chawan.name=Ciotola di riso
+
+item.item_food_shikki.name=SHIKKI
+tips.item_food_shikki.name=Piatto di URUSHI
+
+item.item_food_tonsui.name=TONSUI
+tips.item_food_tonsui.name=Una piccola ciotola per la cottura della pentola.
+
+item.item_food_yunomi.name=YUNOMI
+tips.item_food_yunomi.name=Tazza di tè verde
+
+item.item_food_teacup.name=Tazza di tè
+item.item_food_driglass.name=Bere il bicchiere
+item.item_food_sakebot.name=Bottiglia di vino
+
+item.item_clay_yunomi.name=Argilla modellata_YUNOMI
+tips.item_clay_yunomi.name=Bruciare in un forno, questo si trasforma in un YUNOMI.
+
+item.item_clay_kyusu.name=Argilla modellata_KYUSU
+tips.item_clay_kyusu.name=Bruciare in un forno, questo si trasforma in un KYUSU.
+
+item.item_clay_teacup.name=Argilla modellata_Tazza di tè
+tips.item_clay_teacup.name=Bruciare in un forno, questo si trasforma in un Tazza di tè.
+
+item.item_clay_teapot.name=Argilla modellata_Teiera
+tips.item_clay_teapot.name=Bruciare in un forno, questo si trasforma in un Teiera.
+
+item.item_clay_sara.name=Argilla modellata_Piatto
+tips.item_clay_sara.name=Bruciare in un forno, questo si trasforma in un Piatto.
+
+item.item_clay_chawan.name=Argilla modellata_CHAWAN
+tips.item_clay_chawan.name=Bruciare in un forno, questo si trasforma in un CHAWAN.
+
+item.item_clay_nabe.name=Argilla modellata_DONABE
+tips.item_clay_nabe.name=Bruciare in un forno, questo si trasforma in un DONABE.
+
+item.item_clay_tonsui.name=Argilla modellata_TONSUI
+tips.item_clay_tonsui.name=Bruciare in un forno, questo si trasforma in un TONSUI.
+
+item.item_seeds_cabbage.name=Semi di cavolo
+item.item_seeds_soy.name=Semi di soia
+item.item_seeds_spinach.name=Semi di spinaci
+item.item_seeds_tomato.name=Semi di pomodoro
+item.item_seeds_corn.name=Semi di mais
+item.item_seeds_onion.name=Semi di cipolla
+item.item_seeds_rice.name=Semi di riso
+tips.block_rice.name=Piantalo su una risaia o su un terra zappata. Fai crescere uno stadio in più su una risaia.
+item.item_seeds_hakusai.name=Semi di cavolo cinese
+
+item.block_seedsbox.name=Sacco di semi
+tips.block_seedsbox.name=Se è rotto, è possibile ottenere nuovi semi a caso. Tutti e 16 i tipi.
+
+item.block_wood_chanoki_nae.name=Pianta di tè
+tips.block_wood_chanoki_nae.name=Piantalo in un terreno luminoso, diventerà un albero.
+
+item.block_wood_grape_nae.name=Albero di uva
+tips.block_wood_grape_nae.name=Piantalo in un terreno luminoso, diventerà un albero.
+
+#Xmas
+item.item_ingot_alumi.name=Alluminio
+item.block_alumi_block.name=Alluminio bloccare
+
+item.item_santaakashi_helmet.name=AKASHI Babbo Natale Cappello
+item.item_santaakashi_chestplate.name=AKASHI Babbo Natale Mantellina
+item.item_santaakashi_leggings.name=AKASHI Babbo Natale Vestito
+item.item_santaakashi_boots.name=AKASHI Babbo Natale Stivali
+item.item_santakumano_helmet.name=KUMANO Babbo Natale Morsetto per capelli
+item.item_santakumano_chestplate.name=KUMANO Babbo Natale Mantellina
+item.item_santakumano_leggings.name=KUMANO Babbo Natale Vestito
+item.item_santakumano_boots.name=KUMANO Babbo Natale Stivali
+item.item_santasuzuya_helmet.name=SUZUYA Babbo Natale Morsetto per capelli
+item.item_santasuzuya_chestplate.name=SUZUYA Babbo Natale Nastro
+item.item_santasuzuya_leggings.name=SUZUYA Babbo Natale Vestito
+item.item_santasuzuya_boots.name=SUZUYA Babbo Natale Stivali
+item.item_santaryujou_helmet.name=RYUJOU Babbo Natale Cappello
+item.item_santaryujou_chestplate.name=RYUJOU Babbo Natale Cappotto
+item.item_santaryujou_leggings.name=RYUJOU Babbo Natale Gonna
+item.item_santaryujou_boots.name=RYUJOU Babbo Natale Stivali
+
+item.item_santattk_helmet.name=Babbo Natale Cappello
+item.item_santattk_chestplate.name=Babbo Natale Cappotto
+item.item_santattk_leggings.name=Babbo Natale Pantaloni
+item.item_santattk_boots.name=Babbo Natale Stivali
+
+item.block_xmastree.name=Albero di Natale
+item.block_xmastree_w.name=Albero di Natale bianca
+
+item.block_present_app.name=Confezione regalo
+item.block_present_bla.name=Confezione regalo
+item.block_present_bok.name=Confezione regalo
+item.block_present_dia.name=Confezione regalo
+item.block_present_lap.name=Confezione regalo
+item.block_present_chc.name=Confezione regalo
+item.block_present_chh.name=Confezione regalo
+
+#3.2.1
+item.block_bin_nyusan_f.name=Bottiglia di cultura Lactobacillales
+tips.block_bin_nyusan.name=Diventa lactobacillales diventare nel tempo. Dopo la cultura, distruggi e raccogli.
+item.item_nyusan.name=Lactobacillales
+tips.item_nyusan.name=Si usa per fare il formaggio e il cioccolato.
+item.item_rennet.name=Caglio(enzima per la coagulazione del latte)
+tips.item_rennet.name=Si usa per fare il formaggio.
+
+item.block_zundou_milk.name=Pentola con latte
+item.block_food_cheesecurd.name=Cagliata
+tips.block_cheesecurd.name=Crea un formaggio fresco in mestiere. Formare un formaggio nel tempo.
+item.item_food_cheesef.name=Formaggi a pasta molle
+item.block_food_cheese_1.name=Formaggio
+tips.block_pizza_cheese.name=Dopo il posizionamento, fai clic con il pulsante destro del mouse per andare in pezzi.
+item.item_food_cheese.name=Un pezzo di formaggio
+tile.block_kit_cheese_tana.name=Scaffale di formaggio
+tips.block_kit_cheese_tana.name=Il processo di invecchiamento della cagliata procede.
+
+item.item_kiji_pizza.name=Impasto pizza
+item.item_food_pizza_n.name=Pizza al pomodoro crudo
+item.block_food_pizza_1.name=Pizza al pomodoro cotto
+item.item_food_pizza.name=Un pezzo di pizza al pomodoro
+
+item.block_tansu_oak.name=Cassettiera di quercia
+item.block_tansu_acacia.name=Cassettiera di acacia
+item.block_tansu_birch.name=Cassettiera di betulla
+item.block_tansu_doak.name=Cassettiera di quercia scura
+item.block_tansu_jungle.name=Cassettiera di giungla
+item.block_tansu_spruce.name=Cassettiera di abete
+item.block_tansu_sakura.name=Cassettiera di ciliegio
+item.block_tansu_kaede.name=Cassettiera di acer
+item.block_tansu_ichoh.name=Cassettiera di ginkgo
+
+tile.block_fall_leaf.name=Foglie cadute
+tips.block_fall_leaf.name=Con una pala, sarà un sentiero d'erba. Con una zappa, sarà risaia.
+tile.block_tree_ichoh_leaf.name=Ginkgo foglie
+tile.block_tree_kaede_leaf.name=Acer foglie
+tile.block_tree_sakura_flow.name=Ciliegio fiore
+tile.block_tree_oakkare_leaf.name=Quercia autunnale foglie
+item.block_carpet_ichoh.name=Ginkgo tappeto
+item.block_carpet_kaede.name=Acer tappeto
+item.block_carpet_sakura.name=Ciliegio tappeto
+item.block_carpet_ochiba.name=Quercia autunnale tappeto
+tile.block_tree_ichoh_nae.name=Ginkgo alberello
+tile.block_tree_kaede_nae.name=Acer alberello
+tile.block_tree_sakura_nae.name=Ciliegio alberello
+tile.block_tree_oakkare_nae.name=Quercia autunnale alberello
+tile.block_tree_ichoh_log.name=Ginkgo legno
+tile.block_tree_kaede_log.name=Acer legno
+tile.block_tree_sakura_log.name=Ciliegio legno
+item.block_planks_ichoh.name=Assi di ginkgo
+item.block_planks_kaede.name=Assi di acer
+item.block_planks_sakura.name=Assi di ciliegio
+tile.block_pillar_ichoh.name=Pilastro di ginkgo
+tile.block_pillar_kaede.name=Pilastro di acer
+tile.block_pillar_sakura.name=Pilastro di ciliegio
+tile.block_slabhalf_ichoh.name=Lastra di ginkgo
+tile.block_slabhalf_kaede.name=Lastra di acer
+tile.block_slabhalf_sakura.name=Lastra di ciliegio
+tile.block_stairs_ichoh.name=Scalini di ginkgo
+tile.block_stairs_kaede.name=Scalini di acer
+tile.block_stairs_sakura.name=Scalini di ciliegio
+
+item.block_longichoh_bot.name=Siepe di ginkgo
+item.block_longkaede_bot.name=Siepe di acer
+item.block_longsakura_bot.name=Siepe di ciliegio
+item.block_longoakkare_bot.name=Siepe di quercia autunnale
+item.block_low_ichoh.name=Siepe bassa di ginkgo
+item.block_low_kaede.name=Siepe bassa di acer
+item.block_low_sakura.name=Siepe bassa di ciliegio
+item.block_low_oakkare.name=Siepe bassa di quercia autunnale
+
+item.block_diningchair_ich.name=Sedia da pranzo_ginkgo
+item.block_diningchair_kae.name=Sedia da pranzo_acer
+item.block_diningchair_saku.name=Sedia da pranzo_ciliegio
+item.block_dressingtable_ich.name=Toletta_ginkgo
+item.block_dressingtable_kae.name=Toletta_acer
+item.block_dressingtable_saku.name=Toletta_ciliegio
+item.block_schoolchair_ich.name=Scuola sedia_ginkgo
+item.block_schoolchair_kae.name=Scuola sedia_acer
+item.block_schoolchair_saku.name=Scuola sedia_ciliegio
+item.block_schooldesk_ich.name=Scuola scrivania_ginkgo
+item.block_schooldesk_kae.name=Scuola scrivania_acer
+item.block_schooldesk_saku.name=Scuola scrivania_ciliegio
+item.block_teacherdesk_ich.name=Insegnanti scrivania_ginkgo
+item.block_teacherdesk_kae.name=Insegnanti scrivania_acer
+item.block_teacherdesk_saku.name=Insegnanti scrivania_ciliegio
+
+item.block_shoujih_ichoh.name=SHOUJI finestra_ginkgo
+item.block_shoujih_kaede.name=SHOUJI finestra_acer
+item.block_shoujih_sakura.name=SHOUJI finestra_ciliegio
+
+item.block_kanki_ich.name=Ventilazione_ginkgo
+item.block_kanki_kae.name=Ventilazione_acer
+item.block_kanki_saku.name=Ventilazione_ciliegio
+item.block_koushi_ich.name=Reticolo verticale_ginkgo
+item.block_koushi_kae.name=Reticolo verticale_acer
+item.block_koushi_saku.name=Reticolo verticale_ciliegio
+item.block_ranmab_ich.name=RANMA tipo2_ginkgo
+item.block_ranmab_kae.name=RANMA tipo2_acer
+item.block_ranmab_saku.name=RANMA tipo2_ciliegio
+item.block_ranmac_ich.name=RANMA tipo3_ginkgo
+item.block_ranmac_kae.name=RANMA tipo3_acer
+item.block_ranmac_saku.name=RANMA tipo3_ciliegio
+item.block_ranma_ich.name=RANMA_ginkgo
+item.block_ranma_kae.name=RANMA_acer
+item.block_ranma_saku.name=RANMA_ciliegio
+
+tile.block_wp_log_ichoh.name=Pannello_legno di ginkgo
+tile.block_wp_log_kaede.name=Pannello_legno d'acer
+tile.block_wp_log_sakura.name=Pannello_legno di ciliegio
+tile.block_wp_plank_ichoh.name=Pannello_assi di ginkgo
+tile.block_wp_plank_kaede.name=Pannello_assi di acer
+tile.block_wp_plank_sakura.name=Pannello_assi di ciliegio
+
+tile.block_boxh_cherry.name=Scatola di ciliegia
+
+item.item_food_cherry.name=Ciliegia
+item.item_seeds_cherry.name=Semi di ciliegia
+
+item.item_sword_sakura.name=Spada di ciliegio
+item.item_sword_ichoh.name=Spada di ginkgo
+item.item_sword_kaede.name=Spada di acer
+
+item.item_inewara.name=Paglia di riso
+item.item_warahai.name=Cenere di paglia
+item.block_zundou_aku.name=Pentola con acqua alcalina
+tips.block_zundou_aku.name=Facendo bollire un blocco di tetti d'erba, prendi un Filato.
+item.item_oriito.name=Filato
+item.item_tanmono.name=Panno
+
+item.item_ykt_getadoak.name=YUKATA GETA_quercia scur
+item.item_ykt_getaoak.name=YUKATA GETA_quercia
+item.item_ykt_ikaduchi_kazari.name=IKADUCHI tipo Morsetto per capelli
+item.item_ykt_ikaduchi_mini.name=IKADUCHI tipo YUKATA corpo
+item.item_ykt_ikaduchi_long.name=IKADUCHI tipo YUKATA gamba
+item.item_ykt_inaduma_kazari.name=INADUMA tipo Morsetto per capelli
+item.item_ykt_inaduma_mini.name=INADUMA tipo YUKATA corpo
+item.item_ykt_inaduma_long.name=INADUMA tipo YUKATA gamba
+item.item_ykt_hamakaze_kazari.name=HAMAKAZE tipo Morsetto per capelli
+item.item_ykt_hamakaze_mini.name=HAMAKAZE tipo YUKATA corpo
+item.item_ykt_hamakaze_long.name=HAMAKAZE tipo YUKATA gamba
+item.item_ykt_urakaze_kazari.name=URAKAZE tipo Maschera di volpe
+item.item_ykt_urakaze_mini.name=URAKAZE tipo YUKATA corpo
+item.item_ykt_urakaze_long.name=URAKAZE tipo YUKATA gamba
+item.item_ykt_kawakaze_kazari.name=KAWAKAZE tipo Maschera di volpe
+item.item_ykt_kawakaze_mini.name=KAWAKAZE tipo YUKATA corpo
+item.item_ykt_kawakaze_long.name=KAWAKAZE tipo YUKATA gamba
+item.item_ykt_oboro_kazari.name=OBORO tipo Morsetto per capelli
+item.item_ykt_oboro_mini.name=OBORO tipo YUKATA corpo
+item.item_ykt_oboro_long.name=OBORO tipo YUKATA gamba
+item.item_ykt_ttoku_mini.name=Corpo YUKATA maschile
+item.item_ykt_ttoku_long.name=Gamba YUKATA maschile
+item.item_ykt_ttokub_mini.name=Corpo YUKATA maschile_marrone blu
+item.item_ykt_ttokub_long.name=Gamba YUKATA maschile_marrone blu
+
+tips.item_ykt.name=Vestito ordinario da indossare sulla pelle nuda.
+
+item.block_uchiwa_black.name=Round fan nero
+item.block_uchiwa_blue.name=Round fan blu
+item.block_uchiwa_brown.name=Round fan marrone
+item.block_uchiwa_cyan.name=Round fan ciano
+item.block_uchiwa_gray.name=Round fan grigia
+item.block_uchiwa_green.name=Round fan verde
+item.block_uchiwa_lightb.name=Round fan azzurra
+item.block_uchiwa_lightg.name=Round fan grigio chiaro
+item.block_uchiwa_lime.name=Round fan lime
+item.block_uchiwa_magenta.name=Round fan magenta
+item.block_uchiwa_orange.name=Round fan arancione
+item.block_uchiwa_pink.name=Round fan rosa
+item.block_uchiwa_purple.name=Round fan viola
+item.block_uchiwa_red.name=Round fan rosso
+item.block_uchiwa_white.name=Round fan bianca
+item.block_uchiwa_yellow.name=Round fan gialla
+
+tips.block_uchiwa.name=Blocco decorativo
+
+tips.block_wataame.name=Porta via la confezione e diventa zucchero filato.
+tile.block_watagashi.name=Zucchero filato confezionato
+tile.block_watagashi_green.name=Zucchero filato confezionato_te verde
+tile.block_watagashi_pink.name=Zucchero filato confezionato_ciliegia
+tile.block_watagashi_red.name=Zucchero filato confezionato_uva
+tile.block_watagashi_yellow.name=Zucchero filato confezionato_mela
+item.item_food_watagashi.name=Zucchero filato
+item.item_food_watagashi_g.name=Zucchero filato_te verde
+item.item_food_watagashi_p.name=Zucchero filato_ciliegia
+item.item_food_watagashi_r.name=Zucchero filato_uva
+item.item_food_watagashi_y.name=Zucchero filato_mela
+
+item.block_kakigouri_block1.name=Kakigōri
+item.block_kakigouri_green1.name=Kakigōri_te verde
+item.block_kakigouri_pink1.name=Kakigōri_ciliegia
+item.block_kakigouri_red1.name=Kakigōri_uva
+item.block_kakigouri_yellow1.name=Kakigōri_mela
+tile.block_kakigouri_hata.name=Bandiera di Kakigōri
+
+tips.block_kakigouri.name=Dessert di ghiaccio tritato
+
+tile.block_tabakusa.name=Blocco del tetto d'erba
+tile.block_tabawara.name=Blocco del tetto di paglia di riso
+tile.block_tabakaya.name=Blocco del tetto di paglia
+
+tile.block_tabakusa_roof.name=Tetto d'erba
+tile.block_tabawara_roof.name=Tetto di paglia di riso
+tile.block_tabakaya_roof.name=Tetto di paglia
+tips.block_tabakusa_roof.name=Materiali del tetto direzionale. Accovacciati con fare clic destro [tipo di cambio].
+
+tile.block_tabakusa_stairs.name=Scale sul tetto d'erba
+tile.block_tabawara_stairs.name=Scale sul tetto di paglia di riso
+tile.block_tabakaya_stairs.name=Scale sul tetto di paglia
+
+tile.block_tatamih_y.name=TATAMI abbronzato_senza bordo
+tile.block_tatamih_y_black.name=TATAMI abbronzato nero
+tile.block_tatamih_y_blue.name=TATAMI abbronzato blu
+tile.block_tatamih_y_brown.name=TATAMI abbronzato marrone
+tile.block_tatamih_y_cyan.name=TATAMI abbronzato ciano
+tile.block_tatamih_y_gray.name=TATAMI abbronzato grigia
+tile.block_tatamih_y_green.name=TATAMI abbronzato verde
+tile.block_tatamih_y_lightb.name=TATAMI abbronzato azzurra
+tile.block_tatamih_y_lightg.name=TATAMI abbronzato grigio chiaro
+tile.block_tatamih_y_lime.name=TATAMI abbronzato lime
+tile.block_tatamih_y_magenta.name=TATAMI abbronzato magenta
+tile.block_tatamih_y_orange.name=TATAMI abbronzato arancione
+tile.block_tatamih_y_pink.name=TATAMI abbronzato rosa
+tile.block_tatamih_y_purple.name=TATAMI abbronzato viola
+tile.block_tatamih_y_red.name=TATAMI abbronzato rosso
+tile.block_tatamih_y_yellow.name=TATAMI abbronzato gialla
+tile.block_tatamih_y_white.name=TATAMI abbronzato bianca
+
+tile.block_lamp.name=Lampada da parete
+tips.block_lamp.name=Fare clic destro [acceso/spento].
+
+tile.block_standbedroom.name=Lampada da camera
+tile.block_standarm.name=Lampada da scrivania
+
+item.block_candle_black.name=Candela nero
+item.block_candle_blue.name=Candela blu
+item.block_candle_brown.name=Candela marrone
+item.block_candle_cyan.name=Candela ciano
+item.block_candle_gray.name=Candela grigia
+item.block_candle_green.name=Candela verde
+item.block_candle_lightb.name=Candela azzurra
+item.block_candle_lightg.name=Candela grigio chiaro
+item.block_candle_lime.name=Candela lime
+item.block_candle_magenta.name=Candela magenta
+item.block_candle_orange.name=Candela arancione
+item.block_candle_pink.name=Candela rosa
+item.block_candle_purple.name=Candela viola
+item.block_candle_red.name=Candela rosso
+item.block_candle_yellow.name=Candela gialla
+item.block_candle_white.name=Candela
+
+item.block_andon_black.name=ANDON nero
+item.block_andon_blue.name=ANDON blu
+item.block_andon_brown.name=ANDON marrone
+item.block_andon_cyan.name=ANDON ciano
+item.block_andon_gray.name=ANDON grigia
+item.block_andon_green.name=ANDON verde
+item.block_andon_lightb.name=ANDON azzurra
+item.block_andon_lightg.name=ANDON grigio chiaro
+item.block_andon_lime.name=ANDON lime
+item.block_andon_magenta.name=ANDON magenta
+item.block_andon_orange.name=ANDON arancione
+item.block_andon_pink.name=ANDON rosa
+item.block_andon_purple.name=ANDON viola
+item.block_andon_red.name=ANDON rosso
+item.block_andon_yellow.name=ANDON gialla
+item.block_andon_white.name=ANDON
+tips.block_andon.name=Lampada da terra. Accendere un fuoco con Acciarino. Fare clic destro [spento].
+
+#SE
+chinjufumod.subtitle.kk_propeller.name=Suono dell'elica
+chinjufumod.subtitle.kk_propeller_12.name=Suono dell'elica
+chinjufumod.subtitle.kk_starting.name=Suono del motore
+chinjufumod.subtitle.kk_atack.name=Attacco aerei
+chinjufumod.subtitle.kk_atack2.name=Attacco aerei
+chinjufumod.subtitle.kk_impact.name=Collisione degli aerei
+chinjufumod.subtitle.kk_break.name=Esplosione degli aerei
+chinjufumod.subtitle.kk_stop.name=Atterraggio aereo
+chinjufumod.subtitle.water_splash.name=Cadere in acqua
+chinjufumod.subtitle.am_fire.name=Spara al cannone
+chinjufumod.subtitle.am_impact.name=Esplosione
+chinjufumod.subtitle.am_cartridge.name=Bossoli
+chinjufumod.subtitle.am_cartridge2.name=Bossoli
+chinjufumod.subtitle.am_cartridge3.name=Bossoli
+chinjufumod.subtitle.wake_water.name=Correndo sull'acqua
+chinjufumod.subtitle.tansu_open.name=Apri cassetto
+chinjufumod.subtitle.tansu_close.name=Chiudi cassetto
+chinjufumod.subtitle.window_open.name=Apri finestra
+chinjufumod.subtitle.window_close.name=Chiudi finestra
+chinjufumod.subtitle.window_updown.name=Finestra a ghigliottina
+chinjufumod.subtitle.amado_cancel.name=AMADO
+
+chinjufumod.subtitle.fusuma.name=SHOUJI／FUSUMA
+chinjufumod.subtitle.fusuma_short.name=SHOUJI finestra
+chinjufumod.subtitle.hikido.name=Porta scorrevole
+chinjufumod.subtitle.hikido_short.name=Porta scorrevole
+chinjufumod.subtitle.kinuzure.name=Sfregamento del tessuto
+chinjufumod.subtitle.sit_chair.name=Siediti su una sedia
+chinjufumod.subtitle.juu.name=Cuocere con una padella
+chinjufumod.subtitle.gutsugutsu.name=Suono di ebollizione
+chinjufumod.subtitle.tea.name=Versare il tè
+chinjufumod.subtitle.sake.name=Versare il vino
+chinjufumod.subtitle.paku.name=Mangiare
+chinjufumod.subtitle.goku.name=Da bere
+chinjufumod.subtitle.kitchen_cut.name=Coltello da cucina
+chinjufumod.subtitle.water_start.name=Apri rubinetto
+chinjufumod.subtitle.water_stop.name=Chiudi rubinetto
+chinjufumod.subtitle.shishiodoshi.name=SHISHI-ODOSHI
+
+#4.0
+item.block_sofa_leather.name=Divano in pelle
+item.block_sofa_black.name=Divano nero
+item.block_sofa_blue.name=Divano blu
+item.block_sofa_brown.name=Divano marrone
+item.block_sofa_cyan.name=Divano ciano
+item.block_sofa_gray.name=Divano grigia
+item.block_sofa_green.name=Divano verde
+item.block_sofa_lightblue.name=Divano azzurra
+item.block_sofa_lightgray.name=Divano grigio chiaro
+item.block_sofa_lime.name=Divano lime
+item.block_sofa_magenta.name=Divano magenta
+item.block_sofa_orange.name=Divano arancione
+item.block_sofa_pink.name=Divano rosa
+item.block_sofa_purple.name=Divano viola
+item.block_sofa_red.name=Divano rosso
+item.block_sofa_white.name=Divano_bianco
+item.block_sofa_yellow.name=Divano gialla
+
+item.block_bench.name=Panchina_quercia
+item.block_bench_aca.name=Panchina_acacia
+item.block_bench_bir.name=Panchina_betulla
+item.block_bench_doak.name=Panchina_quercia scura
+item.block_bench_jun.name=Panchina_giungla
+item.block_bench_spru.name=Panchina_abete
+item.block_bench_saku.name=Panchina_ciliegio
+item.block_bench_kae.name=Panchina_acer
+item.block_bench_ich.name=Panchina_ginkgo
+
+item.block_bonsai_oak.name=BONSAI_quercia
+item.block_bonsai_acacia.name=BONSAI_acacia
+item.block_bonsai_birch.name=BONSAI_betulla
+item.block_bonsai_darkoak.name=BONSAI_quercia scura
+item.block_bonsai_jungle.name=BONSAI_giungla
+item.block_bonsai_spruce.name=BONSAI_abete
+item.block_bonsai_sakura.name=BONSAI_ciliegio
+item.block_bonsai_kaede.name=BONSAI_acer
+item.block_bonsai_ichoh.name=BONSAI_ginkgo
+item.block_bonsai_oakkare.name=BONSAI_quercia autunnale
+tips.block_bonsai.name=Accovacciati con fare clic destro [tipo di cambio].
+
+item.block_kanyouoak_bot.name=Pianta da appartamento_quercia
+item.block_kanyouacacia_bot.name=Pianta da appartamento_acacia
+item.block_kanyoubirch_bot.name=Pianta da appartamento_betulla
+item.block_kanyoudarkoak_bot.name=Pianta da appartamento_quercia scura
+item.block_kanyoujungle_bot.name=Pianta da appartamento_giungla
+item.block_kanyouspruce_bot.name=Pianta da appartamento_abete
+item.block_kanyousakura_bot.name=Pianta da appartamento_ciliegio
+item.block_kanyoukaede_bot.name=Pianta da appartamento_acer
+item.block_kanyouichoh_bot.name=Pianta da appartamento_ginkgo
+item.block_kanyouoakkare_bot.name=Pianta da appartamento_quercia autunnale
+tips.block_kanyou.name=Il tipo cambia quando lo metti in accovacciati.
+	
+item.block_ironfence_bot.name=Recinzione in ferro
+
+item.block_door_sakura.name=Porta di ciliegio
+item.block_door_ichoh.name=Porta di ginkgo
+item.block_door_kaede.name=Porta di acer
+
+item.block_gate_iron.name=Cancello di ferro
+item.block_gate_irongrill.name=Cancello del bar di ferro
+item.block_gate_spruce_b.name=Cancello di abete
+item.block_gate_spruce.name=Cancello di abete tipo2
+tips.block_gate.name=Retromarcia, mettendolo in accovacciati. Pietrarossa [apri / chiudi].
+
+tile.block_taru_cocoa_f.name=Botte di cacao
+tips.block_taru_cocoa.name=Botte per fermentare i cacao. Portalo con una ciotola.
+
+item.item_cocoa_ferm.name=Cacao fermentato
+tips.item_cocoa_ferm.name=Fondere diventa un cacao arrostito.
+
+item.item_cocoa_roast.name=Cacao arrostito
+tips.item_cocoa_roast.name=Crafting diventa una massa di cacao.
+
+item.item_cocoa_mass.name=Massa di cacao
+tips.item_cocoa_mass.name=Quando vengono aggiunti zucchero e latte, diventa cioccolato pre-modellante.
+
+item.item_choco_raw.name=Ciotola con cioccolato
+tips.item_choco_raw.name=Crafting diventa un cioccolato.
+
+item.item_food_choco_heart.name=Cioccolato a forma di cuore
+item.item_food_choco.name=Cioccolato
+item.item_food_choco_apple.name=Cioccolato_mela
+item.item_food_choco_cherry.name=Cioccolato_ciliegia
+item.item_food_choco_grape.name=Cioccolato_uva
+item.item_food_choco_greentea.name=Cioccolato_te verde
+
+item.item_shield_kuchiku.name=Scudo del Destroyer
+item.item_shield_yura.name=Scudo di YURA
+item.item_shield_mogami.name=Scudo di MOGAMI
+item.item_shield_kongou.name=Scudo di KONGOU
+tips.item_shield.name=Fai clic destro per difendere. Riparabile con un lingotto di ferro.
+tips.item_shield2.name=Quando il giocatore smette di bloccare, rimbalzerà sugli esseri viventi.
+	
+chinjufumod.subtitle.gyorai.name=Suono di un siluro
+chinjufumod.subtitle.gate_wood.name=Cancello di albero
+chinjufumod.subtitle.gate_iron_open.name=Cancello di ferro
+chinjufumod.subtitle.gate_iron_close.name=Cancello di ferro
+
+item.block_shouji.name=SHOUJI
+item.block_shouji_acacia.name=SHOUJI di acacia
+item.block_shouji_birch.name=SHOUJI di betulla
+item.block_shouji_darkoak.name=SHOUJI di quercia scura
+item.block_shouji_jungle.name=SHOUJI di giungla
+item.block_shouji_spruce.name=SHOUJI di abete
+tips.block_shouji.name=Porta scorrevole e partizione. Retromarcia, mettendolo in accovacciati. Fare clic destro [apri / chiudi].
+
+item.block_shoujib.name=SHOUJI tipo2
+item.block_shoujib_acacia.name=SHOUJI tipo2 di acacia
+item.block_shoujib_birch.name=SHOUJI tipo2 di betulla
+item.block_shoujib_darkoak.name=SHOUJI tipo2 di quercia scura
+item.block_shoujib_jungle.name=SHOUJI tipo2 di giungla
+item.block_shoujib_spruce.name=SHOUJI tipo2 di abete
+
+item.block_garasudo.name=GARASUDO
+item.block_garasudo_acacia.name=GARASUDO di acacia
+item.block_garasudo_birch.name=GARASUDO di betulla
+item.block_garasudo_darkoak.name=GARASUDO di quercia scura
+item.block_garasudo_jungle.name=GARASUDO di giungla
+item.block_garasudo_spruce.name=GARASUDO di abete
+
+item.block_garasudob.name=GARASUDO tipo2
+item.block_garasudob_acacia.name=GARASUDO tipo2 di acacia
+item.block_garasudob_birch.name=GARASUDO tipo2 di betulla
+item.block_garasudob_darkoak.name=GARASUDO tipo2 di quercia scura
+item.block_garasudob_jungle.name=GARASUDO tipo2 di giungla
+item.block_garasudob_spruce.name=GARASUDO tipo2 di abete
+tips.block_garasudo.name=Porta scorrevole. Retromarcia, mettendolo in accovacciati. Fare clic destro [apri / chiudi].
+
+item.block_fusuma.name=FUSUMA
+item.block_fusuma_black.name=FUSUMA nero
+item.block_fusuma_blue.name=FUSUMA blu
+item.block_fusuma_brown.name=FUSUMA marrone
+item.block_fusuma_cyan.name=FUSUMA ciano
+item.block_fusuma_gray.name=FUSUMA grigia
+item.block_fusuma_green.name=FUSUMA verde
+item.block_fusuma_lightb.name=FUSUMA azzurra
+item.block_fusuma_lightg.name=FUSUMA grigio chiaro
+item.block_fusuma_lime.name=FUSUMA lime
+item.block_fusuma_magenta.name=FUSUMA magenta
+item.block_fusuma_orange.name=FUSUMA arancione
+item.block_fusuma_pink.name=FUSUMA rosa
+item.block_fusuma_purple.name=FUSUMA viola
+item.block_fusuma_red.name=FUSUMA rosso
+item.block_fusuma_yellow.name=FUSUMA gialla
+tips.block_fusuma.name=Porta scorrevole e partizione. Retromarcia, mettendolo in accovacciati. Fare clic destro [apri / chiudi].
+
+item.block_fusumab.name=FUSUMA tipo2
+item.block_fusumab_black.name=FUSUMA tipo2 nero
+item.block_fusumab_blue.name=FUSUMA tipo2 blu
+item.block_fusumab_brown.name=FUSUMA tipo2 marrone
+item.block_fusumab_cyan.name=FUSUMA tipo2 ciano
+item.block_fusumab_gray.name=FUSUMA tipo2 grigia
+item.block_fusumab_green.name=FUSUMA tipo2 verde
+item.block_fusumab_lightb.name=FUSUMA tipo2 azzurra
+item.block_fusumab_lightg.name=FUSUMA tipo2 grigio chiaro
+item.block_fusumab_lime.name=FUSUMA tipo2 lime
+item.block_fusumab_magenta.name=FUSUMA tipo2 magenta
+item.block_fusumab_orange.name=FUSUMA tipo2 arancione
+item.block_fusumab_pink.name=FUSUMA tipo2 rosa
+item.block_fusumab_purple.name=FUSUMA tipo2 viola
+item.block_fusumab_red.name=FUSUMA tipo2 rosso
+item.block_fusumab_yellow.name=FUSUMA tipo2 gialla
+
+item.block_shouji_ichoh.name=SHOUJI di ginkgo
+item.block_shouji_kaede.name=SHOUJI di acer
+item.block_shouji_sakura.name=SHOUJI di ciliegio
+item.block_shoujib_ichoh.name=SHOUJI tipo2 di ginkgo
+item.block_shoujib_kaede.name=SHOUJI tipo2 di acer
+item.block_shoujib_sakura.name=SHOUJI tipo2 di ciliegio
+
+item.block_garasudob_ichoh.name=GARASUDO tipo2 di ginkgo
+item.block_garasudob_kaede.name=GARASUDO tipo2 di acer
+item.block_garasudob_sakura.name=GARASUDO tipo2 di ciliegio
+item.block_garasudo_ichoh.name=GARASUDO di ginkgo
+item.block_garasudo_kaede.name=GARASUDO di acer
+item.block_garasudo_sakura.name=GARASUDO di ciliegio
+
+#4.0.1
+item.block_food_dongyu_1.name=GYU-DON
+tips.block_food_dongyu_1.name=Ciotola di riso con manzo
+item.block_food_donkatsu_1.name=KATSU-DON
+tips.block_food_donkatsu_1.name=Ciotola di riso con cotoletta
+item.block_food_donmeshi_1.name=Riso ciotola
+item.block_food_donoyako_1.name=OYAKO-DON
+tips.block_food_donoyako_1.name=Ciotola di riso con pollo e uova
+
+item.block_food_frypan_n_tamago.name=Padella con uova crude
+item.block_food_frypan_n_eggb.name=Padella con uovo e hamburg crude
+item.block_food_frypan_n_gyudon.name=Padella con GYUDON crude
+item.block_food_frypan_n_katsu.name=Padella con cotoletta crude
+item.block_food_frypan_n_katsudon.name=Padella con KATSUDON crude
+item.block_food_frypan_n_oyakodon.name=Padella con OYAKODON crude
+item.block_food_frypan_n_kinokos.name=Padella con funghi crudi
+item.block_food_frypan_n_tomatos.name=Padella con salsa di pomodori crudi
+
+item.block_food_frypan_b_tamago.name=Padella con omelette
+tips.block_food_frypan_sara.name=Prendilo con una piatto.
+item.block_food_frypan_b_eggb.name=Padella con uovo e hamburg
+item.block_food_frypan_b_gyudon.name=Padella con GYUDON
+tips.block_food_frypan_donburi.name=Raccogliere con Riso ciotola.
+item.block_food_frypan_b_katsu.name=Padella con cotoletta
+item.block_food_frypan_b_katsudon.name=Padella con KATSUDON
+item.block_food_frypan_b_oyakodon.name=Padella con OYAKODON
+item.block_food_frypan_b_kinokos.name=Padella con funghi
+item.block_food_frypan_b_tomatos.name=Padella con salsa di pomodoro
+tips.block_food_frypan_pasta.name=Prendilo con una pasta.
+
+item.item_food_pasta_n.name=Pasta cruda
+item.item_food_pasta_s.name=Pasta
+
+item.block_zundou_shiomizu.name=Pentola con acqua salata
+tips.block_zundou_shiomizu.name=Cuocere pasta e pesce.
+
+item.block_food_pastacheese_1.name=Pasta con salsa di formaggio
+item.block_food_pastakinoko_1.name=Pasta con funghi
+item.block_food_pastatoma_1.name=Pasta con salsa di pomodoro
+
+item.block_taru_hakusai_f.name=Botte di cavolo cinese 1a tappa
+tips.block_taru_hakusai_f.name=Botte per fare la Cavolo cinese salato. Quando esce l'acqua, rompila e raccoglila.
+item.block_taru_hakusai_f2.name=Botte di cavolo cinese 2a tappa
+tips.block_taru_hakusai_f2.name=Botte per fare la Cavolo cinese salato. Portalo con un piatto. 4 volte.
+item.item_food_hakusai2.name=Cavolo cinese leggermente salato
+item.block_food_hsd_1.name=Cavolo cinese salato
+
+item.block_taru_komezu_f.name=Botte di aceto di riso
+tips.block_taru_komezu.name=Botte per fare la salsa di aceto di riso. Portalo con una ampolla di vetro. 4 volte.
+item.block_komezu_bot.name=Aceto di riso
+item.block_komezu_bot_2.name=Aceto di riso
+
+item.block_taru_shouyu_f.name=Botte di salsa di soia
+tips.block_taru_shouyu.name=Botte per fare la salsa di soia. Portalo con una ampolla di vetro. 4 volte.
+item.block_shouyu_bot.name=Salsa di soia
+item.block_shouyu_bot_2.name=Salsa di soia
+item.block_shouyu_bot_3.name=Salsa di soia
+item.block_shouyu_bot_4.name=Salsa di soia
+chinjufumod.subtitle.shouyu.name=Versare la salsa di soia
+tips.block_bot.name=4 volte
+tips.block_bot_2.name=3 volte
+tips.block_bot_3.name=2 volte
+tips.block_bot_4.name=1 volta
+
+item.item_food_kirimi_salmon.name=Salmone a fette
+item.item_food_kirimi_fish.name=Pesce a fette
+item.item_food_kirimi_beef.name=Manzo a fette
+item.item_food_kirimi_tamago.name=Omelette a fette
+tips.item_food_kirimi.name=Prendilo e fai clic destro sul riso SUSHI per creare un SUSHI.
+
+item.block_food_sushimeshi.name=Riso SUSHI
+tips.block_food_sushimeshi.name=Prepara il SUSHI dalle fette.
+
+item.block_food_shouyusara_1.name=Piatto di salsa di soia
+tips.block_food_shouyusara_1.name=Utilizzare con il SUSHI.
+
+item.item_food_sushi_salmon.name=SUSHI_salmone
+item.item_food_sushi_fish.name=SUSHI_pesce
+item.item_food_sushi_beef.name=SUSHI_manzo
+item.item_food_sushi_tamago.name=SUSHI_omelette
+item.item_food_sushishouyu_salmon.name=SUSHI con salsa di soia_salmone
+item.item_food_sushishouyu_fish.name=SUSHI con salsa di soia_pesce
+item.item_food_sushishouyu_beef.name=SUSHI con salsa di soia_manzo
+item.item_food_sushishouyu_tamago.name=SUSHI con salsa di soia_omelette
+
+item.block_food_sushiset_4shoku.name=Set di SUSHI
+item.block_food_sushiset_salmon.name=Set di SUSHI_salmone
+item.block_food_sushiset_fish.name=Set di SUSHI_pesce
+item.block_food_sushiset_beef.name=Set di SUSHI_manzo
+item.block_food_sushiset_tamago.name=Set di SUSHI_omelette
+
+item.block_food_sushigeta_kara.name=SUSHI-GETA
+tips.block_food_sushigeta_kara.name=Piatto di legno per SUSHI. Versare la salsa di soia e mettere un SUSHI.
+
+item.block_food_sushioke_kara.name=Ciotola di SUSHI
+item.block_food_sushiokefull_1.name=SUSHI assortiti
+
+item.block_niboshi.name=Pesce bollito
+tips.block_niboshi_boiled.name=Dopo l'essiccazione, raccogliere in l'ampolla di vetro.
+item.block_dashi_bot.name=DASHI polvere
+item.block_dashi_bot_2.name=DASHI polvere
+item.block_dashi_bot_3.name=DASHI polvere
+item.block_dashi_bot_4.name=DASHI polvere
+
+item.block_food_dashinabe_1.name=Pentola con DASHI
+tips.block_food_dashinabe_1.name=Portalo in un DONBURI con salsa di soia.
+
+item.item_clay_donburi.name=Argilla modellata_DONBURI
+tips.item_clay_donburi.name=Bruciare in un forno, questo si trasforma in un DONBURI.
+
+item.item_food_donburi.name=DONBURI
+tips.item_food_donburi.name=Ciotola per UDON e Riso, Ramen.
+
+item.item_food_udon_n.name=UDON crudo
+item.block_zundou_mizu.name=Pentola con acqua
+
+item.item_food_shouyu_don.name=DONBURI con Salsa di soia
+item.item_food_tsuyu_don.name=DONBURI con Zuppa
+item.block_food_udonsu_1.name=UDON di base
+item.block_food_udonniku_1.name=UDON di manzo
+item.block_food_udontsukimi_1.name=UDON di uovo
+
+item.block_food_senbei.name=SENBEI sul piatto
+item.block_food_scone.name=Scone sul piatto
+item.block_food_mikan.name=Citrus sul piatto
+
+item.block_wood_mikan.name=Albero di citrus
+tips.block_wood_mikan.name=Piantalo in una terra calda e luminosa, diventerà un albero.
+item.item_food_mikan.name=Citrus
+tile.block_boxh_citrus.name=Scatola di citrus
+tile.block_boxh_salmon.name=Scatola di salmone
+
+tile.block_kit2_tana.name=Portavini
+tips.block_kit2_tana.name=Può contenere vino, sidro e sakè.
+
+item.block_koushib_oak.name=Reticolo orizzontale
+item.block_koushib_aca.name=Reticolo orizzontale_acacia
+item.block_koushib_bir.name=Reticolo orizzontale_betulla
+item.block_koushib_doak.name=Reticolo orizzontale_quercia scura
+item.block_koushib_jun.name=Reticolo orizzontale_giungla
+item.block_koushib_spru.name=Reticolo orizzontale_abete
+item.block_koushib_ich.name=Reticolo orizzontale_ginkgo
+item.block_koushib_kae.name=Reticolo orizzontale_acer
+item.block_koushib_saku.name=Reticolo orizzontale_ciliegio
+
+item.block_shishiodoshi.name=SHISHI-ODOSHI
+tips.block_shishiodoshi.name=Retromarcia, mettendolo in accovacciati. Fare clic destro [inizio / arresto].
+
+item.block_hodagi_a_bot.name=Fungo tronco
+tips.block_hodagi_a_bot.name=I funghi crescono quando vengono posizionati in un luogo con un livello di luce pari o inferiore a 11.
+item.block_taru_kinoko_f.name=Scaffale di funghi
+tips.block_taru_kinoko.name=Scaffale per preparare DASHI ai funghi. Raccogli in una bottiglia di vetro.
+item.block_taru_konbu_f.name=Scaffale di alga
+tips.block_taru_konbu.name=Scaffale per preparare DASHI ai alga. Raccogli in una bottiglia di vetro.
+
+item.block_measurecup.name=Misurino
+tips.block_measurecup.name=Una tazza per attingere l'acqua per cucinare.
+item.item_measurecup_full.name=Misurino con acqua
+tips.item_measurecup_full.name=Acqua per cucinare
+
+item.block_suiden.name=Risaia
+tips.block_suiden.name=Pianta il riso qui. Se l'acqua non è nelle vicinanze, si trasforma in terra.
+
+tile.block_noriami.name=Netto per alghe
+tips.block_noriami.name=Mettilo sull'acqua e coltiva le alghe.
+item.block_taru_nori_f.name=Scaffale di NORI
+tips.block_taru_nori.name=Uno scaffale per realizzare fogli NORI con alghe crude.
+
+tile.block_food_frypan_n_kinokoak.name=Funghi in salsa di soia e zucchero
+item.item_food_frypan_b_kinokoak.name=Funghi cotti in salsa di soia e zucchero
+tips.item_frypan_kinokoak.name=Materiale FUTOMAKI
+
+item.item_food_norinama.name=Alghe crude
+item.item_food_noriita.name=Foglio NORI
+item.item_food_onigiri.name=ONIGIRI
+item.item_food_onigirishake.name=ONIGIRI_salmone
+item.item_food_futomaki.name=FUTOMAKI
+
+item.block_shoujihalf.name=Metà SHOUJI
+item.block_shoujihalf_acacia.name=Metà SHOUJI_acacia
+item.block_shoujihalf_birch.name=Metà SHOUJI_betulla
+item.block_shoujihalf_darkoak.name=Metà SHOUJI_quercia scura
+item.block_shoujihalf_jungle.name=Metà SHOUJI_giungla
+item.block_shoujihalf_spruce.name=Metà SHOUJI_abete
+item.block_shoujihalf_ichoh.name=Metà SHOUJI_ginkgo
+item.block_shoujihalf_kaede.name=Metà SHOUJI_acer
+item.block_shoujihalf_sakura.name=Metà SHOUJI_ciliegio
+tips.block_shoujihalf.name=Retromarcia, mettendolo in accovacciati. Fare clic destro [apri / chiudi].
+
+item.block_garasudohalf.name=Metà GARASUDO
+item.block_garasudohalf_acacia.name=Metà GARASUDO_acacia
+item.block_garasudohalf_birch.name=Metà GARASUDO_betulla
+item.block_garasudohalf_darkoak.name=Metà GARASUDO_quercia scura
+item.block_garasudohalf_jungle.name=Metà GARASUDO_giungla
+item.block_garasudohalf_spruce.name=Metà GARASUDO_abete
+item.block_garasudohalf_ichoh.name=Metà GARASUDO_ginkgo
+item.block_garasudohalf_kaede.name=Metà GARASUDO_acer
+item.block_garasudohalf_sakura.name=Metà GARASUDO_ciliegio
+
+item.block_tobukurowin.name=TOBUKURO finestra_quercia scura
+item.block_tobukuro.name=TOBUKURO_quercia scura
+item.block_tobukurowin_spruce.name=TOBUKURO finestra
+item.block_tobukuro_spruce.name=TOBUKURO
+tips.block_tobukuro.name=Cassetta per porta blindata in legno. Retromarcia, mettendolo in accovacciati. Fare clic destro [apri / chiudi].
+
+item.block_takeakari.name.name=Lanterna di bambù
+item.block_takeakari_y.name.name=Lanterna di bambù abbronzato
+item.block_takeakari_k.name.name=Lanterna di bambù affumicato
+tips.block_takeakari.name=Accendere un fuoco con Acciarino. Fare clic destro [spento].
+
+item.item_kushi_sakana.name=Spiedini di pesce crudo
+item.item_kushi_sakana_c.name=Spiedini di pesce
+tips.item_kushi_sakana.name=Mettetelo sull'IRORI e fatelo cuocere.
+
+tile.block_taru_hachimitsushu_f.name=Botte di Idromele
+tips.block_taru_hachimitsushu.name=Botte per la produzione di Idromele. Dopo la fermentazione, raccogliere con una bottiglia di vino.
+tile.block_bot_mead_1.name=Idromele
+tile.block_bot_meadjuku_1.name=Idromele invecchiato
+item.block_glass_mead.name=Vetro con Idromele
+item.block_glass_meadjuku.name=Vetro con Idromele invecchiato
+
+item.item_rotten_food.name=Cibo marcio
+tips.item_rotten_food.name=Articolo compostabile
+	
+tile.block_marinelamp.name=Lampada marina
+
+tile.block_bamboo_cube.name=Blocco di bambù
+tile.block_bamboo_y_cube.name=Blocco di bambù abbronzato
+tile.block_bamboo_k_cube.name=Blocco di bambù affumicato
+tile.block_bamboo_stairs.name=Scalini di bambù
+tile.block_bamboo_y_stairs.name=Scalini di bambù abbronzato
+tile.block_bamboo_k_stairs.name=Scalini di bambù affumicato
+tile.block_bamboo_slab.name=Lastra di bambù
+tile.block_bamboo_y_slab.name=Lastra di bambù abbronzato
+tile.block_bamboo_k_slab.name=Lastra di bambù affumicato
+
+tile.block_wp_bamboo.name=Pannello_blocco di bambù
+tile.block_wp_bamboo_y.name=Pannello_blocco di bambù abbronzato
+tile.block_wp_bamboo_k.name=Pannello_blocco di bambù affumicato
+
+item.block_bamboo_fence.name=Staccionata di bambù
+item.block_bamboo_y_fence.name=Staccionata di bambù abbronzato
+item.block_bamboo_k_fence.name=Staccionata di bambù affumicato
+item.block_bamboo_fencegate.name=Cancelletto di bambù
+item.block_bamboo_y_fencegate.name=Cancelletto di bambù abbronzato
+item.block_bamboo_k_fencegate.name=Cancelletto di bambù affumicato
+item.block_bamboo_door.name=Porta di bambù
+item.block_bamboo_y_door.name=Porta di bambù abbronzato
+item.block_bamboo_k_door.name=Porta di bambù affumicato
+
+item.block_fence_sakura.name=Staccionata di ciliegio
+item.block_fence_kaede.name=Staccionata di acer
+item.block_fence_ichoh.name=Staccionata di ginkgo
+item.block_fencegate_sakura.name=Cancelletto di ciliegio
+item.block_fencegate_kaede.name=Cancelletto di acer
+item.block_fencegate_ichoh.name=Cancelletto di ginkgo
+
+item.block_inagi.name=INAGI
+tips.block_inagi.name=Appendi 8 piante di riso. Dopo l'essiccazione, fai clic con il pulsante destro del mouse per raccogliere le piante di riso.
+item.item_ine_dry.name=Pianta di riso essiccata
+
+item.block_button_sakura.name=Pulsante di ciliegio
+item.block_button_kaede.name=Pulsante di acer
+item.block_button_ichoh.name=Pulsante di ginkgo
+item.block_plate_sakura.name=Pedana a pressione di ciliegio
+item.block_plate_kaede.name=Pedana a pressione di acer
+item.block_plate_ichoh.name=Pedana a pressione di ginkgo
+tile.block_trapdoor_sakura.name=Botola di ciliegio
+tile.block_trapdoor_kaede.name=Botola di acer
+tile.block_trapdoor_ichoh.name=Botola di ginkgo
+
+item.block_bamboo_button.name=Pulsante di bambù
+item.block_bamboo_y_button.name=Pulsante di bambù abbronzato
+item.block_bamboo_k_button.name=Pulsante di bambù affumicato
+item.block_bamboo_plate.name=Pedana a pressione di bambù
+item.block_bamboo_y_plate.name=Pedana a pressione di bambù abbronzato
+item.block_bamboo_k_plate.name=Pedana a pressione di bambù affumicato
+tile.block_bamboo_trapdoor.name=Botola di bambù
+tile.block_bamboo_y_trapdoor.name=Botola di bambù abbronzato
+tile.block_bamboo_k_trapdoor.name=Botola di bambù affumicato
+
+item.block_mizuoke.name=MIZUOKE
+tips.block_mizuoke.name=Un secchio di legno per prendere acqua o latte.
+item.block_mizuoke_full.name=MIZUOKE d'acqua
+tips.block_mizuoke_full.name=Secchio d'acqua in legno che può trasformare una Sabbia in una Salina.
+item.item_mizuoke_milk.name=MIZUOKE di latte
+tips.item_mizuoke_milk.name=Secchio di latte in legno
+
+tile.block_enden.name=Salina
+tips.block_enden.name=Fare il sale usando la luce del sole.
+
+item.block_wadaiko.name=WADAIKO
+tile.block_wadaiko_small.name=Piccolo WADAIKO
+tips.block_wadaiko.name=Strumento musicale da suonare con un bastone. Accovacciati con fare clic destro [tipo di cambio].
+chinjufumod.subtitle.wadaiko_top.name=Suono di WADAIKO
+chinjufumod.subtitle.wadaiko_side.name=Suono di WADAIKO edge
+
+#Kamoi
+item.block_kamoi_oak.name=Metà pilastro
+item.block_kamoi_acacia.name=Metà pilastro_acacia
+item.block_kamoi_birch.name=Metà pilastro_betulla
+item.block_kamoi_darkoak.name=Metà pilastro_quercia scura
+item.block_kamoi_jungle.name=Metà pilastro_giungla
+item.block_kamoi_spruce.name=Metà pilastro_abete
+item.block_kamoi_sakura.name=Metà pilastro_ciliegio
+item.block_kamoi_kaede.name=Metà pilastro_acer
+item.block_kamoi_ichoh.name=Metà pilastro_ginkgo
+
+item.item_hake.name=Pennello
+tips.item_hake.name=Crea un pennello colorato con una tintura.
+
+item.item_hake_black.name=Pennello colorato nero
+item.item_hake_blue.name=Pennello colorato blu
+item.item_hake_brown.name=Pennello colorato marrone
+item.item_hake_cyan.name=Pennello colorato ciano
+item.item_hake_gray.name=Pennello colorato grigia
+item.item_hake_green.name=Pennello colorato verde
+item.item_hake_lightblue.name=Pennello colorato azzurra
+item.item_hake_lightgray.name=Pennello colorato grigio chiaro
+item.item_hake_lime.name=Pennello colorato lime
+item.item_hake_magenta.name=Pennello colorato magenta
+item.item_hake_orange.name=Pennello colorato arancione
+item.item_hake_pink.name=Pennello colorato rosa
+item.item_hake_purple.name=Pennello colorato viola
+item.item_hake_red.name=Pennello colorato rosso
+item.item_hake_yellow.name=Pennello colorato gialla
+item.item_hake_white.name=Pennello colorato bianca
+
+tips.item_hake_color.name=Tingi nuovamente i blocchi.
+chinjufumod.subtitle.paint.name=Suono di pittura
+
+item.item_kumade.name=KUMADE
+tips.item_kumade.name=Disegna un motivo su sabbia e ghiaia.
+item.item_chisel.name=Scalpello
+tips.item_chisel.name=Trasforma la pietra e il granito nella pietra del giardino.
+	
+#6.1.2
+item.block_dirtwall_wall.name=Adobe muretto
+item.block_pwall_black.name=SHIKKUI muretto nero
+item.block_pwall_blue.name=SHIKKUI muretto blu
+item.block_pwall_brown.name=SHIKKUI muretto marrone
+item.block_pwall_cyan.name=SHIKKUI muretto ciano
+item.block_pwall_gray.name=SHIKKUI muretto grigia
+item.block_pwall_green.name=SHIKKUI muretto verde
+item.block_pwall_lightb.name=SHIKKUI muretto azzurra
+item.block_pwall_lightg.name=SHIKKUI muretto grigio chiaro
+item.block_pwall_lime.name=SHIKKUI muretto lime
+item.block_pwall_magenta.name=SHIKKUI muretto magenta
+item.block_pwall_orange.name=SHIKKUI muretto arancione
+item.block_pwall_pink.name=SHIKKUI muretto rosa
+item.block_pwall_purple.name=SHIKKUI muretto viola
+item.block_pwall_red.name=SHIKKUI muretto rosso
+item.block_pwall_yellow.name=SHIKKUI muretto gialla
+item.block_pwall_white.name=SHIKKUI muretto
+	
+item.block_nwall_black.name=NAMAKO muretto nero
+item.block_nwall_blue.name=NAMAKO muretto blu
+item.block_nwall_brown.name=NAMAKO muretto marrone
+item.block_nwall_cyan.name=NAMAKO muretto ciano
+item.block_nwall_gray.name=NAMAKO muretto grigia
+item.block_nwall_green.name=NAMAKO muretto verde
+item.block_nwall_lightb.name=NAMAKO muretto azzurra
+item.block_nwall_lightg.name=NAMAKO muretto grigio chiaro
+item.block_nwall_lime.name=NAMAKO muretto lime
+item.block_nwall_magenta.name=NAMAKO muretto magenta
+item.block_nwall_orange.name=NAMAKO muretto arancione
+item.block_nwall_pink.name=NAMAKO muretto rosa
+item.block_nwall_purple.name=NAMAKO muretto viola
+item.block_nwall_red.name=NAMAKO muretto rosso
+item.block_nwall_yellow.name=NAMAKO muretto gialla
+item.block_nwall_white.name=NAMAKO muretto
+	
+item.block_nwall_b_black.name=NAMAKO muretto tipo2 nero
+item.block_nwall_b_blue.name=NAMAKO muretto tipo2 blu
+item.block_nwall_b_brown.name=NAMAKO muretto tipo2 marrone
+item.block_nwall_b_cyan.name=NAMAKO muretto tipo2 ciano
+item.block_nwall_b_gray.name=NAMAKO muretto tipo2 grigia
+item.block_nwall_b_green.name=NAMAKO muretto tipo2 verde
+item.block_nwall_b_lightb.name=NAMAKO muretto tipo2 azzurra
+item.block_nwall_b_lightg.name=NAMAKO muretto tipo2 grigio chiaro
+item.block_nwall_b_lime.name=NAMAKO muretto tipo2 lime
+item.block_nwall_b_magenta.name=NAMAKO muretto tipo2 magenta
+item.block_nwall_b_orange.name=NAMAKO muretto tipo2 arancione
+item.block_nwall_b_pink.name=NAMAKO muretto tipo2 rosa
+item.block_nwall_b_purple.name=NAMAKO muretto tipo2 viola
+item.block_nwall_b_red.name=NAMAKO muretto tipo2 rosso
+item.block_nwall_b_yellow.name=NAMAKO muretto tipo2 gialla
+item.block_nwall_b_white.name=NAMAKO muretto tipo2
+	
+tile.block_dirtwall_sama.name=Adobe balestriera
+tile.block_sama_black.name=SHIKKUI balestriera nero
+tile.block_sama_blue.name=SHIKKUI balestriera blu
+tile.block_sama_brown.name=SHIKKUI balestriera marrone
+tile.block_sama_cyan.name=SHIKKUI balestriera ciano
+tile.block_sama_gray.name=SHIKKUI balestriera grigia
+tile.block_sama_green.name=SHIKKUI balestriera verde
+tile.block_sama_lightb.name=SHIKKUI balestriera azzurra
+tile.block_sama_lightg.name=SHIKKUI balestriera grigio chiaro
+tile.block_sama_lime.name=SHIKKUI balestriera lime
+tile.block_sama_magenta.name=SHIKKUI balestriera magenta
+tile.block_sama_orange.name=SHIKKUI balestriera arancione
+tile.block_sama_pink.name=SHIKKUI balestriera rosa
+tile.block_sama_purple.name=SHIKKUI balestriera viola
+tile.block_sama_red.name=SHIKKUI balestriera rosso
+tile.block_sama_yellow.name=SHIKKUI balestriera gialla
+tile.block_sama_white.name=SHIKKUI balestriera
+tips.block_sama.name=Impila gli stessi blocchi per renderlo più spesso.
+	
+item.block_kwall_black.name=Tetto di muretto nero
+item.block_kwall_blue.name=Tetto di muretto blu
+item.block_kwall_brown.name=Tetto di muretto marrone
+item.block_kwall_cyan.name=Tetto di muretto ciano
+item.block_kwall_gray.name=Tetto di muretto grigia
+item.block_kwall_green.name=Tetto di muretto verde
+item.block_kwall_lightb.name=Tetto di muretto azzurra
+item.block_kwall_lightg.name=Tetto di muretto grigio chiaro
+item.block_kwall_lime.name=Tetto di muretto lime
+item.block_kwall_magenta.name=Tetto di muretto magenta
+item.block_kwall_orange.name=Tetto di muretto arancione
+item.block_kwall_pink.name=Tetto di muretto rosa
+item.block_kwall_purple.name=Tetto di muretto viola
+item.block_kwall_red.name=Tetto di muretto rosso
+item.block_kwall_yellow.name=Tetto di muretto gialla
+item.block_kwall_white.name=Tetto di muretto bianca
+	
+tile.block_makibishi.name=MAKIBISHI
+tips.block_makibishi.name=Coloro che lo calpestano subiranno danni.
+	
+item.item_shouhou_empty.name=Rapporto vuoto
+tips.item_shouhou_empty.name=Registra i 100 punti EX con 'Pennello e inchiostro di pietra' o 'Quill penna set'.
+item.item_shouhou.name=Rapporto di battaglia
+tips.item_shouhou.name=Usalo per ottenere 100 punti EX.
+	
+item.item_toami.name=Giacchio
+tips.item_toami.name=Se lanci questo a un pesce, puoi prendere il pesce.
+item.block_ami_shikake.name=Trappola per pesci
+tips.block_ami_shikake.name=Se lo metti nell'oceano o nel fiume, puoi pescare.
+item.block_ami_youshoku.name=Rete per acquacoltura
+tips.block_ami_youshoku.name=Aumentare il numero di merluzzi, salmoni e pesci tropicali rilasciati nella rete.
+tips.repair_ami.name=Puoi ripararlo utilizzando una cordicella e 3 punti EX.
+	
+name.farmedcod.name=Merluzzo d'allevamento
+name.farmedsalmon.name=Salmone d'allevamento
+name.farmedtropicalfish.name=Pesce tropicale d'allevamento
+name.capturedcod.name=Merluzzo catturato
+name.capturedsalmon.name=Salmone catturato
+name.capturedtropicalfish.name=Pesce tropicale catturato
+	
+item.item_squid_raw.name=Calamaro crudo
+item.item_squid_cut.name=Corpo di calamaro
+item.item_squid_cooked.name=Calamaro cotto
+tips.item_squid_raw.name=Può essere diviso in 2 sacche d'inchiostro e un corpo di calamaro.
+item.block_food_donkaisen_1.name=KAISEN-DON
+tips.block_food_donkaisen_1.name=Riso e Crudo di pesce fresco
+	
+tile.block_snowcore.name=Piccola palla di neve
+tips.block_snowcore.name=Arrotolalo sulla neve per renderlo più grande. Impila due di loro per fare un pupazzo di neve.
+item.block_snowman.name=Pupazzo di neve
+item.block_snowman_bot1.name=Pupazzo di neve
+tips.block_snowman.name=Si cambia usando una carota e lana.
+	
+chinjufumod.subtitle.throw.name=Suono di lancio	
+chinjufumod.subtitle.write_report.name=Suono della scrittura
+chinjufumod.subtitle.open.name=Aprire
+chinjufumod.subtitle.open_oven.name=Aprire
+chinjufumod.subtitle.touch_block.name=Hai colpito il blocco
+chinjufumod.subtitle.error.name=Suono di errore
+chinjufumod.subtitle.swing.name=Suono dell'altalena
+	
+text.chinjufumod.rightclick.waterlogged.name=Non può essere usato perché è allagato.
+text.chinjufumod.rightclick.notenough_exp.name=Non hai abbastanza punti EX.
+text.chinjufumod.rightclick.nothave.name=Non hai oggetti utilizzabili in mano.
+text.chinjufumod.rightclick.notenough_items.name=Non hai un numero sufficiente di oggetti.
+text.chinjufumod.rightclick.notsneak.name=Fare clic destro su di esso mentre accovacciati.
+text.chinjufumod.rightclick.noplace.name=Non c'è posto dove metterlo.
+text.chinjufumod.rightclick.fullitem.name=La tua mano è piena di oggetti.
+text.chinjufumod.rightclick.earlycollect.name=È troppo presto per riscuotere.
+text.chinjufumod.rightclick.earlyuse.name=È troppo presto per usarlo.
+text.chinjufumod.rightclick.sleeping.name=È dormendo.
+text.chinjufumod.rightclick.heat.name=Lascia che si scaldi.
+text.chinjufumod.rightclick.cool.name=Lascia che si raffreddi.
+text.chinjufumod.rightclick.blocked.name=La superficie da utilizzare è bloccata.
+text.chinjufumod.rightclick.empty.name=È vuoto.
+text.chinjufumod.rightclick.repair.name=Ha bisogno di riparazioni.
+text.chinjufumod.rightclick.notdig.name=Non è qui.
+	
+item.block_take.name=Bambù
+tile.block_takenoko.name=Germoglio di bambù
+tips.block_takenoko.name=Puoi mangiarlo cuocendolo.
+tips.block_takenoko2.name=Quando lo pianti, diventa bambù.
+item.item_food_takenoko.name=Germoglio di bambù cotto
+	
+item.item_chestnuts_burr.name=Guscio di castagne
+tile.block_chestnuts.name=Castagne
+tips.block_chestnuts.name=Può essere diviso in 2 frutti e un guscio.
+item.item_chestnut.name=Frutto di castagno
+tips.item_chestnut.name=Puoi mangiarlo cuocendolo.
+item.item_food_chestnut.name=Castagno cotto
+item.block_food_nabekuri_n.name=DONABE con castagne crude
+item.block_food_nabekuri_b.name=DONABE con castagne cotte
+item.item_chestnut_boil.name=Ciotola con castagne cotte
+item.item_chestnut_mash.name=Ciotola con purè di castagne
+item.item_food_chestnutsweet.name=KURIKINTON
+tips.item_chestnutsweet.name=Dolci a base di purè di castagne.
+item.item_food_chestnutchoco.name=Cioccolato_castagno
+
+tile.block_boxh_takenoko.name=Scatola di germoglio di bambù
+tile.block_boxh_chestnut.name=Sacco di castagno
+
+item.block_food_nabegohantake_n.name=DONABE con riso grezzo e germogli di bambù
+item.block_food_nabegohantake_1.name=DONABE con riso cotto e germogli di bambù
+item.block_food_gohantake_1.name=CHAWAN con riso cotto e germogli di bambù
+item.block_food_tgyteitake_1.name=Menu di omelette_germoglio di bambù
+item.block_food_yakizakanateitake_1.name=Menu di pesce alla griglia_germoglio di bambù
+item.block_food_yakijyaketeitake_1.name=Menu di salmon griglia_germoglio di bambù
+tips.block_food_nabegohantake_1.name=Portalo con un CHAWAN o una ciotola.
+	
+item.block_food_nabegohankuri_n.name=DONABE con riso grezzo e castagne
+item.block_food_nabegohankuri_1.name=DONABE con riso cotto e castagne
+item.block_food_gohankuri_1.name=CHAWAN con riso cotto e castagne
+item.block_food_tgyteikuri_1.name=Menu di omelette_castagna
+item.block_food_yakizakanateikuri_1.name=Menu di pesce alla griglia_castagna
+item.block_food_yakijyaketeikuri_1.name=Menu di salmon griglia_castagna
+	
+item.item_mushigome_take.name=Ciotola con riso cotto e germogli di bambù
+item.item_mushigome_kuri.name=Ciotola con riso cotto e castagne
+item.item_food_onigiritakenoko.name=ONIGIRI_germoglio di bambù
+item.item_food_onigirikuri.name=ONIGIRI_castagna
+	
+item.item_bentouhako.name=Scatola BENTO
+item.item_bentou.name=BENTO di pesce alla griglia
+item.item_bentoushake.name=BENTO di salmon griglia
+item.item_bentou_take.name=BENTO di pesce alla griglia_germoglio di bambù
+item.item_bentoushake_take.name=BENTO di salmon griglia_germoglio di bambù
+item.item_bentou_kuri.name=BENTO di pesce alla griglia_castagna
+item.item_bentoushake_kuri.name=BENTO di salmon griglia_castagna
+tips.item_bentou.name=Fare clic destro per mangiarlo.
+	
+item.item_kaihori.name=KUMADE di ferro
+tips.item_kaihori.name=Sulla spiaggia, raccogli le vongole dalla sabbia vicino all'acqua.
+item.item_hamaguri_shell.name=Conchiglia
+tile.block_hamaguri.name=Vongola comune di oriente
+item.item_food_hamaguri.name=Vongola comune di oriente cotta
+item.block_food_frypan_n_seafood.name=Padella con salsa di frutti di mare crudi
+item.block_food_frypan_b_seafood.name=Padella con salsa di frutti di mare
+item.block_food_pastaseafood_1.name=Pasta con frutti di mare
+	
+item.block_curtain_white.name=Tenda bianca
+item.block_curtain_orange.name=Tenda arancione
+item.block_curtain_magenta.name=Tenda magenta
+item.block_curtain_lightblue.name=Tenda azzurra
+item.block_curtain_yellow.name=Tenda gialla
+item.block_curtain_lime.name=Tenda lime
+item.block_curtain_pink.name=Tenda rosa
+item.block_curtain_gray.name=Tenda grigia
+item.block_curtain_lightgray.name=Tenda grigio chiaro
+item.block_curtain_cyan.name=Tenda ciano
+item.block_curtain_purple.name=Tenda viola
+item.block_curtain_blue.name=Tenda blu
+item.block_curtain_brown.name=Tenda marrone
+item.block_curtain_green.name=Tenda verde
+item.block_curtain_red.name=Tenda rosso
+item.block_curtain_black.name=Tenda nero
+	
+item.block_curtaintall_white.name=Tenda lunga bianca
+item.block_curtaintall_orange.name=Tenda lunga arancione
+item.block_curtaintall_magenta.name=Tenda lunga magenta
+item.block_curtaintall_lightblue.name=Tenda lunga azzurra
+item.block_curtaintall_yellow.name=Tenda lunga gialla
+item.block_curtaintall_lime.name=Tenda lunga lime
+item.block_curtaintall_pink.name=Tenda lunga rosa
+item.block_curtaintall_gray.name=Tenda lunga grigia
+item.block_curtaintall_lightgray.name=Tenda lunga grigio chiaro
+item.block_curtaintall_cyan.name=Tenda lunga ciano
+item.block_curtaintall_purple.name=Tenda lunga viola
+item.block_curtaintall_blue.name=Tenda lunga blu
+item.block_curtaintall_brown.name=Tenda lunga marrone
+item.block_curtaintall_green.name=Tenda lunga verde
+item.block_curtaintall_red.name=Tenda lunga rosso
+item.block_curtaintall_black.name=Tenda lunga nero
+	
+item.block_curtainlarge_white.name=Grande sipario bianca
+item.block_curtainlarge_orange.name=Grande sipario arancione
+item.block_curtainlarge_magenta.name=Grande sipario magenta
+item.block_curtainlarge_lightblue.name=Grande sipario azzurra
+item.block_curtainlarge_yellow.name=Grande sipario gialla
+item.block_curtainlarge_lime.name=Grande sipario lime
+item.block_curtainlarge_pink.name=Grande sipario rosa
+item.block_curtainlarge_gray.name=Grande sipario grigia
+item.block_curtainlarge_lightgray.name=Grande sipario grigio chiaro
+item.block_curtainlarge_cyan.name=Grande sipario ciano
+item.block_curtainlarge_purple.name=Grande sipario viola
+item.block_curtainlarge_blue.name=Grande sipario blu
+item.block_curtainlarge_brown.name=Grande sipario marrone
+item.block_curtainlarge_green.name=Grande sipario verde
+item.block_curtainlarge_red.name=Grande sipario rosso
+item.block_curtainlarge_black.name=Grande sipario nero
+chinjufumod.subtitle.curtain.name=Tenda
+	
+item.item_ammunition_kijyuu.name=Munizioni mitragliatrice
+tips.item_ammunition_kijyuu.name=Utilizzabile solo su mitragliatrici.
+item.item_cartridge_kijyuu.name=Bossoli vuoti mitragliatrice
+item.item_3rensou_kijyuu.name=Prototipo di mitragliatrice tripla da 25mm
+tips.item_3rensou_kijyuu.name=Sparare munizioni mitragliatrice e attacca gli esseri viventi.
+tips.item_3rensou_kijyuu2.name=Fare clic e tenere premuto per sparare continuamente.
+tips.item_3rensou_kijyuu3.name=Basic:1.0D, PlayerLV≧19:1.5D, LV≧25:2.0D
+chinjufumod.subtitle.am_hit.name=Colpo di proiettile
+chinjufumod.subtitle.set_gun.name=Cannone navale pronto.
+chinjufumod.subtitle.empty_ammo.name=Finite le munizioni
+	
+item.item_kit_firstaid.name=Kit di pronto soccorso
+item.item_kit_goddess.name=Kit di pronto soccorso_Dea
+tips.item_kit_firstaid.name=Se lo tieni nella mano secondaria o nella mano principale, puoi evitare la morte una volta.
+text.chinjufumod.firstaid.name=Attiva il controllo dei danni di emergenza!!
+item.block_lightembed.name=Luce incassata
+	
+item.item_seeds_pepper.name=Albero di pepe
+item.item_seeds_cumin.name=Seme di cumino
+item.item_seeds_turmeric.name=Rizoma di curcuma
+item.item_seeds_chilipepper.name=Semi di peperoncino
+tips.item_seeds_pepper.name=Piantalo in una terra calda e luminosa, diventerà un albero.
+tips.item_seeds_cumin.name=Piantalo in un terreno agricolo fresco e luminoso, crescerà.
+tips.item_seeds_turmeric.name=Piantalo in un terreno agricolo caldo e luminoso, crescerà.
+text.chinjufumod.too_cold.name=Non può essere piantato in biomi freddi.
+text.chinjufumod.too_hot.name=Non può essere piantato in biomi caldi.
+
+item.item_crop_pepper.name=Grani di pepe
+tips.item_crop_pepper.name=Asciugare usando una Botte di fermentazione.
+item.item_crop_pepperdry.name=Grani di pepe essiccati
+tips.item_crop_pepperdry.name=Crafting diventa una spezia in polvere.
+item.block_taru_pepper_f.name=Scaffale di pepe
+tips.block_taru_pepper.name=Scaffale per essiccare i peperoni.
+item.item_crop_chilipepper.name=Peperoncino
+tile.block_boxh_bpepper.name=Sacco di grani di pepe essiccati
+tile.block_boxh_chili.name=Sacco di peperoncino
+tile.block_boxh_cumin.name=Sacco di cumino
+tile.block_boxh_turmeric.name=Sacco di curcuma
+	
+item.item_dust_blackpepper.name=Pepe nero
+item.item_dust_cumin.name=Cumino
+item.item_dust_turmeric.name=Curcuma
+item.item_dust_chili.name=Peperoncino in polvere
+item.item_curry_roux.name=Roux al curry
+item.block_food_frypan_n_roux.name=Padella con roux al curry crudo
+
+item.block_food_zundou.name=Pentola
+item.block_food_cunabe_n.name=Pentola con curry di manzo grezzo
+item.block_food_cunabe_1.name=Pentola con curry di manzo cotto
+tips.block_food_cunabe_1.name=Prendilo con una Piatto con riso cotto.
+item.block_food_curry_1.name=Curry di manzo e riso
+item.block_food_curryset_1.name=Menù fisso al curry di manzo e riso
+	
+item.block_food_cunabe_cn.name=Pentola con curry di pollo crudo
+item.block_food_cunabe_tn.name=Pentola con curry di pomodoro crudo
+item.block_food_cunabe_c1.name=Pentola con curry di pollo cotto
+item.block_food_cunabe_t1.name=Pentola con curry di pomodoro cotto
+item.block_food_curry_c1.name=Curry di pollo e riso
+item.block_food_curry_t1.name=Curry di pomodoro e riso
+item.block_food_curryset_c1.name=Menù fisso al curry di pollo e riso
+item.block_food_curryset_t1.name=Menù fisso al curry di pomodoro e riso
+	
+item.block_itabei.name=Recinzione in legno
+item.block_itabei_spruce.name=Recinzione in legno_abete
+item.block_itabei_birch.name=Recinzione in legno_betulla
+item.block_itabei_jungle.name=Recinzione in legno_giungla
+item.block_itabei_acacia.name=Recinzione in legno_acacia
+item.block_itabei_darkoak.name=Recinzione in legno_quercia scura
+item.block_itabei_sakura.name=Recinzione in legno_ciliegio
+item.block_itabei_kaede.name=Recinzione in legno_acer
+item.block_itabei_ichoh.name=Recinzione in legno_ginkgo
+item.block_kido.name=Porta in legno
+item.block_kido_spruce.name=Porta in legno_abete
+item.block_kido_birch.name=Porta in legno_betulla
+item.block_kido_jungle.name=Porta in legno_giungla
+item.block_kido_acacia.name=Porta in legno_acacia
+item.block_kido_darkoak.name=Porta in legno_quercia scura
+item.block_kido_sakura.name=Porta in legno_ciliegio
+item.block_kido_kaede.name=Porta in legno_acer
+item.block_kido_ichoh.name=Porta in legno_ginkgo
+	
+item.block_food_frypan_n_osauce.name=Padella con salsa OKONOMIYAKI cruda
+item.block_food_frypan_b_osauce.name=Padella con salsa OKONOMIYAKI
+tips.block_food_frypan_osauce.name=Dopo la cottura, raccogliere in l'ampolla di vetro.
+item.block_food_teppan_n_okonomiyaki.name=OKONOMIYAKI crudo con maiale
+item.block_food_teppan_n_okonomis.name=OKONOMIYAKI crudo con calamari
+item.block_food_teppan_n_okonomic.name=OKONOMIYAKI crudo con formaggio
+item.block_food_okonomiyaki_1.name=OKONOMIYAKI con maiale
+item.block_food_okonomis_1.name=OKONOMIYAKI con calamari
+item.block_food_okonomic_1.name=OKONOMIYAKI con formaggio
+item.block_mayo_bot.name=Maionese
+item.block_mayo_bot_2.name=Maionese
+item.block_mayo_bot_3.name=Maionese
+item.block_mayo_bot_4.name=Maionese
+item.block_osauce_bot.name=Salsa OKONOMIYAKI
+item.block_osauce_bot_2.name=Salsa OKONOMIYAKI
+item.block_osauce_bot_3.name=Salsa OKONOMIYAKI
+item.block_osauce_bot_4.name=Salsa OKONOMIYAKI
+tips.block_osauce_bot.name=Salsa Worcestershire ad alta viscosità
+	
+item.item_food_pizza_cn.name=Pizza al formaggio crudo
+item.item_food_pizza_sn.name=Pizza al calamaro crudo
+item.item_food_pizza_tn.name=Pizza al pollo crudo
+item.block_food_pizza_c1.name=Pizza al formaggio cotto
+item.block_food_pizza_s1.name=Pizza al calamaro cotto
+item.block_food_pizza_t1.name=Pizza al pollo cotto
+item.item_food_pizzac.name=Un pezzo di pizza al formaggio
+item.item_food_pizzas.name=Un pezzo di pizza al calamaro
+item.item_food_pizzat.name=Un pezzo di pizza al pollo
+	
+#6.4.1
+item.item_seeds_greenonion.name=Seme di cipolla verde
+item.item_food_greenonion.name=Cipolla verde
+tile.block_boxh_greenonion.name=Scatola di cipolla verde
+
+item.item_kansui.name=Acqua alcalina
+item.item_food_ramen_n.name=Ramen fresco
+item.item_food_tare_shouyu.name=Salsa di Ramen con salsa di soia
+item.item_food_tare_miso.name=Salsa di Ramen MISO
+item.item_food_tare_shio.name=Salsa di Ramen salato
+item.item_food_rsoup_shouyu.name=Zuppa di Ramen con salsa di soia
+item.item_food_rsoup_miso.name=Zuppa di Ramen MISO
+item.item_food_rsoup_shio.name=Zuppa di Ramen salato
+item.block_food_rsoup_n.name=Brodo di ossa di pollo crudo
+item.block_food_rsoup_1.name=Brodo di ossa di pollo
+	
+tips.item_kansui.name=Materiale delle tagliatelle Ramen crude.
+tips.item_food_tare.name=Fare clic con il tasto destro su Brodo di ossa di pollo.
+tips.item_food_rsoup.name=Fare clic con il tasto destro su Ramen cotto.
+tips.item_food_shouyu_don.name=Fare clic con il tasto destro su Pentola con DASHI.
+tips.item_food_tsuyu_don.name=Fare clic con il tasto destro su UDON cotto.
+	
+item.block_food_ramenshouyu_1.name=Ramen con salsa di soia
+item.block_food_ramenmiso_1.name=Ramen MISO
+item.block_food_ramenshio_1.name=Ramen salato
+	
+item.item_food_sobaplate.name=Tagliatelle alcaline bollite
+tips.item_food_sobaplate.name=Materiale di YAKISOBA e OKONOMIYAKI.
+item.block_food_teppan_n_okonomisoba.name=OKONOMIYAKI crudo con maiale e tagliatelle
+item.block_food_teppan_n_okonomisobas.name=OKONOMIYAKI crudo con calamari e tagliatelle
+item.block_food_teppan_n_okonomisobac.name=OKONOMIYAKI crudo con formaggio e tagliatelle
+item.block_food_okonomisoba_1.name=OKONOMIYAKI con maiale e tagliatelle
+item.block_food_okonomisobas_1.name=OKONOMIYAKI con calamari e tagliatelle
+item.block_food_okonomisobac_1.name=OKONOMIYAKI con formaggio e tagliatelle
+item.block_food_teppan_n_yakisoba.name=YAKISOBA crudo con salsa Worcestershire
+item.block_food_teppan_n_yakisobashio.name=YAKISOBA crudo con salato
+item.block_food_yakisoba_1.name=YAKISOBA con salsa Worcestershire
+item.block_food_yakisobashio_1.name=YAKISOBA con salato
+	
+tile.block_kit_reizou.name=Frigo
+chinjufumod.subtitle.reizou_open.name=Aprire
+chinjufumod.subtitle.reizou_close.name=Chiudi
+item.item_kineyoko.name=KINE di legno
+tile.block_usutsuki.name=USU di legno
+tips.block_usutsuki.name=Strumento per fare MOCHI.
+item.item_mochi.name=MOCHI
+item.item_food_mochinori.name=ISOBE-MOCHI
+tips.item_food_mochinori.name=MOCHI con NORI e salsa di soia.
+item.item_food_mochikinako.name=KINAKO-MOCHI
+tips.item_food_mochikinako.name=MOCHI con polvere di soia e zucchero.
+	
+tile.block_report_box.name=Casella di reporting dei risultati
+tips.block_report_box.name=Gli ordini di lavoro vengono stampati per il risultato.
+chinjufumod.subtitle.basalt_deltas_click2.name=Rumore
+}

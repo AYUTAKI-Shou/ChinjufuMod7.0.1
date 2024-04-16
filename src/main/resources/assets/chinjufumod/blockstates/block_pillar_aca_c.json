@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"axis=y":  { "model": "chinjufumod:pillar/acacia" },
+		"axis=z":   { "model": "chinjufumod:pillar/acacia", "x": 90 },
+		"axis=x":   { "model": "chinjufumod:pillar/acacia", "x": 90, "y": 90 },
+		"axis=none": { "model": "chinjufumod:pillar/acacia" }
+	}
+}

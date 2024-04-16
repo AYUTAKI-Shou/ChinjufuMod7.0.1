@@ -1,0 +1,9 @@
+{
+	"variants": {
+		"double=false,half=bottom": { "model": "chinjufumod:wooden/slabhalf_kaede_bottom" },
+		"double=false,half=top": { "model": "chinjufumod:wooden/slabhalf_kaede_top" },
+
+		"double=true,half=top": { "model": "chinjufumod:wooden/planks_kaede" },
+		"double=true,half=bottom": { "model": "chinjufumod:wooden/planks_kaede" }
+	}
+}

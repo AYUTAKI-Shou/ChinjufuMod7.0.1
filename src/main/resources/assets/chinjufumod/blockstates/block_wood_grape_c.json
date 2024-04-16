@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:crop/wood_grape_e", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:crop/wood_grape_e" },
+		"facing=west,stage=1": { "model": "chinjufumod:crop/wood_grape_e", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:crop/wood_grape_e", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:crop/wood_grape_kare", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:crop/wood_grape_kare" },
+		"facing=west,stage=2": { "model": "chinjufumod:crop/wood_grape_kare", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:crop/wood_grape_kare", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:crop/wood_grape_4b", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:crop/wood_grape_4b" },
+		"facing=west,stage=3": { "model": "chinjufumod:crop/wood_grape_4b", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:crop/wood_grape_4b", "y": 270 }
+	}
+}

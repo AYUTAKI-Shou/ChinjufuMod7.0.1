@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_jpblock",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:item_shousekkai_c", "data": 0 },
+		"Y": { "type": "forge:ore_dict", "ore": "bucketWater", "data": 0 }
+	},
+
+	"result": { "item": "chinjufumod:block_plaster", "data": 0, "count": 8 }
+}

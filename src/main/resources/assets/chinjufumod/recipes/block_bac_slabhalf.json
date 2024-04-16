@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_slabhalf",
+
+	"pattern": [
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_bricks_c", "data": 3 }
+	},
+
+	"result": { "item": "chinjufumod:block_bac_slabhalf", "data": 0, "count": 6 }
+}

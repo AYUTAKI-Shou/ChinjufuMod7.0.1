@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_sweets",
+
+	"ingredients": [
+		{ "item": "minecraft:sugar" },
+		{ "item": "minecraft:stick", "data": 0 },
+		{ "item": "minecraft:paper" },
+		{ "type": "forge:ore_dict", "ore": "cropApple" }
+	],
+
+	"result": { "item": "chinjufumod:block_watagashi_yellow", "data": 0, "count" : 1 }
+}

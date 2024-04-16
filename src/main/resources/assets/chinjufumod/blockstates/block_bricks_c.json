@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"stage=1": { "model": "chinjufumod:brick/granite" },
+		"stage=2": { "model": "chinjufumod:brick/diorite" },
+		"stage=3": { "model": "chinjufumod:brick/andesite" },
+		"stage=4": { "model": "chinjufumod:brick/chisel_granite" },
+		"stage=5": { "model": "chinjufumod:brick/chisel_diorite" },
+		"stage=6": { "model": "chinjufumod:brick/chisel_andesite" },
+		"stage=7": { "model": "chinjufumod:brick/crack_granite" },
+		"stage=8": { "model": "chinjufumod:brick/crack_diorite" },
+		"stage=9": { "model": "chinjufumod:brick/crack_andesite" },
+		"stage=10": { "model": "chinjufumod:brick/mossy_granite" },
+		"stage=11": { "model": "chinjufumod:brick/mossy_diorite" },
+		"stage=12": { "model": "chinjufumod:brick/mossy_andesite" },
+		"stage=13": { "model": "chinjufumod:dirtwall/dirtwall" },
+		"stage=14": { "model": "chinjufumod:dirtwall/dirtwall_crack" }
+	}
+}

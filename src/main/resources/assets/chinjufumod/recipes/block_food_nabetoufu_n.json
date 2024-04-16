@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_nabe",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "bucketWater" },
+		{ "item": "chinjufumod:item_salt", "data": 1 },
+		{ "item": "chinjufumod:item_nimame" },
+		{ "item": "chinjufumod:block_food_karanabe" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_nabenama_2", "data": 3, "count" : 1 }
+}

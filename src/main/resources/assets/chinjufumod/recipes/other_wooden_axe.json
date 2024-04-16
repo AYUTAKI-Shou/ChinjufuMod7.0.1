@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"XX",
+		"XY",
+		" Y"
+	],
+
+	"key": {
+		"X": [ { "type": "forge:ore_dict", "ore": "plankWood" }, { "type": "forge:ore_dict", "ore": "plankWoodCherry" }, 
+		{ "type": "forge:ore_dict", "ore": "plankWoodAcer" }, { "type": "forge:ore_dict", "ore": "plankWoodGinkgo" } ],
+		"Y": { "item": "minecraft:stick", "data": 0 }
+	},
+
+	"result": { "item": "minecraft:wooden_axe", "data": 0, "count": 1 }
+}

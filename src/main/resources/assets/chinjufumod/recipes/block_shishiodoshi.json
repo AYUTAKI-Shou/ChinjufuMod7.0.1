@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_garden",
+
+	"ingredients": [
+		{ "item": "minecraft:stone", "data": 0 },
+		{ "item": "minecraft:stick", "data": 0 },
+		{ "item": "minecraft:stick", "data": 0 },
+		{ "item": "minecraft:stick", "data": 0 },
+		{ "item": "minecraft:stick", "data": 0 },
+		{ "item": "minecraft:stick", "data": 0 },
+		{ "item": "minecraft:stick", "data": 0 },
+		[ { "item": "minecraft:reeds", "data": 0 },
+				{ "type": "forge:ore_dict", "ore": "bamboo" }, { "type": "forge:ore_dict", "ore": "cropBamboo" } ],
+		{ "type": "forge:ore_dict", "ore": "buttonWood" }
+	],
+
+	"result": { "item": "chinjufumod:block_shishiodoshi", "data": 0, "count" : 1 }
+}

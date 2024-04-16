@@ -1,0 +1,372 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/seikeinendo",
+		"kyusu": "chinjufumod:block/seikeinendo"
+	},
+	"elements": [
+		{
+			"name": "huta_top________________________________________________________",
+			"from": [ 7.7, 0.0, 10.9 ],
+			"to": [ 8.3, 0.2, 11.1 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+		{
+			"name": "kyusu_huta_n_______________________________________________________",
+			"from": [ 7, 0.2, 10 ],
+			"to": [ 9, 0.5, 11.3 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+		{
+			"name": "kyusu_huta_w",
+			"from": [ 7.5, 0.2, 11.3 ],
+			"to": [ 9, 0.5, 11.5 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+		{
+			"name": "kyusu_huta_s",
+			"from": [ 7, 0.2, 11.5 ],
+			"to": [ 9, 0.5, 12 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+		{
+			"name": "kyusu_huta_e",
+			"from": [ 7, 0.2, 11.3 ],
+			"to": [ 7.3, 0.5, 11.5 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+
+		{
+			"name": "kyusu_soko________________________________________________________",
+			"from": [ 7, 0.0, 7 ],
+			"to": [ 9, 0.2, 9 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+
+ 		{
+			"name": "kyusu_naka_1",
+			"from": [ 6.5, 0.7, 6.5 ],
+			"to": [ 7, 2.7, 7 ],
+			"faces": {
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+ 		{
+			"name": "kyusu_naka_2",
+			"from": [ 9, 0.7, 6.5 ],
+			"to": [ 9.5, 2.7, 7 ],
+			"faces": {
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+ 		{
+			"name": "kyusu_naka_3",
+			"from": [ 9, 0.7, 9 ],
+			"to": [ 9.5, 2.7, 9.5 ],
+			"faces": {
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+ 		{
+			"name": "kyusu_naka_4",
+			"from": [ 6.5, 0.7, 9 ],
+			"to": [ 7, 2.7, 9.5 ],
+			"faces": {
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+
+ 		{
+			"name": "kyusu_shita_n",
+			"from": [ 6.5, 0.2, 6.5 ],
+			"to": [ 9.5, 0.7, 7 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+ 		{
+			"name": "kyusu_shita_s",
+			"from": [ 6.5, 0.2, 9 ],
+			"to": [ 9.5, 0.7, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+ 		{
+			"name": "kyusu_shita_w",
+			"from": [ 6.5, 0.2, 7 ],
+			"to": [ 7, 0.7, 9 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+ 		{
+			"name": "kyusu_shita_e",
+			"from": [ 9, 0.2, 7 ],
+			"to": [ 9.5, 0.7, 9 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+ 		{
+			"name": "kyusu_ue_n",
+			"from": [ 6.5, 2.7, 6.5 ],
+			"to": [ 9.5, 3.2, 7.2 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+ 		{
+			"name": "kyusu_ue_s",
+			"from": [ 6.5, 2.7, 8.8 ],
+			"to": [ 9.5, 3.2, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+ 		{
+			"name": "kyusu_ue_w",
+			"from": [ 6.5, 2.7, 7.2 ],
+			"to": [ 7.2, 3.2, 8.8 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+ 		{
+			"name": "kyusu_ue_e",
+			"from": [ 8.8, 2.7, 7.2 ],
+			"to": [ 9.5, 3.2, 8.8 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+
+		{
+			"name": "kyusu_n________________________________________________________",
+			"from": [ 7, 0.7, 6 ],
+			"to": [ 9, 2.7, 6.5 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+		{
+			"name": "kyusu_w",
+			"from": [ 9.5, 0.7, 7 ],
+			"to": [ 10, 2.7, 9 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+		{
+			"name": "kyusu_s",
+			"from": [ 7, 0.7, 9.5 ],
+			"to": [ 9, 2.7, 10 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+		{
+			"name": "kyusu_e",
+			"from": [ 6, 0.7, 7 ],
+			"to": [ 6.5, 2.7, 9 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+		{
+			"name": "kyusu_kuchi1________________________________________________________",
+			"from": [ 5.7, 1.4, 7.25 ],
+			"to": [ 6, 2.7, 8.75 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" }
+			}
+		},
+		{
+			"name": "kyusu_kuchi2",
+			"from": [ 4.0, 2.1, 7.70 ],
+			"to": [ 5.7, 2.7, 8.3 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" }
+			}
+		},
+		{
+			"name": "kyusu_totte1________________________________________________________",
+			"from": [ 6.75, 3.2, 7.85 ],
+			"to": [ 7, 5.2, 8.15 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+		{
+			"name": "kyusu_totte2",
+			"from": [ 7, 5.2, 7.85 ],
+			"to": [ 7.25, 5.45, 8.15 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+		{
+			"name": "kyusu_totte3",
+			"from": [ 7.25, 5.45, 7.85 ],
+			"to": [ 8.75, 5.7, 8.15 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+		{
+			"name": "kyusu_totte4",
+			"from": [ 8.75, 5.2, 7.85 ],
+			"to": [ 9, 5.45, 8.15 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+				"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		},
+		{
+			"name": "kyusu_totte5",
+			"from": [ 9, 3.2, 7.85 ],
+			"to": [ 9.25, 5.2, 8.15 ],
+			"faces": {
+				"up" : { "texture": "#kyusu" },
+				"down" : { "texture": "#kyusu" },
+				"north": { "texture": "#kyusu" },
+				"south": { "texture": "#kyusu" },
+	 			"west" : { "texture": "#kyusu" },
+				"east" : { "texture": "#kyusu" }
+			}
+		}
+	]
+}

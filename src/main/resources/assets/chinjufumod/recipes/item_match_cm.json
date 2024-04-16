@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_match",
+
+	"ingredients": [
+		{ "item": "minecraft:gunpowder", "data": 0 },
+		{ "item": "minecraft:stick", "data": 0 }
+	],
+
+	"result": { "item": "chinjufumod:item_match_cm", "data": 0, "count": 12 }
+}

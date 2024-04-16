@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"check_decay=false,decayable=false,drop=false": { "model": "chinjufumod:tree/oakkare_leaf" },
+		"check_decay=false,decayable=true,drop=false": { "model": "chinjufumod:tree/oakkare_leaf" },
+		"check_decay=true,decayable=false,drop=false": { "model": "chinjufumod:tree/oakkare_leaf" },
+		"check_decay=true,decayable=true,drop=false": { "model": "chinjufumod:tree/oakkare_leaf" },
+		
+			"check_decay=false,decayable=false,drop=true": { "model": "chinjufumod:tree/oakkare_leaf" },
+			"check_decay=false,decayable=true,drop=true": { "model": "chinjufumod:tree/oakkare_leaf" },
+			"check_decay=true,decayable=false,drop=true": { "model": "chinjufumod:tree/oakkare_leaf" },
+			"check_decay=true,decayable=true,drop=true": { "model": "chinjufumod:tree/oakkare_leaf" }
+	}
+}

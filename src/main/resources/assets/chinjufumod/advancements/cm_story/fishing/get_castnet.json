@@ -1,0 +1,29 @@
+{
+	"parent": "chinjufumod:cm_story/root",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.fishing.toami.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.fishing.toami.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_toami"
+		},
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_toami", "data": 0 } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

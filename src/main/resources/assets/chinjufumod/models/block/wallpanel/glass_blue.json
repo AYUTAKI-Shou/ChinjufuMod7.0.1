@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/wallpanel_wide",
+	"textures": {
+		"particle": "minecraft:blocks/glass_blue",
+		"front": "minecraft:blocks/glass_blue",
+		"back": "minecraft:blocks/glass_blue",
+		"side": "minecraft:blocks/glass_blue"
+	}
+}

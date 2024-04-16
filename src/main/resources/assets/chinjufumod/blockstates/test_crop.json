@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:spice/chili_0" },
+		"stage=1": { "model": "chinjufumod:spice/chili_1" },
+		"stage=2": { "model": "chinjufumod:spice/chili_2" },
+		"stage=3": { "model": "chinjufumod:spice/chili_3" },
+		"stage=4": { "model": "chinjufumod:spice/chili_4" },
+		"stage=5": { "model": "chinjufumod:spice/chili_5" },
+		"stage=6": { "model": "chinjufumod:spice/chili_6" },
+		"stage=7": { "model": "chinjufumod:spice/chili_7" },
+		"stage=8": { "model": "chinjufumod:crop/tomato_0" },
+		"stage=9": { "model": "chinjufumod:crop/tomato_1" },
+		"stage=10": { "model": "chinjufumod:crop/tomato_2" },
+		"stage=11": { "model": "chinjufumod:crop/tomato_3" },
+		"stage=12": { "model": "chinjufumod:crop/tomato_4" },
+		"stage=13": { "model": "chinjufumod:crop/tomato_5" },
+		"stage=14": { "model": "chinjufumod:crop/tomato_6" },
+		"stage=15": { "model": "chinjufumod:crop/tomato_7" }
+	}
+}

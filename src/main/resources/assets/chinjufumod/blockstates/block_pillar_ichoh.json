@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"axis=y":  { "model": "chinjufumod:pillar/ichoh" },
+		"axis=z":   { "model": "chinjufumod:pillar/ichoh", "x": 90 },
+		"axis=x":   { "model": "chinjufumod:pillar/ichoh", "x": 90, "y": 90 },
+		"axis=none": { "model": "chinjufumod:pillar/ichoh" }
+	}
+}

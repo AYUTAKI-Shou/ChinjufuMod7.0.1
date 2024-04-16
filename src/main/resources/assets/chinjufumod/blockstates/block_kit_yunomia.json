@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:shelfdish/yunomia", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:shelfdish/yunomia", "y": 0 },
+		"facing=west,stage=1": { "model": "chinjufumod:shelfdish/yunomia", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:shelfdish/yunomia", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:shelfdish/yunomib", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:shelfdish/yunomib", "y": 0 },
+		"facing=west,stage=2": { "model": "chinjufumod:shelfdish/yunomib", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:shelfdish/yunomib", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:shelfdish/yunomic", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:shelfdish/yunomic", "y": 0 },
+		"facing=west,stage=3": { "model": "chinjufumod:shelfdish/yunomic", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:shelfdish/yunomic", "y": 270 }
+	}
+}

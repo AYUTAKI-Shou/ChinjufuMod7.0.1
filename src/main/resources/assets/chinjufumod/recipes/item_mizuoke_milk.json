@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_mizuoke",
+
+	"ingredients": [
+		{ "item": "chinjufumod:block_mizuoke" },
+		{ "type": "forge:ore_dict", "ore": "bucketMilk" }
+	],
+
+	"result": { "item": "chinjufumod:item_mizuoke_milk", "data": 0, "count": 1 }
+}

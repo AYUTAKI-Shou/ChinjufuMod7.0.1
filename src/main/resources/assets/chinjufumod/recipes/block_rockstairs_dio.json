@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_stairs",
+
+	"pattern": [
+		"X  ",
+		"XX ",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:stone", "data": 3 }
+	},
+
+	"result": { "item": "chinjufumod:block_rockstairs_dio", "data": 0, "count": 4 }
+}

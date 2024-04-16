@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_yukata",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "slabWoodBirch" },
+		{ "type": "forge:ore_dict", "ore": "dyeBlue" },
+		[ { "item": "chinjufumod:item_oriito" }, { "item": "minecraft:string" } ]
+	],
+
+	"result": { "item": "chinjufumod:item_ykt_urakaze_kazari", "data": 0, "count": 1 }
+}

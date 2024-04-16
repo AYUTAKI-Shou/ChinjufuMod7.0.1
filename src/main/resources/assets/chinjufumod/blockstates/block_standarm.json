@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "chinjufumod:lamp/standarm", "y": 180 },
+		"facing=south": { "model": "chinjufumod:lamp/standarm", "y": 0 },
+		"facing=west":  { "model": "chinjufumod:lamp/standarm", "y": 90 },
+		"facing=east":  { "model": "chinjufumod:lamp/standarm", "y": 270 }
+	}
+}

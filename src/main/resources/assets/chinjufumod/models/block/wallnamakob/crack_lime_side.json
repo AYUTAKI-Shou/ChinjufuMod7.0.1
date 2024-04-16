@@ -1,0 +1,6 @@
+{
+	"parent": "chinjufumod:block/base/wall_side",
+	"textures": {
+		"wall": "chinjufumod:block/namakowall_bcr_lime"
+	}
+}

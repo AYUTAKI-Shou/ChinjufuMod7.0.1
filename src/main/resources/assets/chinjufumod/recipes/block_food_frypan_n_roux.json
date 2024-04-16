@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_curry",
+
+	"ingredients": [
+		[ { "type": "forge:ore_dict", "ore": "foodChili" }, { "type": "forge:ore_dict", "ore": "dustChili" } ],
+		{ "type": "forge:ore_dict", "ore": "dustCumin" },
+		{ "type": "forge:ore_dict", "ore": "dustTurmeric" },
+		{ "type": "forge:ore_dict", "ore": "dustDashi" },
+		{ "type": "forge:ore_dict", "ore": "foodButter" },
+		{ "item": "minecraft:sugar" },
+		[ { "type": "forge:ore_dict", "ore": "dustSalt" }, { "type": "forge:ore_dict", "ore": "foodSalt" }, { "type": "forge:ore_dict", "ore": "itemSalt" } ],
+		{ "type": "forge:ore_dict", "ore": "foodFlour" },
+		{ "item": "chinjufumod:block_food_frypan" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_frypan_n3", "data": 3, "count" : 1 }
+}

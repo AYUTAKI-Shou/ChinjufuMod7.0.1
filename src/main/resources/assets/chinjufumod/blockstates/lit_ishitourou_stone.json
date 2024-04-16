@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"stage=1": { "model": "chinjufumod:ishitourou/lit_stone" },
+		"stage=2": { "model": "chinjufumod:ishitourou/lit_granite" },
+		"stage=3": { "model": "chinjufumod:ishitourou/lit_diorite" },
+		"stage=4": { "model": "chinjufumod:ishitourou/lit_andesite" }
+	}
+}

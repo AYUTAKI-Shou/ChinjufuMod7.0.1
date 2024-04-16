@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/bench_default",
+	"textures": {
+		"particle": "chinjufumod:block/muku_oak",
+		"leg": "chinjufumod:block/muku_oak",
+		"sheet_top": "chinjufumod:block/bench_blue",
+		"sheet_side": "chinjufumod:block/bench_side"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_tea",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_chaba", "data": 2 },
+		{ "item": "chinjufumod:item_chaba", "data": 2 },
+		{ "item": "chinjufumod:item_kettle_boil" },
+		{ "item": "chinjufumod:block_food_teapot" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_teapot_1", "data": 0, "count" : 1 }
+}

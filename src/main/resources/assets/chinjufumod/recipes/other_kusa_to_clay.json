@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_other",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:grass", "data": 0 },
+		"Y": { "type": "forge:ore_dict", "ore": "bucketWater" }
+	},
+
+	"result": { "item": "minecraft:clay_ball", "data": 0, "count": 32 }
+}

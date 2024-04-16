@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/wallpanel_wide",
+	"textures": {
+		"particle": "chinjufumod:block/planks_kaede",
+		"front": "chinjufumod:block/planks_kaede",
+		"back": "chinjufumod:block/planks_kaede",
+		"side": "chinjufumod:block/planks_kaede"
+	}
+}

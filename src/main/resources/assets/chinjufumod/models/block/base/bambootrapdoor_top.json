@@ -1,0 +1,242 @@
+{
+	"parent": "block/block",
+	"ambientocclusion": false,
+	"elements": [
+		{
+			"name": "ue_1_ue",
+			"from": [ 13, 15.25, 15 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"down": { "texture": "#inside" },
+				"up": { "uv": [ 1, 14, 4, 16 ], "texture": "#side", "cullface": "up" },
+				"south": { "texture": "#inside", "cullface": "south" },
+				"west": { "uv": [ 1, 16, 1.75, 14 ], "texture": "#side", "rotation": 90 },
+				"east": { "uv": [ 1, 14, 1.75, 16 ], "texture": "#side", "rotation": 90 }
+			}
+		},
+		{
+			"name": "ue_1_shita",
+			"from": [ 13, 13, 15 ],
+			"to": [ 16, 13.75, 16 ],
+			"faces": {
+				"down": { "uv": [ 1, 0, 4, 1 ], "texture": "#side" },
+				"up": { "texture": "#inside" },
+				"south": { "texture": "#inside", "cullface": "south" },
+				"west": { "uv": [ 3.25, 0, 4, 1 ], "texture": "#side", "rotation": 90 },
+				"east": { "uv": [ 3.25, 1, 4, 0 ], "texture": "#side", "rotation": 90 }
+			}
+		},
+		{
+			"name": "ue_1_mae",
+			"from": [ 13, 13.75, 15 ],
+			"to": [ 13.75, 15.25, 16 ],
+			"faces": {
+				"south": { "texture": "#inside", "cullface": "south" },
+				"west": { "uv": [ 1.75, 0, 3.25, 1 ], "texture": "#side", "rotation": 90 },
+				"east": { "texture": "#inside" }
+			}
+		},
+		{
+			"name": "ue_1_ushiro",
+			"from": [ 15.25, 13.75, 15 ],
+			"to": [ 16, 15.25, 16 ],
+			"faces": {
+				"south": { "texture": "#inside", "cullface": "south" },
+				"west": { "texture": "#inside" },
+				"east": { "uv": [ 1.75, 1, 3.25, 0 ], "texture": "#side", "rotation": 90 }
+			}
+		},
+		{
+			"name": "ue_______________________________",
+			"from": [ 13, 13, 6 ],
+			"to": [ 16, 16, 15 ],
+			"faces": {
+				"down": { "uv": [ 1, 1, 4, 10 ], "texture": "#side" },
+				"up": { "uv": [ 1, 10, 4, 1 ], "texture": "#side", "cullface": "up" },
+				"north": { "texture": "#inside" },
+				"south": { "texture": "#inside" },
+				"west": { "uv": [ 1, 1, 4, 10 ], "texture": "#side", "rotation": 90 },
+				"east": { "uv": [ 1, 10, 4, 1 ], "texture": "#side", "rotation": 90 }
+			}
+		},
+		{
+			"name": "ue_2_ue",
+			"from": [ 13, 15.25, 0 ],
+			"to": [ 16, 16, 6 ],
+			"faces": {
+				"down": { "texture": "#inside" },
+				"up": { "uv": [ 1, 16, 4, 10 ], "texture": "#side", "cullface": "up" },
+				"north": { "texture": "#inside", "cullface": "north" },
+				"west": { "uv": [ 1, 10, 1.75, 16 ], "texture": "#side", "rotation": 90 },
+				"east": { "uv": [ 1, 16, 1.75, 10 ], "texture": "#side", "rotation": 90 }
+			}
+		},
+		{
+			"name": "ue_2_shita",
+			"from": [ 13, 13, 0 ],
+			"to": [ 16, 13.75, 6 ],
+			"faces": {
+				"down": { "uv": [ 1, 10, 4, 16 ], "texture": "#side" },
+				"up": { "texture": "#inside" },
+				"north": { "texture": "#inside", "cullface": "north" },
+				"west": { "uv": [ 3.25, 10, 4, 16 ], "texture": "#side", "rotation": 90 },
+				"east": { "uv": [ 3.25, 16, 4, 10 ], "texture": "#side", "rotation": 90 }
+			}
+		},
+		{
+			"name": "ue_2_mae",
+			"from": [ 13, 13.75, 0 ],
+			"to": [ 13.75, 15.25, 6 ],
+			"faces": {
+				"north": { "texture": "#inside", "cullface": "north" },
+				"west": { "uv": [ 1.75, 10, 3.25, 16 ], "texture": "#side", "rotation": 90 },
+				"east": { "texture": "#inside" }
+			}
+		},
+		{
+			"name": "ue_2_ushiro",
+			"from": [ 15.25, 13.75, 0 ],
+			"to": [ 16, 15.25, 6 ],
+			"faces": {
+				"north": { "texture": "#inside", "cullface": "north" },
+				"west": { "texture": "#inside" },
+				"east": { "uv": [ 1.75, 16, 3.25, 10 ], "texture": "#side", "rotation": 90 }
+			}
+		},
+
+		{
+			"name": "shita_1_ue",
+			"from": [ 0, 15.25, 15 ],
+			"to": [ 3, 16, 16 ],
+			"faces": {
+				"down": { "texture": "#inside" },
+				"up": { "uv": [ 1, 14, 4, 16 ], "texture": "#side", "cullface": "up" },
+				"south": { "texture": "#inside", "cullface": "south" },
+				"west": { "uv": [ 1, 16, 1.75, 14 ], "texture": "#side", "rotation": 90 },
+				"east": { "uv": [ 1, 14, 1.75, 16 ], "texture": "#side", "rotation": 90 }
+			}
+		},
+		{
+			"name": "shita_1_shita",
+			"from": [ 0, 13, 15 ],
+			"to": [ 3, 13.75, 16 ],
+			"faces": {
+				"down": { "uv": [ 1, 0, 4, 1 ], "texture": "#side" },
+				"up": { "texture": "#inside" },
+				"south": { "texture": "#inside", "cullface": "south" },
+				"west": { "uv": [ 3.25, 0, 4, 1 ], "texture": "#side", "rotation": 90 },
+				"east": { "uv": [ 3.25, 1, 4, 0 ], "texture": "#side", "rotation": 90 }
+			}
+		},
+		{
+			"name": "shita_1_mae",
+			"from": [ 0, 13.75, 15 ],
+			"to": [ 0.75, 15.25, 16 ],
+			"faces": {
+				"south": { "texture": "#inside", "cullface": "south" },
+				"west": { "uv": [ 1.75, 0, 3.25, 1 ], "texture": "#side", "rotation": 90 },
+				"east": { "texture": "#inside" }
+			}
+		},
+		{
+			"name": "shita_1_ushiro",
+			"from": [ 2.25, 13.75, 15 ],
+			"to": [ 3, 15.25, 16 ],
+			"faces": {
+				"south": { "texture": "#inside", "cullface": "south" },
+				"west": { "texture": "#inside" },
+				"east": { "uv": [ 1.75, 1, 3.25, 0 ], "texture": "#side", "rotation": 90 }
+			}
+		},
+		{
+			"name": "shita_______________________________",
+			"from": [ 0, 13, 6 ],
+			"to": [ 3, 16, 15 ],
+			"faces": {
+				"down": { "uv": [ 1, 1, 4, 10 ], "texture": "#side" },
+				"up": { "uv": [ 1, 10, 4, 1 ], "texture": "#side", "cullface": "up" },
+				"north": { "texture": "#inside" },
+				"south": { "texture": "#inside" },
+				"west": { "uv": [ 1, 1, 4, 10 ], "texture": "#side", "rotation": 90 },
+				"east": { "uv": [ 1, 10, 4, 1 ], "texture": "#side", "rotation": 90 }
+			}
+		},
+		{
+			"name": "shita_2_ue",
+			"from": [ 0, 15.25, 0 ],
+			"to": [ 3, 16, 6 ],
+			"faces": {
+				"down": { "texture": "#inside" },
+				"up": { "uv": [ 1, 16, 4, 10 ], "texture": "#side", "cullface": "up" },
+				"north": { "texture": "#inside", "cullface": "north" },
+				"west": { "uv": [ 1, 10, 1.75, 16 ], "texture": "#side", "rotation": 90 },
+				"east": { "uv": [ 1, 16, 1.75, 10 ], "texture": "#side", "rotation": 90 }
+			}
+		},
+		{
+			"name": "shita_2_shita",
+			"from": [ 0, 13, 0 ],
+			"to": [ 3, 13.75, 6 ],
+			"faces": {
+				"down": { "uv": [ 1, 10, 4, 16 ], "texture": "#side" },
+				"up": { "texture": "#inside" },
+				"north": { "texture": "#inside", "cullface": "north" },
+				"west": { "uv": [ 3.25, 10, 4, 16 ], "texture": "#side", "rotation": 90 },
+				"east": { "uv": [ 3.25, 16, 4, 10 ], "texture": "#side", "rotation": 90 }
+			}
+		},
+		{
+			"name": "shita_2_mae",
+			"from": [ 0, 13.75, 0 ],
+			"to": [ 0.75, 15.25, 6 ],
+			"faces": {
+				"north": { "texture": "#inside", "cullface": "north" },
+				"west": { "uv": [ 1.75, 10, 3.25, 16 ], "texture": "#side", "rotation": 90 },
+				"east": { "texture": "#inside" }
+			}
+		},
+		{
+			"name": "shita_2_ushiro",
+			"from": [ 2.25, 13.75, 0 ],
+			"to": [ 3, 15.25, 6 ],
+			"faces": {
+				"north": { "texture": "#inside", "cullface": "north" },
+				"west": { "texture": "#inside" },
+				"east": { "uv": [ 1.75, 16, 3.25, 10 ], "texture": "#side", "rotation": 90 }
+			}
+		},
+
+		{
+			"name": "hidari_1",
+			"from": [ 3, 13, 0 ],
+			"to": [ 13, 16, 3 ],
+			"faces": {
+				"up": { "uv": [ 3, 3, 0, 13 ], "texture": "#naka", "rotation": 270, "cullface": "up" },
+				"down": { "uv": [ 0, 3, 3, 13 ], "texture": "#naka", "rotation": 270 },
+				"north": { "uv": [ 4, 3, 1, 13 ], "texture": "#side", "rotation": 90, "cullface": "north" },
+				"south": { "uv": [ 1, 3, 4, 13 ], "texture": "#side", "rotation": 270 }
+			}
+		},
+		{
+			"name": "migi_2",
+			"from": [ 3, 13, 13 ],
+			"to": [ 13, 16, 16 ],
+			"faces": {
+				"up": { "uv": [ 1, 3, 4, 13 ], "texture": "#side", "rotation": 270, "cullface": "up" },
+				"down": { "uv": [ 4, 3, 1, 13 ], "texture": "#side", "rotation": 270 },
+				"north": { "uv": [ 4, 3, 1, 13 ], "texture": "#side", "rotation": 90 },
+				"south": { "uv": [ 1, 3, 4, 13 ], "texture": "#side", "rotation": 270, "cullface": "south" }
+			}
+		},
+
+		{
+			"name": "naka",
+			"from": [ 3, 13, 3 ],
+			"to": [ 13, 16, 13 ],
+			"faces": {
+				"up": { "uv": [ 3, 3, 13, 13 ], "texture": "#naka", "rotation": 270, "cullface": "up" },
+				"down": { "uv": [ 13, 3, 3, 13 ], "texture": "#naka", "rotation": 270 }
+			}
+		}
+	]
+}

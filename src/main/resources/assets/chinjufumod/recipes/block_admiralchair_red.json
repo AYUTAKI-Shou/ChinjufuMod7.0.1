@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_chair",
+
+	"pattern": [
+		"Y  ",
+		"XYX",
+		"X X"
+	],
+
+	"key": {
+		"X": [ { "type": "forge:ore_dict", "ore": "plankWood" }, { "type": "forge:ore_dict", "ore": "plankWoodCherry" }, 
+		{ "type": "forge:ore_dict", "ore": "plankWoodAcer" }, { "type": "forge:ore_dict", "ore": "plankWoodGinkgo" } ],
+		"Y": { "type": "forge:ore_dict", "ore": "woolRed" }
+	},
+
+	"result": { "item": "chinjufumod:block_admiralchair", "data": 2, "count" : 1 }
+}

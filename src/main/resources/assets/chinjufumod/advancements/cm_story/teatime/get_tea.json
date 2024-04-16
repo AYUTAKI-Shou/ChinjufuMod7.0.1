@@ -1,0 +1,35 @@
+{
+	"parent": "chinjufumod:cm_story/teatime/get_cookingtool",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.teatime.get_tea.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.teatime.get_tea.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_food_teacup_1"
+		},
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_food_teacup_1", "data": 0 } ] }
+		},
+		"has_material2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_food_jpteacup_1", "data": 0 } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material",
+			"has_material2"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

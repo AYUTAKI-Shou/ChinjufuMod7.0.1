@@ -1,0 +1,24 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_watagashi",
+			"chinjufumod:block_watagashi_pink",
+			"chinjufumod:block_watagashi_red",
+			"chinjufumod:block_watagashi_yellow",
+			"chinjufumod:block_watagashi_green"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "minecraft:sugar" } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

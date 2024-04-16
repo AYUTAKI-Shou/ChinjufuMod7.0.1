@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"check=false,facing=north,half=lower": { "model": "chinjufumod:itabei/sakura_bottom", "y": 0 },
+		"check=false,facing=south,half=lower": { "model": "chinjufumod:itabei/sakura_bottom", "y": 180 },
+		"check=false,facing=west,half=lower":  { "model": "chinjufumod:itabei/sakura_bottom", "y": 270 },
+		"check=false,facing=east,half=lower":  { "model": "chinjufumod:itabei/sakura_bottom", "y": 90 },
+
+		"check=false,facing=north,half=upper": { "model": "chinjufumod:itabei/sakura_top", "y": 0 },
+		"check=false,facing=south,half=upper": { "model": "chinjufumod:itabei/sakura_top", "y": 180 },
+		"check=false,facing=west,half=upper":  { "model": "chinjufumod:itabei/sakura_top", "y": 270 },
+		"check=false,facing=east,half=upper":  { "model": "chinjufumod:itabei/sakura_top", "y": 90 },
+
+			"check=true,facing=north,half=lower": { "model": "chinjufumod:itabei/sakura_bottom_true", "y": 0 },
+			"check=true,facing=south,half=lower": { "model": "chinjufumod:itabei/sakura_bottom_true", "y": 180 },
+			"check=true,facing=west,half=lower":  { "model": "chinjufumod:itabei/sakura_bottom_true", "y": 270 },
+			"check=true,facing=east,half=lower":  { "model": "chinjufumod:itabei/sakura_bottom_true", "y": 90 },
+
+			"check=true,facing=north,half=upper": { "model": "chinjufumod:itabei/sakura_top_true", "y": 0 },
+			"check=true,facing=south,half=upper": { "model": "chinjufumod:itabei/sakura_top_true", "y": 180 },
+			"check=true,facing=west,half=upper":  { "model": "chinjufumod:itabei/sakura_top_true", "y": 270 },
+			"check=true,facing=east,half=upper":  { "model": "chinjufumod:itabei/sakura_top_true", "y": 90 }
+	}
+}

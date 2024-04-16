@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_lowdesk",
+
+	"pattern": [
+		"X",
+		"Y"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_chabudai", "data": 7 },
+		"Y": { "type": "forge:ore_dict", "ore": "wool" }
+	},
+
+	"result": { "item": "chinjufumod:block_kotatsu", "data": 7, "count": 1 }
+}

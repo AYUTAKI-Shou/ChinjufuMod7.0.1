@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_kansaiki",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "dyeBlue" },
+		{ "type": "forge:ore_dict", "ore": "dyeWhite" },
+		{ "item": "minecraft:coal", "data": 0 },
+		{ "item": "chinjufumod:item_workorder" },
+		{ "item": "chinjufumod:item_ammunition_kc" },
+		[ { "type": "forge:ore_dict", "ore": "ingotAluminium" }, { "type": "forge:ore_dict", "ore": "ingotAluminum" } ],
+		[ { "type": "forge:ore_dict", "ore": "ingotAluminium" }, { "type": "forge:ore_dict", "ore": "ingotAluminum" } ]
+	],
+
+	"result": { "item": "chinjufumod:item_kk_swordfish", "data": 0, "count": 1 }
+}

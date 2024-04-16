@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_nabe",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "bucketWater" },
+		{ "item": "minecraft:brown_mushroom" },
+		{ "item": "minecraft:brown_mushroom" },
+		[ { "type": "forge:ore_dict", "ore": "chicken" }, { "type": "forge:ore_dict", "ore": "listAllchickenraw" } ],
+		{ "type": "forge:ore_dict", "ore": "cropCarrot" },
+		{ "type": "forge:ore_dict", "ore": "dustDashi" },
+		{ "type": "forge:ore_dict", "ore": "foodMisopaste" },
+		{ "type": "forge:ore_dict", "ore": "cropChinesecabbage" },
+		{ "item": "chinjufumod:block_food_karanabe" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_nabenama_1", "data": 1, "count" : 1 }
+}

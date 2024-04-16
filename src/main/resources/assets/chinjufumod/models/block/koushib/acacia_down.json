@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/koushib_down",
+	"textures": {
+		"particle": "chinjufumod:block/muku_acacia",
+		"ranma": "chinjufumod:block/muku_acacia",
+		"waku": "chinjufumod:block/muku_acacia"
+	}
+}

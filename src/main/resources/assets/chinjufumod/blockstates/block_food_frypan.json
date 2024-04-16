@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "chinjufumod:food/frypan", "y": 180 },
+		"facing=south": { "model": "chinjufumod:food/frypan" },
+		"facing=west": { "model": "chinjufumod:food/frypan", "y": 90 },
+		"facing=east": { "model": "chinjufumod:food/frypan", "y": 270 }
+	}
+}

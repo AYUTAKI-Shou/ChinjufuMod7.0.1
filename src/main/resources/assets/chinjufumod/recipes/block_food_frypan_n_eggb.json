@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_eggb",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "egg" },
+		{ "type": "forge:ore_dict", "ore": "egg" },
+		{ "item": "chinjufumod:item_komugi", "data": 4 },
+		{ "item": "chinjufumod:block_food_frypan" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_frypan_n1", "data": 2, "count" : 1 }
+}

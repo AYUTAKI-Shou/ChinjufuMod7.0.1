@@ -1,0 +1,7 @@
+{
+	"parent": "chinjufumod:block/base/door_right_bottom",
+	"textures": {
+ 		"particle": "chinjufumod:block/door_sakura_right_bottom",
+		"bottom": "chinjufumod:block/door_sakura_right_bottom"
+	}
+}

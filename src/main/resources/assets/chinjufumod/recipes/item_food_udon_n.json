@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_udon",
+
+	"ingredients": [
+		[ { "item": "chinjufumod:item_measurecup_full", "data": 0 }, { "item": "minecraft:potion", "data": 0 } ],
+		{ "type": "forge:ore_dict", "ore": "foodFlour" },
+		{ "type": "forge:ore_dict", "ore": "foodFlour" },
+		{ "type": "forge:ore_dict", "ore": "foodFlour" },
+		[ { "type": "forge:ore_dict", "ore": "dustSalt" },  { "type": "forge:ore_dict", "ore": "foodSalt" }, { "type": "forge:ore_dict", "ore": "itemSalt" } ]
+	],
+
+	"result": { "item": "chinjufumod:item_pasta", "data": 3, "count" : 1 }
+}

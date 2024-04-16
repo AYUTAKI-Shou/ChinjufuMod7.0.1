@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_fall",
+
+	"pattern": [
+		"Y",
+		"X"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:grass" },
+		"Y": { "item": "chinjufumod:block_carpet_s", "data": 3 }
+	},
+
+	"result": { "item": "chinjufumod:block_fall_leaf", "data": 0, "count": 1 }
+}

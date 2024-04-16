@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_boxh",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "cropChestnut" },
+		"Y": { "item": "chinjufumod:block_boxh_empty" }
+	},
+
+	"result": { "item": "chinjufumod:block_boxh_chestnut", "data": 0, "count": 1 }
+}

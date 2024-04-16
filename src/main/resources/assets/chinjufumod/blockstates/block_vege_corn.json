@@ -1,0 +1,44 @@
+{
+	"variants": {
+		"age=0": [ 
+			{ "model": "chinjufumod:crop/corn_0", "y": 270 },
+			{ "model": "chinjufumod:crop/corn_0", "y": 90 },
+			{ "model": "chinjufumod:crop/corn_0", "y": 180 },
+			{ "model": "chinjufumod:crop/corn_0", "y": 0 } ],
+		"age=1": [ 
+			{ "model": "chinjufumod:crop/corn_1", "y": 270 },
+			{ "model": "chinjufumod:crop/corn_1", "y": 90 },
+			{ "model": "chinjufumod:crop/corn_1", "y": 180 },
+			{ "model": "chinjufumod:crop/corn_1", "y": 0 } ],
+		"age=2": [ 
+			{ "model": "chinjufumod:crop/corn_2", "y": 270 },
+			{ "model": "chinjufumod:crop/corn_2", "y": 90 },
+			{ "model": "chinjufumod:crop/corn_2", "y": 180 },
+			{ "model": "chinjufumod:crop/corn_2", "y": 0 } ],
+		"age=3": [ 
+			{ "model": "chinjufumod:crop/corn_3", "y": 270 },
+			{ "model": "chinjufumod:crop/corn_3", "y": 90 },
+			{ "model": "chinjufumod:crop/corn_3", "y": 180 },
+			{ "model": "chinjufumod:crop/corn_3", "y": 0 } ],
+		"age=4": [ 
+			{ "model": "chinjufumod:crop/corn_4", "y": 270 },
+			{ "model": "chinjufumod:crop/corn_4", "y": 90 },
+			{ "model": "chinjufumod:crop/corn_4", "y": 180 },
+			{ "model": "chinjufumod:crop/corn_4", "y": 0 } ],
+		"age=5": [ 
+			{ "model": "chinjufumod:crop/corn_5", "y": 270 },
+			{ "model": "chinjufumod:crop/corn_5", "y": 90 },
+			{ "model": "chinjufumod:crop/corn_5", "y": 180 },
+			{ "model": "chinjufumod:crop/corn_5", "y": 0 } ],
+		"age=6": [ 
+			{ "model": "chinjufumod:crop/corn_6", "y": 270 },
+			{ "model": "chinjufumod:crop/corn_6", "y": 90 },
+			{ "model": "chinjufumod:crop/corn_6", "y": 180 },
+			{ "model": "chinjufumod:crop/corn_6", "y": 0 } ],
+		"age=7": [ 
+			{ "model": "chinjufumod:crop/corn_7", "y": 270 },
+			{ "model": "chinjufumod:crop/corn_7", "y": 90 },
+			{ "model": "chinjufumod:crop/corn_7", "y": 180 },
+			{ "model": "chinjufumod:crop/corn_7", "y": 0 } ]
+	}
+}

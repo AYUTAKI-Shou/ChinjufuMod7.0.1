@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_gohan",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "bucketWater" },
+		{ "item": "chinjufumod:item_kome" },
+		{ "item": "chinjufumod:item_kome" },
+		{ "item": "chinjufumod:item_kome" },
+		{ "item": "chinjufumod:item_kome" },
+		{ "item": "chinjufumod:block_food_karanabe" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_nabenama_1", "data": 3, "count" : 1 }
+}

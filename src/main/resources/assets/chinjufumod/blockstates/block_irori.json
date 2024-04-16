@@ -1,0 +1,11 @@
+{
+	"variants": {
+		"donabe=false,stage=0": { "model": "chinjufumod:irori/stage_0" },
+		"donabe=false,stage=1": { "model": "chinjufumod:irori/stage_1" },
+		"donabe=false,stage=2": { "model": "chinjufumod:irori/stage_b" },
+
+		"donabe=true,stage=0": { "model": "chinjufumod:irori/gotoku_stage_0" },
+		"donabe=true,stage=1": { "model": "chinjufumod:irori/gotoku_stage_1" },
+		"donabe=true,stage=2": { "model": "chinjufumod:irori/gotoku_stage_b" }
+	}
+}

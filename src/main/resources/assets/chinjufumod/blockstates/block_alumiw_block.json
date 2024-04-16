@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:storage/alumiw" },
+		"facing=south,stage=1": { "model": "chinjufumod:storage/alumiw" },
+		"facing=west,stage=1": { "model": "chinjufumod:storage/alumiw_we", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:storage/alumiw_we", "y": 90 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:storage/ironw" },
+		"facing=south,stage=2": { "model": "chinjufumod:storage/ironw" },
+		"facing=west,stage=2": { "model": "chinjufumod:storage/ironw_we", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:storage/ironw_we", "y": 90 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:storage/goldw" },
+		"facing=south,stage=3": { "model": "chinjufumod:storage/goldw" },
+		"facing=west,stage=3": { "model": "chinjufumod:storage/goldw_we", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:storage/goldw_we", "y": 90 },
+
+		"facing=north,stage=4": { "model": "chinjufumod:storage/fuel_can" },
+		"facing=south,stage=4": { "model": "chinjufumod:storage/fuel_can", "y": 180 },
+		"facing=west,stage=4": { "model": "chinjufumod:storage/fuel_can", "y": 270 },
+		"facing=east,stage=4": { "model": "chinjufumod:storage/fuel_can", "y": 90 }
+	}
+}

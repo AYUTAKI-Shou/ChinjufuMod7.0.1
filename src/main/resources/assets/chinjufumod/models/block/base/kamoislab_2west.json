@@ -1,0 +1,29 @@
+{
+	"parent": "block/block",
+	"elements":[
+		{
+			"name": "shikkui",
+			"from": [ 0.0, 0.0, 0.0 ],
+			"to": [ 8.0, 16.0, 16.0 ],
+			"faces": {
+				"up" : { "uv": [ 0.0, 0.0, 8.0, 16.0 ], "texture": "#shikkui" },
+				"down" : { "uv": [ 0.0, 0.0, 8.0, 16.0 ], "texture": "#shikkui" },
+				"north": { "uv": [ 8.0, 0.0, 16.0, 16.0 ], "texture": "#shikkui" },
+				"south": { "uv": [ 0.0, 0.0, 8.0, 16.0 ], "texture": "#shikkui" },
+				"west" : { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#shikkui" }
+			}
+		},
+		{
+			"name": "ki",
+			"from": [ 8.0, 0.0, 0.0 ],
+			"to": [ 16.0, 16.0, 16.0 ],
+			"faces": {
+				"up" : { "uv": [ 8.0, 0.0, 16.0, 16.0 ], "texture": "#ki_top" },
+				"down" : { "uv": [ 8.0, 0.0, 16.0, 16.0 ], "texture": "#ki_top" },
+				"north": { "uv": [ 0.0, 0.0, 8.0, 16.0 ], "texture": "#ki" },
+				"south": { "uv": [ 8.0, 0.0, 16.0, 16.0 ], "texture": "#ki" },
+				"east" : { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#ki" }
+			}
+		}
+	]
+}

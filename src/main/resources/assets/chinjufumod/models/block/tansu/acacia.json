@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/tansu",
+	"textures": {
+		"particle": "chinjufumod:block/tansu_acacia_front",
+		"front": "chinjufumod:block/tansu_acacia_front",
+		"side": "chinjufumod:block/tansu_acacia_side",
+		"inside": "chinjufumod:block/tansu_acacia_inside"
+	}
+}

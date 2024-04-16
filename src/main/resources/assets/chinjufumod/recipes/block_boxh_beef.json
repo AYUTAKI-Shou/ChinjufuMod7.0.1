@@ -1,0 +1,17 @@
+﻿{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_boxh",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "listAllbeefraw" },
+		"Y": { "item": "chinjufumod:block_boxh_empty", "data": 0 }
+	},
+
+	"result": { "item": "chinjufumod:block_boxh_beef", "data": 0, "count": 1 }
+}

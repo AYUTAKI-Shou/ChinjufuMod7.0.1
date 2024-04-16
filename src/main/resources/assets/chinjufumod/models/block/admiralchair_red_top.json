@@ -1,0 +1,61 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"leg": "chinjufumod:block/muku_oak",
+		"bum": "chinjufumod:block/ac_red_top",
+		"side": "chinjufumod:block/ac_red_side",
+		"top": "chinjufumod:block/ac_red_t",
+		"bottom": "chinjufumod:block/ac_red_b",
+		"particle": "chinjufumod:block/muku_oak"
+	},
+	"elements": [
+		{
+			"name": "back_top1",
+			"from": [ 6, 15, 14 ],
+			"to": [ 10, 16, 16 ],
+			"faces": {
+				"up": { "uv": [ 6.0, 0.0, 10.0, 2.0 ], "texture": "#leg" },
+				"north": { "uv": [ 6.0, 0.0, 10.0, 1.0 ], "texture": "#top" },
+				"south": { "uv": [ 6.0, 0.0, 10.0, 1.0 ], "texture": "#top" },
+				"east": { "uv": [ 0.0, 0.0, 2.0, 1.0 ], "texture": "#leg" },
+				"west": { "uv": [ 0.0, 0.0, 2.0, 1.0 ], "texture": "#leg" }
+			}
+		},
+		{
+			"name": "back_top2",
+			"from": [ 4, 14, 14 ],
+			"to": [ 12, 15, 16 ],
+			"faces": {
+				"up": { "uv": [ 4.0, 0.0, 12.0, 2.0 ], "texture": "#leg" },
+				"north": { "uv": [ 4.0, 1.0, 12.0, 2.0 ], "texture": "#top" },
+				"south": { "uv": [ 4.0, 1.0, 12.0, 2.0 ], "texture": "#top" },
+				"east": { "uv": [ 1.0, 1.0, 2.0, 3.0 ], "texture": "#leg" },
+				"west": { "uv": [ 1.0, 1.0, 2.0, 3.0 ], "texture": "#leg" }
+			}
+		},
+		{
+			"name": "back_top3",
+			"from": [ 3, 13, 14 ],
+			"to": [ 13, 14, 16 ],
+			"faces": {
+				"up": { "uv": [ 3.0, 0.0, 13.0, 2.0 ], "texture": "#leg" },
+				"north": { "uv": [ 3.0, 2.0, 13.0, 3.0 ], "texture": "#top" },
+				"south": { "uv": [ 3.0, 2.0, 13.0, 3.0 ], "texture": "#top" },
+				"east": { "uv": [ 2.0, 2.0, 2.0, 4.0 ], "texture": "#leg" },
+				"west": { "uv": [ 2.0, 2.0, 2.0, 4.0 ], "texture": "#leg" }
+			}
+		},
+		{
+			"name": "back_top",
+			"from": [ 0, 0, 14 ],
+			"to": [ 16, 13, 16 ],
+			"faces": {
+				"up": { "uv": [ 0.0, 0.0, 16.0, 2.0 ], "texture": "#leg" },
+				"north": { "uv": [ 0.0, 3.0, 16.0, 16.0 ], "texture": "#top" },
+				"south": { "uv": [ 0.0, 3.0, 16.0, 16.0 ], "texture": "#top" },
+				"east": { "uv": [ 0.0, 3.0, 2.0, 16.0 ], "texture": "#leg" },
+				"west": { "uv": [ 0.0, 3.0, 2.0, 16.0 ], "texture": "#leg" }
+			}
+		}
+	]
+}

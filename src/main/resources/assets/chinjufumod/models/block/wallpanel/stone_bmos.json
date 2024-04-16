@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/wallpanel_wide",
+	"textures": {
+		"particle": "minecraft:blocks/stonebrick_mossy",
+		"front": "minecraft:blocks/stonebrick_mossy",
+		"back": "minecraft:blocks/stonebrick_mossy",
+		"side": "minecraft:blocks/stonebrick_mossy"
+	}
+}

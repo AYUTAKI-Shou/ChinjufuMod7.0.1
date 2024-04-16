@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:block/glass/wine_1",
+	"display": {
+		"gui": {
+			"rotation": [ 30, 45, 0 ],
+			"translation": [ 0, 9.5, 0 ],
+			"scale": [ 2.25, 2.25, 2.25 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 70, 0, 0 ],
+			"translation": [ 0, 3.5, 8 ],
+			"scale": [ 1.25, 1.25, 1.25 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 6, 0 ],
+			"scale": [ 1.25, 1.25, 1.25 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 180, 0 ],
+			"translation": [ 0, 6, 0.01 ],
+			"scale": [ 1.25, 1.25, 1.25 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 0.8, 0.8, 0.8 ]
+		}
+	}
+}

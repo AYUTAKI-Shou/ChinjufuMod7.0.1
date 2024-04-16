@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:amado/tobukuro_botl1", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:amado/tobukuro_botl1" },
+		"facing=west,stage=1": { "model": "chinjufumod:amado/tobukuro_botl1", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:amado/tobukuro_botl1", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:amado/tobukuro_botl2", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:amado/tobukuro_botl2" },
+		"facing=west,stage=2": { "model": "chinjufumod:amado/tobukuro_botl2", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:amado/tobukuro_botl2", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:amado/tobukuro_botl3", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:amado/tobukuro_botl3" },
+		"facing=west,stage=3": { "model": "chinjufumod:amado/tobukuro_botl3", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:amado/tobukuro_botl3", "y": 270 }
+	}
+}

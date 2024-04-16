@@ -1,0 +1,20 @@
+{
+"variants": {
+	"back=false,forward=true,left=false,right=true": { "model": "chinjufumod:wakasa/yellow_cor2", "y":90 ,"uvlock": false },
+	"back=false,forward=true,left=true,right=false": { "model": "chinjufumod:wakasa/yellow_cor2", "uvlock": true },
+	"back=true,forward=false,left=false,right=true": { "model": "chinjufumod:wakasa/yellow_cor1", "y":180 , "uvlock": true },
+	"back=true,forward=false,left=true,right=false": { "model": "chinjufumod:wakasa/yellow_cor1", "y":270 , "uvlock": false },
+	"back=false,forward=true,left=false,right=false": { "model": "chinjufumod:wakasa/yellow_center", "uvlock": true },
+	"back=false,forward=false,left=false,right=true": { "model": "chinjufumod:wakasa/yellow_center","uvlock": true },
+	"back=false,forward=false,left=true,right=false": { "model": "chinjufumod:wakasa/yellow_center", "uvlock": true },
+	"back=true,forward=false,left=false,right=false": { "model": "chinjufumod:wakasa/yellow_center", "uvlock": true },
+	"back=false,forward=false,left=false,right=false": { "model": "chinjufumod:wakasa/yellow_center","uvlock": true },
+	"back=true,forward=true,left=false,right=false": { "model": "chinjufumod:wakasa/yellow_center", "uvlock": true },
+	"back=false,forward=false,left=true,right=true": { "model": "chinjufumod:wakasa/yellow_center","uvlock": true },
+	"back=true,forward=true,left=true,right=false": { "model": "chinjufumod:wakasa/yellow_none1", "y": 270,"uvlock": false },
+	"back=true,forward=true,left=false,right=true": { "model": "chinjufumod:wakasa/yellow_none1", "y": 90,"uvlock": false },
+	"back=false,forward=true,left=true,right=true": { "model": "chinjufumod:wakasa/yellow_none1", "uvlock": true },
+	"back=true,forward=false,left=true,right=true": { "model": "chinjufumod:wakasa/yellow_none1", "y": 180,"uvlock": true },
+	"back=true,forward=true,left=true,right=true": { "model": "chinjufumod:wakasa/yellow_none2","uvlock": true }
+	}
+}

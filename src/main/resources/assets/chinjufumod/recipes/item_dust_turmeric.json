@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_spice",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "cropTurmeric" },
+		{ "type": "forge:ore_dict", "ore": "cropTurmeric" },
+		{ "type": "forge:ore_dict", "ore": "cropTurmeric" },
+		{ "type": "forge:ore_dict", "ore": "cropTurmeric" }
+	],
+
+	"result": { "item": "chinjufumod:item_spice", "data": 5, "count": 4 }
+}

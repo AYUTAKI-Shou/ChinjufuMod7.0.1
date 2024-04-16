@@ -1,0 +1,84 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/inagi_dry",
+		"side": "chinjufumod:block/bamboo_y_inside",
+		"front": "chinjufumod:block/bamboo_inagi",
+		"ine": "chinjufumod:block/inagi_dry"
+	},
+	"elements":[
+		{
+			"name": "side_1",
+			"from": [ 1, 0, 12.5 ],
+			"to": [ 1.99, 16, 13.5 ],
+			"rotation": { "origin": [ 8, 7.01, 19 ], "axis": "x", "angle": -22.5, "rescale": true },
+			"faces": {
+				"down" : { "texture":"#side" },
+				"north": { "texture":"#side" },
+				"south": { "texture":"#front" },
+				"west" : { "texture":"#side" },
+				"east" : { "texture":"#side" }
+			}
+		},
+		{
+			"name": "side_2",
+			"from": [ 0.01, 0, 2.5 ],
+			"to": [ 1, 16, 3.5 ],
+			"rotation": { "origin": [ 8, 7.01, -3 ], "axis": "x", "angle": 22.5, "rescale": true },
+			"faces": {
+				"down" : { "texture":"#side" },
+				"north": { "texture":"#front" },
+				"south": { "texture":"#side" },
+				"west" : { "texture":"#side" },
+				"east" : { "texture":"#side" }
+			}
+		},
+
+		{
+			"name": "side_3",
+			"from": [ 15, 0, 12.5 ],
+			"to": [ 15.99, 16, 13.5 ],
+			"rotation": { "origin": [ 8, 7.01, 19 ], "axis": "x", "angle": -22.5, "rescale": true },
+			"faces": {
+				"down" : { "texture":"#side" },
+				"north": { "texture":"#side" },
+				"south": { "texture":"#front" },
+				"west" : { "texture":"#side" },
+				"east" : { "texture":"#side" }
+			}
+		},
+		{
+			"name": "side_4",
+			"from": [ 14.01, 0, 2.5 ],
+			"to": [ 15, 16, 3.5 ],
+			"rotation": { "origin": [ 8, 7.01, -3 ], "axis": "x", "angle": 22.5, "rescale": true },
+			"faces": {
+				"down" : { "texture":"#side" },
+				"north": { "texture":"#front" },
+				"south": { "texture":"#side" },
+				"west" : { "texture":"#side" },
+				"east" : { "texture":"#side" }
+			}
+		},
+
+		{
+			"name": "ine_2",
+			"from": [ 2, 7, 8.72 ],
+			"to": [ 14, 16, 8.73 ],
+			"faces": {
+				"north": { "uv": [ 16.0, 7.0, 0.0, 16.0 ], "texture":"#ine" },
+				"south": { "uv": [ 0.0, 7.0, 16.0, 16.0 ], "texture":"#ine" }
+			}
+		},
+		{
+			"name": "ine_1",
+			"from": [ 2, 7, 7.26 ],
+			"to": [ 14, 16, 7.27 ],
+			"faces": {
+				"north": { "uv": [ 0.0, 7.0, 16.0, 16.0 ], "texture":"#ine" },
+				"south": { "uv": [ 16.0, 7.0, 0.0, 16.0 ], "texture":"#ine" }
+			}
+		}
+	]
+}
+

@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_spice",
+
+	"ingredients": [
+		[ { "type": "forge:ore_dict", "ore": "cropChilipepper" }, { "type": "forge:ore_dict", "ore": "foodChilipepper" } ],
+		[ { "type": "forge:ore_dict", "ore": "cropChilipepper" }, { "type": "forge:ore_dict", "ore": "foodChilipepper" } ],
+		[ { "type": "forge:ore_dict", "ore": "cropChilipepper" }, { "type": "forge:ore_dict", "ore": "foodChilipepper" } ],
+		[ { "type": "forge:ore_dict", "ore": "cropChilipepper" }, { "type": "forge:ore_dict", "ore": "foodChilipepper" } ]
+	],
+
+	"result": { "item": "chinjufumod:item_spice", "data": 6, "count": 4 }
+}

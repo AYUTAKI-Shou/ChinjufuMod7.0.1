@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/wallpanel_leng",
+	"textures": {
+		"particle": "chinjufumod:block/pillar_bigoak_side",
+		"front": "chinjufumod:block/pillar_bigoak_side",
+		"back": "chinjufumod:block/pillar_bigoak_side",
+		"side": "chinjufumod:block/pillar_bigoak_side"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"axis=y": { "model": "chinjufumod:brick/pillar_andesite" },
+		"axis=z": { "model": "chinjufumod:brick/pillar_andesite", "x": 90 },
+		"axis=x": { "model": "chinjufumod:brick/pillar_andesite", "x": 90, "y": 90 },
+		"axis=none": { "model": "chinjufumod:brick/pillar_andesite" }
+	}
+}

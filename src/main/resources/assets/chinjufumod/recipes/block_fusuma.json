@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_fusuma",
+
+	"pattern": [
+		"XXX",
+		"YZY",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:stick", "data": 0 },
+		"Y": { "item": "minecraft:paper", "data": 0 },
+		"Z": [ { "type": "forge:ore_dict", "ore": "plankWood" }, { "type": "forge:ore_dict", "ore": "plankWoodCherry" }, 
+		{ "type": "forge:ore_dict", "ore": "plankWoodAcer" }, { "type": "forge:ore_dict", "ore": "plankWoodGinkgo" } ]
+	},
+
+	"result": { "item": "chinjufumod:block_fusuma", "data": 0, "count": 4 }
+}

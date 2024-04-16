@@ -1,0 +1,78 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/food_bread",
+		"bread": "chinjufumod:block/food_bread",
+		"egg": "chinjufumod:block/food_egg",
+		"lettuce": "chinjufumod:block/food_lettuce",
+		"teri": "chinjufumod:block/food_teri",
+		"tori": "chinjufumod:block/food_tori"
+	},
+	"elements": [
+		{
+			"name": "scone_1-1",
+			"from": [ 6.7, 0.0, 6.5 ],
+			"to": [ 7.6, 3.0, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#bread" },
+				"down" : { "texture": "#bread" },
+				"north": { "texture": "#bread" },
+				"south": { "texture": "#bread" },
+				"east" : { "texture": "#bread" },
+				"west" : { "texture": "#bread" }
+			}
+		},
+		{
+			"name": "scone_1",
+			"from": [ 7.6, 0.0, 6.5 ],
+			"to": [ 7.8, 3.0, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#lettuce" },
+				"down" : { "texture": "#lettuce" },
+				"north": { "texture": "#lettuce" },
+				"south": { "texture": "#lettuce" },
+				"east" : { "texture": "#lettuce" },
+				"west" : { "texture": "#lettuce" }
+			}
+		},
+		{
+			"name": "scone_1",
+			"from": [ 7.8, 0.0, 6.5 ],
+			"to": [ 8.3, 3.0, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#tori" },
+				"down" : { "texture": "#tori" },
+				"north": { "texture": "#tori" },
+				"south": { "texture": "#tori" },
+				"east" : { "texture": "#tori" },
+				"west" : { "texture": "#tori" }
+			}
+		},
+		{
+			"name": "scone_1",
+			"from": [ 8.3, 0.0, 6.5 ],
+			"to": [ 8.4, 3.0, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#teri" },
+				"down" : { "texture": "#teri" },
+				"north": { "texture": "#teri" },
+				"south": { "texture": "#teri" },
+				"east" : { "texture": "#teri" },
+				"west" : { "texture": "#teri" }
+			}
+		},
+		{
+			"name": "scone_1-3",
+			"from": [ 8.4, 0.0, 6.5 ],
+			"to": [ 9.3, 3.0, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#bread" },
+				"down" : { "texture": "#bread" },
+				"north": { "texture": "#bread" },
+				"south": { "texture": "#bread" },
+				"east" : { "texture": "#bread" },
+				"west" : { "texture": "#bread" }
+			}
+		}
+	]
+}

@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"facing=north,kakudo=1": { "model": "chinjufumod:uchiwa/brown", "y": 180 },
+		"facing=south,kakudo=1": { "model": "chinjufumod:uchiwa/brown" },
+		"facing=west,kakudo=1": { "model": "chinjufumod:uchiwa/brown", "y": 90 },
+		"facing=east,kakudo=1": { "model": "chinjufumod:uchiwa/brown", "y": 270 },
+		"facing=north,kakudo=2": { "model": "chinjufumod:uchiwa/brown_45", "y": 180 },
+		"facing=south,kakudo=2": { "model": "chinjufumod:uchiwa/brown_45" },
+		"facing=west,kakudo=2": { "model": "chinjufumod:uchiwa/brown_45", "y": 90 },
+		"facing=east,kakudo=2": { "model": "chinjufumod:uchiwa/brown_45", "y": 270 },
+		"facing=north,kakudo=3": { "model": "chinjufumod:uchiwa/brown_180", "y": 180 },
+		"facing=south,kakudo=3": { "model": "chinjufumod:uchiwa/brown_180" },
+		"facing=west,kakudo=3": { "model": "chinjufumod:uchiwa/brown_180", "y": 90 },
+		"facing=east,kakudo=3": { "model": "chinjufumod:uchiwa/brown_180", "y": 270 },
+		"facing=north,kakudo=4": { "model": "chinjufumod:uchiwa/brown_315", "y": 180 },
+		"facing=south,kakudo=4": { "model": "chinjufumod:uchiwa/brown_315" },
+		"facing=west,kakudo=4": { "model": "chinjufumod:uchiwa/brown_315", "y": 90 },
+		"facing=east,kakudo=4": { "model": "chinjufumod:uchiwa/brown_315", "y": 270 }
+	}
+}

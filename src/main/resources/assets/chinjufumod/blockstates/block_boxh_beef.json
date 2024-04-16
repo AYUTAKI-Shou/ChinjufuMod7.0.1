@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"double=false,facing=north,half=bottom": { "model": "chinjufumod:box/beef_bot", "y": 180 },
+		"double=false,facing=south,half=bottom": { "model": "chinjufumod:box/beef_bot", "y": 0 },
+		"double=false,facing=west,half=bottom": { "model": "chinjufumod:box/beef_bot", "y": 90 },
+		"double=false,facing=east,half=bottom": 	{ "model": "chinjufumod:box/beef_bot", "y": 270 },
+
+		"double=false,facing=north,half=top": { "model": "chinjufumod:box/beef_top", "y": 180 },
+		"double=false,facing=south,half=top": { "model": "chinjufumod:box/beef_top", "y": 0 },
+		"double=false,facing=west,half=top": { "model": "chinjufumod:box/beef_top", "y": 90 },
+		"double=false,facing=east,half=top": { "model": "chinjufumod:box/beef_top", "y": 270 },
+
+		"double=true,facing=north,half=bottom": { "model": "chinjufumod:box/beef_double", "y": 180 },
+		"double=true,facing=south,half=bottom": { "model": "chinjufumod:box/beef_double", "y": 0 },
+		"double=true,facing=west,half=bottom": { "model": "chinjufumod:box/beef_double", "y": 90 },
+		"double=true,facing=east,half=bottom": { "model": "chinjufumod:box/beef_double", "y": 270 },
+
+		"double=true,facing=north,half=top": { "model": "chinjufumod:box/beef_double", "y": 180 },
+		"double=true,facing=south,half=top": { "model": "chinjufumod:box/beef_double", "y": 0 },
+		"double=true,facing=west,half=top": { "model": "chinjufumod:box/beef_double", "y": 90 },
+		"double=true,facing=east,half=top":	 { "model": "chinjufumod:box/beef_double", "y": 270 }
+	}
+}

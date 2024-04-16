@@ -1,0 +1,8 @@
+{
+  "variants": {
+	"facing=north": { "model": "chinjufumod:wallpanel/glass_green", "y": 180 },
+	"facing=south": { "model": "chinjufumod:wallpanel/glass_green" },
+	"facing=west":  { "model": "chinjufumod:wallpanel/glass_green", "y": 90 },
+	"facing=east":  { "model": "chinjufumod:wallpanel/glass_green", "y": 270 }
+  }
+}

@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_school",
+
+	"pattern": [
+		"X"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:coal", "data": 1 }
+	},
+
+	"result": { "item": "chinjufumod:item_sumi_c", "data": 0, "count": 9 }
+}

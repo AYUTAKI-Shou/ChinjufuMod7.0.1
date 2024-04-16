@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_tea",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "bucketWater" },
+		{ "item": "chinjufumod:item_kettle_kara" }
+	],
+
+	"result": { "item": "chinjufumod:block_kettle_full", "data": 0, "count" : 1 }
+}

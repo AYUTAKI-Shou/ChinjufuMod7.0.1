@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_sword",
+
+	"pattern": [
+		"XXX",
+		" X ",
+		" XY"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:iron_ingot" },
+		"Y": { "item": "chinjufumod:item_workorder" }
+	},
+
+	"result": { "item": "chinjufumod:item_anchor", "data": 0, "count": 1 }
+}

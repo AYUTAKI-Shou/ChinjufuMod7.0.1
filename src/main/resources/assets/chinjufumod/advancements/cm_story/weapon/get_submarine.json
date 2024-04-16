@@ -1,0 +1,97 @@
+{
+	"parent": "chinjufumod:cm_story/weapon/get_workorder",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.weapon.get_submarine.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.weapon.get_submarine.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_i13_leggings"
+		},
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_i168_helmet" } ] }
+		},
+		"has_material2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_i168_chestplate" } ] }
+		},
+		"has_material3": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_i168_leggings" } ] }
+		},
+		"has_material4": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_i168_boots" } ] }
+		},
+		
+		"has_material5": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_i13_helmet" } ] }
+		},
+		"has_material6": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_i13_chestplate" } ] }
+		},
+		"has_material7": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_i13_leggings" } ] }
+		},
+		"has_material8": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_i13_boots" } ] }
+		},
+		
+		"has_material9": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_ro500_helmet" } ] }
+		},
+		"has_material10": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_ro500_chestplate" } ] }
+		},
+		"has_material11": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_ro500_leggings" } ] }
+		},
+		"has_material12": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_ro500_boots" } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material",
+			"has_material2",
+			"has_material3",
+			"has_material4",
+			"has_material5",
+			"has_material6",
+			"has_material7",
+			"has_material8",
+			"has_material9",
+			"has_material10",
+			"has_material11",
+			"has_material12"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

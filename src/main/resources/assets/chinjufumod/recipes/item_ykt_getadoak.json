@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_yukata",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "slabWoodDarkoak" },
+		{ "type": "forge:ore_dict", "ore": "dyeRed" },
+		{ "item": "chinjufumod:item_tanmono" }
+	],
+
+	"result": { "item": "chinjufumod:item_ykt_getadoak", "data": 0, "count": 1 }
+}

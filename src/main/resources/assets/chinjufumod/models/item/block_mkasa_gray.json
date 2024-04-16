@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:block/wakasa/gray_open",
+	"display": {
+		"gui": {
+			"rotation": [ 30, 45, 0 ],
+			"translation": [ 0, -1.5, 0 ],
+			"scale": [ 0.65, 0.65, 0.65 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 70, 0, 0 ],
+			"translation": [ 0, 4, 14 ],
+			"scale": [ 1.45, 1.45, 1.45 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ -2, 12, 10 ],
+			"scale": [ 1.45, 1.45, 1.45 ]
+		},
+		"fixed": {
+			"rotation": [ 270, 0, 0 ],
+			"translation": [ 0, 0, 2 ],
+			"scale": [ 0.8, 0.8, 0.8 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		}
+	}
+}

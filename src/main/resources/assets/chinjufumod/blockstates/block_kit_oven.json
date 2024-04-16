@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"facing=north": { "model": "chinjufumod:kitchen/oven", "y": 180 },
+		"facing=south": { "model": "chinjufumod:kitchen/oven", "y": 0 },
+		"facing=west":  { "model": "chinjufumod:kitchen/oven", "y": 90 },
+		"facing=east":  { "model": "chinjufumod:kitchen/oven", "y": 270 }
+	}
+}

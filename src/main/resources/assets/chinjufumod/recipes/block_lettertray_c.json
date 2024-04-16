@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+"group": "cm_school",
+
+	"pattern": [
+		"XY",
+		"ZA"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:paper", "data": 0 },
+		"Y": { "item": "chinjufumod:item_sumi_c", "data": 0 },
+		"Z": { "type": "forge:ore_dict", "ore": "slabWood" },
+		"A": { "item": "minecraft:feather", "data": 0 }
+	},
+
+	"result": { "item": "chinjufumod:block_lettertray_c", "data": 1, "count": 1 }
+}

@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_ramen",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_kansui" },
+		{ "type": "forge:ore_dict", "ore": "foodFlour" },
+		{ "type": "forge:ore_dict", "ore": "foodFlour" },
+		{ "type": "forge:ore_dict", "ore": "foodFlour" }
+	],
+
+	"result": { "item": "chinjufumod:item_ramen_n", "data": 0, "count": 1 }
+}

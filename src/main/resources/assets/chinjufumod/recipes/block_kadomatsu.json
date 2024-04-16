@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_seasonal",
+
+	"pattern": [
+		"XXX",
+		"YZY",
+		"BAB"
+	],
+
+	"key": {
+		"X": [ { "item": "minecraft:reeds", "data": 0 },
+				{ "type": "forge:ore_dict", "ore": "bamboo" }, { "type": "forge:ore_dict", "ore": "cropBamboo" } ],
+		"Y": { "type": "forge:ore_dict", "ore": "treeSaplingSpruce" },
+		"Z": { "item": "minecraft:double_plant", "data": 4 },
+		"A": { "item": "minecraft:dirt", "data": 0 },
+		"B": [ { "type": "forge:ore_dict", "ore": "cropWheat" }, { "item": "chinjufumod:item_inewara", "data": 0 } ]
+	},
+
+	"result": { "item": "chinjufumod:block_kadomatsu", "data": 1, "count": 1 }
+}

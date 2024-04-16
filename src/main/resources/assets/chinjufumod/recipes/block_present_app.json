@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_present",
+
+	"pattern": [
+		" X ",
+		"XYX",
+		" X "
+	],
+
+	"key": {
+		"X": { "item": "minecraft:paper" },
+		"Y": { "type": "forge:ore_dict", "ore": "cropApple" }
+	},
+
+	"result": { "item": "chinjufumod:block_present", "data": 1, "count": 1 }
+}

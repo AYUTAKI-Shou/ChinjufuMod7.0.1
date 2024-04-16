@@ -1,0 +1,29 @@
+{
+	"parent": "chinjufumod:cm_story/root",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.crops.get_seedsbox.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.crops.get_seedsbox.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_seedsbox"
+		},
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_seedsbox", "data": 0 } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

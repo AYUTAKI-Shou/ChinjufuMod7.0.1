@@ -1,0 +1,63 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/log_grape",
+		"leaves": "chinjufumod:block/leaves_grape",
+		"log_top": "chinjufumod:block/log_grape_top",
+		"log": "chinjufumod:block/log_grape",
+		"stem": "chinjufumod:block/muku_bigoak"
+	},
+	"elements": [
+
+		{
+			"name": "leaves",
+			"from": [ 0.01, 0, 6.51 ],
+			"to": [ 12.99, 1, 10.49 ],
+			"faces": {
+				"up" : { "uv": [ 0.0, 6.5, 13.0, 10.5 ], "texture": "#leaves" },
+				"north": { "uv": [ 0.0, 15.0, 13.0, 16.0 ], "texture": "#leaves" },
+				"south": { "uv": [ 0.0, 15.0, 13.0, 16.0 ], "texture": "#leaves" },
+				"east" : { "uv": [ 6.5, 15.0, 10.5, 16.0 ], "texture": "#leaves" },
+				"west" : { "uv": [ 6.5, 15.0, 10.5, 16.0 ], "texture": "#leaves" }
+			}
+		},
+
+		{
+			"name": "stem_ue1___________________________________",
+			"from": [ 3, 0, 6.5 ],
+			"to": [ 4, 7, 7.5 ],
+			"faces": {
+				"up" : { "texture": "#stem" },
+				"north": { "texture": "#stem" },
+				"south": { "texture": "#stem" },
+				"east" : { "texture": "#stem" },
+				"west" : { "texture": "#stem" }
+			}
+		},
+		{
+			"name": "stem_ue2",
+			"from": [ 11, 0, 6.5 ],
+			"to": [ 12, 7, 7.5 ],
+			"faces": {
+				"up" : { "texture": "#stem" },
+				"north": { "texture": "#stem" },
+				"south": { "texture": "#stem" },
+				"east" : { "texture": "#stem" },
+				"west" : { "texture": "#stem" }
+			}
+		},
+		{
+			"name": "stem_yoko1",
+			"from": [ 0, 4, 6.99 ],
+			"to": [ 16, 5, 7.99 ],
+			"faces": {
+				"up" : { "texture": "#stem" },
+				"down" : { "texture": "#stem" },
+				"north": { "texture": "#stem" },
+				"south": { "texture": "#stem" },
+				"east" : { "texture": "#stem" },
+				"west" : { "texture": "#stem" }
+			}
+		}
+	]
+}

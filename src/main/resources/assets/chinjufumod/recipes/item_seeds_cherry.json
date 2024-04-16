@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_seeds",
+
+	"pattern": [
+		"X"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "cropCherry" }
+	},
+
+	"result": { "item": "chinjufumod:item_seeds_cherry", "data": 0, "count": 1 }
+}

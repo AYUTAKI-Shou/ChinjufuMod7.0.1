@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_sweets",
+
+	"ingredients": [
+		{ "item": "minecraft:sugar" },
+		{ "item": "minecraft:ice" },
+		{ "type": "forge:ore_dict", "ore": "cropCherry" },
+		{ "item": "chinjufumod:item_food_dish", "data": 7 }
+	],
+
+	"result": { "item": "chinjufumod:block_kakigouri_pink1", "data": 0, "count" : 1 }
+}

@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_pasta",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "foodFreshcheese" },
+		{ "type": "forge:ore_dict", "ore": "foodCheese" },
+		{ "item": "chinjufumod:item_pasta", "data": 2 }
+	],
+
+	"result": { "item": "chinjufumod:block_food_pastacheese_1", "data": 0, "count" : 1 }
+}

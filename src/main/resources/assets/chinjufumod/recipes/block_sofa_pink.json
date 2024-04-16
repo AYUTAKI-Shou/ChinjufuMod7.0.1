@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_sofa",
+
+	"pattern": [
+		"Y  ",
+		"YYY",
+		"X X"
+	],
+
+	"key": {
+		"X": [ { "type": "forge:ore_dict", "ore": "plankWood" }, { "type": "forge:ore_dict", "ore": "plankWoodCherry" }, 
+		{ "type": "forge:ore_dict", "ore": "plankWoodAcer" }, { "type": "forge:ore_dict", "ore": "plankWoodGinkgo" } ],
+		"Y": { "type": "forge:ore_dict", "ore": "woolPink" }
+	},
+
+	"result": { "item": "chinjufumod:block_sofa", "data": 6, "count" : 4 }
+}

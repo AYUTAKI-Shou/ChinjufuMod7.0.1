@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:zabuton/wara" },
+		"stage=1": { "model": "chinjufumod:zabuton/wara_down" }
+	}
+}

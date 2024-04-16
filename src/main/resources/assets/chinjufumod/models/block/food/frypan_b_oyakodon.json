@@ -1,0 +1,10 @@
+{
+	"parent": "chinjufumod:block/base/frypan_214",
+	"textures": {
+		"particle": "chinjufumod:block/frypan_out",
+		"sauce": "chinjufumod:block/oyakodon_cooked",
+		"fraypan_in": "chinjufumod:block/frypan_in",
+		"fraypan_out": "chinjufumod:block/frypan_out",
+		"eee": "chinjufumod:block/muku_oak"
+	}
+}

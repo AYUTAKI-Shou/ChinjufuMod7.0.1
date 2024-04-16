@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_kitchen",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "dustRedstone" },
+		{ "item": "chinjufumod:block_kit_duct", "data": 0 },
+		{ "item": "minecraft:feather", "data": 0 },
+		{ "item": "minecraft:feather", "data": 0 },
+		{ "item": "minecraft:feather", "data": 0 },
+		{ "item": "minecraft:feather", "data": 0 },
+		{ "item": "minecraft:feather", "data": 0 },
+		[ { "type": "forge:ore_dict", "ore": "ingotAluminium" },
+				{ "type": "forge:ore_dict", "ore": "ingotAluminum" } ]
+	],
+
+	"result": { "item": "chinjufumod:block_kit_kanki", "data": 0, "count" : 1 }
+}

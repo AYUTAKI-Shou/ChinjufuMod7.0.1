@@ -1,0 +1,648 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/trays_end_kara",
+		"front": "chinjufumod:block/trays_front_kara",
+		"end": "chinjufumod:block/trays_end_kara",
+		"side": "chinjufumod:block/trays_side_kara",
+		"konbu": "minecraft:item/kelp"
+	},
+	"elements": [
+		{
+			"name": "konbu_1",
+			"from": [ 1, 2.6, 1 ],
+			"to": [ 15, 2.6, 15 ],
+			"faces": {
+				"up" : { "uv": [ 16.0, 16.0, 0.0, 0.0 ], "texture":"#konbu", "rotation": 90 },
+				"down" : { "uv": [ 16.0, 0.0, 0.0, 16.0 ], "texture":"#konbu", "rotation": 270 }
+			}
+		},
+		{
+			"name": "konbu_2",
+			"from": [ 1, 6.6, 1 ],
+			"to": [ 15, 6.6, 15 ],
+			"faces": {
+				"up" : { "uv": [ 16.0, 16.0, 0.0, 0.0 ], "texture":"#konbu" },
+				"down" : { "uv": [ 16.0, 0.0, 0.0, 16.0 ], "texture":"#konbu" }
+			}
+		},
+		{
+			"name": "konbu_3",
+			"from": [ 1, 10.6, 1 ],
+			"to": [ 15, 10.6, 15 ],
+			"faces": {
+				"up" : { "uv": [ 16.0, 16.0, 0.0, 0.0 ], "texture":"#konbu", "rotation": 90 },
+				"down" : { "uv": [ 16.0, 0.0, 0.0, 16.0 ], "texture":"#konbu", "rotation": 270 }
+			}
+		},
+		{
+			"name": "konbu_4",
+			"from": [ 1, 14.6, 1 ],
+			"to": [ 15, 14.6, 15 ],
+			"faces": {
+				"up" : { "uv": [ 16.0, 16.0, 0.0, 0.0 ], "texture":"#konbu" },
+				"down" : { "uv": [ 16.0, 0.0, 0.0, 16.0 ], "texture":"#konbu" }
+			}
+		},
+
+		{
+			"name": "naka_1_____________________________111111111111111111111",
+			"from": [ 1, 2, 1 ],
+			"to": [ 15, 2.5, 15 ],
+			"faces": {
+				"up" : { "texture": "#front" },
+				"down" : { "texture": "#end" }
+			}
+		},
+		{
+			"name": "north_1",
+			"from": [ 0, 2, 0 ],
+			"to": [ 16, 3.99, 1 ],
+			"faces": {
+				"up" : { "texture": "#front" },
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "south_1",
+			"from": [ 0, 2, 15 ],
+			"to": [ 16, 3.99, 16 ],
+			"faces": {
+				"up" : { "texture": "#front" },
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "west_1",
+			"from": [ 15, 2, 1 ],
+			"to": [ 16, 3.99, 15 ],
+			"faces": {
+				"up" : { "texture": "#front" },
+				"down" : { "texture": "#end" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "east_1",
+			"from": [ 0, 2, 1 ],
+			"to": [ 1, 3.99, 15 ],
+			"faces": {
+				"up" : { "texture": "#front" },
+				"down" : { "texture": "#end" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_nor_1",
+			"from": [ 0, 0, 0 ],
+			"to": [ 2, 2, 1 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_nor_2",
+			"from": [ 14, 0, 0 ],
+			"to": [ 16, 2, 1 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_sou_1",
+			"from": [ 0, 0, 15 ],
+			"to": [ 2, 2, 16 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_sou_2",
+			"from": [ 14, 0, 15 ],
+			"to": [ 16, 2, 16 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_west_1",
+			"from": [ 15, 0, 1 ],
+			"to": [ 16, 2, 2 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_west_2",
+			"from": [ 15, 0, 14 ],
+			"to": [ 16, 2, 15 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_east_1",
+			"from": [ 0, 0, 1 ],
+			"to": [ 1, 2, 2 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_east_2",
+			"from": [ 0, 0, 14 ],
+			"to": [ 1, 2, 15 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+
+		{
+			"name": "naka_1_____________________________22222222222222222222",
+			"from": [ 1, 6, 1 ],
+			"to": [ 15, 6.5, 15 ],
+			"faces": {
+				"up" : { "texture": "#front" },
+				"down" : { "texture": "#end" }
+			}
+		},
+		{
+			"name": "north_1",
+			"from": [ 0, 6, 0 ],
+			"to": [ 16, 7.99, 1 ],
+			"faces": {
+				"up" : { "texture": "#front" },
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "south_1",
+			"from": [ 0, 6, 15 ],
+			"to": [ 16, 7.99, 16 ],
+			"faces": {
+				"up" : { "texture": "#front" },
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "west_1",
+			"from": [ 15, 6, 1 ],
+			"to": [ 16, 7.99, 15 ],
+			"faces": {
+				"up" : { "texture": "#front" },
+				"down" : { "texture": "#end" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "east_1",
+			"from": [ 0, 6, 1 ],
+			"to": [ 1, 7.99, 15 ],
+			"faces": {
+				"up" : { "texture": "#front" },
+				"down" : { "texture": "#end" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_nor_1",
+			"from": [ 0, 4, 0 ],
+			"to": [ 2, 6, 1 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_nor_2",
+			"from": [ 14, 4, 0 ],
+			"to": [ 16, 6, 1 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_sou_1",
+			"from": [ 0, 4, 15 ],
+			"to": [ 2, 6, 16 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_sou_2",
+			"from": [ 14, 4, 15 ],
+			"to": [ 16, 6, 16 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_west_1",
+			"from": [ 15, 4, 1 ],
+			"to": [ 16, 6, 2 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_west_2",
+			"from": [ 15, 4, 14 ],
+			"to": [ 16, 6, 15 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_east_1",
+			"from": [ 0, 4, 1 ],
+			"to": [ 1, 6, 2 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_east_2",
+			"from": [ 0, 4, 14 ],
+			"to": [ 1, 6, 15 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+
+		{
+			"name": "naka_1_____________________________3333333333333333333333",
+			"from": [ 1, 10, 1 ],
+			"to": [ 15, 10.5, 15 ],
+			"faces": {
+				"up" : { "texture": "#front" },
+				"down" : { "texture": "#end" }
+			}
+		},
+		{
+			"name": "north_1",
+			"from": [ 0, 10, 0 ],
+			"to": [ 16, 11.99, 1 ],
+			"faces": {
+				"up" : { "texture": "#front" },
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "south_1",
+			"from": [ 0, 10, 15 ],
+			"to": [ 16, 11.99, 16 ],
+			"faces": {
+				"up" : { "texture": "#front" },
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "west_1",
+			"from": [ 15, 10, 1 ],
+			"to": [ 16, 11.99, 15 ],
+			"faces": {
+				"up" : { "texture": "#front" },
+				"down" : { "texture": "#end" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "east_1",
+			"from": [ 0, 10, 1 ],
+			"to": [ 1, 11.99, 15 ],
+			"faces": {
+				"up" : { "texture": "#front" },
+				"down" : { "texture": "#end" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_nor_1",
+			"from": [ 0, 8, 0 ],
+			"to": [ 2, 10, 1 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_nor_2",
+			"from": [ 14, 8, 0 ],
+			"to": [ 16, 10, 1 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_sou_1",
+			"from": [ 0, 8, 15 ],
+			"to": [ 2, 10, 16 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_sou_2",
+			"from": [ 14, 8, 15 ],
+			"to": [ 16, 10, 16 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_west_1",
+			"from": [ 15, 8, 1 ],
+			"to": [ 16, 10, 2 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_west_2",
+			"from": [ 15, 8, 14 ],
+			"to": [ 16, 10, 15 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_east_1",
+			"from": [ 0, 8, 1 ],
+			"to": [ 1, 10, 2 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_east_2",
+			"from": [ 0, 8, 14 ],
+			"to": [ 1, 10, 15 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+
+		{
+			"name": "naka_1_____________________________4444444444444444444",
+			"from": [ 1, 14, 1 ],
+			"to": [ 15, 14.5, 15 ],
+			"faces": {
+				"up" : { "texture": "#front" },
+				"down" : { "texture": "#end" }
+			}
+		},
+		{
+			"name": "north_1",
+			"from": [ 0, 14, 0 ],
+			"to": [ 16, 15.99, 1 ],
+			"faces": {
+				"up" : { "texture": "#front" },
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "south_1",
+			"from": [ 0, 14, 15 ],
+			"to": [ 16, 15.99, 16 ],
+			"faces": {
+				"up" : { "texture": "#front" },
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "west_1",
+			"from": [ 15, 14, 1 ],
+			"to": [ 16, 15.99, 15 ],
+			"faces": {
+				"up" : { "texture": "#front" },
+				"down" : { "texture": "#end" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "east_1",
+			"from": [ 0, 14, 1 ],
+			"to": [ 1, 15.99, 15 ],
+			"faces": {
+				"up" : { "texture": "#front" },
+				"down" : { "texture": "#end" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_nor_1",
+			"from": [ 0, 12, 0 ],
+			"to": [ 2, 14, 1 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_nor_2",
+			"from": [ 14, 12, 0 ],
+			"to": [ 16, 14, 1 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_sou_1",
+			"from": [ 0, 12, 15 ],
+			"to": [ 2, 14, 16 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_sou_2",
+			"from": [ 14, 12, 15 ],
+			"to": [ 16, 14, 16 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_west_1",
+			"from": [ 15, 12, 1 ],
+			"to": [ 16, 14, 2 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_west_2",
+			"from": [ 15, 12, 14 ],
+			"to": [ 16, 14, 15 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_east_1",
+			"from": [ 0, 12, 1 ],
+			"to": [ 1, 14, 2 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "ashi_east_2",
+			"from": [ 0, 12, 14 ],
+			"to": [ 1, 14, 15 ],
+			"faces": {
+				"down" : { "texture": "#end" },
+				"north": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		}
+	]
+}

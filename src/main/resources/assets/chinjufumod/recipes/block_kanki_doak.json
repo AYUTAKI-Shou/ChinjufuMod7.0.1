@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_ranma",
+
+	"pattern": [
+		"XYX",
+		"XYX",
+		"XYX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:stick", "data": 0 },
+		"Y": { "type": "forge:ore_dict", "ore": "slabWoodDarkoak" }
+	},
+
+	"result": { "item": "chinjufumod:block_kanki", "data": 11, "count": 3 }
+}

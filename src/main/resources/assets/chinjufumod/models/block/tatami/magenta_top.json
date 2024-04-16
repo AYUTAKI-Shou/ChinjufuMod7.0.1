@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/tatami_top",
+	"textures": {
+		"particle": "chinjufumod:block/tatami_magenta",
+		"top": "chinjufumod:block/tatami_magenta",
+		"side": "chinjufumod:block/tatami_side_magenta"
+	}
+}

@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_futon",
+
+	"pattern": [
+		"XYX"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "woolWhite" },
+		"Y": { "type": "forge:ore_dict", "ore": "woolGreen" }
+	},
+
+	"result": { "item": "chinjufumod:block_futon", "data": 13, "count": 1 }
+}

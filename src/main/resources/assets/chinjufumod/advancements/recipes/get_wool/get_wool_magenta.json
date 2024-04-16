@@ -1,0 +1,23 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_cafechair_magenta",
+			"chinjufumod:block_sofa_magenta",
+			"chinjufumod:block_futon_c_magenta",
+			"chinjufumod:block_mkasa_magenta"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "type": "forge:ore_dict", "ore": "woolMagenta" } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

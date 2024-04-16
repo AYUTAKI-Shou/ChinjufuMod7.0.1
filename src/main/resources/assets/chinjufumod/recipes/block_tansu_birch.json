@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_tansu",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "plankWoodBirch" },
+		"Y": { "type": "forge:ore_dict", "ore": "slabWoodBirch" }
+	},
+
+	"result": { "item": "chinjufumod:block_tansu", "data": 2, "count": 1 }
+}

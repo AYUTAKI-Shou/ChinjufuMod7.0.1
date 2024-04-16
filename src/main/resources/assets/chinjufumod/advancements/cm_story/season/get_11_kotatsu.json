@@ -1,0 +1,77 @@
+{
+	"parent": "chinjufumod:cm_story/season/get_10_autumn",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.season.get_11_kotatsu.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.season.get_11_kotatsu.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_kotatsu", "data": 0
+		},
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_kotatsu", "data": 0 } ] }
+		},
+		"has_material2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_kotatsu", "data": 1 } ] }
+		},
+		"has_material3": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_kotatsu", "data": 2 } ] }
+		},
+		"has_material4": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_kotatsu", "data": 3 } ] }
+		},
+		"has_material5": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_kotatsu", "data": 4 } ] }
+		},
+		"has_material6": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_kotatsu", "data": 5 } ] }
+		},
+		"has_material7": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_kotatsu", "data": 6 } ] }
+		},
+		"has_material8": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_kotatsu", "data": 7 } ] }
+		},
+		"has_material9": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_kotatsu", "data": 8 } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material",
+			"has_material2",
+			"has_material3",
+			"has_material4",
+			"has_material5",
+			"has_material6",
+			"has_material7",
+			"has_material8",
+			"has_material9"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

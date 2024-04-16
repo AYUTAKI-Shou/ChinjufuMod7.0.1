@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/wp_bamboo_top_ew",
+	"textures": {
+		"particle": "chinjufumod:block/bamboo_y_top",
+		"front": "chinjufumod:block/bamboo_y_top",
+		"back": "chinjufumod:block/bamboo_y_top",
+		"side": "chinjufumod:block/bamboo_y_side"
+	}
+}

@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_sozai",
+
+	"ingredients": [
+		{ "item": "minecraft:ender_pearl" },
+		{ "type": "forge:ore_dict", "ore": "dustRedstone" },
+		{ "item": "minecraft:repeater" },
+		{ "item": "minecraft:gold_nugget" },
+		{ "item": "minecraft:gold_nugget" },
+		{ "item": "minecraft:glass_bottle" },
+		{ "item": "minecraft:glass_bottle" },
+		{ "item": "minecraft:iron_ingot" },
+		{ "item": "minecraft:iron_ingot" }
+	],
+
+	"result": { "item": "chinjufumod:block_report_box", "data": 0, "count": 1 }
+}

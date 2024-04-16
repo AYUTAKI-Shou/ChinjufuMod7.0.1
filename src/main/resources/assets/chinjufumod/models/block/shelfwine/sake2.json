@@ -1,0 +1,10 @@
+{
+	"parent": "chinjufumod:block/base/kit2_wine2",
+	"textures": {
+		"particle": "chinjufumod:block/muku_oak",
+		"tana": "chinjufumod:block/muku_oak",
+		"side": "chinjufumod:block/bottle_sake_1",
+		"top": "chinjufumod:block/bottle_sake_top",
+		"label": "chinjufumod:block/bottle_label_sake"
+	}
+}

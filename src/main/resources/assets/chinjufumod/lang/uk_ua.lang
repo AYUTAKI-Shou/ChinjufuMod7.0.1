@@ -1,0 +1,2965 @@
+{
+#ウクライナ語=Українська
+#Tab
+itemGroup.tab_chinjufumod=ChinjufuMod
+itemGroup.tab_teatime=ChinjufuMod TeaTime
+itemGroup.tab_seasonal=ChinjufuMod Seasonal
+itemGroup.tab_cmarmor=ChinjufuMod Outfitting
+itemGroup.tab_cmodwadeco=ChinjufuMod JP deco
+itemGroup.tab_cmodwablock=ChinjufuMod JP block
+itemGroup.tab_wallpanel=ChinjufuMod WallPanel
+
+#Advancements
+advancements.cm_story.root.title=Ласкаво просимо до ChinjufuMod
+advancements.cm_story.root.description=Я отримав Ключовий предмет ChinjufuMod
+
+advancements.cm_story.get_stamp.title=Повернення Адмірала
+advancements.cm_story.get_stamp.description=Мені повернули Печатку Адмірала
+
+advancements.cm_story.weapon.get_workorder.title=Нова зброя та броня
+advancements.cm_story.weapon.get_workorder.description=Я отримав Робочий наказ.
+advancements.cm_story.weapon.get_ammo.title=Виготовити боєприпаси
+advancements.cm_story.weapon.get_ammo.description=Я отримав боєприпаси.
+advancements.cm_story.weapon.get_rensouhou.title=Виготовити гармату
+advancements.cm_story.weapon.get_rensouhou.description=Я отримав гармату.
+advancements.cm_story.weapon.get_kansaiki.title=Поверніться до метальника
+advancements.cm_story.weapon.get_kansaiki.description=Я отримав штурмовик.
+advancements.cm_story.weapon.get_armor.title=Сильніша броня
+advancements.cm_story.weapon.get_armor.description=Я отримав броню ChinjufuMod.
+advancements.cm_story.weapon.get_bootskai.title=Біг по воді
+advancements.cm_story.weapon.get_bootskai.description=Я отримав покращені чоботи.
+advancements.cm_story.weapon.get_firstaid.title=Уникайте смерті!
+advancements.cm_story.weapon.get_firstaid.description=Я отримав аптечку першої допомоги.
+advancements.cm_story.weapon.get_submarine.title=Підводна подорож
+advancements.cm_story.weapon.get_submarine.description=Я отримав броню підводного човна.
+	
+advancements.cm_story.teatime.get_cookingtool.title=Зробіть кулінарний інструмент
+advancements.cm_story.teatime.get_cookingtool.description=Я отримав кулінарний інструмент.
+advancements.cm_story.teatime.get_singledish.title=Я шеф-кухар
+advancements.cm_story.teatime.get_singledish.description=Я отримав одне блюдо.
+advancements.cm_story.teatime.get_teishoku.title=Багато їсти
+advancements.cm_story.teatime.get_teishoku.description=Я отримав сет-меню.
+advancements.cm_story.teatime.get_tea.title=Зроби перерву
+advancements.cm_story.teatime.get_tea.description=Я отримав чашку чаю.
+advancements.cm_story.teatime.get_teastand.title=Час чаювання важливий
+advancements.cm_story.teatime.get_teastand.description=Я отримав Tea stand з Scone.
+
+advancements.cm_story.taru.get_koubo.title=Світ бродіння
+advancements.cm_story.taru.get_koubo.description=Я отримав Дріжджі.
+advancements.cm_story.taru.get_taru.title=Створіть Бочка для бродіння
+advancements.cm_story.taru.get_taru.description=Я отримав Бочка для бродіння.
+advancements.cm_story.taru.get_wine.title=Розлив вина
+advancements.cm_story.taru.get_wine.description=Я отримав Вина.
+advancements.cm_story.taru.get_wineglass.title=Ваше здоров'я!
+advancements.cm_story.taru.get_wineglass.description=Я отримав Стакан з Вина.
+advancements.cm_story.taru.get_vinegar.title=Розлив рисовий оцет
+advancements.cm_story.taru.get_vinegar.description=Я отримав Рисовий оцет.
+advancements.cm_story.taru.get_sushi.title=Я шеф-кухар SUSHI
+advancements.cm_story.taru.get_sushi.description=Я отримав SUSHI.
+advancements.cm_story.taru.get_shouyu.title=Розлив соєвий соус
+advancements.cm_story.taru.get_shouyu.description=Я отримав соєвий соус.
+advancements.cm_story.taru.get_shouyusushi.title=Смачні SUSHI
+advancements.cm_story.taru.get_shouyusushi.description=Я отримав SUSHI с соєвий соус.
+
+advancements.cm_story.season.get_1_newyear.title=З новим роком
+advancements.cm_story.season.get_1_newyear.description=Я отримав прикраси нового року.
+advancements.cm_story.season.get_2_valentine.title=З днем Святого Валентина
+advancements.cm_story.season.get_2_valentine.description=Я отримав Шоколад у формі серця.
+advancements.cm_story.season.get_3_hinakazari.title=HINAMATSURI
+advancements.cm_story.season.get_3_hinakazari.description=Я отримав HINAKAZARI.
+advancements.cm_story.season.get_4_sakura.title=Сезон Сакура
+advancements.cm_story.season.get_4_sakura.description=Я отримав Вишневий цвіт.
+advancements.cm_story.season.get_5_tealeaf.title=Урожай чайного листя
+advancements.cm_story.season.get_5_tealeaf.description=Я отримав Чайний лист.
+advancements.cm_story.season.get_6_kasa.title=Сезон дощу
+advancements.cm_story.season.get_6_kasa.description=Я отримав блок WAGASA.
+advancements.cm_story.season.get_7_kakigouri.title=Сезон Kakigōri
+advancements.cm_story.season.get_7_kakigouri.description=Я отримав Kakigōri
+advancements.cm_story.season.get_8_yukata.title=Сезон YUKATA
+advancements.cm_story.season.get_8_yukata.description=Я отримав YUKATA.
+advancements.cm_story.season.get_9_harvest.title=Урожай рисова рослина
+advancements.cm_story.season.get_9_harvest.description=Я отримав Рисова рослина.
+advancements.cm_story.season.get_10_autumn.title=Сезон осінні листки
+advancements.cm_story.season.get_10_autumn.description=Я отримав осінні листки.
+advancements.cm_story.season.get_11_kotatsu.title=Підготовка до зими
+advancements.cm_story.season.get_11_kotatsu.description=Я отримав KOTATSU.
+advancements.cm_story.season.get_12_xmas.title=З Різдвом Христовим
+advancements.cm_story.season.get_12_xmas.description=Я отримав Різдвяна ялинка.
+
+advancements.cm_story.jpblock.get_sekkai.title=Матеріал блоків у японському стилі
+advancements.cm_story.jpblock.get_sekkai.description=Я отримав матеріал блоків у японському стилі.
+advancements.cm_story.jpblock.get_jpblock.title=Блок у японському стилі
+advancements.cm_story.jpblock.get_jpblock.description=Я отримав блок у японському стилі.
+advancements.cm_story.jpblock.get_slidedoor.title=Кімната з розсувними дверима
+advancements.cm_story.jpblock.get_slidedoor.description=Я отримав розсувні двері.
+advancements.cm_story.jpblock.get_tatami.title=Кімната з TATAMI
+advancements.cm_story.jpblock.get_tatami.description=Я отримав TATAMI.
+advancements.cm_story.jpblock.get_jpgarden.title=Садівник у японському стилі
+advancements.cm_story.jpblock.get_jpgarden.description=Я отримав блок прикраси саду.
+
+advancements.cm_story.crops.get_seedsbox.title=Шанс отримати насіння
+advancements.cm_story.crops.get_seedsbox.description=Я отримав Насіння мішок.
+advancements.cm_story.crops.get_seeds.title=Давайте вирощувати урожай
+advancements.cm_story.crops.get_seeds.description=Я отримав насіння ChinjufuMod.
+advancements.cm_story.crops.get_crops.title=Свято врожаю
+advancements.cm_story.crops.get_crops.description=Я отримав урожай ChinjufuMod.
+
+advancements.cm_story.fishing.toami.title=Шукаю великий улов
+advancements.cm_story.fishing.toami.description=Я отримав Рибальська сітка.
+advancements.cm_story.fishing.squid.title=Нові морепродукти
+advancements.cm_story.fishing.squid.description=Я отримав Сирий кальмар.
+advancements.cm_story.fishing.shikake.title=В очікуванні риби
+advancements.cm_story.fishing.shikake.description=Я отримав Пастка для риби.
+advancements.cm_story.fishing.youshoku.title=Стратегічна рибалка
+advancements.cm_story.fishing.youshoku.description=Я отримав Сітка для аквакультури.
+
+advancements.cm_story.crops.get_seeds_spice.title=Давайте вирощувати спеції
+advancements.cm_story.crops.get_seeds_spice.description=Я отримав насіння спецій.
+advancements.cm_story.crops.get_pepper.title=Король спецій
+advancements.cm_story.crops.get_pepper.description=Я отримав чорний перець
+advancements.cm_story.crops.get_curry_roux.title=Приготуємо каррі з рисом
+advancements.cm_story.crops.get_curry_roux.description=Я отримав каррі ру.
+advancements.cm_story.crops.get_curry.title=Я шеф-кухар каррі
+advancements.cm_story.crops.get_curry.description=Я отримав каррі з рисом.
+
+#config
+config.bauxiteore.enabledGenerator=Генерувати Бокситова руда
+config.bauxiteore.enabledGenerator.tooltip=Якщо встановлено значення [true], буде генеруватися бокситова руда.
+config.bauxiteore.chance=Частота Бокситова руда
+config.bauxiteore.chance.tooltip=Редстоунова руда=25, Золота руда=8
+
+config.cherrybiome.register=Генерувати Сакура біом
+config.cherrybiome.register.tooltip=Якщо встановлено значення [true], буде генеруватися Сакура біом.
+config.cherrybiome.chance=Частота Сакура біом
+config.cherrybiome.chance.tooltip=Звичайний = 19, Рідкісний = 1
+config.cherrytree.chance=Частота Сакура дерева
+config.cherrytree.chance.tooltip=Звичайний = 19, Рідкісний = 1
+
+config.acerbiome.register=Генерувати Клен біом
+config.acerbiome.register.tooltip=Якщо встановлено значення [true], буде генеруватися Клен біом.
+config.acerbiome.chance=Частота Клен біом
+config.acerbiome.chance.tooltip=Звичайний = 19, Рідкісний = 1
+config.acertree.chance=Частота Клен дерева
+config.acertree.chance.tooltip=Звичайний = 19, Рідкісний = 1
+
+config.ginkgobiome.register=Генерувати Гінкго біом
+config.ginkgobiome.register.tooltip=Якщо встановлено значення [true], генеруватиметься Гінкго біом.
+config.ginkgobiome.chance=Частота Гінкго біом
+config.ginkgobiome.chance.tooltip=Звичайний = 19, Рідкісний = 1
+config.ginkgotree.chance=Частота Гінкго дерева
+config.ginkgotree.chance.tooltip=Звичайний = 19, Рідкісний = 1
+
+config.blastblockbreak.enabled=Вибух боєприпасів ламає блок
+config.blastblockbreak.enabled.tooltip=Якщо встановлено значення [true], вибух боєприпасів ламає блок.
+
+config.antiShadow=Зітріть тінь від розсувних дверей значенням освітлення 1.
+config.usemakimono=Використовуйте сувої блок
+config.usemakimono.tooltip=Якщо встановлено значення [true], ви можете використовувати сувої блоки.
+
+config.chestnutsfall=Каштани падають з Листя осінній дуб.
+config.chestnutsfall.tooltip=Якщо встановлено значення [true], Каштани падають з Листя осінній дуб.
+config.lowsound=Звук низької обробки на палубній авіації.
+config.lowsound.tooltip=Якщо встановлено значення [true], використовувати звук із більш низькою обробкою на палубній авіації.
+
+config.helmet_texture=Текстура шолома ChinjufuMod
+config.helmet_texture.tooltip=Всі=0, Без одягу=1, Тільки одяг=2
+config.chestplate_texture=Текстура нагрудника ChinjufuMod
+config.chestplate_texture.tooltip=Всі=0, Без одягу=1, Тільки одяг=2
+config.leggings_texture=Текстура наголінники ChinjufuMod
+config.leggings_texture.tooltip=Всі=0, Без одягу=1, Тільки одяг=2
+config.boots_texture=Текстура чоботи ChinjufuMod
+config.boots_texture.tooltip=Всі=0, Без одягу=1, Тільки одяг=2
+	
+
+
+#Block
+tile.block_empty_box.name=Порожня коробка
+item.block_fuel_can.name=Паливна каністра
+item.block_ammunition_box.name=Коробка боєприпасів
+item.block_steel_block.name=Сталевий блок
+item.block_copper_block.name=Мідний злиток
+item.block_gold_block.name=Золотий злиток
+item.block_netherite_block.name=Незеритовий злиток
+item.block_bauxite_box.name=Коробка бокситів
+tile.block_stamp_block.name=Печатку адмірала блок
+tile.block_bauxite_ore.name=Бокситова руда
+item.block_bauxite_ore_deep.name=Глибокосланцева руда бокситів
+	
+#Item
+item.item_emblem_c.name=Емблема CHINJUFU
+item.item_admiralstamp.name=Печатку Адмірала
+item.item_admiralstamp_b.name=Печатку Адмірала
+item.item_workorder.name=Робочий наказ
+item.item_bauxite.name=Боксит
+item.item_sumi_c.name=СУМІ
+item.item_shousekkai_c.name=Гашене вапно
+item.item_claykawara.name=Формована глина_КАВАРА
+
+tips.item_admiral_stamp.name=Предмети, які використовуються як матеріали.
+tips.item_sumi.name=Сажа склеєна клеєм.
+tips.item_shousekkai_c.name=Матеріал ШІККУЙ.
+tips.item_claykawara.name=Згоріти в піч, це перетворюється в КАВАРА.
+
+#Weapon
+item.item_ammunition_kc.name=Патрон великого калібру
+item.item_ammunition_medium.name=Патрон середнього калібру
+item.item_ammunition_small.name=Патрон малого калібру
+
+item.item_cartridge_kc.name=Гільза великого калібру
+item.item_cartridge_medium.name=Гільза середнього калібру
+item.item_cartridge_small.name=Гільза малого калібру
+item.item_nugget_iron.name=Залізний самородок
+
+item.item_anchor.name=Якір
+item.item_rensouhou127.name=127мм морська гармата
+item.item_shigurehou.name=ШІҐУРЕ гармата
+item.item_koukakuhou100.name=100мм висококутової гармати
+tips.item_rensouhou127.name=Basic:3.0D, PlayerLV≧12:3.5D, LV≧19:4.0D, LV≧25:4.5D
+tips.item_shigurehou.name=Basic:3.0D, PlayerLV≧12:3.5D, LV≧19:4.0D, LV≧25:4.5D
+tips.item_koukakuhou100.name=Basic:3.5D, PlayerLV≧12:4.0D, LV≧19:4.5D, LV≧25:5.0D
+
+item.item_rensouhou155.name=155мм морська гармата
+item.item_rensouhou203.name=203мм морська гармата
+item.item_rensouhou203_skc34.name=SKC34 203мм морська гармата
+tips.item_rensouhou155.name=Basic:4.5D, PlayerLV≧12:5.0D, LV≧19:5.5D, LV≧25:6.0D
+tips.item_rensouhou203.name=Basic:5.0D, PlayerLV≧12:5.5D, LV≧19:6.0D, LV≧25:6.5D
+tips.item_rensouhou203_skc34.name=Basic:6.0D, PlayerLV≧12:6.5D, LV≧19:7.0D, LV≧25:7.5D
+	
+item.item_rensouhou356.name=356мм морська гармата
+item.item_rensouhou356_s3.name=Потрійна 356мм морська гармата
+item.item_rensouhou380.name=380мм морська гармата
+item.item_rensouhou410.name=410мм морська гармата
+tips.item_rensouhou356.name=Basic:7.5D, PlayerLV≧12:8.0D, LV≧19:8.5D, LV≧25:9.0D
+tips.item_rensouhou356_s3.name=Basic:9.0D, PlayerLV≧12:9.5D, LV≧19:10.0D, LV≧25:10.5D
+tips.item_rensouhou380.name=Basic:8.0D, PlayerLV≧12:8.5D, LV≧19:9.0D, LV≧25:9.5D
+tips.item_rensouhou410.name=Basic:9.0D, PlayerLV≧12:9.5D, LV≧19:10.0D, LV≧25:10.5D
+	
+tips.item_rensouhou_large.name=Стріляйте на патрони великого калібру і атакуйте живих істот.
+tips.item_rensouhou_medium.name=Стріляйте на патрони середнього калібру і атакуйте живих істот.
+tips.item_rensouhou_small.name=Стріляйте на патрони малого калібру і атакуйте живих істот.
+text.chinjufumod.rightclick.empty_ammo.name=Патрони закінчилися.
+text.chinjufumod.rightclick.empty_fuel.name=Паливо закінчилося.
+
+item.item_kk_type97.name=Торпедоносець Тип97
+item.item_kk_tenzan.name=ТЕНЗАН
+item.item_kk_ryusei.name=РЮСЕЙ
+item.item_kk_swordfish.name=Swordfish
+item.item_kk_barracuda.name=Barracuda Mk.II
+item.item_kk_mosquito.name=Mosquito TR Mk.33
+item.item_kk_tbf.name=TBF Avenger
+	
+item.item_kb_type99.name=Бомбардувальник Тип99
+item.item_kb_suisei.name=СУІСЕЙ
+item.item_kb_typezero.name=Бомбардувальник Тип0
+item.item_kb_re2001.name=Re.2001
+item.item_kb_ju87.name=Ju87C
+item.item_kb_sbd.name=SBD Dauntless
+item.item_kb_f4u.name=F4U-4 Corsair
+item.item_kk_fuel.name=Паливо палубної авіації
+tips.item_kk_fuel.name=Палубна авіація споживає його.
+tips.item_kk.name=Споживайте паливо палубної авіації, щоб літати. Атакуйте монстрів.
+
+tips.item_kk_5f.name=Basic:5.0F, PlayerLV≧12:6.0F, LV≧19:7.0F, LV≧25:8.0F
+tips.item_kk_7f.name=Basic:7.0F, PlayerLV≧12:8.0F, LV≧19:9.0F, LV≧25:10.0F
+tips.item_kk_8f.name=Basic:9.0F, PlayerLV≧12:10.0F, LV≧19:11.0F, LV≧25:12.0F
+tips.item_kk_9f.name=Basic:9.0F, PlayerLV≧12:10.0F, LV≧19:11.0F, LV≧25:12.0F
+tips.item_kk_10f.name=Basic:10.0F, PlayerLV≧12:11.0F, LV≧19:12.0F, LV≧25:13.0F
+tips.item_kk_11f.name=Basic:11.0F, PlayerLV≧12:12.0F, LV≧19:13.0F, LV≧25:14.0F
+	
+item.item_gyorai_61cm.name=Торпеда 61cm
+tips.item_gyorai.name=Клацніть правою кнопкою миші, щоб кинути його в істоту.
+tips.item_gyorai2.name=Basic:10.0F, PlayerLV≧12:11.0F, LV≧19:12.0F, LV≧25:13.0F
+item.item_binoculars.name=Бінокль
+
+#Armor
+item.item_fubuki_helmet.name=ФУБУКІ тип Шолом
+item.item_fubuki_chestplate.name=ФУБУКІ тип Нагрудник
+item.item_fubuki_leggings.name=ФУБУКІ тип Наголінники
+item.item_fubuki_boots.name=ФУБУКІ тип Чоботи
+item.item_fubuki_bootskai.name=ФУБУКІ тип Покращені чоботи
+	
+item.item_kasumi_helmet.name=КАСУМІ тип Шолом
+item.item_kasumi_chestplate.name=КАСУМІ тип Нагрудник
+item.item_kasumi_leggings.name=КАСУМІ тип Наголінники
+item.item_kasumi_boots.name=КАСУМІ тип Чоботи
+item.item_kasumi_bootskai.name=КАСУМІ тип Покращені чоботи
+	
+item.item_shiratsuyu_helmet.name=ШІРАЦУЮ тип Шолом
+item.item_shiratsuyu_chestplate.name=ШІРАЦУЮ тип Нагрудник
+item.item_shiratsuyu_leggings.name=ШІРАЦУЮ тип Наголінники
+item.item_shiratsuyu_boots.name=ШІРАЦУЮ тип Чоботи
+item.item_shiratsuyu_bootskai.name=ШІРАЦУЮ тип Покращені чоботи
+	
+item.item_shigure_helmet.name=ШІҐУРЕ тип Шолом
+item.item_shigure_chestplate.name=ШІҐУРЕ тип Нагрудник
+item.item_shigure_leggings.name=ШІҐУРЕ тип Наголінники
+item.item_shigure_boots.name=ШІҐУРЕ тип Чоботи
+item.item_shigure_bootskai.name=ШІҐУРЕ тип Покращені чоботи
+			
+item.item_akatsuki_helmet.name=АКАЦУКІ тип Шолом
+item.item_akatsuki_chestplate.name=АКАЦУКІ тип Нагрудник
+item.item_akatsuki_leggings.name=АКАЦУКІ тип Наголінники
+item.item_akatsuki_boots.name=АКАЦУКІ тип Чоботи
+item.item_akatsuki_bootskai.name=АКАЦУКІ тип Покращені чоботи
+
+item.item_sendai_helmet.name=СЕНДАЙ тип Шолом
+item.item_sendai_chestplate.name=СЕНДАЙ тип Нагрудник
+item.item_sendai_leggings.name=СЕНДАЙ тип Наголінники
+item.item_sendai_boots.name=СЕНДАЙ тип Чоботи
+item.item_sendai_bootskai.name=СЕНДАЙ тип Покращені чоботи
+
+item.item_yura_helmet.name=ЮРА тип Шолом
+item.item_yura_chestplate.name=ЮРА тип Нагрудник
+item.item_yura_leggings.name=ЮРА тип Наголінники
+item.item_yura_boots.name=ЮРА тип Чоботи
+item.item_yura_bootskai.name=ЮРА тип Покращені чоботи
+	
+item.item_mogami_helmet.name=МОҐАМІ тип Шолом
+item.item_mogami_chestplate.name=МОҐАМІ тип Нагрудник
+item.item_mogami_leggings.name=МОҐАМІ тип Наголінники
+item.item_mogami_boots.name=МОҐАМІ тип Чоботи
+item.item_mogami_bootskai.name=МОҐАМІ тип Покращені чоботи
+	
+item.item_tone_helmet.name=ТОНЕ тип Шолом
+item.item_tone_chestplate.name=ТОНЕ тип Нагрудник
+item.item_tone_leggings.name=ТОНЕ тип Наголінники
+item.item_tone_boots.name=ТОНЕ тип Чоботи
+item.item_tone_bootskai.name=ТОНЕ тип Покращені чоботи
+	
+item.item_ryujou_helmet.name=РЮДЗЬО тип Шолом
+item.item_ryujou_chestplate.name=РЮДЗЬО тип Нагрудник
+item.item_ryujou_leggings.name=РЮДЗЬО тип Наголінники
+item.item_ryujou_boots.name=РЮДЗЬО тип Чоботи
+item.item_ryujou_bootskai.name=РЮДЗЬО тип Покращені чоботи
+
+item.item_zuihou_helmet.name=ЦЗУІХОУ тип Шолом
+item.item_zuihou_chestplate.name=ЦЗУІХОУ тип Нагрудник
+item.item_zuihou_leggings.name=ЦЗУІХОУ тип Наголінники
+item.item_zuihou_boots.name=ЦЗУІХОУ тип Чоботи
+item.item_zuihou_bootskai.name=ЦЗУІХОУ тип Покращені чоботи
+
+item.item_akagi_helmet.name=АКАҐІ тип Шолом
+item.item_akagi_chestplate.name=АКАҐІ тип Нагрудник
+item.item_akagi_leggings.name=АКАҐІ тип Наголінники
+item.item_akagi_boots.name=АКАҐІ тип Чоботи
+item.item_akagi_bootskai.name=АКАҐІ тип Покращені чоботи
+	
+item.item_kaga_helmet.name=КАҐА тип Шолом
+item.item_kaga_chestplate.name=КАҐА тип Нагрудник
+item.item_kaga_leggings.name=КАҐА тип Наголінники
+item.item_kaga_boots.name=КАҐА тип Чоботи
+item.item_kaga_bootskai.name=КАҐА тип Покращені чоботи
+	
+item.item_kongou_helmet.name=КОНҐОУ тип Шолом
+item.item_kongou_chestplate.name=КОНҐОУ тип Нагрудник
+item.item_kongou_leggings.name=КОНҐОУ тип Наголінники
+item.item_kongou_boots.name=КОНҐОУ тип Чоботи
+item.item_kongou_bootskai.name=КОНҐОУ тип Покращені чоботи
+	
+item.item_fusou_helmet.name=ФУСОУ тип Шолом
+item.item_fusou_chestplate.name=ФУСОУ тип Нагрудник
+item.item_fusou_leggings.name=ФУСОУ тип Наголінники
+item.item_fusou_boots.name=ФУСОУ тип Чоботи
+item.item_fusou_bootskai.name=ФУСОУ тип Покращені чоботи
+	
+item.item_nagato_helmet.name=НАҐАТО тип Шолом
+item.item_nagato_chestplate.name=НАҐАТО тип Нагрудник
+item.item_nagato_leggings.name=НАҐАТО тип Наголінники
+item.item_nagato_boots.name=НАҐАТО тип Чоботи
+item.item_nagato_bootskai.name=НАҐАТО тип Покращені чоботи
+
+item.item_i168_helmet.name=І-168 тип Шолом
+item.item_i168_chestplate.name=І-168 тип Нагрудник
+item.item_i168_leggings.name=І-168 тип Наголінники
+item.item_i168_boots.name=І-168 тип Чоботи
+
+item.item_i13_helmet.name=І-13 тип Шолом
+item.item_i13_chestplate.name=І-13 тип Нагрудник
+item.item_i13_leggings.name=І-13 тип Наголінники
+item.item_i13_boots.name=І-13 тип Чоботи
+	
+item.item_ro500_helmet.name=Ро-500 тип Шолом
+item.item_ro500_chestplate.name=Ро-500 тип Нагрудник
+item.item_ro500_leggings.name=Ро-500 тип Наголінники
+item.item_ro500_boots.name=Ро-500 тип Чоботи
+
+tips.item_suijou_boots.name=Біг по воді
+tips.item_destroyer.name=Тип : Ескадрений міноносець
+tips.item_cruiser.name=Тип : Крейсер
+tips.item_battleship.name=Тип : Лінійний корабель
+tips.item_carrier.name=Тип : Авіаносець
+tips.item_sabumarine.name=Тип : Підводний човен
+tips.item_destroyer2.name=4 шматка : Збільшує силу атаки малих гармат, торпед і якір.
+tips.item_cruiser2.name=4 шматка : Збільшує силу атаки середніх гармат і торпед.
+tips.item_battleship2.name=4 шматка : Збільшує силу атаки великих гармат.
+tips.item_carrier2.name=4 шматка : Збільшує силу атаки літаків.
+tips.item_sabumarine2.name=4 шматка : Збільшує силу атаки торпед. Водяне дихання.
+
+count.amount.20=Залишкова сума : 20
+count.amount.19=Залишкова сума : 19
+count.amount.18=Залишкова сума : 18
+count.amount.17=Залишкова сума : 17
+count.amount.16=Залишкова сума : 16
+count.amount.15=Залишкова сума : 15
+count.amount.14=Залишкова сума : 14
+count.amount.13=Залишкова сума : 13
+count.amount.12=Залишкова сума : 12
+count.amount.11=Залишкова сума : 11
+count.amount.10=Залишкова сума : 10
+count.amount.9=Залишкова сума : 9
+count.amount.8=Залишкова сума : 8
+count.amount.7=Залишкова сума : 7
+count.amount.6=Залишкова сума : 6
+count.amount.5=Залишкова сума : 5
+count.amount.4=Залишкова сума : 4
+count.amount.3=Залишкова сума : 3
+count.amount.2=Залишкова сума : 2
+count.amount.1=Залишкова сума : 1
+count.amount.0=Залишкова сума : Порожній
+	
+
+#LetterTray
+item.block_lowdesk.name=Низький столик
+item.block_lowdesk_acacia.name=Низький столик_акація
+item.block_lowdesk_birch.name=Низький столик_березовий
+item.block_lowdesk_darkoak.name=Низький столик_темного дуба
+item.block_lowdesk_jungle.name=Низький столик_тропічного дерева
+item.block_lowdesk_spruce.name=Низький столик_смерека
+item.block_lowdesk_ichoh.name=Низький столик_гінкго
+item.block_lowdesk_kaede.name=Низький столик_клен
+item.block_lowdesk_sakura.name=Низький столик_сакури
+
+item.block_lettertray_c.name=Набір пір'яної ручки
+item.block_fudetray_c.name=Пензлик і чорнильний камінь
+tips.block_lettertray.name=Використовуючи книг і  10 балів EX, ви пишете випадкову зачарована книга.
+	
+#Funiture
+item.block_admiralchair.name=Адміральське крісло
+item.block_admiralchair_red.name=Адміральське крісло_червоний
+
+item.block_unitdesk.name=Одиниця стіл
+item.block_unitdesk_acacia.name=Одиниця стіл_акація
+item.block_unitdesk_birch.name=Одиниця стіл_березовий
+item.block_unitdesk_darkoak.name=Одиниця стіл_темного дуба
+item.block_unitdesk_jungle.name=Одиниця стіл_тропічного дерева
+item.block_unitdesk_spruce.name=Одиниця стіл_смерека
+item.block_unitdesk_ichoh.name=Одиниця стіл_гінкго
+item.block_unitdesk_kaede.name=Одиниця стіл_клен
+item.block_unitdesk_sakura.name=Одиниця стіл_сакури
+
+item.block_dressingtable.name=Туалетний столик
+item.block_dressingtable_a.name=Туалетний столик_акація
+item.block_dressingtable_b.name=Туалетний столик_березовий
+item.block_dressingtable_d.name=Туалетний столик_темного дуба
+item.block_dressingtable_j.name=Туалетний столик_тропічного дерева
+item.block_dressingtable_s.name=Туалетний столик_смерека
+
+item.block_diningchair.name=Обідній стілець
+item.block_diningchair_a.name=Обідній стілець_акація
+item.block_diningchair_b.name=Обідній стілець_березовий
+item.block_diningchair_d.name=Обідній стілець_темного дуба
+item.block_diningchair_j.name=Обідній стілець_тропічного дерева
+item.block_diningchair_s.name=Обідній стілець_смерека
+
+item.block_cafechair_black.name=Крісло кафе_чорний
+item.block_cafechair_blue.name=Крісло кафе_синій
+item.block_cafechair_brown.name=Крісло кафе_коричневий
+item.block_cafechair_cyan.name=Крісло кафе_бірюзовий
+item.block_cafechair_gray.name=Крісло кафе_сірий
+item.block_cafechair_green.name=Крісло кафе_зелений
+item.block_cafechair_lightb.name=Крісло кафе_блакитний
+item.block_cafechair_lightg.name=Крісло кафе_світло-сірий
+item.block_cafechair_lime.name=Крісло кафе_лаймовий
+item.block_cafechair_magenta.name=Крісло кафе_пурпурний
+item.block_cafechair_orange.name=Крісло кафе_помаранчевий
+item.block_cafechair_pink.name=Крісло кафе_рожевий
+item.block_cafechair_purple.name=Крісло кафе_фіолетовий
+item.block_cafechair_red.name=Крісло кафе_червоний
+item.block_cafechair_white.name=Крісло кафе_білий
+item.block_cafechair_yellow.name=Крісло кафе_жовтий
+
+item.block_zaisu_black.name=ДЗАЙСУ_чорний
+item.block_zaisu_blue.name=ДЗАЙСУ_синій
+item.block_zaisu_brown.name=ДЗАЙСУ_коричневий
+item.block_zaisu_cyan.name=ДЗАЙСУ_бірюзовий
+item.block_zaisu_gray.name=ДЗАЙСУ_сірий
+item.block_zaisu_green.name=ДЗАЙСУ_зелений
+item.block_zaisu_lightb.name=ДЗАЙСУ_блакитний
+item.block_zaisu_lightg.name=ДЗАЙСУ_світло-сірий
+item.block_zaisu_lime.name=ДЗАЙСУ_лаймовий
+item.block_zaisu_magenta.name=ДЗАЙСУ_пурпурний
+item.block_zaisu_orange.name=ДЗАЙСУ_помаранчевий
+item.block_zaisu_pink.name=ДЗАЙСУ_рожевий
+item.block_zaisu_purple.name=ДЗАЙСУ_фіолетовий
+item.block_zaisu_red.name=ДЗАЙСУ_червоний
+item.block_zaisu_white.name=ДЗАЙСУ_білий
+item.block_zaisu_yellow.name=ДЗАЙСУ_жовтий
+
+tips.block_zaisu.name=Клацніть правою кнопкою миші, щоб сісти. Безногий стілець.
+tips.block_isu.name=Клацніть правою кнопкою миші, щоб сісти.
+
+#School
+tile.block_blackboard.name=Крейдяна дошка
+
+item.block_schoolchair.name=Шкільний стілець
+item.block_schoolchair_a.name=Шкільний стілець_акація
+item.block_schoolchair_b.name=Шкільний стілець_березовий
+item.block_schoolchair_d.name=Шкільний стілець_темного дуба
+item.block_schoolchair_j.name=Шкільний стілець_тропічного дерева
+item.block_schoolchair_s.name=Шкільний стілець_смерека
+
+item.block_schooldesk.name=Шкільна парта
+item.block_schooldesk_a.name=Шкільна парта_акація
+item.block_schooldesk_b.name=Шкільна парта_березовий
+item.block_schooldesk_d.name=Шкільна парта_темного дуба
+item.block_schooldesk_j.name=Шкільна парта_тропічного дерева
+item.block_schooldesk_s.name=Шкільна парта_смерека
+
+item.block_teacherdesk.name=Учительська парта
+item.block_teacherdesk_a.name=Учительська парта_акація
+item.block_teacherdesk_b.name=Учительська парта_березовий
+item.block_teacherdesk_d.name=Учительська парта_темного дуба
+item.block_teacherdesk_j.name=Учительська парта_тропічного дерева
+item.block_teacherdesk_s.name=Учительська парта_смерека
+
+item.block_window.name=Вікно
+item.block_window_acacia.name=Вікно_акація
+item.block_window_birch.name=Вікно_березовий
+item.block_window_darkoak.name=Вікно_темного дуба
+item.block_window_jungle.name=Вікно_тропічного дерева
+item.block_window_spruce.name=Вікно_смерека
+item.block_window_ichoh.name=Вікно_гінкго
+item.block_window_kaede.name=Вікно_клен
+item.block_window_sakura.name=Вікно_сакури
+
+tips.block_window.name=Переверніть, поклавши його під час крастися. Клацніть правою кнопкою миші [відкрити / закрити].
+
+item.block_windowb.name=Подвійне вікно
+item.block_windowb_acacia.name=Подвійне вікно_акація
+item.block_windowb_birch.name=Подвійне вікно_березовий
+item.block_windowb_darkoak.name=Подвійне вікно_темного дуба
+item.block_windowb_jungle.name=Подвійне вікно_тропічного дерева
+item.block_windowb_spruce.name=Подвійне вікно_смерека
+item.block_windowb_ichoh.name=Подвійне вікно_гінкго
+item.block_windowb_kaede.name=Подвійне вікно_клен
+item.block_windowb_sakura.name=Подвійне вікно_сакури
+tips.block_windowb.name=Клацніть правою кнопкою миші [відкрити / закрити].
+
+item.block_windowtall.name=Високе вікно
+item.block_windowtall_acacia.name=Високе вікно_акація
+item.block_windowtall_birch.name=Високе вікно_березовий
+item.block_windowtall_darkoak.name=Високе вікно_темного дуба
+item.block_windowtall_jungle.name=Високе вікно_тропічного дерева
+item.block_windowtall_spruce.name=Високе вікно_смерека
+item.block_windowtall_ichoh.name=Високе вікно_гінкго
+item.block_windowtall_kaede.name=Високе вікно_клен
+item.block_windowtall_sakura.name=Високе вікно_сакури
+
+item.block_windowtallbot.name=Розсувні вікна
+item.block_windowtallbot_acacia.name=Розсувні вікна_акація
+item.block_windowtallbot_birch.name=Розсувні вікна_березовий
+item.block_windowtallbot_darkoak.name=Розсувні вікна_темного дуба
+item.block_windowtallbot_jungle.name=Розсувні вікна_тропічного дерева
+item.block_windowtallbot_spruce.name=Розсувні вікна_смерека
+item.block_windowtallbot_ichoh.name=Розсувні вікна_гінкго
+item.block_windowtallbot_kaede.name=Розсувні вікна_клен
+item.block_windowtallbot_sakura.name=Розсувні вікна_сакури
+
+tile.block_stovechimney_joint.name=Піч димар_спільний
+tile.block_stovechimney.name=Піч димар
+tile.block_stovechimney_topk.name=Верхній піч димар_парасольку
+
+#Mamiya
+item.block_mendai.name=Лавка
+item.block_mendai_red.name=Лавка_червоний
+
+item.block_mzabuton_black.name=ЗАБУТОН_чорний
+item.block_mzabuton_blue.name=ЗАБУТОН_синій
+item.block_mzabuton_brown.name=ЗАБУТОН_коричневий
+item.block_mzabuton_cyan.name=ЗАБУТОН_бірюзовий
+item.block_mzabuton_gray.name=ЗАБУТОН_сірий
+item.block_mzabuton_green.name=ЗАБУТОН_зелений
+item.block_mzabuton_lightb.name=ЗАБУТОН_блакитний
+item.block_mzabuton_lightg.name=ЗАБУТОН_світло-сірий
+item.block_mzabuton_lime.name=ЗАБУТОН_лаймовий
+item.block_mzabuton_magenta.name=ЗАБУТОН_пурпурний
+item.block_mzabuton_orange.name=ЗАБУТОН_помаранчевий
+item.block_mzabuton_pink.name=ЗАБУТОН_рожевий
+item.block_mzabuton_purple.name=ЗАБУТОН_фіолетовий
+item.block_mzabuton_red.name=ЗАБУТОН_червоний
+item.block_mzabuton_white.name=ЗАБУТОН_білий
+item.block_mzabuton_yellow.name=ЗАБУТОН_жовтий
+item.block_wara_zabuton.name=ЗАБУТОН_солома
+
+tips.block_mzabuton.name=Клацніть правою кнопкою миші, щоб сісти. Подушка для сидіння.
+
+item.block_cafetable.name=Стіл кафе
+item.block_cafetable_acacia.name=Стіл кафе_акація
+item.block_cafetable_birch.name=Стіл кафе_березовий
+item.block_cafetable_darkoak.name=Стіл кафе_темного дуба
+item.block_cafetable_jungle.name=Стіл кафе_тропічного дерева
+item.block_cafetable_spruce.name=Стіл кафе_смерека
+item.block_cafetable_ichoh.name=Стіл кафе_гінкго
+item.block_cafetable_kaede.name=Стіл кафе_клен
+item.block_cafetable_sakura.name=Стіл кафе_сакури
+
+item.block_logchair.name=Стілець з колоди
+item.block_logchair_acacia.name=Стілець з колода_акація
+item.block_logchair_birch.name=Стілець з колода_березовий
+item.block_logchair_darkoak.name=Стілець з колода_темного дуба
+item.block_logchair_jungle.name=Стілець з колода_тропічного дерева
+item.block_logchair_spruce.name=Стілець з колода_смерека
+item.block_logchair_ichoh.name=Стілець з колода_гінкго
+item.block_logchair_kaede.name=Стілець з колода_клен
+item.block_logchair_sakura.name=Стілець з колода_сакури
+
+item.block_mkasa_black.name=ВАҐАСА блок_чорний
+item.block_mkasa_blue.name=ВАҐАСА блок_синій
+item.block_mkasa_brown.name=ВАҐАСА блок_коричневий
+item.block_mkasa_cyan.name=ВАҐАСА блок_бірюзовий
+item.block_mkasa_gray.name=ВАҐАСА блок_сірий
+item.block_mkasa_green.name=ВАҐАСА блок_зелений
+item.block_mkasa_lightb.name=ВАҐАСА блок_блакитний
+item.block_mkasa_lightg.name=ВАҐАСА блок_світло-сірий
+item.block_mkasa_lime.name=ВАҐАСА блок_лаймовий
+item.block_mkasa_magenta.name=ВАҐАСА блок_пурпурний
+item.block_mkasa_orange.name=ВАҐАСА блок_помаранчевий
+item.block_mkasa_pink.name=ВАҐАСА блок_рожевий
+item.block_mkasa_purple.name=ВАҐАСА блок_фіолетовий
+item.block_mkasa_red.name=ВАҐАСА блок_червоний
+item.block_mkasa_white.name=ВАҐАСА блок_білий
+item.block_mkasa_yellow.name=ВАҐАСА блок_жовтий
+
+tips.block_mkasa.name=Декоративний блок. Парасолька в японському стилі.
+
+#Harbor
+tile.block_keikai.name=Обережний блок
+tile.block_keiryukui.name=Швартування
+tile.block_keiryukui_b.name=Швартування_чорний
+
+item.block_ctruss.name=Ферменний
+item.block_ctruss_black.name=Ферменний_чорний
+item.block_ctruss_blue.name=Ферменний_синій
+item.block_ctruss_brown.name=Ферменний_коричневий
+item.block_ctruss_cyan.name=Ферменний_бірюзовий
+item.block_ctruss_gray.name=Ферменний_сірий
+item.block_ctruss_green.name=Ферменний_зелений
+item.block_ctruss_lightb.name=Ферменний_блакитний
+item.block_ctruss_lime.name=Ферменний_лаймовий
+item.block_ctruss_magenta.name=Ферменний_пурпурний
+item.block_ctruss_orange.name=Ферменний_помаранчевий
+item.block_ctruss_pink.name=Ферменний_рожевий
+item.block_ctruss_purple.name=Ферменний_фіолетовий
+item.block_ctruss_red.name=Ферменний_червоний
+item.block_ctruss_white.name=Ферменний_білий
+item.block_ctruss_yellow.name=Ферменний_жовтий
+
+#Seasons
+item.block_kagamimochi.name=КАҐАМІМОЧІ
+tips.block_kagamimochi.name=Запропонуйте це богу зерна <ТОШІҐАМІ>. Моліться за добрий урожай. 28 грудня -11 січня
+tile.block_shimenawa.name=ШІМЕНАВА
+tips.block_shimenawa.name=Новорічне оформлення на зустріч <ТОШІҐАМІ>. Скажи <ТОШІҐАМІ> прибрати будинок. 13 грудня -15 січня
+item.block_kadomatsu.name=КАДОМАЦУ
+tips.block_kadomatsu.name=Новорічне оформлення на зустріч <ТОШІҐАМІ>. Молитися про довголіття. 13 грудня -15 січня
+
+item.block_yunomi.name=ЮНОМІ
+tips.block_yunomi.name=Чашка японського чаю
+
+item.block_chabudai.name=ЧАБУДАЙ
+item.block_chabudai_acacia.name=ЧАБУДАЙ_акація
+item.block_chabudai_birch.name=ЧАБУДАЙ_березовий
+item.block_chabudai_darkoak.name=ЧАБУДАЙ_темного дуба
+item.block_chabudai_jungle.name=ЧАБУДАЙ_тропічного дерева
+item.block_chabudai_spruce.name=ЧАБУДАЙ_смерека
+item.block_chabudai_ichoh.name=ЧАБУДАЙ_гінкго
+item.block_chabudai_kaede.name=ЧАБУДАЙ_клен
+item.block_chabudai_sakura.name=ЧАБУДАЙ_сакури
+tips.block_chabudai.name=Низький стіл для їжі.
+
+item.block_kotatsu.name=КОТАЦУ
+item.block_kotatsu_acacia.name=КОТАЦУ_акація
+item.block_kotatsu_birch.name=КОТАЦУ_березовий
+item.block_kotatsu_darkoak.name=КОТАЦУ_темного дуба
+item.block_kotatsu_jungle.name=КОТАЦУ_тропічного дерева
+item.block_kotatsu_spruce.name=КОТАЦУ_смерека
+item.block_kotatsu_ichoh.name=КОТАЦУ_гінкго
+item.block_kotatsu_kaede.name=КОТАЦУ_клен
+item.block_kotatsu_sakura.name=КОТАЦУ_сакури
+tips.block_kotatsu.name=Опалювальне обладнання, що поєднує стіл і ковдру.
+
+tile.block_hinadan.name=ХІНАДАН
+tips.block_hinadan.name=The basis of ХІНАКАДЗАРІ.
+tile.block_hinakazari.name=ХІНАКАДЗАРІ
+tips.block_hinakazari.name=<ХІНАМАЦУРІ> Прикраса. 3 березня - <ХІНАМАЦУРІ>, щоб молитися за здорове зростання дівчат.
+
+#Wallpane
+tile.block_pillar_aca_c.name=Колонна_акація
+tile.block_pillar_bir_c.name=Колонна_березовий
+tile.block_pillar_doak_c.name=Колонна_темного дуба
+tile.block_pillar_jun_c.name=Колонна_тропічного дерева
+tile.block_pillar_oak_c.name=Колонна_дуб
+tile.block_pillar_spru_c.name=Колонна_смерека
+
+tile.block_rockstairs_and.name=Сходи андезит
+tile.block_rockstairs_dio.name=Сходи діорит
+tile.block_rockstairs_gra.name=Сходи граніт
+
+tile.block_rand_slabhalf.name=Плита андезит
+tile.block_rdio_slabhalf.name=Плита діорит
+tile.block_rgra_slabhalf.name=Плита граніт
+
+tile.block_brick_and_c.name=Цегла андезит
+tile.block_brick_dio_c.name=Цегла діорит
+tile.block_brick_gra_c.name=Цегла граніт
+
+tile.block_brick_and_ch_c.name=Точена цегла андезит
+tile.block_brick_dio_ch_c.name=Точена цегла діорит
+tile.block_brick_gra_ch_c.name=Точена цегла граніт
+
+tile.block_brick_and_cr_c.name=Тріснута цегла андезит
+tile.block_brick_dio_cr_c.name=Тріснута цегла діорит
+tile.block_brick_gra_cr_c.name=Тріснута цегла граніт
+
+tile.block_brick_and_mos_c.name=Моховита цегла андезит
+tile.block_brick_dio_mos_c.name=Моховита цегла діорит
+tile.block_brick_gra_mos_c.name=Моховита цегла граніт
+
+tile.block_brickstairs_and_c.name=Сходи цегли андезит
+tile.block_brickstairs_dio_c.name=Сходи цегли діорит
+tile.block_brickstairs_gra_c.name=Сходи цегли граніт
+
+tile.block_bac_slabhalf.name=Плита цегли андезит
+tile.block_bdc_slabhalf.name=Плита цегли діорит
+tile.block_bgc_slabhalf.name=Плита цегли граніт
+
+tile.block_brick_stone_pil_c.name=Колонна камінь
+tile.block_brick_and_pil_c.name=Колонна андезит
+tile.block_brick_dio_pil_c.name=Колонна діорит
+tile.block_brick_gra_pil_c.name=Колонна граніт
+
+tile.block_wp_log_aca.name=Панель_акацієва колода
+tile.block_wp_log_bir.name=Панель_березова колода
+tile.block_wp_log_doak.name=Панель_колода темного дубу
+tile.block_wp_log_jun.name=Панель_колода тропічного дерева
+tile.block_wp_log_oak.name=Панель_дубова колода
+tile.block_wp_log_spru.name=Панель_смерекова колода
+
+tile.block_wp_plank_aca.name=Панель_акацієві дошки
+tile.block_wp_plank_bir.name=Панель_березові дошки
+tile.block_wp_plank_doak.name=Панель_дошки з темного дубу
+tile.block_wp_plank_jun.name=Панель_дошки з тропічного дерева
+tile.block_wp_plank_oak.name=Панель_дубові дошки
+tile.block_wp_plank_spru.name=Панель_смерекові дошки
+
+tile.block_wp_stone.name=Панель_камінь
+tile.block_wp_stone_m.name=Панель_кругляк
+
+tile.block_wp_stone_and.name=Панель_андезит
+tile.block_wp_stone_dio.name=Панель_діорит
+tile.block_wp_stone_gra.name=Панель_граніт
+
+tile.block_wp_stone_b.name=Панель_кам'яна цегла
+tile.block_wp_stone_andb.name=Панель_цегла андезит
+tile.block_wp_stone_diob.name=Панель_цегла діорит
+tile.block_wp_stone_grab.name=Панель_цегла граніт
+
+tile.block_wp_stone_p.name=Панель_колонна камінь
+tile.block_wp_stone_andp.name=Панель_колонна андезит
+tile.block_wp_stone_diop.name=Панель_колонна діорит
+tile.block_wp_stone_grap.name=Панель_колонна граніт
+
+tile.block_wp_brick.name=Панель_цегла
+
+tile.block_wp_sand_stone.name=Панель_пісковик
+tile.block_wp_redsand_stone.name=Панель_червоний пісковик
+
+tile.block_wp_prisma.name=Панель_призмарин
+tile.block_wp_obsidian.name=Панель_обсидіан
+
+tile.block_wp_clay.name=Панель_кераміка
+tile.block_wp_clay_black.name=Панель_кераміка чорний
+tile.block_wp_clay_blue.name=Панель_кераміка синій
+tile.block_wp_clay_brown.name=Панель_кераміка коричневий
+tile.block_wp_clay_cyan.name=Панель_кераміка бірюзовий
+tile.block_wp_clay_gray.name=Панель_кераміка сірий
+tile.block_wp_clay_green.name=Панель_кераміка зелений
+tile.block_wp_clay_lightb.name=Панель_кераміка блакитний
+tile.block_wp_clay_lightg.name=Панель_кераміка світло-сірий
+tile.block_wp_clay_lime.name=Панель_кераміка лаймовий
+tile.block_wp_clay_magenta.name=Панель_кераміка пурпурний
+tile.block_wp_clay_orange.name=Панель_кераміка помаранчевий
+tile.block_wp_clay_pink.name=Панель_кераміка рожевий
+tile.block_wp_clay_purple.name=Панель_кераміка фіолетовий
+tile.block_wp_clay_red.name=Панель_кераміка червоний
+tile.block_wp_clay_white.name=Панель_кераміка білий
+tile.block_wp_clay_yellow.name=Панель_кераміка жовтий
+
+tile.block_wp_glass.name=Панель_скло
+tile.block_wp_glass_black.name=Панель_скло чорний
+tile.block_wp_glass_blue.name=Панель_скло синій
+tile.block_wp_glass_brown.name=Панель_скло коричневий
+tile.block_wp_glass_cyan.name=Панель_скло бірюзовий
+tile.block_wp_glass_gray.name=Панель_скло сірий
+tile.block_wp_glass_green.name=Панель_скло зелений
+tile.block_wp_glass_lightb.name=Панель_скло блакитний
+tile.block_wp_glass_lightg.name=Панель_скло світло-сірий
+tile.block_wp_glass_lime.name=Панель_скло лаймовий
+tile.block_wp_glass_magenta.name=Панель_скло пурпурний
+tile.block_wp_glass_orange.name=Панель_скло помаранчевий
+tile.block_wp_glass_pink.name=Панель_скло рожевий
+tile.block_wp_glass_purple.name=Панель_скло фіолетовий
+tile.block_wp_glass_red.name=Панель_скло червоний
+tile.block_wp_glass_white.name=Панель_скло білий
+tile.block_wp_glass_yellow.name=Панель_скло жовтий
+
+tile.block_wp_netherrack.name=Панель_незерак
+tile.block_wp_netherb.name=Панель_незерська цегла
+tile.block_wp_netherb10.name=Панель_незерська цегла
+tile.block_wp_quartz.name=Панель_кварцовий блок
+tile.block_wp_quartz_pil.name=Панель_кварцова колонна
+
+tile.block_wp_endstone.name=Панель_камінь Енду
+tile.block_wp_endstone_b.name=Панель_Ендер-цегла
+
+tile.block_wp_purpur.name=Панель_пурпуровий блок
+tile.block_wp_purpur_pil.name=Панель_пурпуровий колонна
+
+tile.block_wp_dirtwall.name=Панель_Саман
+tile.block_wp_plaster_black.name=Панель_ШІККУЙ чорний
+tile.block_wp_plaster_blue.name=Панель_ШІККУЙ синій
+tile.block_wp_plaster_brown.name=Панель_ШІККУЙ коричневий
+tile.block_wp_plaster_cyan.name=Панель_ШІККУЙ бірюзовий
+tile.block_wp_plaster_gray.name=Панель_ШІККУЙ сірий
+tile.block_wp_plaster_green.name=Панель_ШІККУЙ зелений
+tile.block_wp_plaster_lightb.name=Панель_ШІККУЙ блакитний
+tile.block_wp_plaster_lightg.name=Панель_ШІККУЙ світло-сірий
+tile.block_wp_plaster_lime.name=Панель_ШІККУЙ лаймовий
+tile.block_wp_plaster_magenta.name=Панель_ШІККУЙ пурпурний
+tile.block_wp_plaster_orange.name=Панель_ШІККУЙ помаранчевий
+tile.block_wp_plaster_pink.name=Панель_ШІККУЙ рожевий
+tile.block_wp_plaster_purple.name=Панель_ШІККУЙ фіолетовий
+tile.block_wp_plaster_red.name=Панель_ШІККУЙ червоний
+tile.block_wp_plaster_white.name=Панель_ШІККУЙ білий
+tile.block_wp_plaster_yellow.name=Панель_ШІККУЙ жовтий
+
+tile.block_wp_namako_black.name=Панель_НАМАКО чорний
+tile.block_wp_namako_blue.name=Панель_НАМАКО синій
+tile.block_wp_namako_brown.name=Панель_НАМАКО коричневий
+tile.block_wp_namako_cyan.name=Панель_НАМАКО бірюзовий
+tile.block_wp_namako_gray.name=Панель_НАМАКО сірий
+tile.block_wp_namako_green.name=Панель_НАМАКО зелений
+tile.block_wp_namako_lightb.name=Панель_НАМАКО блакитний
+tile.block_wp_namako_lightg.name=Панель_НАМАКО світло-сірий
+tile.block_wp_namako_lime.name=Панель_НАМАКО лаймовий
+tile.block_wp_namako_magenta.name=Панель_НАМАКО пурпурний
+tile.block_wp_namako_orange.name=Панель_НАМАКО помаранчевий
+tile.block_wp_namako_pink.name=Панель_НАМАКО рожевий
+tile.block_wp_namako_purple.name=Панель_НАМАКО фіолетовий
+tile.block_wp_namako_red.name=Панель_НАМАКО червоний
+tile.block_wp_namako_white.name=Панель_НАМАКО білий
+tile.block_wp_namako_yellow.name=Панель_НАМАКО жовтий
+
+tile.block_wp_namako_b_black.name=Панель_НАМАКО тип2 чорний
+tile.block_wp_namako_b_blue.name=Панель_НАМАКО тип2 синій
+tile.block_wp_namako_b_brown.name=Панель_НАМАКО тип2 коричневий
+tile.block_wp_namako_b_cyan.name=Панель_НАМАКО тип2 бірюзовий
+tile.block_wp_namako_b_gray.name=Панель_НАМАКО тип2 сірий
+tile.block_wp_namako_b_green.name=Панель_НАМАКО тип2 зелений
+tile.block_wp_namako_b_lightb.name=Панель_НАМАКО тип2 блакитний
+tile.block_wp_namako_b_lightg.name=Панель_НАМАКО тип2 світло-сірий
+tile.block_wp_namako_b_lime.name=Панель_НАМАКО тип2 лаймовий
+tile.block_wp_namako_b_magenta.name=Панель_НАМАКО тип2 пурпурний
+tile.block_wp_namako_b_orange.name=Панель_НАМАКО тип2 помаранчевий
+tile.block_wp_namako_b_pink.name=Панель_НАМАКО тип2 рожевий
+tile.block_wp_namako_b_purple.name=Панель_НАМАКО тип2 фіолетовий
+tile.block_wp_namako_b_red.name=Панель_НАМАКО тип2 червоний
+tile.block_wp_namako_b_white.name=Панель_НАМАКО тип2 білий
+tile.block_wp_namako_b_yellow.name=Панель_НАМАКО тип2 жовтий
+
+tips.wp_stage2.name=Змініть, клацніть правою кнопкою миші під час крастися. 2 етап.
+tips.wp_stage3.name=Змініть, клацніть правою кнопкою миші під час крастися. 3 етап.
+tips.wp_stage4.name=Змініть, клацніть правою кнопкою миші під час крастися. 4 етап.
+
+#Fusuma
+item.block_shoujih.name=ШЬОДЖІ вікно
+item.block_shoujih_acacia.name=ШЬОДЖІ вікно_акація
+item.block_shoujih_birch.name=ШЬОДЖІ вікно_березовий
+item.block_shoujih_darkoak.name=ШЬОДЖІ вікно_темного дуба
+item.block_shoujih_jungle.name=ШЬОДЖІ вікно_тропічного дерева
+item.block_shoujih_spruce.name=ШЬОДЖІ вікно_смерека
+
+#Ranma
+item.block_ranma_aca.name=РАНМА_акація
+item.block_ranma_bir.name=РАНМА_березовий
+item.block_ranma_doak.name=РАНМА_темного дуба
+item.block_ranma_jun.name=РАНМА_тропічного дерева
+item.block_ranma_oak.name=РАНМА
+item.block_ranma_spru.name=РАНМА_смерека
+tips.block_ranma.name=Використовується для денного освітлення, вентиляції, декорування.
+
+item.block_ranmab_aca.name=РАНМА тип2_акація
+item.block_ranmab_bir.name=РАНМА тип2_березовий
+item.block_ranmab_doak.name=РАНМА тип2_темного дуба
+item.block_ranmab_jun.name=РАНМА тип2_тропічного дерева
+item.block_ranmab_oak.name=РАНМА тип2
+item.block_ranmab_spru.name=РАНМА тип2_смерека
+
+item.block_ranmac_aca.name=РАНМА тип3_акація
+item.block_ranmac_bir.name=РАНМА тип3_березовий
+item.block_ranmac_doak.name=РАНМА тип3_темного дуба
+item.block_ranmac_jun.name=РАНМА тип3_тропічного дерева
+item.block_ranmac_oak.name=РАНМА тип3
+item.block_ranmac_spru.name=РАНМА тип3_смерека
+
+item.block_kanki_aca.name=Вентиляційна_акація
+item.block_kanki_bir.name=Вентиляційна_березовий
+item.block_kanki_doak.name=Вентиляційна_темного дуба
+item.block_kanki_jun.name=Вентиляційна_тропічного дерева
+item.block_kanki_oak.name=Вентиляційна
+item.block_kanki_spru.name=Вентиляційна_смерека
+
+item.block_koushi_oak.name=Вертикальна решітка
+item.block_koushi_aca.name=Вертикальна решітка_акація
+item.block_koushi_bir.name=Вертикальна решітка_березовий
+item.block_koushi_doak.name=Вертикальна решітка_темного дуба
+item.block_koushi_jun.name=Вертикальна решітка_тропічного дерева
+item.block_koushi_spru.name=Вертикальна решітка_смерека
+
+#Tatami
+tile.block_tatamih.name=ТАТАМІ_без краю
+tile.block_tatamih_black.name=ТАТАМІ_чорний
+tile.block_tatamih_blue.name=ТАТАМІ_синій
+tile.block_tatamih_brown.name=ТАТАМІ_коричневий
+tile.block_tatamih_cyan.name=ТАТАМІ_бірюзовий
+tile.block_tatamih_gray.name=ТАТАМІ_сірий
+tile.block_tatamih_green.name=ТАТАМІ_зелений
+tile.block_tatamih_lightb.name=ТАТАМІ_блакитний
+tile.block_tatamih_lightg.name=ТАТАМІ_світло-сірий
+tile.block_tatamih_lime.name=ТАТАМІ_лаймовий
+tile.block_tatamih_magenta.name=ТАТАМІ_пурпурний
+tile.block_tatamih_orange.name=ТАТАМІ_помаранчевий
+tile.block_tatamih_pink.name=ТАТАМІ_рожевий
+tile.block_tatamih_purple.name=ТАТАМІ_фіолетовий
+tile.block_tatamih_red.name=ТАТАМІ_червоний
+tile.block_tatamih_yellow.name=ТАТАМІ_жовтий
+tile.block_tatamih_white.name=ТАТАМІ_білий
+tips.block_tatami.name=Спрямовані матеріали підлоги.
+
+item.block_futon_c_black.name=ФУТОН_чорний
+item.block_futon_c_blue.name=ФУТОН_синій
+item.block_futon_c_brown.name=ФУТОН_коричневий
+item.block_futon_c_cyan.name=ФУТОН_бірюзовий
+item.block_futon_c_gray.name=ФУТОН_сірий
+item.block_futon_c_green.name=ФУТОН_зелений
+item.block_futon_c_lightb.name=ФУТОН_блакитний
+item.block_futon_c_lightg.name=ФУТОН_світло-сірий
+item.block_futon_c_lime.name=ФУТОН_лаймовий
+item.block_futon_c_magenta.name=ФУТОН_пурпурний
+item.block_futon_c_orange.name=ФУТОН_помаранчевий
+item.block_futon_c_pink.name=ФУТОН_рожевий
+item.block_futon_c_purple.name=ФУТОН_фіолетовий
+item.block_futon_c_red.name=ФУТОН_червоний
+item.block_futon_c_yellow.name=ФУТОН_жовтий
+item.block_futon_c_white.name=ФУТОН_білий
+tips.block_futon.name=Відкрити, клацніть правою кнопкою миші під час крастися. Сидіння і регенерація.
+
+#Kawara
+item.block_kawara_black.name=КАВАРА
+item.block_kawara_blue.name=КАВАРА_синій
+item.block_kawara_brown.name=КАВАРА_коричневий
+item.block_kawara_cyan.name=КАВАРА_бірюзовий
+item.block_kawara_gray.name=КАВАРА_сірий
+item.block_kawara_green.name=КАВАРА_зелений
+item.block_kawara_lightb.name=КАВАРА_блакитний
+item.block_kawara_lightg.name=КАВАРА_світло-сірий
+item.block_kawara_lime.name=КАВАРА_лаймовий
+item.block_kawara_magenta.name=КАВАРА_пурпурний
+item.block_kawara_orange.name=КАВАРА_помаранчевий
+item.block_kawara_pink.name=КАВАРА_рожевий
+item.block_kawara_purple.name=КАВАРА_фіолетовий
+item.block_kawara_red.name=КАВАРА_червоний
+item.block_kawara_yellow.name=КАВАРА_жовтий
+item.block_kawara_white.name=КАВАРА_білий
+tips.block_kawara.name=Покрівельний матеріал, виготовлений шляхом випікання глини.
+
+tile.block_kst_black.name=КАВАРА сходи
+tile.block_kst_blue.name=КАВАРА сходи_синій
+tile.block_kst_brown.name=КАВАРА сходи_коричневий
+tile.block_kst_cyan.name=КАВАРА сходи_бірюзовий
+tile.block_kst_gray.name=КАВАРА сходи_сірий
+tile.block_kst_green.name=КАВАРА сходи_зелений
+tile.block_kst_lightb.name=КАВАРА сходи_блакитний
+tile.block_kst_lightg.name=КАВАРА сходи_світло-сірий
+tile.block_kst_lime.name=КАВАРА сходи_лаймовий
+tile.block_kst_magenta.name=КАВАРА сходи_пурпурний
+tile.block_kst_orange.name=КАВАРА сходи_помаранчевий
+tile.block_kst_pink.name=КАВАРА сходи_рожевий
+tile.block_kst_purple.name=КАВАРА сходи_фіолетовий
+tile.block_kst_red.name=КАВАРА сходи_червоний
+tile.block_kst_yellow.name=КАВАРА сходи_жовтий
+tile.block_kst_white.name=КАВАРА сходи_білий
+
+tile.block_ksh_black.name=КАВАРА плита
+tile.block_ksh_blue.name=КАВАРА плита_синій
+tile.block_ksh_brown.name=КАВАРА плита_коричневий
+tile.block_ksh_cyan.name=КАВАРА плита_бірюзовий
+tile.block_ksh_gray.name=КАВАРА плита_сірий
+tile.block_ksh_green.name=КАВАРА плита_зелений
+tile.block_ksh_lightb.name=КАВАРА плита_блакитний
+tile.block_ksh_lightg.name=КАВАРА плита_світло-сірий
+tile.block_ksh_lime.name=КАВАРА плита_лаймовий
+tile.block_ksh_magenta.name=КАВАРА плита_пурпурний
+tile.block_ksh_orange.name=КАВАРА плита_помаранчевий
+tile.block_ksh_pink.name=КАВАРА плита_рожевий
+tile.block_ksh_purple.name=КАВАРА плита_фіолетовий
+tile.block_ksh_red.name=КАВАРА плита_червоний
+tile.block_ksh_yellow.name=КАВАРА плита_жовтий
+tile.block_ksh_white.name=КАВАРА плита_білий
+
+item.block_namako_black.name=НАМАКО блок_чорний
+item.block_namako_blue.name=НАМАКО блок_синій
+item.block_namako_brown.name=НАМАКО блок_коричневий
+item.block_namako_cyan.name=НАМАКО блок_бірюзовий
+item.block_namako_gray.name=НАМАКО блок_сірий
+item.block_namako_green.name=НАМАКО блок_зелений
+item.block_namako_lightb.name=НАМАКО блок_блакитний
+item.block_namako_lightg.name=НАМАКО блок_світло-сірий
+item.block_namako_lime.name=НАМАКО блок_лаймовий
+item.block_namako_magenta.name=НАМАКО блок_пурпурний
+item.block_namako_orange.name=НАМАКО блок_помаранчевий
+item.block_namako_pink.name=НАМАКО блок_рожевий
+item.block_namako_purple.name=НАМАКО блок_фіолетовий
+item.block_namako_red.name=НАМАКО блок_червоний
+item.block_namako_yellow.name=НАМАКО блок_жовтий
+item.block_namako_white.name=НАМАКО блок
+tips.block_namako.name=Стіни виготовлені з КАВАРА і ШІККУЙ.
+
+tile.block_nst_black.name=НАМАКО сходи_чорний
+tile.block_nst_blue.name=НАМАКО сходи_синій
+tile.block_nst_brown.name=НАМАКО сходи_коричневий
+tile.block_nst_cyan.name=НАМАКО сходи_бірюзовий
+tile.block_nst_gray.name=НАМАКО сходи_сірий
+tile.block_nst_green.name=НАМАКО сходи_зелений
+tile.block_nst_lightb.name=НАМАКО сходи_блакитний
+tile.block_nst_lightg.name=НАМАКО сходи_світло-сірий
+tile.block_nst_lime.name=НАМАКО сходи_лаймовий
+tile.block_nst_magenta.name=НАМАКО сходи_пурпурний
+tile.block_nst_orange.name=НАМАКО сходи_помаранчевий
+tile.block_nst_pink.name=НАМАКО сходи_рожевий
+tile.block_nst_purple.name=НАМАКО сходи_фіолетовий
+tile.block_nst_red.name=НАМАКО сходи_червоний
+tile.block_nst_yellow.name=НАМАКО сходи_жовтий
+tile.block_nst_white.name=НАМАКО сходи
+
+tile.block_nsh_black.name=НАМАКО плита_чорний
+tile.block_nsh_blue.name=НАМАКО плита_синій
+tile.block_nsh_brown.name=НАМАКО плита_коричневий
+tile.block_nsh_cyan.name=НАМАКО плита_бірюзовий
+tile.block_nsh_gray.name=НАМАКО плита_сірий
+tile.block_nsh_green.name=НАМАКО плита_зелений
+tile.block_nsh_lightb.name=НАМАКО плита_блакитний
+tile.block_nsh_lightg.name=НАМАКО плита_світло-сірий
+tile.block_nsh_lime.name=НАМАКО плита_лаймовий
+tile.block_nsh_magenta.name=НАМАКО плита_пурпурний
+tile.block_nsh_orange.name=НАМАКО плита_помаранчевий
+tile.block_nsh_pink.name=НАМАКО плита_рожевий
+tile.block_nsh_purple.name=НАМАКО плита_фіолетовий
+tile.block_nsh_red.name=НАМАКО плита_червоний
+tile.block_nsh_yellow.name=НАМАКО плита_жовтий
+tile.block_nsh_white.name=НАМАКО плита
+
+item.block_namako_b_black.name=НАМАКО блок тип2_чорний
+item.block_namako_b_blue.name=НАМАКО блок тип2_синій
+item.block_namako_b_brown.name=НАМАКО блок тип2_коричневий
+item.block_namako_b_cyan.name=НАМАКО блок тип2_бірюзовий
+item.block_namako_b_gray.name=НАМАКО блок тип2_сірий
+item.block_namako_b_green.name=НАМАКО блок тип2_зелений
+item.block_namako_b_lightb.name=НАМАКО блок тип2_блакитний
+item.block_namako_b_lightg.name=НАМАКО блок тип2_світло-сірий
+item.block_namako_b_lime.name=НАМАКО блок тип2_лаймовий
+item.block_namako_b_magenta.name=НАМАКО блок тип2_пурпурний
+item.block_namako_b_orange.name=НАМАКО блок тип2_помаранчевий
+item.block_namako_b_pink.name=НАМАКО блок тип2_рожевий
+item.block_namako_b_purple.name=НАМАКО блок тип2_фіолетовий
+item.block_namako_b_red.name=НАМАКО блок тип2_червоний
+item.block_namako_b_yellow.name=НАМАКО блок тип2_жовтий
+item.block_namako_b_white.name=НАМАКО блок тип2
+
+tile.block_nst_b_black.name=НАМАКО сходи тип2_чорний
+tile.block_nst_b_blue.name=НАМАКО сходи тип2_синій
+tile.block_nst_b_brown.name=НАМАКО сходи тип2_коричневий
+tile.block_nst_b_cyan.name=НАМАКО сходи тип2_бірюзовий
+tile.block_nst_b_gray.name=НАМАКО сходи тип2_сірий
+tile.block_nst_b_green.name=НАМАКО сходи тип2_зелений
+tile.block_nst_b_lightb.name=НАМАКО сходи тип2_блакитний
+tile.block_nst_b_lightg.name=НАМАКО сходи тип2_світло-сірий
+tile.block_nst_b_lime.name=НАМАКО сходи тип2_лаймовий
+tile.block_nst_b_magenta.name=НАМАКО сходи тип2_пурпурний
+tile.block_nst_b_orange.name=НАМАКО сходи тип2_помаранчевий
+tile.block_nst_b_pink.name=НАМАКО сходи тип2_рожевий
+tile.block_nst_b_purple.name=НАМАКО сходи тип2_фіолетовий
+tile.block_nst_b_red.name=НАМАКО сходи тип2_червоний
+tile.block_nst_b_yellow.name=НАМАКО сходи тип2_жовтий
+tile.block_nst_b_white.name=НАМАКО сходи тип2
+
+tile.block_nsh_b_black.name=НАМАКО плита тип2_чорний
+tile.block_nsh_b_blue.name=НАМАКО плита тип2_синій
+tile.block_nsh_b_brown.name=НАМАКО плита тип2_коричневий
+tile.block_nsh_b_cyan.name=НАМАКО плита тип2_бірюзовий
+tile.block_nsh_b_gray.name=НАМАКО плита тип2_сірий
+tile.block_nsh_b_green.name=НАМАКО плита тип2_зелений
+tile.block_nsh_b_lightb.name=НАМАКО плита тип2_блакитний
+tile.block_nsh_b_lightg.name=НАМАКО плита тип2_світло-сірий
+tile.block_nsh_b_lime.name=НАМАКО плита тип2_лаймовий
+tile.block_nsh_b_magenta.name=НАМАКО плита тип2_пурпурний
+tile.block_nsh_b_orange.name=НАМАКО плита тип2_помаранчевий
+tile.block_nsh_b_pink.name=НАМАКО плита тип2_рожевий
+tile.block_nsh_b_purple.name=НАМАКО плита тип2_фіолетовий
+tile.block_nsh_b_red.name=НАМАКО плита тип2_червоний
+tile.block_nsh_b_yellow.name=НАМАКО плита тип2_жовтий
+tile.block_nsh_b_white.name=НАМАКО плита тип2
+
+item.block_dirtwall.name=Саман
+tile.block_dirtwall_st.name=Саман сходи
+tile.block_dirtwall_sh.name=Саман плита
+
+#Plaster
+item.block_plaster_black.name=ШІККУЙ_чорний
+item.block_plaster_blue.name=ШІККУЙ_синій
+item.block_plaster_brown.name=ШІККУЙ_коричневий
+item.block_plaster_cyan.name=ШІККУЙ_бірюзовий
+item.block_plaster_gray.name=ШІККУЙ_сірий
+item.block_plaster_green.name=ШІККУЙ_зелений
+item.block_plaster_lightb.name=ШІККУЙ_блакитний
+item.block_plaster_lightg.name=ШІККУЙ_світло-сірий
+item.block_plaster_lime.name=ШІККУЙ_лаймовий
+item.block_plaster_magenta.name=ШІККУЙ_пурпурний
+item.block_plaster_orange.name=ШІККУЙ_помаранчевий
+item.block_plaster_pink.name=ШІККУЙ_рожевий
+item.block_plaster_purple.name=ШІККУЙ_фіолетовий
+item.block_plaster_red.name=ШІККУЙ_червоний
+item.block_plaster_yellow.name=ШІККУЙ_жовтий
+item.block_plaster_white.name=ШІККУЙ
+tips.block_plaster.name=Будівельний матеріал з використанням гашеного вапна.
+
+tile.block_pst_black.name=ШІККУЙ сходи_чорний
+tile.block_pst_blue.name=ШІККУЙ сходи_синій
+tile.block_pst_brown.name=ШІККУЙ сходи_коричневий
+tile.block_pst_cyan.name=ШІККУЙ сходи_бірюзовий
+tile.block_pst_gray.name=ШІККУЙ сходи_сірий
+tile.block_pst_green.name=ШІККУЙ сходи_зелений
+tile.block_pst_lightb.name=ШІККУЙ сходи_блакитний
+tile.block_pst_lightg.name=ШІККУЙ сходи_світло-сірий
+tile.block_pst_lime.name=ШІККУЙ сходи_лаймовий
+tile.block_pst_magenta.name=ШІККУЙ сходи_пурпурний
+tile.block_pst_orange.name=ШІККУЙ сходи_помаранчевий
+tile.block_pst_pink.name=ШІККУЙ сходи_рожевий
+tile.block_pst_purple.name=ШІККУЙ сходи_фіолетовий
+tile.block_pst_red.name=ШІККУЙ сходи_червоний
+tile.block_pst_yellow.name=ШІККУЙ сходи_жовтий
+tile.block_pst_white.name=ШІККУЙ сходи
+
+tile.block_psh_black.name=ШІККУЙ плита_чорний
+tile.block_psh_blue.name=ШІККУЙ плита_синій
+tile.block_psh_brown.name=ШІККУЙ плита_коричневий
+tile.block_psh_cyan.name=ШІККУЙ плита_бірюзовий
+tile.block_psh_gray.name=ШІККУЙ плита_сірий
+tile.block_psh_green.name=ШІККУЙ плита_зелений
+tile.block_psh_lightb.name=ШІККУЙ плита_блакитний
+tile.block_psh_lightg.name=ШІККУЙ плита_світло-сірий
+tile.block_psh_lime.name=ШІККУЙ плита_лаймовий
+tile.block_psh_magenta.name=ШІККУЙ плита_пурпурний
+tile.block_psh_orange.name=ШІККУЙ плита_помаранчевий
+tile.block_psh_pink.name=ШІККУЙ плита_рожевий
+tile.block_psh_purple.name=ШІККУЙ плита_фіолетовий
+tile.block_psh_red.name=ШІККУЙ плита_червоний
+tile.block_psh_yellow.name=ШІККУЙ плита_жовтий
+tile.block_psh_white.name=ШІККУЙ плита
+
+#Noren
+item.block_noren_black.name=НОРЕН_чорний
+item.block_noren_blue.name=НОРЕН_синій
+item.block_noren_brown.name=НОРЕН_коричневий
+item.block_noren_cyan.name=НОРЕН_бірюзовий
+item.block_noren_gray.name=НОРЕН_сірий
+item.block_noren_green.name=НОРЕН_зелений
+item.block_noren_lightb.name=НОРЕН_блакитний
+item.block_noren_lightg.name=НОРЕН_світло-сірий
+item.block_noren_lime.name=НОРЕН_лаймовий
+item.block_noren_magenta.name=НОРЕН_пурпурний
+item.block_noren_orange.name=НОРЕН_помаранчевий
+item.block_noren_pink.name=НОРЕН_рожевий
+item.block_noren_purple.name=НОРЕН_фіолетовий
+item.block_noren_red.name=НОРЕН_червоний
+item.block_noren_yellow.name=НОРЕН_жовтий
+item.block_noren_white.name=НОРЕН_білий
+tips.block_noren.name=Тканина, що використовується для тентів і зав'язані очі.
+
+#TeaTime
+#Garden
+tile.block_sudare_1.name=СУДАРЕ
+tips.block_sudare.name=Віконні жалюзі. лацніть правою правою кнопкою миші під час крастися [відкрити / закрити].
+
+item.block_ishitourou_stone.name=Низький ІСІТОРОУ
+item.block_ishitourou_and.name=Низький ІСІТОРОУ_андезит
+item.block_ishitourou_dio.name=Низький ІСІТОРОУ_діорит
+item.block_ishitourou_gra.name=Низький ІСІТОРОУ_граніт
+tips.block_ishitourou.name=Кам'яний ліхтар. Розпалити вогонь кременем і сталлю. Клацніть правою кнопкою миші [вимкнено].
+
+item.block_longtourou_stone.name=ІСІТОРОУ
+item.block_longtourou_and.name=ІСІТОРОУ_андезит
+item.block_longtourou_dio.name=ІСІТОРОУ_діорит
+item.block_longtourou_gra.name=ІСІТОРОУ_граніт
+
+item.block_chouzubachi_kara.name=ЧОЗУБАЧІ
+item.block_chouzu_and_kara.name=ЧОЗУБАЧІ_андезит
+item.block_chouzu_dio_kara.name=ЧОЗУБАЧІ_діорит
+item.block_chouzu_gra_kara.name=ЧОЗУБАЧІ_граніт
+tips.block_chouzubachi.name=Кам'яна чаша. Покласти у воду за допомогою відро води.
+
+item.block_longacacia_bot.name=Живопліт_акація
+item.block_longbirch_bot.name=Живопліт_березовий
+item.block_longdarkoak_bot.name=Живопліт_темного дуба
+item.block_longjungle_bot.name=Живопліт_тропічного дерева
+item.block_longoak_bot.name=Живопліт_дуб
+item.block_longspruce_bot.name=Живопліт_смерека
+
+item.block_low_acacia.name=Низька живопліт_акація
+item.block_low_birch.name=Низька живопліт_березовий
+item.block_low_darkoak.name=Низька живопліт_темного дуба
+item.block_low_jungle.name=Низька живопліт_тропічного дерева
+item.block_low_oak.name=Низька живопліт_дуб
+item.block_low_spruce.name=Низька живопліт_смерека
+
+item.block_teatable.name=Чайний стіл
+
+#Hakkou
+item.block_bin_koubo_f.name=Пляшка для дріжджової культури
+tips.block_bin_koubo.name=З часом воно стає дрі́жджі. Після культури знищуйте і збирайте.
+
+item.block_taru_hakkou.name=Бочка для бродіння
+tips.block_taru_hakkou.name=Бочка, що використовується для бродіння спирту і МІСО тощо.
+
+item.block_taru_kouji_f.name=КОМЕКОУДЗІ полиця
+tips.block_taru_kouji.name=Полиця для виготовлення рисового солоду. Збирається пустою рукою.
+
+item.block_taru_shubo_f.name=ШУБО бочка
+tips.block_taru_shubo.name=Бочка для виготовлення дріжджового пюре. Візьміть його з миска.
+
+item.block_taru_moromi_f.name=МОРОМІ бочка
+tips.block_taru_moromi.name=Бочка для виготовлення МОРОМІ-пюре. Візьміть його з миска.
+
+item.block_taru_jukusei_f.name=Зрілі САКЕ бочка
+tips.block_taru_jukusei.name=Бочка для виготовлення Зрілі САКЕ. Після бродіння збирають голими руками.
+
+tile.block_taru_ringoshu_f.name=Сидр бочка
+tips.block_taru_ringoshu.name=Бочка для виготовлення Сидр. Після бродіння зібрати винною пляшкою.
+
+tile.block_taru_budoushu_f.name=Вина бочка
+tips.block_taru_budoushu.name=Бочка для виготовлення Вина. Після бродіння зібрати винною пляшкою.
+
+item.block_taru_miso_f.name=МІСО бочка
+tips.block_taru_miso.name=Бочка для виготовлення МІСО. Збирається пустою рукою.
+
+item.block_taru_koucha_f.name=Чайні підноси
+tips.block_taru_koucha.name=Лотки для окислення чайного листя. Збирається пустою рукою.
+
+tile.block_bot_sakenama_1.name=Чистий САКЕ
+tips.block_bot_sakenama.name=Можна пити це з Стакан для пиття. Спалити в печі, це перетворюється на САКЕ.
+tile.block_bot_sake_1.name=САКЕ
+tips.block_bot_sake.name=Можна пити це з Стакан для пиття.
+tile.block_bot_sakejuku_1.name=Зрілі САКЕ
+
+tile.block_bot_cider_1.name=Сидр
+tile.block_bot_ciderjuku_1.name=Зрілі сидр
+tile.block_bot_wine_1.name=Вина
+tile.block_bot_winejuku_1.name=Зрілі вина
+
+item.block_food_nabeaz_n.name=ДОНАБЕ з тортом САКЕ
+item.block_food_nabeaz_1.name=ДОНАБЕ з солодким напів САКЕ
+tips.block_food_nabeaz_1.name=Можна пити це з ЮНОМІ.
+
+item.block_glass_sakenama.name=Стакан з чистий САКЕ
+item.block_glass_sake.name=Стакан з САКЕ
+item.block_glass_sakejuku.name=Стакан з зрілі САКЕ
+item.block_glass_amazake.name=Чашка з солодким напів САКЕ
+
+item.block_glass_cider.name=Стакан з Сидр
+item.block_glass_ciderjuku.name=Стакан з Зрілі сидр
+item.block_glass_wine.name=Стакан з Вина
+item.block_glass_winejuku.name=Стакан з Зрілі вина
+
+item.block_food_nabenimame_n.name=ДОНАБЕ з соєю
+item.block_food_nabenimame_b.name=ДОНАБЕ з вареною соєю
+tips.block_food_nabenimame_b.name=Візьміть його з миска.
+
+#Kitchen
+tile.block_kitchen.name=Кухонний прилавок
+tips.block_kitchen.name=Можна зберігати кулінарні інструменти.
+
+tile.block_kit_board.name=Дошка обробна
+tips.block_kit_board.name=Можна використовувати як верстак.
+
+item.block_kit_sink.name=Стіл-мийка
+tips.block_kit_sink.name=Якщо нижній другий блок–це вода, клацніть правою кнопкою миші [увімкнути/вимкнути].
+
+tile.block_kit_stove.name=Варильна поверхня
+tips.block_kit_stove.name=Клацніть правою кнопкою миші під час крастися [увімкнено]. Клацніть правою кнопкою миші [вимкнено].
+
+tile.block_kit_oven.name=Варочна плита
+tile.block_kit_oven_black.name=Варочна плита_чорний
+container.kitchen_oven=Варочна плита всередині
+tips.block_kit_oven.name=Можна використовувати для приготування їжі і плавлення.
+
+tile.block_irori.name=ІРОРІ
+container.irori=ІРОРІ всередині
+tips.block_irori.name=Японський камін. Нагрійте ДОНАБЕ з вогнем деревного вугілля.
+
+tile.block_kit_kanki.name=Вентиляційний вентилятор
+tips.block_kit_kanki.name=Клацніть правою кнопкою миші [увімкнути/вимкнути]. Клацніть правою кнопкою миші під час крастися [змінити тип].
+
+tile.block_kit_duct.name=Вентиляційний канал
+tile.block_kit_ductend.name=Вентиляційний отвір
+tips.block_kit_ductend.name=Клацніть правою кнопкою миші під час крастися [змінити тип].
+
+tile.block_kit_tana.name=Сервант
+tips.block_kit_tana.name=Можна зберігати посуд за видами.
+
+container.cstove=Піч всередині
+tile.block_cstove_bot.name=Піч на дровах
+tips.block_cstove_bot.name=Верх печі на дровах можна використовувати як Піч.
+
+#Pantry
+tile.block_boxh_empty.name=Порожня коробка
+tile.block_boxh_apple.name=Коробка яблуко
+tile.block_boxh_beef.name=Коробка сира яловичина
+tile.block_boxh_beetroot.name=Коробка буряк
+tile.block_boxh_bread.name=Коробка хліб
+tile.block_boxh_carrot.name=Коробка морква
+tile.block_boxh_chicken.name=Коробка сира курятина
+tile.block_boxh_chorus.name=Коробка фрукт хорусу
+tile.block_boxh_coco.name=Мішок какао
+tile.block_boxh_egg.name=Коробка яйце
+tile.block_boxh_fish.name=Коробка сира риба
+tile.block_boxh_flour.name=Мішок пшениця
+tile.block_boxh_mutton.name=Коробка сира баранина
+tile.block_boxh_pork.name=Коробка сира свинина
+tile.block_boxh_potato.name=Коробка картопля
+tile.block_boxh_rabbit.name=Коробка сирий кролик
+tile.block_boxh_cod.name=Коробка сира тріска
+tile.block_boxh_swberry.name=Коробка солодкі ягоди
+
+tile.block_boxh_cabbage.name=Коробка капуста
+tile.block_boxh_hakusai.name=Коробка китайська капуста
+tile.block_boxh_corn.name=Коробка кукурудзи
+tile.block_boxh_grape.name=Коробка виноградний
+tile.block_boxh_onion.name=Коробка цибуля
+tile.block_boxh_rice.name=Мішок рис
+tile.block_boxh_soy.name=Мішок соєві боби
+tile.block_boxh_spinach.name=Коробка шпинат
+tile.block_boxh_tomato.name=Коробка томатний
+tile.block_boxh_tgreen.name=Мішок зелений чай
+tile.block_boxh_tred.name=Мішок чорний чай
+
+tile.block_tea_chadutsu.name=Банка зелений чай
+tile.block_tea_can.name=Банка чорний чай
+tile.block_tawara_cm.name=ТАВАРА
+
+#Foodblock
+tips.block_frypan.name=Можна готувати на [Піч / Варильна поверхня / Кулінарній плиті].
+tips.block_nabe.name=Можна готувати на [Піч / Варильна поверхня / Кулінарній плиті / ІРОРІ].
+tips.block_kettle.name=Можна готувати на [Піч / Варильна поверхня / Кулінарній плиті / ІРОРІ / Піч на дровах].
+tips.block_simpledish.name=Використовуйте його, клацніть правою кнопкою миші, і помістіть його під час крастися.
+
+item.block_kettle_full.name=Чайник з водою
+
+item.block_food_karanabe.name=Порожній ДОНАБЕ
+tips.block_food_karanabe.name=Покладіть їжу в верстак і розігрійте їх.
+
+item.block_food_nabeshio_n.name=ДОНАБЕ з морською водою
+item.block_food_nabeshio_b.name=ДОНАБЕ з сіллю
+item.block_food_nabetoufu_n.name=ДОНАБЕ з соєвим молоком
+item.block_food_nabetoufu_b.name=ДОНАБЕ з ТОФУ
+tips.block_food_nabetoufu_b.name=Збирається пустою рукою.
+
+item.block_food_nabe_n.name=ДОНАБЕ з сира курятина
+item.block_food_nabe_1.name=ДОНАБЕ з варена курятина
+tips.block_food_nabe_1.name=Візьміть це з ТОНСУІ.
+
+item.block_food_tonsui_1.name=ТОНСУІ з варена курятина
+item.block_food_nabegohan_n.name=ДОНАБЕ з сирим рисом
+item.block_food_nabegohan_1.name=ДОНАБЕ з вареним рисом
+tips.block_food_nabegohan_1.name=Візьміть його з ЧАВАН, Тарілка або миска.
+	
+item.block_food_gohan_1.name=ЧАВАН з вареним рисом
+item.block_food_rice_1.name=Тарілка з вареним рисом
+item.block_food_nabemiso_n.name=ДОНАБЕ з сирим супом МІСО
+item.block_food_nabemiso_1.name=ДОНАБЕ з супом МІСО
+tips.block_food_nabemiso_1.name=Візьміть це з ШІККІ.
+
+item.block_food_misosp_1.name=Супом МІСО
+item.block_food_nabecorns_n.name=ДОНАБЕ з сирою кукурудзяним супом
+item.block_food_nabecorns_1.name=ДОНАБЕ з кукурудзяним супом
+tips.block_food_nabecorns_1.name=Візьміть це з Тарілка.
+item.block_food_cornsp_1.name=Кукурудзяним супом
+
+item.block_food_frypan.name=Сковорідка
+
+item.block_food_tgy_1.name=Тарілка з омлетом
+item.block_food_tgytei_1.name=Омлет сет-меню
+item.block_food_yakizakanatei_1.name=Риба на грилі сет-меню
+item.block_food_yakijyaketei_1.name=Лосось на грилі сет-меню
+item.block_food_egb_1.name=Тарілка з яєчним гамбурзьких стейк
+item.block_food_egbset_1.name=Яєчним гамбурзьких стейк сет-меню
+
+item.block_food_stewnabe_n.name=Каструля з сирим тушкованим
+item.block_food_stewnabe_1.name=Каструля з приготованим тушонкою
+item.block_food_stew_1.name=Куряче тушковане
+
+item.block_food_roastchicken_1.name=Смажена курятина
+tips.block_roastchicken_1.name=Візьміть це з Тарілка.
+item.block_food_chickenb_1.name=Тарілка з смаженою куркою
+
+item.block_food_sconeset_1.name=Tea stand з Скон
+
+item.block_food_teastand.name=Tea stand
+item.block_food_teacup_1.name=Чашка з чорним чаєм
+item.block_food_teapot_1.name=Чайник з чорним чаєм
+tips.block_food_teapot_1.name=Можна пити це з Чашка.
+
+item.block_food_teapot.name=Порожній чайник
+item.block_food_teaset_1.name=Чорний чай с Скон
+item.block_food_jpteacup_1.name=ЮНОМІ з зеленим чаєм
+item.block_food_kyusu_1.name=КЮСУ з зеленим чаєм
+tips.block_food_kyusu_1.name=Можна пити це з ЮНОМІ.
+
+item.block_food_kyusu.name=Порожній КЮСУ
+item.block_food_jpteaset_1.name=Зелений чай с СЕНБЕІ
+item.block_food_icecream_1.name=Морозиво
+
+#FoodItem
+item.item_food_bun.name=Булочка
+item.item_food_cake.name=Торт вирізали
+item.item_food_scone.name=Скон
+item.item_food_senbei.name=СЕНБЕІ
+tips.item_food_senbei.name=Рисовий крекер
+
+item.item_food_chickensand.name=Сендвіч з куркою
+item.item_food_eggsand.name=Сендвіч з яйцем
+
+item.item_food_cabbage.name=Капуста
+item.item_food_corn.name=Кукурудза
+item.item_food_grape.name=Виноградний
+item.item_food_onion.name=Цибуля
+item.item_food_spinach.name=Шпинат
+item.item_food_tomato.name=Томатний
+item.item_food_cornb.name=Запечена кукурудза
+item.item_food_hakusai.name=Китайська капуста
+
+#TTimeItem
+item.item_chaba.name=Чайний лист
+item.item_chaba_green.name=Зелений чай
+item.item_chaba_red.name=Чорний чай
+
+item.item_salt.name=Сіль
+item.item_nigari.name=НІҐАРІ
+tips.item_nigari.name=Він використовується при створенні ТОФУ.
+
+item.item_sakekasu.name=САКЕ торт
+tips.item_sakekasu.name=Використовується для приготування солодким напів САКЕ або добрива.
+
+item.item_koubo.name=Дріжджі
+tips.item_koubo.name=Використовується при ферментації речей.
+
+item.item_mushigome.name=Миска з вареним рисом
+
+item.item_komekouji.name=КОМЕКОУДЗІ
+tips.item_komekouji.name=Використовується для приготування САКЕ і МІСО.
+
+item.item_shubo.name=ШУБО
+tips.item_shubo.name=Ферментуючи в бочці, він стає МОРОМІ.
+
+item.item_moromi.name=МОРОМІ
+tips.item_moromi.name=Ремесло це стає чистий САКЕ і САКЕ торт.
+
+item.item_nimame.name=Варена соя
+item.item_miso.name=МІСО
+item.item_food_toufu.name=ТОФУ
+
+item.item_ine.name=Рисова рослина
+item.item_kome.name=Рис
+item.item_saya.name=Соєві боби стручок
+item.item_soy.name=Соєві боби
+item.item_flour.name=Борошно
+item.item_butter.name=Вершкове масло
+
+item.item_kiji_bun.name=Тісто для булочок
+tips.item_kiji_bun.name=Згоріти в піч, це перетворюється в булочку.
+
+item.item_kiji_burg.name=Сира яловичий гамбурзьких стейк
+tips.item_kiji_burg.name=Воно готується на сковорідка і стає яловичий гамбурзьких стейк.
+
+item.item_kiji_scone.name=Тісто для Скон
+tips.item_kiji_scone.name=Згоріти в піч, це перетворюється в Скон.
+
+item.item_kiji_senbei.name=Тісто для рисовий крекер
+tips.item_kiji_senbei.name=Згоріти в піч, це перетворюється в СЕНБЕІ.
+
+item.item_match_cm.name=Сірник
+tips.item_match_cm.name=Клацніть правою кнопкою миші на блоці, і він згорить.
+item.item_kettle_kara.name=Порожня чайник
+item.item_kettle_boil.name=Чайник з гарячою водою
+
+item.item_food_sara.name=Тарілка
+item.item_food_chawan.name=ЧАВАН
+tips.item_food_chawan.name=Миска для рису
+
+item.item_food_shikki.name=ШІККІ
+tips.item_food_shikki.name=УРУШІ блюдо
+
+item.item_food_tonsui.name=ТОНСУІ
+tips.item_food_tonsui.name=Маленька миска для приготування каструлі.
+
+item.item_food_yunomi.name=ЮНОМІ
+tips.item_food_yunomi.name=Чашка зеленого чаю
+
+item.item_food_teacup.name=Чашка
+item.item_food_driglass.name=Склянка напою
+item.item_food_sakebot.name=Пляшка вина
+
+item.item_clay_yunomi.name=Формована глина_ЮНОМІ
+tips.item_clay_yunomi.name=Згоріти в піч, це перетворюється в ЮНОМІ.
+
+item.item_clay_kyusu.name=Формована глина_КЮСУ
+tips.item_clay_kyusu.name=Згоріти в піч, це перетворюється в КЮСУ.
+
+item.item_clay_teacup.name=Формована глина_Чашка
+tips.item_clay_teacup.name=Згоріти в піч, це перетворюється в Чашка.
+
+item.item_clay_teapot.name=Формована глина_Чайник
+tips.item_clay_teapot.name=Згоріти в піч, це перетворюється в Чайник.
+
+item.item_clay_sara.name=Формована глина_Тарілка
+tips.item_clay_sara.name=Згоріти в піч, це перетворюється в Тарілка.
+
+item.item_clay_chawan.name=Формована глина_ЧАВАН
+tips.item_clay_chawan.name=Згоріти в піч, це перетворюється в ЧАВАН.
+
+item.item_clay_nabe.name=Формована глина_ДОНАБЕ
+tips.item_clay_nabe.name=Згоріти в піч, це перетворюється в ДОНАБЕ.
+
+item.item_clay_tonsui.name=Формована глина_ТОНСУІ
+tips.item_clay_tonsui.name=Згоріти в піч, це перетворюється в ТОНСУІ.
+
+item.item_seeds_cabbage.name=Насіння капусти
+item.item_seeds_soy.name=Насіння соєве
+item.item_seeds_spinach.name=Насіння шпинату
+item.item_seeds_tomato.name=Насіння томату
+item.item_seeds_corn.name=Насіння кукурудзи
+item.item_seeds_onion.name=Насіння цибулі
+item.item_seeds_rice.name=Насіння рису
+tips.block_rice.name=Посадіть його на Рисове поле або Ріддя. Вирощуйте на один етап більше на Рисове поле.
+item.item_seeds_hakusai.name=Насіння китайська капуста
+
+item.block_seedsbox.name=Насіння мішок
+tips.block_seedsbox.name=Якщо його зламати, ви можете отримати нові насіння навмання. Всі 16 типів.
+
+item.block_wood_chanoki_nae.name=Саджанець чайної рослини
+tips.block_wood_chanoki_nae.name=Посадіть його в яскравий грунт, він виросте в дерево.
+
+item.block_wood_grape_nae.name=Саджанець виноградного дерева
+tips.block_wood_grape_nae.name=Посадіть його в яскравий грунт, він виросте в дерево.
+
+#Xmas
+item.item_ingot_alumi.name=Алюміній
+item.block_alumi_block.name=Алюмінієвий блок
+
+item.item_santaakashi_helmet.name=АКАШІ Дід Мороз Капелюх
+item.item_santaakashi_chestplate.name=АКАШІ Дід Мороз Накидка
+item.item_santaakashi_leggings.name=АКАШІ Дід Мороз Сукня
+item.item_santaakashi_boots.name=АКАШІ Дід Мороз Чоботи
+item.item_santakumano_helmet.name=КУМАНО Дід Мороз Затискач для волосся
+item.item_santakumano_chestplate.name=КУМАНО Дід Мороз Накидка
+item.item_santakumano_leggings.name=КУМАНО Дід Мороз Сукня
+item.item_santakumano_boots.name=КУМАНО Дід Мороз Чоботи
+item.item_santasuzuya_helmet.name=СУЗУЯ Дід Мороз Затискач для волосся
+item.item_santasuzuya_chestplate.name=СУЗУЯ Дід Мороз Стрічка
+item.item_santasuzuya_leggings.name=СУЗУЯ Дід Мороз Сукня
+item.item_santasuzuya_boots.name=СУЗУЯ Дід Мороз Чоботи
+item.item_santaryujou_helmet.name=РЮДЗЬО Дід Мороз Капелюх
+item.item_santaryujou_chestplate.name=РЮДЗЬО Дід Мороз Пальто
+item.item_santaryujou_leggings.name=РЮДЗЬО Дід Мороз Спідниця
+item.item_santaryujou_boots.name=РЮДЗЬО Дід Мороз Чоботи
+
+item.item_santattk_helmet.name=Дід Мороз Капелюх
+item.item_santattk_chestplate.name=Дід Мороз Пальто
+item.item_santattk_leggings.name=Дід Мороз Штани
+item.item_santattk_boots.name=Дід Мороз Чоботи
+
+item.block_xmastree.name=Різдвяна ялинка
+item.block_xmastree_w.name=Різдвяна ялинка_білий
+
+item.block_present_app.name=Подарункова коробка
+item.block_present_bla.name=Подарункова коробка
+item.block_present_bok.name=Подарункова коробка
+item.block_present_dia.name=Подарункова коробка
+item.block_present_lap.name=Подарункова коробка
+item.block_present_chc.name=Подарункова коробка
+item.block_present_chh.name=Подарункова коробка
+
+#3.2.1
+item.block_bin_nyusan_f.name=Пляшка для культури Lactobacillus
+tips.block_bin_nyusan.name=Стань Lactobacillus з часом. Після культури знищуйте і збирайте.
+item.item_nyusan.name=Lactobacillus
+tips.item_nyusan.name=Він використовується при створенні сиру і шоколаду.
+item.item_rennet.name=Сичужний фермент (фермент, що згортає молоко)
+tips.item_rennet.name=Він використовується при створенні сиру.
+
+item.block_zundou_milk.name=Каструля з молоком
+item.block_food_cheesecurd.name=Кальє
+tips.block_cheesecurd.name=Зробити свіжий сир у ремеслі. З часом стає сиром.
+item.item_food_cheesef.name=Свіжий сир
+item.block_food_cheese_1.name=Сир
+tips.block_pizza_cheese.name=Після розміщення клацніть правою кнопкою миші, щоб розбити на частини.
+item.item_food_cheese.name=Шматок сиру
+tile.block_kit_cheese_tana.name=Сирна полиця
+tips.block_kit_cheese_tana.name=Продовжується старіння поміщеного Кальє.
+
+item.item_kiji_pizza.name=Тісто для піци
+item.item_food_pizza_n.name=Сира піца з помідорами
+item.block_food_pizza_1.name=Запечена піца з помідорами
+item.item_food_pizza.name=Шматок піци з помідорами
+
+item.block_tansu_oak.name=Комод_дуб
+item.block_tansu_acacia.name=Комод_акація
+item.block_tansu_birch.name=Комод_березовий
+item.block_tansu_doak.name=Комод_темного дуба
+item.block_tansu_jungle.name=Комод_тропічного дерева
+item.block_tansu_spruce.name=Комод_смерека
+item.block_tansu_sakura.name=Комод_сакури
+item.block_tansu_kaede.name=Комод_клен
+item.block_tansu_ichoh.name=Комод_гінкго
+
+tile.block_fall_leaf.name=Опале листя
+tips.block_fall_leaf.name=Використовуючи лопату, це буде трав’яна доріжка. Використовуючи мотику, це буде Рисове поле.
+tile.block_tree_ichoh_leaf.name=Листя гінкго
+tile.block_tree_kaede_leaf.name=Листя клен
+tile.block_tree_sakura_flow.name=Вишневий цвіт
+tile.block_tree_oakkare_leaf.name=Листя осінній дуб
+item.block_carpet_ichoh.name=Килим гінкго
+item.block_carpet_kaede.name=Килим клен
+item.block_carpet_sakura.name=Килим вишневий цвіт
+item.block_carpet_ochiba.name=Килим осінній дуб
+tile.block_tree_ichoh_nae.name=Саджанець гінкго
+tile.block_tree_kaede_nae.name=Саджанець клен
+tile.block_tree_sakura_nae.name=Саджанець сакури
+tile.block_tree_oakkare_nae.name=Саджанець осінній дуб
+tile.block_tree_ichoh_log.name=Колода гінкго
+tile.block_tree_kaede_log.name=Колода клен
+tile.block_tree_sakura_log.name=Колода сакури
+item.block_planks_ichoh.name=Дошки гінкго
+item.block_planks_kaede.name=Дошки клен
+item.block_planks_sakura.name=Дошки сакури
+tile.block_pillar_ichoh.name=Колонна гінкго
+tile.block_pillar_kaede.name=Колонна клен
+tile.block_pillar_sakura.name=Колонна сакури
+tile.block_slabhalf_ichoh.name=Плита гінкго
+tile.block_slabhalf_kaede.name=Плита клен
+tile.block_slabhalf_sakura.name=Плита сакури
+tile.block_stairs_ichoh.name=Сходи гінкго
+tile.block_stairs_kaede.name=Сходи клен
+tile.block_stairs_sakura.name=Сходи сакури
+
+item.block_longichoh_bot.name=Живопліт_гінкго
+item.block_longkaede_bot.name=Живопліт_клен
+item.block_longsakura_bot.name=Живопліт_сакури
+item.block_longoakkare_bot.name=Живопліт_осінній дуб
+item.block_low_ichoh.name=Низька живопліт_гінкго
+item.block_low_kaede.name=Низька живопліт_клен
+item.block_low_sakura.name=Низька живопліт_сакури
+item.block_low_oakkare.name=Низька живопліт_осінній дуб
+
+item.block_diningchair_ich.name=Обідній стілець_гінкго
+item.block_diningchair_kae.name=Обідній стілець_клен
+item.block_diningchair_saku.name=Обідній стілець_сакури
+item.block_dressingtable_ich.name=Туалетний столик_гінкго
+item.block_dressingtable_kae.name=Туалетний столик_клен
+item.block_dressingtable_saku.name=Туалетний столик_сакури
+item.block_schoolchair_ich.name=Шкільний стілець_гінкго
+item.block_schoolchair_kae.name=Шкільний стілець_клен
+item.block_schoolchair_saku.name=Шкільний стілець_сакури
+item.block_schooldesk_ich.name=Шкільна парта_гінкго
+item.block_schooldesk_kae.name=Шкільна парта_клен
+item.block_schooldesk_saku.name=Шкільна парта_сакури
+item.block_teacherdesk_ich.name=Учительська парта_гінкго
+item.block_teacherdesk_kae.name=Учительська парта_клен
+item.block_teacherdesk_saku.name=Учительська парта_сакури
+
+item.block_shoujih_ichoh.name=ШЬОДЖІ вікно_гінкго
+item.block_shoujih_kaede.name=ШЬОДЖІ вікно_клен
+item.block_shoujih_sakura.name=ШЬОДЖІ вікно_сакури
+
+item.block_kanki_ich.name=Вентиляційна_гінкго
+item.block_kanki_kae.name=Вентиляційна_клен
+item.block_kanki_saku.name=Вентиляційна_сакури
+item.block_koushi_ich.name=Вертикальна решітка_гінкго
+item.block_koushi_kae.name=Вертикальна решітка_клен
+item.block_koushi_saku.name=Вертикальна решітка_сакури
+item.block_ranmab_ich.name=РАНМА тип2_гінкго
+item.block_ranmab_kae.name=РАНМА тип2_клен
+item.block_ranmab_saku.name=РАНМА тип2_сакури
+item.block_ranmac_ich.name=РАНМА тип3_гінкго
+item.block_ranmac_kae.name=РАНМА тип3_клен
+item.block_ranmac_saku.name=РАНМА тип3_сакури
+item.block_ranma_ich.name=РАНМА_гінкго
+item.block_ranma_kae.name=РАНМА_клен
+item.block_ranma_saku.name=РАНМА_сакури
+
+tile.block_wp_log_ichoh.name=Панель гінкго колода
+tile.block_wp_log_kaede.name=Панель клен колода
+tile.block_wp_log_sakura.name=Панель сакури колода
+tile.block_wp_plank_ichoh.name=Панель гінкго дошки
+tile.block_wp_plank_kaede.name=Панель клен дошки
+tile.block_wp_plank_sakura.name=Панель сакури дошки
+
+tile.block_boxh_cherry.name=Коробка вишня
+
+item.item_food_cherry.name=Вишня
+item.item_seeds_cherry.name=Насіння вишня
+
+item.item_sword_sakura.name=Меч сакури
+item.item_sword_ichoh.name=Меч гінкго
+item.item_sword_kaede.name=Меч клен
+
+item.item_inewara.name=Рисова солома
+item.item_warahai.name=Зола з соломи
+item.block_zundou_aku.name=Каструля з лужною водою
+tips.block_zundou_aku.name=Відварюючи Блок Трав'яний дах, можна отримати Пряжу.
+item.item_oriito.name=Пряжу
+item.item_tanmono.name=Тканина
+
+item.item_ykt_getadoak.name=ЮКАТА ҐЕТА темного дуба
+item.item_ykt_getaoak.name=ЮКАТА ҐЕТА дуб
+item.item_ykt_ikaduchi_kazari.name=ІКАДУЧІ Затискач для волосся
+item.item_ykt_ikaduchi_mini.name=ІКАДУЧІ ЮКАТА тіло
+item.item_ykt_ikaduchi_long.name=ІКАДУЧІ ЮКАТА ніжка
+item.item_ykt_inaduma_kazari.name=ІНАДУМА Затискач для волосся
+item.item_ykt_inaduma_mini.name=ІНАДУМА ЮКАТА тіло
+item.item_ykt_inaduma_long.name=ІНАДУМА ЮКАТА ніжка
+item.item_ykt_hamakaze_kazari.name=ХАМАКАЗЕ Затискач для волосся
+item.item_ykt_hamakaze_mini.name=ХАМАКАЗЕ ЮКАТА тіло
+item.item_ykt_hamakaze_long.name=ХАМАКАЗЕ ЮКАТА ніжка
+item.item_ykt_urakaze_kazari.name=УРАКАЗЕ Маска лисиця
+item.item_ykt_urakaze_mini.name=УРАКАЗЕ ЮКАТА тіло
+item.item_ykt_urakaze_long.name=УРАКАЗЕ ЮКАТА ніжка
+item.item_ykt_kawakaze_kazari.name=КАВАКАЗЕ Маска лисиця
+item.item_ykt_kawakaze_mini.name=КАВАКАЗЕ ЮКАТА тіло
+item.item_ykt_kawakaze_long.name=КАВАКАЗЕ ЮКАТА ніжка
+item.item_ykt_oboro_kazari.name=ОБОРО Затискач для волосся
+item.item_ykt_oboro_mini.name=ОБОРО ЮКАТА тіло
+item.item_ykt_oboro_long.name=ОБОРО ЮКАТА ніжка
+item.item_ykt_ttoku_mini.name=Чоловічі ЮКАТА тіло
+item.item_ykt_ttoku_long.name=Чоловічі ЮКАТА ніжка
+item.item_ykt_ttokub_mini.name=Чоловічі ЮКАТА тіло_синьо-коричневий
+item.item_ykt_ttokub_long.name=Чоловічі ЮКАТА ніжка_синьо-коричневий
+
+tips.item_ykt.name=Звичайне плаття для носіння на голу шкіру.
+
+item.block_uchiwa_black.name=Утіва_чорний
+item.block_uchiwa_blue.name=Утіва_синій
+item.block_uchiwa_brown.name=Утіва_коричневий
+item.block_uchiwa_cyan.name=Утіва_бірюзовий
+item.block_uchiwa_gray.name=Утіва_сірий
+item.block_uchiwa_green.name=Утіва_зелений
+item.block_uchiwa_lightb.name=Утіва_блакитний
+item.block_uchiwa_lightg.name=Утіва_світло-сірий
+item.block_uchiwa_lime.name=Утіва_лаймовий
+item.block_uchiwa_magenta.name=Утіва_пурпурний
+item.block_uchiwa_orange.name=Утіва_помаранчевий
+item.block_uchiwa_pink.name=Утіва_рожевий
+item.block_uchiwa_purple.name=Утіва_фіолетовий
+item.block_uchiwa_red.name=Утіва_червоний
+item.block_uchiwa_white.name=Утіва_білий
+item.block_uchiwa_yellow.name=Утіва_жовтий
+
+tips.block_uchiwa.name=Декоративний блок
+
+tips.block_wataame.name=Заберіть упаковку і станьте Цукрова вата.
+tile.block_watagashi.name=Цукрова вата в упаковці
+tile.block_watagashi_green.name=Цукрова вата в упаковці_зелений чай
+tile.block_watagashi_pink.name=Цукрова вата в упаковці_вишня
+tile.block_watagashi_red.name=Цукрова вата в упаковці_виноград
+tile.block_watagashi_yellow.name=Цукрова вата в упаковці_яблуко
+item.item_food_watagashi.name=Цукрова вата
+item.item_food_watagashi_g.name=Цукрова вата_зелений чай
+item.item_food_watagashi_p.name=Цукрова вата_вишня
+item.item_food_watagashi_r.name=Цукрова вата_виноград
+item.item_food_watagashi_y.name=Цукрова вата_яблуко
+
+item.block_kakigouri_block1.name=КАКІҐОРІ
+item.block_kakigouri_green1.name=КАКІҐОРІ_зелений чай
+item.block_kakigouri_pink1.name=КАКІҐОРІ_вишня
+item.block_kakigouri_red1.name=КАКІҐОРІ_виноград
+item.block_kakigouri_yellow1.name=КАКІҐОРІ_яблуко
+tile.block_kakigouri_hata.name=Прапор КАКІҐОРІ
+
+tips.block_kakigouri.name=Десерт з натертого лiд
+
+tile.block_tabakusa.name=Блок Трав'яний дах
+tile.block_tabawara.name=Блок Солома рису дах
+tile.block_tabakaya.name=Блок Солом'яний дах
+
+tile.block_tabakusa_roof.name=Трав'яний дах
+tile.block_tabawara_roof.name=Солома рису дах
+tile.block_tabakaya_roof.name=Солом'яний дах
+tips.block_tabakusa_roof.name=Спрямовані покрівельні матеріали. Клацніть правою кнопкою миші під час крастися [змінити тип].
+
+tile.block_tabakusa_stairs.name=Сходи Трав'яний дах
+tile.block_tabawara_stairs.name=Сходи Солома рису дах
+tile.block_tabakaya_stairs.name=Сходи Солом'яний дах
+
+tile.block_tatamih_y.name=Засмаглі ТАТАМІ_без краю
+tile.block_tatamih_y_black.name=Засмаглі ТАТАМІ_чорний
+tile.block_tatamih_y_blue.name=Засмаглі ТАТАМІ_синій
+tile.block_tatamih_y_brown.name=Засмаглі ТАТАМІ_коричневий
+tile.block_tatamih_y_cyan.name=Засмаглі ТАТАМІ_бірюзовий
+tile.block_tatamih_y_gray.name=Засмаглі ТАТАМІ_сірий
+tile.block_tatamih_y_green.name=Засмаглі ТАТАМІ_зелений
+tile.block_tatamih_y_lightb.name=Засмаглі ТАТАМІ_блакитний
+tile.block_tatamih_y_lightg.name=Засмаглі ТАТАМІ_світло-сірий
+tile.block_tatamih_y_lime.name=Засмаглі ТАТАМІ_лаймовий
+tile.block_tatamih_y_magenta.name=Засмаглі ТАТАМІ_пурпурний
+tile.block_tatamih_y_orange.name=Засмаглі ТАТАМІ_помаранчевий
+tile.block_tatamih_y_pink.name=Засмаглі ТАТАМІ_рожевий
+tile.block_tatamih_y_purple.name=Засмаглі ТАТАМІ_фіолетовий
+tile.block_tatamih_y_red.name=Засмаглі ТАТАМІ_червоний
+tile.block_tatamih_y_yellow.name=Засмаглі ТАТАМІ_жовтий
+tile.block_tatamih_y_white.name=Засмаглі ТАТАМІ_білий
+
+tile.block_lamp.name=Настінна лампа
+tips.block_lamp.name=Клацніть правою кнопкою миші [відкрити / закрити].
+
+tile.block_standbedroom.name=Спальня лампа
+tile.block_standarm.name=Настільне світло
+
+item.block_candle_black.name=Свічка_чорний
+item.block_candle_blue.name=Свічка_синій
+item.block_candle_brown.name=Свічка_коричневий
+item.block_candle_cyan.name=Свічка_бірюзовий
+item.block_candle_gray.name=Свічка_сірий
+item.block_candle_green.name=Свічка_зелений
+item.block_candle_lightb.name=Свічка_блакитний
+item.block_candle_lightg.name=Свічка_світло-сірий
+item.block_candle_lime.name=Свічка_лаймовий
+item.block_candle_magenta.name=Свічка_пурпурний
+item.block_candle_orange.name=Свічка_помаранчевий
+item.block_candle_pink.name=Свічка_рожевий
+item.block_candle_purple.name=Свічка_фіолетовий
+item.block_candle_red.name=Свічка_червоний
+item.block_candle_yellow.name=Свічка_жовтий
+item.block_candle_white.name=Свічка
+
+item.block_andon_black.name=АНДОН_чорний
+item.block_andon_blue.name=АНДОН_синій
+item.block_andon_brown.name=АНДОН_коричневий
+item.block_andon_cyan.name=АНДОН_бірюзовий
+item.block_andon_gray.name=АНДОН_сірий
+item.block_andon_green.name=АНДОН_зелений
+item.block_andon_lightb.name=АНДОН_блакитний
+item.block_andon_lightg.name=АНДОН_світло-сірий
+item.block_andon_lime.name=АНДОН_лаймовий
+item.block_andon_magenta.name=АНДОН_пурпурний
+item.block_andon_orange.name=АНДОН_помаранчевий
+item.block_andon_pink.name=АНДОН_рожевий
+item.block_andon_purple.name=АНДОН_фіолетовий
+item.block_andon_red.name=АНДОН_червоний
+item.block_andon_yellow.name=АНДОН_жовтий
+item.block_andon_white.name=АНДОН
+tips.block_andon.name=Торшер. Розпалити вогонь кременем і сталлю. Клацніть правою кнопкою миші [вимкнено].
+
+#SE
+chinjufumod.subtitle.kk_propeller.name=Звук пропелера
+chinjufumod.subtitle.kk_propeller_12.name=Звук пропелера
+chinjufumod.subtitle.kk_starting.name=Звук мотора
+chinjufumod.subtitle.kk_atack.name=Атака літаків
+chinjufumod.subtitle.kk_atack2.name=Атака літаків
+chinjufumod.subtitle.kk_impact.name=Зіткнення літака
+chinjufumod.subtitle.kk_break.name=Вибух літака
+chinjufumod.subtitle.kk_stop.name=Посадка літака
+chinjufumod.subtitle.water_splash.name=Падіння у воді
+chinjufumod.subtitle.am_fire.name=Стріляти гарматою
+chinjufumod.subtitle.am_impact.name=Вибух
+chinjufumod.subtitle.am_cartridge.name=Порожні гільзи
+chinjufumod.subtitle.am_cartridge2.name=Порожні гільзи
+chinjufumod.subtitle.am_cartridge3.name=Порожні гільзи
+chinjufumod.subtitle.wake_water.name=Біг по воді
+chinjufumod.subtitle.tansu_open.name=Відкрийте комод
+chinjufumod.subtitle.tansu_close.name=Закрийте комод
+chinjufumod.subtitle.window_open.name=Відкрити вікно
+chinjufumod.subtitle.window_close.name=Закрити вікно
+chinjufumod.subtitle.window_updown.name=Розсувні вікна
+chinjufumod.subtitle.amado_cancel.name=АМАДО
+
+chinjufumod.subtitle.fusuma.name=ШЬОДЖІ／ФУСУМА
+chinjufumod.subtitle.fusuma_short.name=ШЬОДЖІ вікно
+chinjufumod.subtitle.hikido.name=Розсувні двері
+chinjufumod.subtitle.hikido_short.name=Розсувні двері
+chinjufumod.subtitle.kinuzure.name=Тканина тертя
+chinjufumod.subtitle.sit_chair.name=Сісти на стілець
+chinjufumod.subtitle.juu.name=Кук за допомогою сковорідки
+chinjufumod.subtitle.gutsugutsu.name=Звук кипіння
+chinjufumod.subtitle.tea.name=Налити чай
+chinjufumod.subtitle.sake.name=Налити вино
+chinjufumod.subtitle.paku.name=Поїсти
+chinjufumod.subtitle.goku.name=Напій
+chinjufumod.subtitle.kitchen_cut.name=Кухонний ніж
+chinjufumod.subtitle.water_start.name=Відкрити кран
+chinjufumod.subtitle.water_stop.name=Закрити кран
+chinjufumod.subtitle.shishiodoshi.name=ШІШІ-ОДОШІ
+
+#4.0
+item.block_sofa_leather.name=Шкіряний диван
+item.block_sofa_black.name=Диван_чорний
+item.block_sofa_blue.name=Диван_синій
+item.block_sofa_brown.name=Диван_коричневий
+item.block_sofa_cyan.name=Диван_бірюзовий
+item.block_sofa_gray.name=Диван_сірий
+item.block_sofa_green.name=Диван_зелений
+item.block_sofa_lightblue.name=Диван_блакитний
+item.block_sofa_lightgray.name=Диван_світло-сірий
+item.block_sofa_lime.name=Диван_лаймовий
+item.block_sofa_magenta.name=Диван_пурпурний
+item.block_sofa_orange.name=Диван_помаранчевий
+item.block_sofa_pink.name=Диван_рожевий
+item.block_sofa_purple.name=Диван_фіолетовий
+item.block_sofa_red.name=Диван_червоний
+item.block_sofa_white.name=Диван_білий
+item.block_sofa_yellow.name=Диван_жовтий
+
+item.block_bench.name=Лавка_дуб
+item.block_bench_aca.name=Лавка_акація
+item.block_bench_bir.name=Лавка_березовий
+item.block_bench_doak.name=Лавка_темного дуба
+item.block_bench_jun.name=Лавка_тропічного дерева
+item.block_bench_spru.name=Лавка_смерека
+item.block_bench_saku.name=Лавка_сакури
+item.block_bench_kae.name=Лавка_клен
+item.block_bench_ich.name=Лавка_гінкго
+
+item.block_bonsai_oak.name=БОНСАЙ_дуб
+item.block_bonsai_acacia.name=БОНСАЙ_акація
+item.block_bonsai_birch.name=БОНСАЙ_березовий
+item.block_bonsai_darkoak.name=БОНСАЙ_темного дуба
+item.block_bonsai_jungle.name=БОНСАЙ_тропічного дерева
+item.block_bonsai_spruce.name=БОНСАЙ_смерека
+item.block_bonsai_sakura.name=БОНСАЙ_сакури
+item.block_bonsai_kaede.name=БОНСАЙ_клен
+item.block_bonsai_ichoh.name=БОНСАЙ_гінкго
+item.block_bonsai_oakkare.name=БОНСАЙ_осінній дуб
+tips.block_bonsai.name=Клацніть правою кнопкою миші під час крастися [змінити тип].
+
+item.block_kanyouoak_bot.name=Кімнатна рослина_дуб
+item.block_kanyouacacia_bot.name=Кімнатна рослина_акація
+item.block_kanyoubirch_bot.name=Кімнатна рослина_березовий
+item.block_kanyoudarkoak_bot.name=Кімнатна рослина_темного дуба
+item.block_kanyoujungle_bot.name=Кімнатна рослина_тропічного дерева
+item.block_kanyouspruce_bot.name=Кімнатна рослина_смерека
+item.block_kanyousakura_bot.name=Кімнатна рослина_сакури
+item.block_kanyoukaede_bot.name=Кімнатна рослина_клен
+item.block_kanyouichoh_bot.name=Кімнатна рослина_гінкго
+item.block_kanyouoakkare_bot.name=Кімнатна рослина_осінній дуб
+tips.block_kanyou.name=Клацніть правою кнопкою миші під час крастися [змінити тип].
+
+item.block_ironfence_bot.name=Залізний паркан
+
+item.block_door_sakura.name=Двері сакури
+item.block_door_ichoh.name=Двері гінкго
+item.block_door_kaede.name=Двері клен
+
+item.block_gate_iron.name=Залізні ворота
+item.block_gate_irongrill.name=Ворота Залізного прута
+item.block_gate_spruce_b.name=Смерека ворота
+item.block_gate_spruce.name=Смерека ворота тип2
+tips.block_gate.name=Переверніть, поклавши його під час крастися. Червоний камінь [відкрити / закрити].
+
+tile.block_taru_cocoa_f.name=Какао бочка
+tips.block_taru_cocoa.name=Бочка для бродіння какао-бобів. Візьміть його з миска.
+
+item.item_cocoa_ferm.name=Ферментоване какао
+tips.item_cocoa_ferm.name=Плавка стає смажене какао.
+
+item.item_cocoa_roast.name=Смажене какао
+tips.item_cocoa_roast.name=Ремесло стає какао маса.
+
+item.item_cocoa_mass.name=Какао маса
+tips.item_cocoa_mass.name=Коли цукор і молоко додані, це стає шоколадом.
+
+item.item_choco_raw.name=Миска з шоколадом
+tips.item_choco_raw.name=Ремесло це стає шоколадом.
+
+item.item_food_choco_heart.name=Шоколад у формі серця
+item.item_food_choco.name=Шоколад
+item.item_food_choco_apple.name=Шоколад_яблуко
+item.item_food_choco_cherry.name=Шоколад_вишня
+item.item_food_choco_grape.name=Шоколад_виноград
+item.item_food_choco_greentea.name=Шоколад_зелений чай
+
+item.item_shield_kuchiku.name=Щит руйнівника
+item.item_shield_yura.name=Щит ЮРА
+item.item_shield_mogami.name=Щит МОҐАМІ
+item.item_shield_kongou.name=Щит КОНҐОУ
+tips.item_shield.name=Клацніть правою кнопкою миші, щоб захистити. Ремонтопридатний із залізним зливком.
+tips.item_shield2.name=Коли гравець перестане блокувати, він відскочить від живих істот.
+	
+chinjufumod.subtitle.gyorai.name=Звук торпадо
+chinjufumod.subtitle.gate_wood.name=Ворота дерева
+chinjufumod.subtitle.gate_iron_open.name=Залізні ворота
+chinjufumod.subtitle.gate_iron_close.name=Залізні ворота
+
+item.block_shouji.name=ШЬОДЖІ
+item.block_shouji_acacia.name=ШЬОДЖІ_акація
+item.block_shouji_birch.name=ШЬОДЖІ_березовий
+item.block_shouji_darkoak.name=ШЬОДЖІ_темного дуба
+item.block_shouji_jungle.name=ШЬОДЖІ_тропічного дерева
+item.block_shouji_spruce.name=ШЬОДЖІ_смерека
+tips.block_shouji.name=Переверніть, поклавши його під час крастися. Клацніть правою кнопкою миші [відкрити / закрити].
+
+item.block_shoujib.name=ШЬОДЖІ тип2
+item.block_shoujib_acacia.name=ШЬОДЖІ тип2_акація
+item.block_shoujib_birch.name=ШЬОДЖІ тип2_березовий
+item.block_shoujib_darkoak.name=ШЬОДЖІ тип2_темного дуба
+item.block_shoujib_jungle.name=ШЬОДЖІ тип2_тропічного дерева
+item.block_shoujib_spruce.name=ШЬОДЖІ тип2_смерека
+
+item.block_garasudo.name=ҐАРАСУДО
+item.block_garasudo_acacia.name=ҐАРАСУДО_акація
+item.block_garasudo_birch.name=ҐАРАСУДО_березовий
+item.block_garasudo_darkoak.name=ҐАРАСУДО_темного дуба
+item.block_garasudo_jungle.name=ҐАРАСУДО_тропічного дерева
+item.block_garasudo_spruce.name=ҐАРАСУДО_смерека
+
+item.block_garasudob.name=ҐАРАСУДО тип2
+item.block_garasudob_acacia.name=ҐАРАСУДО тип2_акація
+item.block_garasudob_birch.name=ҐАРАСУДО тип2_березовий
+item.block_garasudob_darkoak.name=ҐАРАСУДО тип2_темного дуба
+item.block_garasudob_jungle.name=ҐАРАСУДО тип2_тропічного дерева
+item.block_garasudob_spruce.name=ҐАРАСУДО тип2_смерека
+tips.block_garasudo.name=Переверніть, поклавши його під час крастися. Клацніть правою кнопкою миші [відкрити / закрити].
+
+item.block_fusuma.name=ФУСУМА
+item.block_fusuma_black.name=ФУСУМА_чорний
+item.block_fusuma_blue.name=ФУСУМА_синій
+item.block_fusuma_brown.name=ФУСУМА_коричневий
+item.block_fusuma_cyan.name=ФУСУМА_бірюзовий
+item.block_fusuma_gray.name=ФУСУМА_сірий
+item.block_fusuma_green.name=ФУСУМА_зелений
+item.block_fusuma_lightb.name=ФУСУМА_блакитний
+item.block_fusuma_lightg.name=ФУСУМА_світло-сірий
+item.block_fusuma_lime.name=ФУСУМА_лаймовий
+item.block_fusuma_magenta.name=ФУСУМА_пурпурний
+item.block_fusuma_orange.name=ФУСУМА_помаранчевий
+item.block_fusuma_pink.name=ФУСУМА_рожевий
+item.block_fusuma_purple.name=ФУСУМА_фіолетовий
+item.block_fusuma_red.name=ФУСУМА_червоний
+item.block_fusuma_yellow.name=ФУСУМА_жовтий
+tips.block_fusuma.name=Переверніть, поклавши його під час крастися. Клацніть правою кнопкою миші [відкрити / закрити].
+
+item.block_fusumab.name=ФУСУМА тип2
+item.block_fusumab_black.name=ФУСУМА тип2_чорний
+item.block_fusumab_blue.name=ФУСУМА тип2_синій
+item.block_fusumab_brown.name=ФУСУМА тип2_коричневий
+item.block_fusumab_cyan.name=ФУСУМА тип2_бірюзовий
+item.block_fusumab_gray.name=ФУСУМА тип2_сірий
+item.block_fusumab_green.name=ФУСУМА тип2_зелений
+item.block_fusumab_lightb.name=ФУСУМА тип2_блакитний
+item.block_fusumab_lightg.name=ФУСУМА тип2_світло-сірий
+item.block_fusumab_lime.name=ФУСУМА тип2_лаймовий
+item.block_fusumab_magenta.name=ФУСУМА тип2_пурпурний
+item.block_fusumab_orange.name=ФУСУМА тип2_помаранчевий
+item.block_fusumab_pink.name=ФУСУМА тип2_рожевий
+item.block_fusumab_purple.name=ФУСУМА тип2_фіолетовий
+item.block_fusumab_red.name=ФУСУМА тип2_червоний
+item.block_fusumab_yellow.name=ФУСУМА тип2_жовтий
+
+item.block_shouji_ichoh.name=ШЬОДЖІ_гінкго
+item.block_shouji_kaede.name=ШЬОДЖІ_клен
+item.block_shouji_sakura.name=ШЬОДЖІ_сакури
+item.block_shoujib_ichoh.name=ШЬОДЖІ тип2_гінкго
+item.block_shoujib_kaede.name=ШЬОДЖІ тип2_клен
+item.block_shoujib_sakura.name=ШЬОДЖІ тип2_сакури
+
+item.block_garasudob_ichoh.name=ҐАРАСУДО тип2_гінкго
+item.block_garasudob_kaede.name=ҐАРАСУДО тип2_клен
+item.block_garasudob_sakura.name=ҐАРАСУДО тип2_сакури
+item.block_garasudo_ichoh.name=ҐАРАСУДО_гінкго
+item.block_garasudo_kaede.name=ҐАРАСУДО_клен
+item.block_garasudo_sakura.name=ҐАРАСУДО_сакури
+
+#4.0.1
+item.block_food_dongyu_1.name=ҐЮ-ДОН
+tips.block_food_dongyu_1.name=Яловичина с рисом
+item.block_food_donkatsu_1.name=КАЦУ-ДОН
+tips.block_food_donkatsu_1.name=Котлети зі свинини с яєчний рисом
+item.block_food_donmeshi_1.name=Чаша для рисом
+item.block_food_donoyako_1.name=ОЯКО-ДОН
+tips.block_food_donoyako_1.name=Курка с яєчний рисом
+
+item.block_food_frypan_n_tamago.name=Сковорода з сирим яйцем
+item.block_food_frypan_n_eggb.name=Сковорода з сирим яйцем гамбурзький стейк
+item.block_food_frypan_n_gyudon.name=Сковорода з сирим ҐЮ-ДОН
+item.block_food_frypan_n_katsu.name=Сковорода з сирої котлети з свинини
+item.block_food_frypan_n_katsudon.name=Сковорода з сирим КАЦУ-ДОН
+item.block_food_frypan_n_oyakodon.name=Сковорода з сирим ОЯКО-ДОН
+item.block_food_frypan_n_kinokos.name=Сковорода з сирим грибами соус
+item.block_food_frypan_n_tomatos.name=Сковорода з сирим томатний соус
+
+item.block_food_frypan_b_tamago.name=Сковорода з омлет
+tips.block_food_frypan_sara.name=Візьміть його з тарілка.
+item.block_food_frypan_b_eggb.name=Сковорода з яйцем гамбурзький стейк
+item.block_food_frypan_b_gyudon.name=Сковорода з ҐЮ-ДОН
+tips.block_food_frypan_donburi.name=Візьміть його з чаша для рисом.
+item.block_food_frypan_b_katsu.name=Сковорода з котлета зі свинини
+item.block_food_frypan_b_katsudon.name=Сковорода з КАЦУ-ДОН
+item.block_food_frypan_b_oyakodon.name=Сковорода з ОЯКО-ДОН
+item.block_food_frypan_b_kinokos.name=Сковорода з грибами соус
+item.block_food_frypan_b_tomatos.name=Сковорода з томатний соус
+tips.block_food_frypan_pasta.name=Візьміть його з пастою.
+
+item.item_food_pasta_n.name=Сира паста
+item.item_food_pasta_s.name=Паста
+
+item.block_zundou_shiomizu.name=Каструля з солоною водою
+tips.block_zundou_shiomizu.name=Відварити пасту і рибу.
+
+item.block_food_pastacheese_1.name=Сирний соус Паста
+item.block_food_pastakinoko_1.name=Грибний соус Паста
+item.block_food_pastatoma_1.name=Томатний соус Паста
+
+item.block_taru_hakusai_f.name=Бочка з китайська капуста 1 етап
+tips.block_taru_hakusai_f.name=Бочка для засолювання китайська капуста. Коли вода вийде, розбийте її і зберіть.
+item.block_taru_hakusai_f2.name=Бочка з китайська капуста 2 етап
+tips.block_taru_hakusai_f2.name=Бочка для засолювання китайська капуста. Візьміть з тарілкою. 4 рази.
+item.item_food_hakusai2.name=Китайська капуста злегка солимо
+item.block_food_hsd_1.name=Китайська капуста солимо
+
+item.block_taru_komezu_f.name=Рисовий оцет бочка
+tips.block_taru_komezu.name=Бочка для приготування рисового оцту. Візьміть зі скляною пляшкою. 4 рази.
+item.block_komezu_bot.name=Рисовий оцет
+item.block_komezu_bot_2.name=Рисовий оцет
+
+item.block_taru_shouyu_f.name=Соєвий соус бочка
+tips.block_taru_shouyu.name=Бочка для приготування соєвий соус. Візьміть зі скляною пляшкою. 4 рази.
+item.block_shouyu_bot.name=Соєвий соус
+item.block_shouyu_bot_2.name=Соєвий соус
+item.block_shouyu_bot_3.name=Соєвий соус
+item.block_shouyu_bot_4.name=Соєвий соус
+chinjufumod.subtitle.shouyu.name=Залити соєвим соусом
+tips.block_bot.name=4 рази
+tips.block_bot_2.name=3 рази
+tips.block_bot_3.name=2 рази
+tips.block_bot_4.name=1 раз
+
+item.item_food_kirimi_salmon.name=Скибочка лосось
+item.item_food_kirimi_fish.name=Скибочка риба
+item.item_food_kirimi_beef.name=Скибочка сиру яловичину
+item.item_food_kirimi_tamago.name=Скибочка омлету
+tips.item_food_kirimi.name=Візьміть його і клацніть правою кнопкою миші на СУШІ-рисом, щоб зробити СУШІ.
+
+item.block_food_sushimeshi.name=СУШІ-рисом
+tips.block_food_sushimeshi.name=Приготування СУШІ з скибочок.
+
+item.block_food_shouyusara_1.name=Тарілка з соєвий соус
+tips.block_food_shouyusara_1.name=Используйте с СУШІ.
+
+item.item_food_sushi_salmon.name=СУШІ_Лосось
+item.item_food_sushi_fish.name=СУШІ_Рыба
+item.item_food_sushi_beef.name=СУШІ_Сиру яловичину
+item.item_food_sushi_tamago.name=СУШІ_Омлет
+item.item_food_sushishouyu_salmon.name=СУШІ с соєвий соус_Лосось
+item.item_food_sushishouyu_fish.name=СУШІ с соєвий соус_Рыба
+item.item_food_sushishouyu_beef.name=СУШІ с соєвий соус_Сиру яловичину
+item.item_food_sushishouyu_tamago.name=СУШІ с соєвий соус_Омлет
+
+item.block_food_sushiset_4shoku.name=Набір СУШІ
+item.block_food_sushiset_salmon.name=Набір СУШІ_Лосось
+item.block_food_sushiset_fish.name=Набір СУШІ_Риба
+item.block_food_sushiset_beef.name=Набір СУШІ_Сиру яловичину
+item.block_food_sushiset_tamago.name=Набір СУШІ_Омлет
+
+item.block_food_sushigeta_kara.name=СУШІ-ҐЕТА
+tips.block_food_sushigeta_kara.name=Дерев'яна тарілка для СУШІ. Заливаємо соєвим соусом і покласти СУШІ.
+
+item.block_food_sushioke_kara.name=СУШІ миска
+item.block_food_sushiokefull_1.name=Асорті із СУШІ
+
+item.block_niboshi.name=Варена риба
+tips.block_niboshi_boiled.name=Після висихання зібрати в скляну пляшку.
+item.block_dashi_bot.name=ДАШІ порошок
+item.block_dashi_bot_2.name=ДАШІ порошок
+item.block_dashi_bot_3.name=ДАШІ порошок
+item.block_dashi_bot_4.name=ДАШІ порошок
+
+item.block_food_dashinabe_1.name=Каструля з ДАШІ
+tips.block_food_dashinabe_1.name=Візьміть його з ДОНБУРІ з соєвий соус.
+
+item.item_clay_donburi.name=Формована глина_ДОНБУРІ
+tips.item_clay_donburi.name=Згоріти в піч, це перетворюється в ДОНБУРІ.
+
+item.item_food_donburi.name=ДОНБУРІ
+tips.item_food_donburi.name=Чаша для УДОН і Рису Рамен.
+
+item.item_food_udon_n.name=УДОН сирий
+item.block_zundou_mizu.name=Каструля з водою
+
+item.item_food_shouyu_don.name=ДОНБУРІ з соєвий соус
+item.item_food_tsuyu_don.name=ДОНБУРІ з Супом
+item.block_food_udonsu_1.name=Простий УДОН
+item.block_food_udonniku_1.name=Яловичина УДОН
+item.block_food_udontsukimi_1.name=Яйце УДОН
+
+item.block_food_senbei.name=СЕНБЕІ на тарілці
+item.block_food_scone.name=Скон на тарілці
+item.block_food_mikan.name=Цитрусові на тарілці
+
+item.block_wood_mikan.name=Саджанець цитрусового дерева
+tips.block_wood_mikan.name=Посадіть його в теплий і світлий грунт, він виросте в дерево.
+item.item_food_mikan.name=Цитрусові
+tile.block_boxh_citrus.name=Коробка цитрусові
+tile.block_boxh_salmon.name=Коробка сирий лосось
+
+tile.block_kit2_tana.name=Винна стійка
+tips.block_kit2_tana.name=Може тримати вино, сидр і САКЕ.
+
+item.block_koushib_oak.name=Горизонтальна решітка
+item.block_koushib_aca.name=Горизонтальна решітка_акація
+item.block_koushib_bir.name=Горизонтальна решітка_березовий
+item.block_koushib_doak.name=Горизонтальна решітка_темного дуба
+item.block_koushib_jun.name=Горизонтальна решітка_тропічного дерева
+item.block_koushib_spru.name=Горизонтальна решітка_смерека
+item.block_koushib_ich.name=Горизонтальна решітка_гінкго
+item.block_koushib_kae.name=Горизонтальна решітка_клен
+item.block_koushib_saku.name=Горизонтальна решітка_сакури
+
+item.block_shishiodoshi.name=ШІШІ-ОДОШІ
+tips.block_shishiodoshi.name=Переверніть, поклавши його під час крастися. Клацніть правою кнопкою миші [почати / зупинити].
+
+item.block_hodagi_a_bot.name=Гриби деревина
+tips.block_hodagi_a_bot.name=Гриби ростуть у місці з рівнем освітлення 11 або менше.
+item.block_taru_kinoko_f.name=Грибна полиця
+tips.block_taru_kinoko.name=Полиця для приготування ДАШІ з грибами. Зібрати в скляну пляшку.
+item.block_taru_konbu_f.name=Ламінарія полиця
+tips.block_taru_konbu.name=Полиця для приготування ДАШІ з ламінарією. Зібрати в скляну пляшку.
+
+item.block_measurecup.name=Мірний стакан
+tips.block_measurecup.name=Чашки для забору води для приготування їжі.
+item.item_measurecup_full.name=Мірний стакан з водою
+tips.item_measurecup_full.name=Вода для приготування їжі
+
+item.block_suiden.name=Рисове поле
+tips.block_suiden.name=Посадіть тут рис. Якщо води немає поблизу, вона перетворюється на ґрунт.
+
+tile.block_noriami.name=Сітка від морські водорості
+tips.block_noriami.name=Поставте на воду і вирощуйте морські водорості.
+item.block_taru_nori_f.name=НОРІ полиця
+tips.block_taru_nori.name=Полиця для виготовлення НОРІ-листів із сирі морські водорості.
+
+tile.block_food_frypan_n_kinokoak.name=Гриби в соєвому соусі з цукром
+item.item_food_frypan_b_kinokoak.name=Гриби, зварені в соєвому соусі з цукром
+tips.item_frypan_kinokoak.name=Матеріал ФУТОМАКІ
+
+item.item_food_norinama.name=Сирі морські водорості
+item.item_food_noriita.name=НОРІ-лист
+item.item_food_onigiri.name=ОНІҐІРІ
+item.item_food_onigirishake.name=ОНІҐІРІ лосось
+item.item_food_futomaki.name=ФУТОМАКІ
+
+item.block_shoujihalf.name=Половина ШЬОДЖІ
+item.block_shoujihalf_acacia.name=Половина ШЬОДЖІ_акація
+item.block_shoujihalf_birch.name=Половина ШЬОДЖІ_березовий
+item.block_shoujihalf_darkoak.name=Половина ШЬОДЖІ_темного дуба
+item.block_shoujihalf_jungle.name=Половина ШЬОДЖІ_тропічного дерева
+item.block_shoujihalf_spruce.name=Половина ШЬОДЖІ_смерека
+item.block_shoujihalf_ichoh.name=Половина ШЬОДЖІ_гінкго
+item.block_shoujihalf_kaede.name=Половина ШЬОДЖІ_клен
+item.block_shoujihalf_sakura.name=Половина ШЬОДЖІ_сакури
+tips.block_shoujihalf.name=Переверніть, поклавши його під час крастися. Клацніть правою кнопкою миші [відкрити / закрити].
+
+item.block_garasudohalf.name=Половина ҐАРАСУДО
+item.block_garasudohalf_acacia.name=Половина ҐАРАСУДО_акація
+item.block_garasudohalf_birch.name=Половина ҐАРАСУДО_березовий
+item.block_garasudohalf_darkoak.name=Половина ҐАРАСУДО_темного дуба
+item.block_garasudohalf_jungle.name=Половина ҐАРАСУДО_тропічного дерева
+item.block_garasudohalf_spruce.name=Половина ҐАРАСУДО_смерека
+item.block_garasudohalf_ichoh.name=Половина ҐАРАСУДО_гінкго
+item.block_garasudohalf_kaede.name=Половина ҐАРАСУДО_клен
+item.block_garasudohalf_sakura.name=Половина ҐАРАСУДО_сакури
+
+item.block_tobukurowin.name=ТОБУКУРО вікно_темного дуба
+item.block_tobukuro.name=ТОБУКУРО_темного дуба
+item.block_tobukurowin_spruce.name=ТОБУКУРО вікно
+item.block_tobukuro_spruce.name=ТОБУКУРО
+tips.block_tobukuro.name=Переверніть, поклавши його під час крастися. Клацніть правою [відкрити/закрити].
+
+item.block_takeakari.name=Бамбуковий ліхтар
+item.block_takeakari_y.name=Бамбуковий ліхтар засмаглі
+item.block_takeakari_k.name=Бамбуковий ліхтар копчений
+tips.block_takeakari.name=Кам'яний ліхтар. Розпалити вогонь кременем і сталлю. Клацніть правою кнопкою миші [вимкнено].
+
+item.item_kushi_sakana.name=Сира риба на рожні
+item.item_kushi_sakana_c.name=Риба на рожні
+tips.item_kushi_sakana.name=Надягніть його на ІРОРІ і приготуйте.
+
+tile.block_taru_hachimitsushu_f.name=Медовуха бочка
+tips.block_taru_hachimitsushu.name=Бочка для виготовлення Медовуха. Після бродіння зібрати винною пляшкою.
+tile.block_bot_mead_1.name=Медовуха
+tile.block_bot_meadjuku_1.name=Зрілі медовуха
+item.block_glass_mead.name=Стакан з Медовуха
+item.block_glass_meadjuku.name=Стакан з Зрілі медовуха
+
+item.item_rotten_food.name=Гнила їжа
+tips.item_rotten_food.name=Компостований предмет
+
+tile.block_marinelamp.name=Морська лампа
+
+tile.block_bamboo_cube.name=Бамбуковий блок
+tile.block_bamboo_y_cube.name=Бамбуковий блок засмаглі
+tile.block_bamboo_k_cube.name=Бамбуковий блок копчений
+tile.block_bamboo_stairs.name=Бамбукові сходи
+tile.block_bamboo_y_stairs.name=Бамбукові сходи засмаглі
+tile.block_bamboo_k_stairs.name=Бамбукові сходи копчений
+tile.block_bamboo_slab.name=Бамбукова плита
+tile.block_bamboo_y_slab.name=Бамбукова плита засмаглі
+tile.block_bamboo_k_slab.name=Бамбукова плита копчений
+
+tile.block_wp_bamboo.name=Панель_бамбуковий блок
+tile.block_wp_bamboo_y.name=Панель_бамбуковий блок засмаглі
+tile.block_wp_bamboo_k.name=Панель_бамбуковий блок копчений
+
+item.block_bamboo_fence.name=Бамбуковий паркан
+item.block_bamboo_y_fence.name=Бамбуковий паркан засмаглі
+item.block_bamboo_k_fence.name=Бамбуковий паркан копчений
+item.block_bamboo_fencegate.name=Бамбукова хвіртка
+item.block_bamboo_y_fencegate.name=Бамбукова хвіртка засмаглі
+item.block_bamboo_k_fencegate.name=Бамбукова хвіртка копчений
+item.block_bamboo_door.name=Бамбукові двері
+item.block_bamboo_y_door.name=Бамбукові двері засмаглі
+item.block_bamboo_k_door.name=Бамбукові двері копчений
+
+item.block_fence_sakura.name=Сакури паркан
+item.block_fence_kaede.name=Клен паркан
+item.block_fence_ichoh.name=Гінкго паркан
+item.block_fencegate_sakura.name=Сакури хвіртка
+item.block_fencegate_kaede.name=Клен хвіртка
+item.block_fencegate_ichoh.name=Гінкго хвіртка
+
+item.block_inagi.name=ІНАҐІ
+tips.block_inagi.name=Повісьте 8 рисова рослина. Після висихання клацніть правою кнопкою миші, щоб зібрати рисова рослина.
+item.item_ine_dry.name=Висушена рисова рослина
+
+item.block_button_sakura.name=Сакури кнопка
+item.block_button_kaede.name=Клен кнопка
+item.block_button_ichoh.name=Гінкго кнопка
+item.block_plate_sakura.name=Сакури натискна плита
+item.block_plate_kaede.name=Клен натискна плита
+item.block_plate_ichoh.name=Гінкго натискна плита
+tile.block_trapdoor_sakura.name=Сакури люк
+tile.block_trapdoor_kaede.name=Клен люк
+tile.block_trapdoor_ichoh.name=Гінкго люк
+
+item.block_bamboo_button.name=Бамбукова кнопка
+item.block_bamboo_y_button.name=Бамбукова кнопка засмаглі
+item.block_bamboo_k_button.name=Бамбукова кнопка копчений
+item.block_bamboo_plate.name=Бамбукова натискна плита
+item.block_bamboo_y_plate.name=Бамбукова натискна плита засмаглі
+item.block_bamboo_k_plate.name=Бамбукова натискна плита копчений
+tile.block_bamboo_trapdoor.name=Бамбукова люк
+tile.block_bamboo_y_trapdoor.name=Бамбукова люк засмаглі
+tile.block_bamboo_k_trapdoor.name=Бамбукова люк копчений
+
+item.block_mizuoke.name=МІДЗУОКЕ
+tips.block_mizuoke.name=Дерев’яне відро, щоб отримати воду або молоко.
+item.block_mizuoke_full.name=Вода МІДЗУОКЕ
+tips.block_mizuoke_full.name=Дерев'яне відро для води, яке може перетворити пісок на соляний ставок.
+item.item_mizuoke_milk.name=Молоко МІДЗУОКЕ
+tips.item_mizuoke_milk.name=Дерев'яне відро для молока
+
+tile.block_enden.name=Соляний ставок
+tips.block_enden.name=Виготовлення солі за допомогою сонячного світла.
+
+item.block_wadaiko.name=ВАДАЙКО
+tile.block_wadaiko_small.name=Маленький ВАДАЙКО
+tips.block_wadaiko.name=Музичний інструмент для гри з палиця. Клацніть правою кнопкою миші під час крастися [змінити тип].
+chinjufumod.subtitle.wadaiko_top.name=Звук ВАДАЙКО
+chinjufumod.subtitle.wadaiko_side.name=Звук краю ВАДАЙКО
+
+#Kamoi
+item.block_kamoi_oak.name=Половина колонна
+item.block_kamoi_acacia.name=Половина колонна_акація
+item.block_kamoi_birch.name=Половина колонна_березовий
+item.block_kamoi_darkoak.name=Половина колонна_темного дуба
+item.block_kamoi_jungle.name=Половина колонна_тропічного дерева
+item.block_kamoi_spruce.name=Половина колонна_смерека
+item.block_kamoi_sakura.name=Половина колонна_сакури
+item.block_kamoi_kaede.name=Половина колонна_клен
+item.block_kamoi_ichoh.name=Половина колонна_гінкго
+
+item.item_hake.name=Пензлик
+tips.item_hake.name=Зробіть кольоровий пензлик з барвником.
+
+item.item_hake_black.name=Кольоровий пензлик_чорний
+item.item_hake_blue.name=Кольоровий пензлик_синій
+item.item_hake_brown.name=Кольоровий пензлик_коричневий
+item.item_hake_cyan.name=Кольоровий пензлик_бірюзовий
+item.item_hake_gray.name=Кольоровий пензлик_сірий
+item.item_hake_green.name=Кольоровий пензлик_зелений
+item.item_hake_lightblue.name=Кольоровий пензлик_блакитний
+item.item_hake_lightgray.name=Кольоровий пензлик_світло-сірий
+item.item_hake_lime.name=Кольоровий пензлик_лаймовий
+item.item_hake_magenta.name=Кольоровий пензлик_пурпурний
+item.item_hake_orange.name=Кольоровий пензлик_помаранчевий
+item.item_hake_pink.name=Кольоровий пензлик_рожевий
+item.item_hake_purple.name=Кольоровий пензлик_фіолетовий
+item.item_hake_red.name=Кольоровий пензлик_червоний
+item.item_hake_yellow.name=Кольоровий пензлик_жовтий
+item.item_hake_white.name=Кольоровий пензлик_білий
+
+tips.item_hake_color.name=Перефарбуйте блоки.
+chinjufumod.subtitle.paint.name=Звук живопису
+
+item.item_kumade.name=КУМАДЕ
+tips.item_kumade.name=Намалюйте візерунок на Пісок і Гравій.
+item.item_chisel.name=Долото
+tips.item_chisel.name=Перетворіть камінь і граніт на садовий камінь.
+	
+#6.1.2
+item.block_dirtwall_wall.name=Саман стінка
+item.block_pwall_white.name=ШІККУЙ стінка_білий
+item.block_pwall_orange.name=ШІККУЙ стінка_помаранчевий
+item.block_pwall_magenta.name=ШІККУЙ стінка_пурпурний
+item.block_pwall_lightb.name=ШІККУЙ стінка_блакитний
+item.block_pwall_yellow.name=ШІККУЙ стінка_жовтий
+item.block_pwall_lime.name=ШІККУЙ стінка_лаймовий
+item.block_pwall_pink.name=ШІККУЙ стінка_рожевий
+item.block_pwall_gray.name=ШІККУЙ стінка_сірий
+item.block_pwall_lightg.name=ШІККУЙ стінка_світло-сірий
+item.block_pwall_cyan.name=ШІККУЙ стінка_бірюзовий
+item.block_pwall_purple.name=ШІККУЙ стінка_фіолетовий
+item.block_pwall_blue.name=ШІККУЙ стінка_синій
+item.block_pwall_brown.name=ШІККУЙ стінка_коричневий
+item.block_pwall_green.name=ШІККУЙ стінка_зелений
+item.block_pwall_red.name=ШІККУЙ стінка_червоний
+item.block_pwall_black.name=ШІККУЙ стінка_чорний
+	
+item.block_nwall_white.name=НАМАКО стінка_білий
+item.block_nwall_orange.name=НАМАКО стінка_помаранчевий
+item.block_nwall_magenta.name=НАМАКО стінка_пурпурний
+item.block_nwall_lightb.name=НАМАКО стінка_блакитний
+item.block_nwall_yellow.name=НАМАКО стінка_жовтий
+item.block_nwall_lime.name=НАМАКО стінка_лаймовий
+item.block_nwall_pink.name=НАМАКО стінка_рожевий
+item.block_nwall_gray.name=НАМАКО стінка_сірий
+item.block_nwall_lightg.name=НАМАКО стінка_світло-сірий
+item.block_nwall_cyan.name=НАМАКО стінка_бірюзовий
+item.block_nwall_purple.name=НАМАКО стінка_фіолетовий
+item.block_nwall_blue.name=НАМАКО стінка_синій
+item.block_nwall_brown.name=НАМАКО стінка_коричневий
+item.block_nwall_green.name=НАМАКО стінка_зелений
+item.block_nwall_red.name=НАМАКО стінка_червоний
+item.block_nwall_black.name=НАМАКО стінка_чорний
+	
+item.block_nwall_b_white.name=НАМАКО стінка тип2_білий
+item.block_nwall_b_orange.name=НАМАКО стінка тип2_помаранчевий
+item.block_nwall_b_magenta.name=НАМАКО стінка тип2_пурпурний
+item.block_nwall_b_lightb.name=НАМАКО стінка тип2_блакитний
+item.block_nwall_b_yellow.name=НАМАКО стінка тип2_жовтий
+item.block_nwall_b_lime.name=НАМАКО стінка тип2_лаймовий
+item.block_nwall_b_pink.name=НАМАКО стінка тип2_рожевий
+item.block_nwall_b_gray.name=НАМАКО стінка тип2_сірий
+item.block_nwall_b_lightg.name=НАМАКО стінка тип2_світло-сірий
+item.block_nwall_b_cyan.name=НАМАКО стінка тип2_бірюзовий
+item.block_nwall_b_purple.name=НАМАКО стінка тип2_фіолетовий
+item.block_nwall_b_blue.name=НАМАКО стінка тип2_синій
+item.block_nwall_b_brown.name=НАМАКО стінка тип2_коричневий
+item.block_nwall_b_green.name=НАМАКО стінка тип2_зелений
+item.block_nwall_b_red.name=НАМАКО стінка тип2_червоний
+item.block_nwall_b_black.name=НАМАКО стінка тип2_чорний
+	
+tile.block_dirtwall_sama.name=Саман бійниця
+tile.block_sama_white.name=ШІККУЙ бійниця_білий
+tile.block_sama_orange.name=ШІККУЙ бійниця_помаранчевий
+tile.block_sama_magenta.name=ШІККУЙ бійниця_пурпурний
+tile.block_sama_lightb.name=ШІККУЙ бійниця_блакитний
+tile.block_sama_yellow.name=ШІККУЙ бійниця_жовтий
+tile.block_sama_lime.name=ШІККУЙ бійниця_лаймовий
+tile.block_sama_pink.name=ШІККУЙ бійниця_рожевий
+tile.block_sama_gray.name=ШІККУЙ бійниця_сірий
+tile.block_sama_lightg.name=ШІККУЙ бійниця_світло-сірий
+tile.block_sama_cyan.name=ШІККУЙ бійниця_бірюзовий
+tile.block_sama_purple.name=ШІККУЙ бійниця_фіолетовий
+tile.block_sama_blue.name=ШІККУЙ бійниця_синій
+tile.block_sama_brown.name=ШІККУЙ бійниця_коричневий
+tile.block_sama_green.name=ШІККУЙ бійниця_зелений
+tile.block_sama_red.name=ШІККУЙ бійниця_червоний
+tile.block_sama_black.name=ШІККУЙ бійниця_чорний
+tips.block_sama.name=Складіть однакові блоки, щоб зробити їх товщі.
+	
+item.block_kwall_white.name=Стіна Дах_білий
+item.block_kwall_orange.name=Стіна Дах_помаранчевий
+item.block_kwall_magenta.name=Стіна Дах_пурпурний
+item.block_kwall_lightb.name=Стіна Дах_блакитний
+item.block_kwall_yellow.name=Стіна Дах_жовтий
+item.block_kwall_lime.name=Стіна Дах_лаймовий
+item.block_kwall_pink.name=Стіна Дах_рожевий
+item.block_kwall_gray.name=Стіна Дах_сірий
+item.block_kwall_lightg.name=Стіна Дах_світло-сірий
+item.block_kwall_cyan.name=Стіна Дах_бірюзовий
+item.block_kwall_purple.name=Стіна Дах_фіолетовий
+item.block_kwall_blue.name=Стіна Дах_синій
+item.block_kwall_brown.name=Стіна Дах_коричневий
+item.block_kwall_green.name=Стіна Дах_зелений
+item.block_kwall_red.name=Стіна Дах_червоний
+item.block_kwall_black.name=Стіна Дах_чорний
+	
+tile.block_makibishi.name=МАКІБІШІ
+tips.block_makibishi.name=Ті, хто крок на цьому буде матиме шкоду.
+	
+item.item_shouhou_empty.name=Порожній звіт
+tips.item_shouhou_empty.name=Запишіть 100 точки EX за допомогою 'Пензлик і чорнильний камінь' або 'Набір пір'яної ручки'.
+item.item_shouhou.name=Бойовий звіт
+tips.item_shouhou.name=Використовуйте це, щоб отримати 100 точок EX.
+	
+item.item_toami.name=Рибальська сітка
+tips.item_toami.name=Якщо кинути це у рибу, можна зловити рибу.
+item.block_ami_shikake.name=Пастка для риби
+tips.block_ami_shikake.name=Якщо покласти його в океан чи річку, можна зловити рибу.
+item.block_ami_youshoku.name=Сітка для аквакультури
+tips.block_ami_youshoku.name=Збільште кількість тріски, лосося і тропічної риби, випущеної у сітка.
+tips.repair_ami.name=Ви можете полагодити його за допомогою нитка і 3 точки EX.
+	
+name.farmedcod.name=Культивована тріска
+name.farmedsalmon.name=Культивований лосось
+name.farmedtropicalfish.name=Культивована тропічна риба
+name.capturedcod.name=Спіймана тріска
+name.capturedsalmon.name=Спійманий лосось
+name.capturedtropicalfish.name=Спіймана тропічна риба
+	
+item.item_squid_raw.name=Сирий кальмар
+item.item_squid_cut.name=Тіло кальмара
+item.item_squid_cooked.name=Смажений кальмар
+tips.item_squid_raw.name=Його можна розділити на 2 чорнильний мішечки і тіло кальмара.
+item.block_food_donkaisen_1.name=КАЙСЕН-ДОН
+tips.block_food_donkaisen_1.name=Рис і свіжа сира риба
+	
+tile.block_snowcore.name=Маленький сніговий ком
+tips.block_snowcore.name=Катіть його снігом, щоб він став більше. Складіть два з них, щоб зліпити сніговик.
+item.block_snowman.name=Сніговик
+item.block_snowman_bot1.name=Сніговик
+tips.block_snowman.name=Він змінюється за допомогою моркви і вовни.
+	
+chinjufumod.subtitle.throw.name=Звук метання	
+chinjufumod.subtitle.write_report.name=Звук написання
+chinjufumod.subtitle.open.name=Відкритим
+chinjufumod.subtitle.open_oven.name=Відкритим
+chinjufumod.subtitle.touch_block.name=Ви торкнулися блоку
+chinjufumod.subtitle.error.name=Звук помилки
+chinjufumod.subtitle.swing.name=Звук розмаху
+	
+text.chinjufumod.rightclick.waterlogged.name=Його не можна використовувати, бо він залитий.
+text.chinjufumod.rightclick.notenough_exp.name=У вас недостатньо точки EX.
+text.chinjufumod.rightclick.nothave.name=У вас у руці немає предметів, які можна використати.
+text.chinjufumod.rightclick.notenough_items.name=У вас недостатня кількість елементів.
+text.chinjufumod.rightclick.notsneak.name=Клацніть по ньому правою кнопкою миші під час крастися.
+text.chinjufumod.rightclick.noplace.name=Нема куди його поставити.
+text.chinjufumod.rightclick.fullitem.name=У вашій руці повно предметів.
+text.chinjufumod.rightclick.earlycollect.name=Збирати ще рано.
+text.chinjufumod.rightclick.earlyuse.name=Використовувати ще рано.
+text.chinjufumod.rightclick.sleeping.name=Це спить.
+text.chinjufumod.rightclick.heat.name=Дайте йому нагрітися.
+text.chinjufumod.rightclick.cool.name=Дайте йому охолонути.
+text.chinjufumod.rightclick.blocked.name=Використовувана поверхня заблокована.
+text.chinjufumod.rightclick.empty.name=Він порожній.
+text.chinjufumod.rightclick.repair.name=Потребує ремонту.
+text.chinjufumod.rightclick.notdig.name=Це не тут.
+
+item.block_take.name=Бамбукові
+tile.block_takenoko.name=Бамбукові паростки
+tips.block_takenoko.name=Його можна їсти, запікаючи.
+tips.block_takenoko2.name=Коли ви саджаєте, він стає бамбуком.
+item.item_food_takenoko.name=Смажені бамбукові паростки
+	
+item.item_chestnuts_burr.name=Шкаралупа каштанів
+tile.block_chestnuts.name=Каштани
+tips.block_chestnuts.name=Його можна розділити на 2 плоди і шкаралупу.
+item.item_chestnut.name=Плід каштана
+tips.item_chestnut.name=Його можна їсти, запікаючи.
+item.item_food_chestnut.name=Смажений каштан
+item.block_food_nabekuri_n.name=ДОНАБЕ з сирими каштанами
+item.block_food_nabekuri_b.name=ДОНАБЕ з вареними каштанами
+item.item_chestnut_boil.name=Миска з вареними каштанами
+item.item_chestnut_mash.name=Миска з каштановим пюре
+item.item_food_chestnutsweet.name=КУРИКИНЬТОН
+tips.item_chestnutsweet.name=Солодощі з каштанового пюре.
+item.item_food_chestnutchoco.name=Шоколад_каштан
+
+tile.block_boxh_takenoko.name=Коробка бамбукові паростки
+tile.block_boxh_chestnut.name=Мішок каштани
+
+item.block_food_nabegohantake_n.name=ДОНАБЕ з сирим рисом і бамбуковими пагонами
+item.block_food_nabegohantake_1.name=ДОНАБЕ з вареним рисом і бамбуковими пагонами
+item.block_food_gohantake_1.name=ЧАВАН з вареним рисом і бамбуковими пагонами
+item.block_food_tgyteitake_1.name=Омлет сет-меню_бамбукові паростки
+item.block_food_yakizakanateitake_1.name=Риба на грилі сет-меню_бамбукові паростки
+item.block_food_yakijyaketeitake_1.name=Лосось на грилі сет-меню_бамбукові паростки
+tips.block_food_nabegohantake_1.name=Візьміть його з ЧАВАН або миска.
+	
+item.block_food_nabegohankuri_n.name=ДОНАБЕ з сирим рисом і каштанами
+item.block_food_nabegohankuri_1.name=ДОНАБЕ з вареним рисом і каштанами
+item.block_food_gohankuri_1.name=ЧАВАН з вареним рисом і каштанами
+item.block_food_tgyteikuri_1.name=Омлет сет-меню_каштан
+item.block_food_yakizakanateikuri_1.name=Риба на грилі сет-меню_каштан
+item.block_food_yakijyaketeikuri_1.name=Лосось на грилі сет-меню_каштан
+	
+item.item_mushigome_take.name=Миска з вареним рисом і бамбукові паростки
+item.item_mushigome_kuri.name=Миска з вареним рисом і каштан
+item.item_food_onigiritakenoko.name=ОНІҐІРІ_бамбукові паростки
+item.item_food_onigirikuri.name=ОНІҐІРІ_каштан
+	
+item.item_bentouhako.name=Коробка БЕНТО
+item.item_bentou.name=Смажена риба БЕНТО
+item.item_bentoushake.name=Смажена лосось БЕНТО
+item.item_bentou_take.name=Смажена риба БЕНТО_бамбукові паростки
+item.item_bentoushake_take.name=Смажена лосось БЕНТО_бамбукові паростки
+item.item_bentou_kuri.name=Смажена риба БЕНТО_каштан
+item.item_bentoushake_kuri.name=Смажена лосось БЕНТО_каштан
+tips.item_bentou.name=Клацніть правою кнопкою миші, щоб з'їсти його.
+	
+item.item_kaihori.name=Залізний КУМАДЕ
+tips.item_kaihori.name=На пляжі збирайте Хамаґурі з Пісок біля води.
+item.item_hamaguri_shell.name=Раковина Хамаґурі
+tile.block_hamaguri.name=Хамаґурі
+item.item_food_hamaguri.name=Смажені Хамаґурі
+item.block_food_frypan_n_seafood.name=Сковорода з сирими морепродуктами соус
+item.block_food_frypan_b_seafood.name=Сковорода з морепродуктами соус
+item.block_food_pastaseafood_1.name=Морепродуктами Паста
+	
+item.block_curtain_white.name=Штора_білий
+item.block_curtain_orange.name=Штора_помаранчевий
+item.block_curtain_magenta.name=Штора_пурпурний
+item.block_curtain_lightblue.name=Штора_блакитний
+item.block_curtain_yellow.name=Штора_жовтий
+item.block_curtain_lime.name=Штора_лаймовий
+item.block_curtain_pink.name=Штора_рожевий
+item.block_curtain_gray.name=Штора_сірий
+item.block_curtain_lightgray.name=Штора_світло-сірий
+item.block_curtain_cyan.name=Штора_бірюзовий
+item.block_curtain_purple.name=Штора_фіолетовий
+item.block_curtain_blue.name=Штора_синій
+item.block_curtain_brown.name=Штора_коричневий
+item.block_curtain_green.name=Штора_зелений
+item.block_curtain_red.name=Штора_червоний
+item.block_curtain_black.name=Штора_чорний
+	
+item.block_curtaintall_white.name=Довга штора_білий
+item.block_curtaintall_orange.name=Довга штора_помаранчевий
+item.block_curtaintall_magenta.name=Довга штора_пурпурний
+item.block_curtaintall_lightblue.name=Довга штора_блакитний
+item.block_curtaintall_yellow.name=Довга штора_жовтий
+item.block_curtaintall_lime.name=Довга штора_лаймовий
+item.block_curtaintall_pink.name=Довга штора_рожевий
+item.block_curtaintall_gray.name=Довга штора_сірий
+item.block_curtaintall_lightgray.name=Довга штора_світло-сірий
+item.block_curtaintall_cyan.name=Довга штора_бірюзовий
+item.block_curtaintall_purple.name=Довга штора_фіолетовий
+item.block_curtaintall_blue.name=Довга штора_синій
+item.block_curtaintall_brown.name=Довга штора_коричневий
+item.block_curtaintall_green.name=Довга штора_зелений
+item.block_curtaintall_red.name=Довга штора_червоний
+item.block_curtaintall_black.name=Довга штора_чорний
+	
+item.block_curtainlarge_white.name=Велика штора_білий
+item.block_curtainlarge_orange.name=Велика штора_помаранчевий
+item.block_curtainlarge_magenta.name=Велика штора_пурпурний
+item.block_curtainlarge_lightblue.name=Велика штора_блакитний
+item.block_curtainlarge_yellow.name=Велика штора_жовтий
+item.block_curtainlarge_lime.name=Велика штора_лаймовий
+item.block_curtainlarge_pink.name=Велика штора_рожевий
+item.block_curtainlarge_gray.name=Велика штора_сірий
+item.block_curtainlarge_lightgray.name=Велика штора_світло-сірий
+item.block_curtainlarge_cyan.name=Велика штора_бірюзовий
+item.block_curtainlarge_purple.name=Велика штора_фіолетовий
+item.block_curtainlarge_blue.name=Велика штора_синій
+item.block_curtainlarge_brown.name=Велика штора_коричневий
+item.block_curtainlarge_green.name=Велика штора_зелений
+item.block_curtainlarge_red.name=Велика штора_червоний
+item.block_curtainlarge_black.name=Велика штора_чорний
+chinjufumod.subtitle.curtain.name=Штора
+	
+item.item_ammunition_kijyuu.name=Патрон кулеметний
+tips.item_ammunition_kijyuu.name=Може використовуватися лише на кулеметах.
+item.item_cartridge_kijyuu.name=Гільза кулемета
+item.item_3rensou_kijyuu.name=Прототип 25мм потрійного кулемета
+tips.item_3rensou_kijyuu.name=Стріляйте патронами кулемета і атакуйте живих істот.
+tips.item_3rensou_kijyuu2.name=Натисніть і утримуйте, щоб стріляти безперервно.
+tips.item_3rensou_kijyuu3.name=Basic:1.0D, PlayerLV≧19:1.5D, LV≧25:2.0D
+chinjufumod.subtitle.am_hit.name=Куля влучила
+chinjufumod.subtitle.set_gun.name=Морська гармата напоготові.
+chinjufumod.subtitle.empty_ammo.name=Патрони закінчилися
+	
+item.item_kit_firstaid.name=Аптечка першої допомоги
+item.item_kit_goddess.name=Аптечка першої допомоги_Богиня
+tips.item_kit_firstaid.name=Якщо тримати його в лівій чи правій руці, то можна один раз уникнути смерті.
+text.chinjufumod.firstaid.name=Активуйте аварійний контроль пошкодження!!
+item.block_lightembed.name=Врізний світло
+	
+item.item_seeds_pepper.name=Саджанець перцю
+item.item_seeds_cumin.name=Насіння кмину
+item.item_seeds_turmeric.name=Кореневище куркуми
+item.item_seeds_chilipepper.name=Насіння перцю чилі
+tips.item_seeds_pepper.name=Посадіть його в теплий і світлий грунт, він виросте в дерево.
+tips.item_seeds_cumin.name=Посадіть в прохолодне і світле рілля, буде рости.
+tips.item_seeds_turmeric.name=Посади в тепле і світле рілля, буде рости.
+text.chinjufumod.too_cold.name=Його не можна садити в холодних біомах.
+text.chinjufumod.too_hot.name=Його не можна висаджувати в жарких біомах.
+
+item.item_crop_pepper.name=Перець горошком
+tips.item_crop_pepper.name=Висушити за допомогою бочка для бродіння.
+item.item_crop_pepperdry.name=Сушений перець горошком
+tips.item_crop_pepperdry.name=Ремесло стає порошкоподібною спецією.
+item.block_taru_pepper_f.name=Перець полиця
+tips.block_taru_pepper.name=Полиця для сушіння перців.
+item.item_crop_chilipepper.name=Перець чилі
+tile.block_boxh_bpepper.name=Мішок сушений перець горошком
+tile.block_boxh_chili.name=Мішок перцем чилі
+tile.block_boxh_cumin.name=Мішок кмину
+tile.block_boxh_turmeric.name=Мішок куркуми
+	
+item.item_dust_blackpepper.name=Чорний перець
+item.item_dust_cumin.name=Кмин
+item.item_dust_turmeric.name=Куркума
+item.item_dust_chili.name=Порошок чилі
+item.item_curry_roux.name=Каррі ру
+item.block_food_frypan_n_roux.name=Сковорода з сирою каррі ру
+
+item.block_food_zundou.name=Каструля
+item.block_food_cunabe_n.name=Каструля з сирим каррі з яловичини
+item.block_food_cunabe_1.name=Каструля з приготованим каррі з яловичини
+tips.block_food_cunabe_1.name=Візьміть його з Тарілкою з вареним рисом.
+item.block_food_curry_1.name=Каррі з яловичини і рису
+item.block_food_curryset_1.name=Каррі з яловичини і рисом сет-меню
+	
+item.block_food_cunabe_cn.name=Каструля з сирим каррі з курки
+item.block_food_cunabe_tn.name=Каструля з сирим каррі з томатів
+item.block_food_cunabe_c1.name=Каструля з приготованим каррі з курки
+item.block_food_cunabe_t1.name=Каструля з приготованим каррі з томатів
+item.block_food_curry_c1.name=Каррі з курки і рису
+item.block_food_curry_t1.name=Каррі з томатів і рису
+item.block_food_curryset_c1.name=Каррі з курки і риисом сет-меню
+item.block_food_curryset_t1.name=Каррі з томатів і рисом сет-меню
+	
+item.block_itabei.name=Паркан із дощок
+item.block_itabei_spruce.name=Паркан із дощок_смерека
+item.block_itabei_birch.name=Паркан із дощок_березовий
+item.block_itabei_jungle.name=Паркан із дощок_тропічного дерева
+item.block_itabei_acacia.name=Паркан із дощок_акація
+item.block_itabei_darkoak.name=Паркан із дощок_темного дуба
+item.block_itabei_sakura.name=Паркан із дощок_сакури
+item.block_itabei_kaede.name=Паркан із дощок_клен
+item.block_itabei_ichoh.name=Паркан із дощок_гінкго
+item.block_kido.name=Двері з дощок
+item.block_kido_spruce.name=Двері з дощок_смерека
+item.block_kido_birch.name=Двері з дощок_березовий
+item.block_kido_jungle.name=Двері з дощок_тропічного дерева
+item.block_kido_acacia.name=Двері з дощок_акація
+item.block_kido_darkoak.name=Двері з дощок_темного дуба
+item.block_kido_sakura.name=Двері з дощок_сакури
+item.block_kido_kaede.name=Двері з дощок_клен
+item.block_kido_ichoh.name=Двері з дощок_гінкго
+	
+item.block_food_frypan_n_osauce.name=Сковорідка з сирим соусом ОКОНОМІЯКІ
+item.block_food_frypan_b_osauce.name=Сковорідка з соусом ОКОНОМІЯКІ
+tips.block_food_frypan_osauce.name=Після приготування зібрати в скляну пляшку.
+item.block_food_teppan_n_okonomiyaki.name=Сирі ОКОНОМІЯКІ зі свининою
+item.block_food_teppan_n_okonomis.name=Сирі ОКОНОМІЯКІ з кальмарами
+item.block_food_teppan_n_okonomic.name=Сирі ОКОНОМІЯКІ з сиром
+item.block_food_okonomiyaki_1.name=ОКОНОМІЯКІ зі свининою
+item.block_food_okonomis_1.name=ОКОНОМІЯКІ з кальмарами
+item.block_food_okonomic_1.name=ОКОНОМІЯКІ з сиром
+item.block_mayo_bot.name=Майонез
+item.block_mayo_bot_2.name=Майонез
+item.block_mayo_bot_3.name=Майонез
+item.block_mayo_bot_4.name=Майонез
+item.block_osauce_bot.name=Соус ОКОНОМІЯКІ
+item.block_osauce_bot_2.name=Соус ОКОНОМІЯКІ
+item.block_osauce_bot_3.name=Соус ОКОНОМІЯКІ
+item.block_osauce_bot_4.name=Соус ОКОНОМІЯКІ
+tips.block_osauce_bot.name=Вустерський соус високої в'язкості
+	
+item.item_food_pizza_cn.name=Сира піца з сиром
+item.item_food_pizza_sn.name=Сира піца з кальмарами
+item.item_food_pizza_tn.name=Сира піца з куркою
+item.block_food_pizza_c1.name=Запечена піца з сиром
+item.block_food_pizza_s1.name=Запечена піца з кальмарами
+item.block_food_pizza_t1.name=Запечена піца з куркою
+item.item_food_pizzac.name=Шматок піци з сиром
+item.item_food_pizzas.name=Шматок піци з кальмарами
+item.item_food_pizzat.name=Шматок піци з куркою
+	
+#6.4.1
+item.item_seeds_greenonion.name=Насіння зеленої цибулі
+item.item_food_greenonion.name=Зелена цибуля
+tile.block_boxh_greenonion.name=Коробка зеленої цибулі
+
+item.item_kansui.name=Лужна вода
+item.item_food_ramen_n.name=Сирої локшини Рамен
+item.item_food_tare_shouyu.name=Соус Рамен з соєвим соусом
+item.item_food_tare_miso.name=Соус Рамен з МІСО
+item.item_food_tare_shio.name=Соус Рамен з сіллю
+item.item_food_rsoup_shouyu.name=Суп Рамен з соєвим соусом
+item.item_food_rsoup_miso.name=Суп Рамен з МІСО
+item.item_food_rsoup_shio.name=Суп Рамен з сіллю
+item.block_food_rsoup_n.name=Сирий курячий кістковий бульйон
+item.block_food_rsoup_1.name=Курячий кістковий бульйон
+	
+tips.item_kansui.name=Матеріал сирої локшини рамен.
+tips.item_food_tare.name=Клацніть правою кнопкою миші на курячому кістковому бульйоні.
+tips.item_food_rsoup.name=Клацніть правою кнопкою миші підготовлену локшину рамен.
+tips.item_food_shouyu_don.name=Клацніть правою кнопкою миші Каструля з ДАШІ.
+tips.item_food_tsuyu_don.name=Клацніть правою кнопкою миші підготовлений УДОН.
+	
+item.block_food_ramenshouyu_1.name=Рамен з соєвим соусом
+item.block_food_ramenmiso_1.name=Рамен з МІСО
+item.block_food_ramenshio_1.name=Рамен з сіллю
+
+item.item_food_sobaplate.name=Відварна лужна локшина
+tips.item_food_sobaplate.name=Матеріал ЯКІСОБА і ОКОНОМІЯКІ.
+item.block_food_teppan_n_okonomisoba.name=Сирі ОКОНОМІЯКІ зі свининою і локшиною
+item.block_food_teppan_n_okonomisobas.name=Сирі ОКОНОМІЯКІ з кальмарами і локшиною
+item.block_food_teppan_n_okonomisobac.name=Сирі ОКОНОМІЯКІ з сиром і локшиною
+item.block_food_okonomisoba_1.name=ОКОНОМІЯКІ зі свининою і локшиною
+item.block_food_okonomisobas_1.name=ОКОНОМІЯКІ з кальмарами і локшиною
+item.block_food_okonomisobac_1.name=ОКОНОМІЯКІ з сиром і локшиною
+item.block_food_teppan_n_yakisoba.name=Сирі ЯКІСОБА з Вустерський соус
+item.block_food_teppan_n_yakisobashio.name=Сирі ЯКІСОБА з сіллю
+item.block_food_yakisoba_1.name=ЯКІСОБА з Вустерський соус
+item.block_food_yakisobashio_1.name=ЯКІСОБА з сіллю
+	
+tile.block_kit_reizou.name=Холодильник
+chinjufumod.subtitle.reizou_open.name=Відкрити
+chinjufumod.subtitle.reizou_close.name=Закрити
+item.item_kineyoko.name=Дерев'яний КІНЕ
+tile.block_usutsuki.name=Дерев'яний УСУ
+tips.block_usutsuki.name=Інструмент для виготовлення МОЧІ.
+item.item_mochi.name=МОЧІ
+item.item_food_mochinori.name=ІЗОБЕ-МОЧІ
+tips.item_food_mochinori.name=МОЧІ з НОРІ та соєвим соусом.
+item.item_food_mochikinako.name=КІНАКО-МОЧІ
+tips.item_food_mochikinako.name=МОЧІ з соєвою пудрою та цукром.
+	
+tile.block_report_box.name=Скринька для звіту про результати
+tips.block_report_box.name=Робочі накази роздруковуються на результат
+chinjufumod.subtitle.basalt_deltas_click2.name=Шум
+	
+IRORI.name=ІРОРІ
+INAGI.name=ІНАҐІ
+MIZUOKE.name=МІДЗУОКЕ
+DONABE.name=ДОНАБЕ
+TONSUI.name=ТОНСУІ
+CHAWAN.name=ЧАВАН
+KYUSU.name=КЮСУ
+YUNOMI.name=ЮНОМІ
+SHIKKI.name=ШІККІ
+URUSHI.name=УРУШІ
+MISO.name=МІСО
+NIGARI.name=НІҐАРІ
+TOFU.name=ТОФУ
+KOMEKOUJI.name=КОМЕКОУДЗІ
+SHUBO.name=ШУБО
+MOROMI.name=МОРОМІ
+
+SAKE.name=САКЕ
+SUSHI.name=СУШІ
+DONBURI.name=ДОНБУРІ
+OYAKODON.name=ОЯКО-ДОН
+KATSUDON.name=КАЦУ-ДОН
+GYUDON.name=ҐЮ-ДОН
+KAISEN-DON.name=КАЙСЕН-ДОН
+UDON.name=УДОН
+DASHI.name=ДАШІ
+NORI.name=НОРІ
+FUTOMAKI.name=ФУТОМАКІ
+ONIGIRI.name=ОНІҐІРІ
+SENBEI.name=СЕНБЕІ
+TAWARA.name=ТАВАРА
+
+KAGAMIMOCHI.name=КАҐАМІМОЧІ
+SHIMENAWA.name=ШІМЕНАВА
+KADOMATSU.name=КАДОМАЦУ
+TOSHIGAMI.name=ТОШІҐАМІ
+CHABUDAI.name=ЧАБУДАЙ
+KOTATSU.name=КОТАЦУ
+HINADAN.name=ХІНАДАН
+HINAKAZARI.name=ХІНАКАДЗАРІ
+HINAMATSURI.name=ХІНАМАЦУРІ
+Kakigōri.name=КАКІҐОРІ
+KURIKINTON.name=КУРИКИНЬТОН
+
+GETA.name=ҐЕТА
+YUKATA.name=ЮКАТА
+
+SHOUJI.name=ШЬОДЖІ
+GARASUDO.name=ҐАРАСУДО
+RANMA.name=РАНМА
+BONSAI.name=БОНСАЙ
+SUDARE.name=СУДАРЕ
+FUSUMA.name=ФУСУМА
+NOREN.name=НОРЕН
+ZABUTON.name=ЗАБУТОН
+ZAISU.name=ДЗАЙСУ
+TATAMI.name=ТАТАМІ
+FUTON.name=ФУТОН
+ANDON.name=АНДОН
+WAGASA.name=ВАҐАСА
+TOBUKURO.name=ТОБУКУРО
+AMADO.name=АМАДО
+WADAIKO.name=ВАДАЙКО
+CHOZUBACHI.name=ЧОЗУБАЧІ
+ISHITOUROU.name=ІСІТОРОУ
+SHISHI-ODOSHI.name=ШІШІ-ОДОШІ
+KUMADE.name=КУМАДЕ
+MAKIBISHI.name=МАКІБІШІ
+
+KAWARA.name=КАВАРА
+SHIKKUI.name=ШІККУЙ
+NAMAKO.name=НАМАКО
+
+RYUSEI.name=РЮСЕЙ
+TENZAN.name=ТЕНЗАН
+
+FUBUKI.name=ФУБУКІ
+KASUMI.name=КАСУМІ
+SHIRATSUYU.name=ШІРАЦУЮ
+SHIGURE.name=ШІҐУРЕ
+AKATSUKI.name=АКАЦУКІ
+SENDAI.name=СЕНДАЙ
+YURA.name=ЮРА
+MOGAMI.name=МОҐАМІ
+TONE.name=ТОНЕ
+RYUJOU.name=РЮДЗЬО
+AKAGI.name=АКАҐІ
+KAGA.name=КАҐА
+KONGOU.name=КОНҐОУ
+FUSOU.name=ФУСОУ
+NAGATO.name=НАҐАТО
+SUMI.name=СУМІ
+AKASHI.name=АКАШІ
+KUMANO.name=КУМАНО
+SUZUYA.name=СУЗУЯ
+IKADUCHI.name=ІКАДУЧІ
+INADUMA.name=ІНАДУМА
+HAMAKAZE.name=ХАМАКАЗЕ
+URAKAZE.name=УРАКАЗЕ
+KAWAKAZE.name=КАВАКАЗЕ
+OBORO.name=ОБОРО
+
+Scone.name=Скон
+}

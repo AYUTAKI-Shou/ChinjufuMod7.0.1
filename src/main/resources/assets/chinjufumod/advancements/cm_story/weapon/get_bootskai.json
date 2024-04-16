@@ -1,0 +1,121 @@
+{
+	"parent": "chinjufumod:cm_story/weapon/get_armor",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.weapon.get_bootskai.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.weapon.get_bootskai.description"
+		},
+		"icon": {
+			"item": "chinjufumod:item_fubuki_bootskai"
+		},
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_fubuki_bootskai" } ] }
+		},
+		"has_material2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_kasumi_bootskai" } ] }
+		},
+		"has_material3": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_shiratsuyu_bootskai" } ] }
+		},
+		"has_material4": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_shigure_bootskai" } ] }
+		},
+		
+		"has_material5": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_sendai_bootskai" } ] }
+		},
+		"has_material6": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_yura_bootskai" } ] }
+		},
+		"has_material7": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_mogami_bootskai" } ] }
+		},
+		"has_material8": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_tone_bootskai" } ] }
+		},
+
+		"has_material9": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_ryujou_bootskai" } ] }
+		},
+		"has_material10": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_zuihou_bootskai" } ] }
+		},
+		"has_material11": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_akagi_bootskai" } ] }
+		},
+		"has_material12": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_kaga_bootskai" } ] }
+		},
+		"has_material13": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_kongou_bootskai" } ] }
+		},
+		"has_material14": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_akatsuki_bootskai" } ] }
+		},
+		"has_material15": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_fusou_bootskai" } ] }
+		},
+		"has_material16": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_nagato_bootskai" } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material",
+			"has_material2",
+			"has_material3",
+			"has_material4",
+			"has_material5",
+			"has_material6",
+			"has_material7",
+			"has_material8",
+			"has_material9",
+			"has_material10",
+			"has_material11",
+			"has_material12",
+			"has_material13",
+			"has_material14",
+			"has_material15",
+			"has_material16"
+		]
+	],
+	"rewards": { "experience":10 }
+}

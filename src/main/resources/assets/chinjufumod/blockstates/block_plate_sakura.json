@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"powered=false": { "model": "chinjufumod:wooden/plate_sakura" },
+		"powered=true": { "model": "chinjufumod:wooden/plate_sakura_down" }
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"axis=y":  { "model": "chinjufumod:tree/ichoh_log" },
+		"axis=z":   { "model": "chinjufumod:tree/ichoh_log", "x": 90 },
+		"axis=x":   { "model": "chinjufumod:tree/ichoh_log", "x": 90, "y": 90 },
+		"axis=none": { "model": "chinjufumod:tree/ichoh_log" }
+	}
+}

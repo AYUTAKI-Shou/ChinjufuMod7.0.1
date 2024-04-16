@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/wallpanel_wide",
+	"textures": {
+		"particle": "minecraft:blocks/log_big_oak_top",
+		"front": "minecraft:blocks/log_big_oak_top",
+		"back": "minecraft:blocks/log_big_oak_top",
+		"side": "minecraft:blocks/log_big_oak"
+	}
+}

@@ -1,0 +1,152 @@
+{
+	"parent": "chinjufumod:cm_story/jpblock/get_tatami",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.jpblock.get_jpgarden.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.jpblock.get_jpgarden.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_bonsai", "data": 0
+		},
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_bonsai", "data": 0 } ] }
+		},
+		"has_material2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_bonsai", "data": 1 } ] }
+		},
+		"has_material3": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_bonsai", "data": 2 } ] }
+		},
+		"has_material4": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_bonsai", "data": 3 } ] }
+		},
+		"has_material5": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_bonsai", "data": 4 } ] }
+		},
+		"has_material6": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_bonsai", "data": 5 } ] }
+		},
+		"has_material7": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_bonsai", "data": 6 } ] }
+		},
+		"has_material8": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_bonsai", "data": 7 } ] }
+		},
+		"has_material9": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_bonsai", "data": 8 } ] }
+		},
+		"has_material10": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_bonsai", "data": 9 } ] }
+		},
+		
+		"has_material11": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_shishiodoshi", "data": 0 } ] }
+		},
+		"has_material12": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_chouzubachi_kara", "data": 0 } ] }
+		},
+		"has_material13": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_chouzubachi_kara", "data": 1 } ] }
+		},
+		"has_material14": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_chouzubachi_kara", "data": 2 } ] }
+		},
+		"has_material15": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_chouzubachi_kara", "data": 3 } ] }
+		},
+		
+		"has_material16": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_ishitourou_stone", "data": 1 } ] }
+		},
+		"has_material17": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_ishitourou_stone", "data": 2 } ] }
+		},
+		"has_material18": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_ishitourou_stone", "data": 3 } ] }
+		},
+		"has_material19": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_ishitourou_stone", "data": 4 } ] }
+		},
+		
+		"has_material20": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_kumade", "data": 0 } ] }
+		},
+		"has_material21": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:item_chisel", "data": 0 } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material",
+			"has_material2",
+			"has_material3",
+			"has_material4",
+			"has_material5",
+			"has_material6",
+			"has_material7",
+			"has_material8",
+			"has_material9",
+			"has_material10",
+			"has_material11",
+			"has_material12",
+			"has_material13",
+			"has_material14",
+			"has_material15",
+			"has_material16",
+			"has_material17",
+			"has_material18",
+			"has_material19",
+			"has_material20",
+			"has_material21"
+		]
+	],
+	"rewards": { "experience": 10 }
+}

@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_eggb",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "cropCarrot" },
+		{ "item": "chinjufumod:block_food_cornsp_1" },
+		{ "item": "chinjufumod:item_food_bun" },
+		{ "type": "forge:ore_dict", "ore": "cropCabbage" },
+		{ "type": "forge:ore_dict", "ore": "cropSpinach" },
+		{ "type": "forge:ore_dict", "ore": "cropTomato" },
+		{ "item": "chinjufumod:item_food_sara" },
+		{ "item": "chinjufumod:item_food_sara" },
+		{ "item": "chinjufumod:block_food_egb_1" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_egbset_1", "data": 0, "count" : 1 }
+}

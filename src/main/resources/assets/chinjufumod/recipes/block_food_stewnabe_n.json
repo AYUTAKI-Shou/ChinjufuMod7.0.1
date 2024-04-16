@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_zundou",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "cropPotato" },
+		{ "type": "forge:ore_dict", "ore": "cropCarrot" },
+		[ { "type": "forge:ore_dict", "ore": "chicken" }, { "type": "forge:ore_dict", "ore": "listAllchickencooked" } ],
+		{ "type": "forge:ore_dict", "ore": "bucketWater" },
+		{ "type": "forge:ore_dict", "ore": "bucketMilk" },
+		[ { "type": "forge:ore_dict", "ore": "dustSalt" }, { "type": "forge:ore_dict", "ore": "foodSalt" }, { "type": "forge:ore_dict", "ore": "itemSalt" } ],
+		{ "type": "forge:ore_dict", "ore": "foodFlour" },
+		{ "type": "forge:ore_dict", "ore": "cropOnion" },
+		{ "item": "chinjufumod:block_food_zundou", "data": 0 }
+	],
+
+	"result": { "item": "chinjufumod:block_food_cunabe_n", "data": 3, "count" : 1 }
+}

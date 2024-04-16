@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_gohan",
+
+	"pattern": [
+		"X"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "seedRice" }
+	},
+
+	"result": { "item": "chinjufumod:item_kome", "data": 0, "count": 1 }
+}

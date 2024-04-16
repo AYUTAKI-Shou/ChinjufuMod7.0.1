@@ -1,0 +1,122 @@
+{
+	"parent": "chinjufumod:cm_story/season/get_5_tealeaf",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.season.get_6_kasa.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.season.get_6_kasa.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_mkasa", "data": 14
+		},
+		"show_toast": true,
+		"announce_to_chat": true
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_mkasa", "data": 0 } ] }
+		},
+		"has_material2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_mkasa", "data": 1 } ] }
+		},
+		"has_material3": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_mkasa", "data": 2 } ] }
+		},
+		"has_material4": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_mkasa", "data": 3 } ] }
+		},
+		
+		"has_material5": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_mkasa", "data": 4 } ] }
+		},
+		"has_material6": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_mkasa", "data": 5 } ] }
+		},
+		"has_material7": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_mkasa", "data": 6 } ] }
+		},
+		"has_material8": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_mkasa", "data": 7 } ] }
+		},
+		
+		"has_material9": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_mkasa", "data": 8 } ] }
+		},
+		"has_material10": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_mkasa", "data": 9 } ] }
+		},
+		"has_material11": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_mkasa", "data": 10 } ] }
+		},
+		"has_material12": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_mkasa", "data": 11 } ] }
+		},
+		
+		"has_material13": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_mkasa", "data": 12 } ] }
+		},
+		"has_material14": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_mkasa", "data": 13 } ] }
+		},
+		"has_material15": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_mkasa", "data": 14 } ] }
+		},
+		"has_material16": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_mkasa", "data": 15 } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material",
+			"has_material2",
+			"has_material3",
+			"has_material4",
+			"has_material5",
+			"has_material6",
+			"has_material7",
+			"has_material8",
+			"has_material9",
+			"has_material10",
+			"has_material11",
+			"has_material12",
+			"has_material13",
+			"has_material14",
+			"has_material15",
+			"has_material16"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

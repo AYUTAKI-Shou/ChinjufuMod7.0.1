@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_donburi",
+
+	"ingredients": [
+		{ "type": "forge:ore_dict", "ore": "egg" },
+		{ "item": "minecraft:sugar" },
+		[ { "item": "chinjufumod:item_measurecup_full", "data": 0 }, { "item": "minecraft:potion", "data": 0 } ],
+		{ "type": "forge:ore_dict", "ore": "foodSoysauce" },
+		{ "type": "forge:ore_dict", "ore": "dustDashi" },
+		{ "type": "forge:ore_dict", "ore": "cropOnion" },
+		{ "item": "chinjufumod:block_food_frypan_b2", "data": 3 }
+	],
+
+	"result": { "item": "chinjufumod:block_food_frypan_n2", "data": 4, "count" : 1 }
+}

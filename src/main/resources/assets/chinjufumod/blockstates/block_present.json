@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:season/present_app", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:season/present_app", "y": 0 },
+		"facing=west,stage=1":  { "model": "chinjufumod:season/present_app", "y": 90 },
+		"facing=east,stage=1":  { "model": "chinjufumod:season/present_app", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:season/present_bok", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:season/present_bok", "y": 0 },
+		"facing=west,stage=2":  { "model": "chinjufumod:season/present_bok", "y": 90 },
+		"facing=east,stage=2":  { "model": "chinjufumod:season/present_bok", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:season/present_dia", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:season/present_dia", "y": 0 },
+		"facing=west,stage=3":  { "model": "chinjufumod:season/present_dia", "y": 90 },
+		"facing=east,stage=3":  { "model": "chinjufumod:season/present_dia", "y": 270 },
+
+		"facing=north,stage=4": { "model": "chinjufumod:season/present_lap", "y": 180 },
+		"facing=south,stage=4": { "model": "chinjufumod:season/present_lap", "y": 0 },
+		"facing=west,stage=4":  { "model": "chinjufumod:season/present_lap", "y": 90 },
+		"facing=east,stage=4":  { "model": "chinjufumod:season/present_lap", "y": 270 }
+	}
+}

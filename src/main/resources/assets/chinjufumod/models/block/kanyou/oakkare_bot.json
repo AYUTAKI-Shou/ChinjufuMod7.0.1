@@ -1,0 +1,11 @@
+{
+	"parent": "chinjufumod:block/base/kanyou_bot",
+	"textures": {
+		"particle": "minecraft:blocks/log_oak",
+		"miki": "minecraft:blocks/log_oak",
+		"miki_top": "minecraft:blocks/log_oak_top",
+		"ha": "chinjufumod:block/leaf_oakkare_gray",
+		"hachi": "chinjufumod:block/dish_brown",
+		"tuchi": "minecraft:blocks/farmland_wet"
+	}
+}

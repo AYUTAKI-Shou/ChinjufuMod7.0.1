@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"down=false,facing=north": { "model": "chinjufumod:written/makimono5", "y": 180 },
+		"down=false,facing=south": { "model": "chinjufumod:written/makimono5" },
+		"down=false,facing=west": { "model": "chinjufumod:written/makimono5", "y": 90 },
+		"down=false,facing=east": { "model": "chinjufumod:written/makimono5", "y": 270 },
+					
+			"down=true,facing=north": { "model": "chinjufumod:written/makimono5_down", "y": 180 },
+			"down=true,facing=south": { "model": "chinjufumod:written/makimono5_down" },
+			"down=true,facing=west": { "model": "chinjufumod:written/makimono5_down", "y": 90 },
+			"down=true,facing=east": { "model": "chinjufumod:written/makimono5_down", "y": 270 }
+	}
+}

@@ -1,0 +1,49 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/haiki_duct",
+		"long": "chinjufumod:block/haiki_duct"
+	},
+	"elements": [
+		{
+			"name": "north_________________________________________",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 1 ],
+			"faces": {
+				"up": { "texture": "#long" },
+				"north": { "texture": "#long" },
+				"south": { "texture": "#long" },
+				"east": { "texture": "#long" }
+			}
+		},
+		{
+			"name": "up",
+			"from": [ 0, 15, 1 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"up": { "texture": "#long" },
+				"down": { "texture": "#long" },
+				"east": { "texture": "#long" }
+			}
+		},
+		{
+			"name": "east",
+			"from": [ 15, 0, 1 ],
+			"to": [ 16, 15, 16 ],
+			"faces": {
+				"west": { "texture": "#long" },
+				"east": { "texture": "#long" }
+			}
+		},
+
+		{
+			"name": "west",
+			"from": [ 0, 0, 15 ],
+			"to": [ 1, 15, 16 ],
+			"faces": {
+				"north": { "texture": "#long" },
+				"east": { "texture": "#long" }
+			}
+		}
+	]
+}

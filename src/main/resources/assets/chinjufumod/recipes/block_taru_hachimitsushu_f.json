@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_alcohol",
+
+	"ingredients": [
+		[ { "type": "forge:ore_dict", "ore": "foodHoney" }, { "type": "forge:ore_dict", "ore": "foodHoneydrop" } ],
+		[ { "type": "forge:ore_dict", "ore": "foodHoney" }, { "type": "forge:ore_dict", "ore": "foodHoneydrop" } ],
+		[ { "type": "forge:ore_dict", "ore": "foodHoney" }, { "type": "forge:ore_dict", "ore": "foodHoneydrop" } ],
+		{ "type": "forge:ore_dict", "ore": "bucketWater" },
+		{ "type": "forge:ore_dict", "ore": "itemYeast" },
+		{ "item": "chinjufumod:block_taru_hakkou", "data": 0 }
+	],
+
+	"result": { "item": "chinjufumod:block_taru_hachimitsushu_f", "count": 1 }
+}

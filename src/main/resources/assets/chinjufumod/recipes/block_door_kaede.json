@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_door",
+
+	"pattern": [
+		"XX",
+		"XX",
+		"XX"
+	],
+
+	"key": {
+		"X": { "type": "forge:ore_dict", "ore": "plankWoodAcer" }
+	},
+
+	"result": { "item": "chinjufumod:block_door_s", "data": 1, "count": 3 }
+}

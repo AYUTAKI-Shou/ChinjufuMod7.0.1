@@ -1,0 +1,20 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:taru/hakkou" },
+		"stage=1": { "model": "chinjufumod:taru/kouji_f" },
+		"stage=2": { "model": "chinjufumod:taru/kouji_1" },
+		"stage=3": { "model": "chinjufumod:taru/shubo_f" },
+		"stage=4": { "model": "chinjufumod:taru/shubo_1" },
+		"stage=5": { "model": "chinjufumod:taru/moromi_f" },
+		"stage=6": { "model": "chinjufumod:taru/moromi_1" },
+		"stage=7": { "model": "chinjufumod:taru/jukusei_f" },
+		"stage=8": { "model": "chinjufumod:taru/jukusei_1" },
+		"stage=9": { "model": "chinjufumod:taru/miso_f" },
+		"stage=10": { "model": "chinjufumod:taru/miso_1" },
+		"stage=11": { "model": "chinjufumod:taru/miso_kara" },
+		"stage=12": { "model": "chinjufumod:taru/koucha_f" },
+		"stage=13": { "model": "chinjufumod:taru/koucha_1" },
+		"stage=14": { "model": "chinjufumod:taru/koucha_k" },
+		"stage=15": { "model": "chinjufumod:taru/kouji_k" }
+	}
+}

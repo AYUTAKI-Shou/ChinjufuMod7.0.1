@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:shelfdish/saraa", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:shelfdish/saraa", "y": 0 },
+		"facing=west,stage=1": { "model": "chinjufumod:shelfdish/saraa", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:shelfdish/saraa", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:shelfdish/sarab", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:shelfdish/sarab", "y": 0 },
+		"facing=west,stage=2": { "model": "chinjufumod:shelfdish/sarab", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:shelfdish/sarab", "y": 270 }
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "chinjufumod:block/base/dressingtable_top",
+	"textures": {
+		"particle":"chinjufumod:block/dtable_bott_sakura",
+		"top": "chinjufumod:block/dtable_top_sakura",
+		"bottom": "chinjufumod:block/dtable_bott_sakura",
+		"up": "chinjufumod:block/planks_sakura",
+		"item": "chinjufumod:block/dtable_item",
+		"leg": "chinjufumod:block/muku_sakura"
+	}
+}

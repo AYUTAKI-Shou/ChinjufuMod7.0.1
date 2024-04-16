@@ -1,0 +1,7 @@
+{
+	"parent": "chinjufumod:block/base/chouzubachi_kara",
+	"textures": {
+ 		"particle": "minecraft:blocks/stone",
+ 		"ishi": "minecraft:blocks/stone"
+	}
+}

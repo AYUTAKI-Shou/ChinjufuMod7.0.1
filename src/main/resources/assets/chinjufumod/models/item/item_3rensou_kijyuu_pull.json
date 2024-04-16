@@ -1,0 +1,20 @@
+{
+	"parent": "chinjufumod:block/rensouhou/3rensou_kijyuu_pull",
+	"gui_light": "front", "display": {
+		"gui": {
+			"rotation": [ 90, 225, 0 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 0.5, 0.5, 0.5 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 0, 180, 0 ],
+			"translation": [ -0.25, 3.2, 0.75 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 20, 187.5, -7.5 ],
+			"translation": [ -5.2, 2, 0 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		}
+	}
+}
