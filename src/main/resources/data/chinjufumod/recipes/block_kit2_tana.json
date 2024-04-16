@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_alcohol",
+
+	"pattern": [
+		"X X",
+		"XYX",
+		"XYX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:oak_planks" },
+		"Y": { "item": "minecraft:oak_slab" }
+	},
+
+	"result": { "item": "chinjufumod:block_kit2_tana", "count": 4 }
+}

@@ -1,0 +1,98 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/sofa_leather_top",
+		"leg": "chinjufumod:block/muku_spruce",
+		"side": "chinjufumod:block/sofa_leather_side",
+		"top": "chinjufumod:block/sofa_leather_top",
+		"back": "chinjufumod:block/sofa_leather_back"
+	},
+	"elements": [
+		{
+			"name": "leg_right_back",
+			"from": [ 0.5, 0, 2.5 ],
+			"to": [ 2, 1.0, 4 ],
+			"faces": {
+				"down": { "texture": "#leg", "cullface": "down" },
+				"north": { "texture": "#leg" },
+				"south": { "texture": "#leg" },
+				"east": { "texture": "#leg" },
+				"west": { "texture": "#leg" }
+			}
+		},
+		{
+			"name": "leg_left_back",
+			"from": [ 15.25, 0, 2.5 ],
+			"to": [ 16, 1.0, 4 ],
+			"faces": {
+				"down": { "texture": "#leg", "cullface": "down" },
+				"north": { "texture": "#leg" },
+				"south": { "texture": "#leg" },
+				"east": { "texture": "#leg" },
+				"west": { "texture": "#leg" }
+			}
+		},
+		{
+			"name": "leg_left_front",
+			"from": [ 15.25, 0, 14 ],
+			"to": [ 16, 1.0, 15.5 ],
+			"faces": {
+				"down": { "texture": "#leg", "cullface": "down" },
+				"north": { "texture": "#leg" },
+				"south": { "texture": "#leg" },
+				"east": { "texture": "#leg" },
+				"west": { "texture": "#leg" }
+
+			}
+		},
+		{
+			"name": "leg_right_front",
+			"from": [ 0.5, 0, 14 ],
+			"to": [ 2, 1.0, 15.5 ],
+			"faces": {
+				"down": { "texture": "#leg", "cullface": "down" },
+				"north": { "texture": "#leg" },
+				"south": { "texture": "#leg" },
+				"east": { "texture": "#leg" },
+				"west": { "texture": "#leg" }
+			}
+		},
+
+		{
+			"name": "sit",
+			"from": [ 2, 1.0, 2 ],
+			"to": [ 16, 6, 14 ],
+			"faces": {
+				"up": { "uv": [ 14.0, 14.0, 0.0, 2.0 ], "texture": "#top" },
+				"down": { "uv": [ 14.0, 2.0, 0.0, 14.0 ], "texture": "#side" },
+				"north": { "uv": [ 0.0, 10.0, 14.0, 15.0 ], "texture": "#side" }
+			}
+		},
+		{
+			"name": "back",
+			"from": [ 0, 1.0, 14 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"up": { "uv": [ 16.0, 2.0, 0.0, 0.0 ], "texture": "#side" },
+				"down": { "uv": [ 16.0, 0.0, 0.0, 2.0 ], "texture": "#side" },
+				"north": { "uv": [ 0.0, 0.0, 16.0, 15.0 ], "texture": "#back" },
+				"south": { "uv": [ 16.0, 0.0, 0.0, 15.0 ], "texture": "#side" },
+				"east": { "uv": [ 0.0, 0.0, 2.0, 15.0 ], "texture": "#side" },
+				"west": { "uv": [ 2.0, 0.0, 0.0, 15.0 ], "texture": "#side" }
+			}
+		},
+
+		{
+			"name": "arm_rest_right",
+			"from": [ 0, 1.0, 2 ],
+			"to": [ 2, 11, 14 ],
+			"faces": {
+				"up": { "uv": [ 2.0, 2.0, 14.0, 0.0 ], "texture": "#side", "rotation": 90 },
+				"down": { "uv": [ 16.0, 2.0, 14.0, 14.0 ], "texture": "#side" },
+				"north": { "uv": [ 14.0, 5.0, 16.0, 15.0 ], "texture": "#side" },
+				"east": { "uv": [ 14.0, 5.0, 2.0, 15.0 ], "texture": "#side" },
+				"west": { "uv": [ 14.0, 5.0, 2.0, 15.0 ], "texture": "#side" }
+			}
+		}
+	]
+}

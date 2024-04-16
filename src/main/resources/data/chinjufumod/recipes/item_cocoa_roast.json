@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "chinjufumod:item_cocoa_ferm"
+	},
+	"result": "chinjufumod:item_cocoa_roast",
+	"experience": 0.5,
+	"cookingtime": 200
+}

@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/tabakusa_rf_top",
+	"textures": {
+		"particle": "chinjufumod:block/taba_kusa",
+		"top": "chinjufumod:block/taba_kusa_top",
+		"side": "chinjufumod:block/taba_kusa"
+	}
+}

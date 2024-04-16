@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_seeds",
+
+	"pattern": [
+		"X"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:item_food_cabbage" }
+	},
+
+	"result": { "item": "chinjufumod:item_seeds_cabbage", "count": 1 }
+}

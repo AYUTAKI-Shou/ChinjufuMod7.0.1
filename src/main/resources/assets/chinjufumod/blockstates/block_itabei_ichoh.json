@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"facing=north,half=lower,check=false": { "model": "chinjufumod:block/itabei/ichoh_bottom", "y": 0 },
+		"facing=south,half=lower,check=false": { "model": "chinjufumod:block/itabei/ichoh_bottom", "y": 180 },
+		"facing=west,half=lower,check=false": { "model": "chinjufumod:block/itabei/ichoh_bottom", "y": 270 },
+		"facing=east,half=lower,check=false": { "model": "chinjufumod:block/itabei/ichoh_bottom", "y": 90 },
+
+		"facing=north,half=upper,check=false": { "model": "chinjufumod:block/itabei/ichoh_top", "y": 0 },
+		"facing=south,half=upper,check=false": { "model": "chinjufumod:block/itabei/ichoh_top", "y": 180 },
+		"facing=west,half=upper,check=false": { "model": "chinjufumod:block/itabei/ichoh_top", "y": 270 },
+		"facing=east,half=upper,check=false": { "model": "chinjufumod:block/itabei/ichoh_top", "y": 90 },
+
+			"facing=north,half=lower,check=true": { "model": "chinjufumod:block/itabei/ichoh_bottom_true", "y": 0 },
+			"facing=south,half=lower,check=true": { "model": "chinjufumod:block/itabei/ichoh_bottom_true", "y": 180 },
+			"facing=west,half=lower,check=true": { "model": "chinjufumod:block/itabei/ichoh_bottom_true", "y": 270 },
+			"facing=east,half=lower,check=true": { "model": "chinjufumod:block/itabei/ichoh_bottom_true", "y": 90 },
+
+			"facing=north,half=upper,check=true": { "model": "chinjufumod:block/itabei/ichoh_top_true", "y": 0 },
+			"facing=south,half=upper,check=true": { "model": "chinjufumod:block/itabei/ichoh_top_true", "y": 180 },
+			"facing=west,half=upper,check=true": { "model": "chinjufumod:block/itabei/ichoh_top_true", "y": 270 },
+			"facing=east,half=upper,check=true": { "model": "chinjufumod:block/itabei/ichoh_top_true", "y": 90 }
+	}
+}

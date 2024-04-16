@@ -1,0 +1,56 @@
+{
+	"parent": "chinjufumod:cm_story/season/get_6_kasa",
+	"display": {
+		"title": {
+			"translate": "advancements.cm_story.season.get_7_kakigouri.title"
+		},
+		"description": {
+			"translate": "advancements.cm_story.season.get_7_kakigouri.description"
+		},
+		"icon": {
+			"item": "chinjufumod:block_kakigouri_hata"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": false
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_kakigouri_block1" } ] }
+		},
+		"has_material2": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_kakigouri_pink1" } ] }
+		},
+		"has_material3": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_kakigouri_red1" } ] }
+		},
+		"has_material4": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_kakigouri_yellow1" } ] }
+		},
+		
+		"has_material5": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "item": "chinjufumod:block_kakigouri_green1" } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material",
+			"has_material2",
+			"has_material3",
+			"has_material4",
+			"has_material5"
+		]
+	],
+	"rewards": { "experience": 3 }
+}

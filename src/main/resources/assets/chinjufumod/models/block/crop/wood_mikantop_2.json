@@ -1,0 +1,22 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/log_mikan",
+		"ha": "chinjufumod:block/leaves_mikan",
+		"miki": "chinjufumod:block/log_mikan"
+	},
+	"elements": [
+		{
+			"name": "ha",
+			"from": [ 2, 0, 2 ],
+			"to": [ 14, 4, 14 ],
+			"faces": {
+				"up": { "uv": [ 2.0, 2.0, 14.0, 14.0 ], "texture": "#ha" },
+				"north": { "uv": [ 2.0, 0.0, 14.0, 4.0 ], "texture": "#ha" },
+				"south": { "uv": [ 2.0, 0.0, 14.0, 4.0 ], "texture": "#ha" },
+				"east" : { "uv": [ 2.0, 0.0, 14.0, 4.0 ], "texture": "#ha" },
+				"west" : { "uv": [ 2.0, 0.0, 14.0, 4.0 ], "texture": "#ha" }
+			}
+		}
+	]
+}

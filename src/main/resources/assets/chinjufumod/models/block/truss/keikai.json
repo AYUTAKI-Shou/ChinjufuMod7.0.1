@@ -1,0 +1,21 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/keikai",
+		"top": "chinjufumod:block/keikai",
+		"bottom": "minecraft:block/stone"
+	},
+	"elements": [
+		{ "from": [ 0, 0, 0 ],
+			"to": [ 16, 4, 16 ],
+			"faces": {
+				"down": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#bottom", "cullface": "down" },
+				"up": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#top" },
+				"north": { "uv": [ 0.0, 7.0, 16.0, 11.0 ], "texture": "#top" },
+				"south": { "uv": [ 0.0, 0.0, 16.0, 4.0 ], "texture": "#top" },
+				"west": { "uv": [ 7.0, 0.0, 11.0, 16.0 ], "texture": "#top", "rotation": 90 },
+				"east": { "uv": [ 0.0, 0.0, 4.0, 16.0 ], "texture": "#top", "rotation": 90 }
+			}
+		}
+	]
+}

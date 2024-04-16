@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"facing=north,lit=false": { "model": "chinjufumod:block/kitchen/oven", "y": 180 },
+		"facing=south,lit=false": { "model": "chinjufumod:block/kitchen/oven", "y": 0 },
+		"facing=west,lit=false": { "model": "chinjufumod:block/kitchen/oven", "y": 90 },
+		"facing=east,lit=false": { "model": "chinjufumod:block/kitchen/oven", "y": 270 },
+
+		"facing=north,lit=true": { "model": "chinjufumod:block/kitchen/lit_oven", "y": 180 },
+		"facing=south,lit=true": { "model": "chinjufumod:block/kitchen/lit_oven", "y": 0 },
+		"facing=west,lit=true": { "model": "chinjufumod:block/kitchen/lit_oven", "y": 90 },
+		"facing=east,lit=true": { "model": "chinjufumod:block/kitchen/lit_oven", "y": 270 }
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_dressingtable_saku",
+			"chinjufumod:block_unitdesk_sakura",
+			"chinjufumod:block_cafetable_sakura",
+			"chinjufumod:block_diningchair_saku",
+			"chinjufumod:block_bench_saku",
+			"chinjufumod:block_schoolchair_saku",
+			"chinjufumod:block_schooldesk_saku",
+			"chinjufumod:block_teacherdesk_saku",
+			"chinjufumod:block_lowdesk_sakura",
+			
+			"chinjufumod:block_mizuoke",
+			
+			"chinjufumod:block_ranma_saku",
+			"chinjufumod:block_ranmab_saku",
+			"chinjufumod:block_ranmac_saku",
+			"chinjufumod:block_kanki_saku",
+			"chinjufumod:block_koushi_saku",
+			"chinjufumod:block_itabei_sakura",
+			"chinjufumod:block_kido_sakura"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "tag": "forge:wooden_slabs/cherry" } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

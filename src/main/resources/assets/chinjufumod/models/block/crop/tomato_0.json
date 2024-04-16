@@ -1,0 +1,37 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/tomato_0",
+		"crop": "chinjufumod:block/tomato_0"
+	},
+	"elements": [
+		{ "from": [ 0, -1, 4.5 ],
+			"to": [ 16, 15, 4.5 ],
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#crop" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#crop" }
+			}
+		},
+		{ "from": [ 0, -1, 11.5 ],
+			"to": [ 16, 15, 11.5 ],
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#crop" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#crop" }
+			}
+		},
+		{ "from": [ 4.5, -1, 0 ],
+			"to": [ 4.5, 15, 16 ],
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#crop" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#crop" }
+			}
+		},
+		{ "from": [ 11.5, -1, 0 ],
+			"to": [ 11.5, 15, 16 ],
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#crop" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#crop" }
+			}
+		}
+	]
+}

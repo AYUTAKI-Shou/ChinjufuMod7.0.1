@@ -1,0 +1,123 @@
+{
+	"parent": "block/block",
+	"elements": [
+		{
+			"name": "akari",
+			"from": [ 7.95, -6.9, 7.95 ],
+			"to": [ 8.05, -6.1, 8.05 ],
+			"faces": {
+				"up": { "uv": [ 10.0, 0.0, 12.0, 2.0 ], "texture": "#akari" },
+				"north": { "uv": [ 10.0, 0.0, 12.0, 9.0 ], "texture": "#akari" },
+				"south": { "uv": [ 10.0, 0.0, 12.0, 9.0 ], "texture": "#akari" },
+				"east": { "uv": [ 10.0, 0.0, 12.0, 9.0 ], "texture": "#akari" },
+				"west": { "uv": [ 10.0, 0.0, 12.0, 9.0 ], "texture": "#akari" }
+			}
+		},
+
+		{
+			"name": "abura",
+			"from": [ 7, -7, 7 ],
+			"to": [ 9, -6.5, 9 ],
+			"faces": {
+				"up": { "uv": [ 6.0, 6.0, 10.0, 10.0 ], "texture": "#abura" }
+			}
+		},
+
+		{
+			"name": "sara_soko_kage",
+			"from": [ 6.8, -8, 6.8 ],
+			"to": [ 9.2, -7, 9.2 ],
+			"faces": {
+				"down": { "uv": [ 8.8, 12.8, 11.2, 15.2 ], "texture": "#sara", "cullface": "down" },
+				"north": { "uv": [ 0.8, 3.0, 3.2, 4.0 ], "texture": "#sara" },
+				"south": { "uv": [ 8.8, 3.0, 11.2, 4.0 ], "texture": "#sara" },
+				"east": { "uv": [ 4.8, 3.0, 7.2, 4.0 ], "texture": "#sara" },
+				"west": { "uv": [ 12.8, 3.0, 15.2, 4.0 ], "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_nor_1_kage",
+			"from": [ 6.8, -7, 6.8 ],
+			"to": [ 7, -5.5, 7 ],
+			"faces": {
+				"up": { "uv": [ 0.8, 12.8, 1.0, 13.0 ], "texture": "#sara" },
+				"north": { "uv": [ 3.0, 1.5, 3.2, 3.0 ], "texture": "#sara" },
+				"west": { "uv": [ 12.8, 1.5, 13.0, 3.0 ], "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_nor_12",
+			"from": [ 7, -7, 6.8 ],
+			"to": [ 9, -5.5, 7 ],
+			"faces": {
+				"up": { "uv": [ 1.0, 12.8, 3.0, 13.0 ], "texture": "#sara" },
+				"north": { "uv": [ 1.0, 1.5, 3.0, 3.0 ], "texture": "#sara" },
+				"south": { "uv": [ 9.0, 1.5, 11.0, 3.0 ], "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_nor_2_kage",
+			"from": [ 9, -7, 6.8 ],
+			"to": [ 9.2, -5.5, 7 ],
+			"faces": {
+				"up": { "uv": [ 3.0, 12.8, 3.2, 13.0 ], "texture": "#sara" },
+				"north": { "uv": [ 0.8, 1.5, 1.0, 3.0 ], "texture": "#sara" },
+				"east": { "uv": [ 7.0, 1.5, 7.2, 3.0 ], "texture": "#sara" }
+			}
+		},
+
+		{
+			"name": "sara_sou_1_kage",
+			"from": [ 6.8, -7, 9 ],
+			"to": [ 7, -5.5, 9.2 ],
+			"faces": {
+				"up": { "uv": [ 0.8, 15.0, 1.0, 15.2 ], "texture": "#sara" },
+				"south": { "uv": [ 8.8, 1.5, 9.0, 3.0 ], "texture": "#sara" },
+				"west": { "uv": [ 15.0, 1.5, 15.2, 3.0 ], "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_sou_12",
+			"from": [ 7, -7, 9 ],
+			"to": [ 9, -5.5, 9.2 ],
+			"faces": {
+				"up": { "uv": [ 1.0, 15.0, 3.0, 15.2 ], "texture": "#sara" },
+				"north": { "uv": [ 1.0, 1.5, 3.0, 3.0 ], "texture": "#sara" },
+				"south": { "uv": [ 9.0, 1.5, 11.0, 3.0 ], "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_sou_2_kage",
+			"from": [ 9, -7, 9 ],
+			"to": [ 9.2, -5.5, 9.2 ],
+			"faces": {
+				"up": { "uv": [ 3.0, 15.0, 3.2, 15.2 ], "texture": "#sara" },
+				"south": { "uv": [ 11.0, 1.5, 11.2, 3.0 ], "texture": "#sara" },
+				"east": { "uv": [ 4.8, 1.5, 5.0, 3.0 ], "texture": "#sara" }
+			}
+		},
+
+
+		{
+			"name": "sara_east_12",
+			"from": [ 6.8, -7, 7 ],
+			"to": [ 7, -5.5, 9 ],
+			"faces": {
+				"up": { "uv": [ 0.8, 13.0, 1.0, 15.0 ], "texture": "#sara" },
+				"east": { "uv": [ 5.0, 1.5, 7.0, 3.0 ], "texture": "#sara" },
+				"west": { "uv": [ 13.0, 1.5, 15.0, 3.0 ], "texture": "#sara" }
+			}
+		},
+
+		{
+			"name": "sara_west_12",
+			"from": [ 9, -7, 7 ],
+			"to": [ 9.2, -5.5, 9 ],
+			"faces": {
+				"up": { "uv": [ 3.0, 13.0, 3.2, 15.0 ], "texture": "#sara" },
+				"east": { "uv": [ 5.0, 1.5, 7.0, 3.0 ], "texture": "#sara" },
+				"west": { "uv": [ 13.0, 1.5, 15.0, 3.0 ], "texture": "#sara" }
+			}
+		}
+	]
+}

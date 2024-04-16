@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"down=false": { "model": "chinjufumod:block/zabuton/white" },
+		"down=true": { "model": "chinjufumod:block/zabuton/white_down" }
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_sozai",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:paper" },
+		"Y": [ { "item": "chinjufumod:item_admiralstamp" }, { "item": "chinjufumod:item_admiralstamp_b" } ]
+	},
+
+	"result": { "item": "chinjufumod:item_workorder", "count": 8 }
+}

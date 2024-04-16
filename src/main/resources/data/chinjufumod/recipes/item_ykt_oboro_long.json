@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_yukata",
+
+	"pattern": [
+		"XXX",
+		"X X",
+		"X Y"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:item_tanmono" },
+		"Y": { "tag": "forge:dyes/lime" }
+	},
+
+	"result": { "item": "chinjufumod:item_ykt_oboro_long", "count": 1 }
+}

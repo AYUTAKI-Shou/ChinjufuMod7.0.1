@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:block/taru/bin_nyusan_1",
+	"display": {
+		"gui": {
+			"rotation": [ 30, 45, 0 ],
+			"translation": [ 6, 2, 0 ],
+			"scale": [ 1.1, 1.1, 1.1 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 70, 0, 0 ],
+			"translation": [ 2.5, 0.8, 5 ],
+			"scale": [ 0.7, 0.7, 0.7 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 5, 4, 3 ],
+			"scale": [ 0.7, 0.7, 0.7 ]
+		},
+		"fixed": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 3, 1, 3.5 ],
+			"scale": [ 0.7, 0.7, 0.7 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		}
+	}
+}

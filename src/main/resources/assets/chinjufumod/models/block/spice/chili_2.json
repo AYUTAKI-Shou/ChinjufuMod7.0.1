@@ -1,0 +1,64 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/chili_leaf2",
+		"leaf": "chinjufumod:block/chili_leaf2",
+		"stem": "chinjufumod:block/muku_jungle"
+	},
+	"elements": [
+		{
+			"name": "leaf_1___________________________",
+			"from": [ 4.5, -1, 7.49 ],
+			"to": [ 11.5, 6, 7.49 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": false }, "shade": false,
+ 			"faces": {
+				"north": { "uv": [ 15.0, 2.0, 1.0, 16.0 ], "texture": "#leaf" },
+				"south": { "uv": [ 1.0, 2.0, 15.0, 16.0 ], "texture": "#leaf" }
+			}
+		},
+		{
+			"name": "leaf_1",
+			"from": [ 4.5, -1, 8.51 ],
+			"to": [ 11.5, 6, 8.51 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": false }, "shade": false,
+ 			"faces": {
+				"north": { "uv": [ 1.0, 2.0, 15.0, 16.0 ], "texture": "#leaf" },
+				"south": { "uv": [ 15.0, 2.0, 1.0, 16.0 ], "texture": "#leaf" }
+			}
+		},
+		{
+			"name": "leaf_2",
+			"from": [ 4.5, -1, 7.49 ],
+			"to": [ 11.5, 6, 7.49 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": -45, "rescale": false }, "shade": false,
+ 			"faces": {
+				"north": { "uv": [ 15.0, 2.0, 1.0, 16.0 ], "texture": "#leaf" },
+				"south": { "uv": [ 1.0, 2.0, 15.0, 16.0 ], "texture": "#leaf" }
+			}
+		},
+		{
+			"name": "leaf_2",
+			"from": [ 4.5, -1, 8.51 ],
+			"to": [ 11.5, 7, 8.51 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": -45, "rescale": false }, "shade": false,
+ 			"faces": {
+				"north": { "uv": [ 1.0, 2.0, 15.0, 16.0 ], "texture": "#leaf" },
+				"south": { "uv": [ 15.0, 2.0, 1.0, 16.0 ], "texture": "#leaf" }
+			}
+		},
+		
+		{
+			"name": "stem_4_bot",
+			"from": [ 7.5, -1, 7.5 ],
+			"to": [ 8.5, 15, 8.5 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": -45, "rescale": false },
+ 			"faces": {
+				"up" : { "uv": [ 14.0, 0.0, 15.0, 1.0 ], "texture":"#stem" },
+				"north": { "uv": [ 10.0, 0.0, 11.0, 16.0 ], "texture":"#stem" },
+				"south": { "uv": [ 8.5, 0.0, 9.5, 16.0 ], "texture":"#stem" },
+				"west" : { "uv": [ 12.0, 0.0, 13.0, 16.0 ], "texture":"#stem" },
+				"east" : { "uv": [ 9.5, 0.0, 10.5, 16.0 ], "texture":"#stem" }
+			}
+		}
+	]
+}

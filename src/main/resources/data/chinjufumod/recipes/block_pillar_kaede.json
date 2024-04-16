@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_pillar",
+
+	"pattern": [
+		"X",
+		"X",
+		"X"
+	],
+
+	"key": {
+		"X": { "tag": "forge:logs/acer" }
+	},
+
+	"result": { "item": "chinjufumod:block_pillar_kaede", "count": 3 }
+}

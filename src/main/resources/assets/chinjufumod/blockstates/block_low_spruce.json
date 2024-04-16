@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"" : [ { "model" : "chinjufumod:block/garden/spruce", "y": 0 },
+			{ "model" : "chinjufumod:block/garden/spruce", "y": 90 },
+			{ "model" : "chinjufumod:block/garden/spruce", "y": 180 },
+			{ "model" : "chinjufumod:block/garden/spruce", "y": 270 } ]
+	}
+}

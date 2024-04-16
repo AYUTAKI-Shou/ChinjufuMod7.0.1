@@ -1,0 +1,22 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/nori_ita_1",
+		"nori": "chinjufumod:block/nori_ita_1"
+	},
+	"elements": [
+		{
+			"name": "front",
+			"from": [ 2, 2, 0 ],
+			"to": [ 14, 14, 0.3 ],
+			"faces": {
+				"up": { "uv": [ 2.0, 4.0, 14.0, 4.3 ], "texture": "#nori" },
+				"down": { "uv": [ 2.0, 5.0, 14.0, 5.3 ], "texture": "#nori" },
+				"north": { "uv": [ 2.0, 2.0, 14, 14.0 ], "texture": "#nori" },
+				"south": { "uv": [ 2.0, 2.0, 14, 14.0 ], "texture": "#nori" },
+				"east": { "uv": [ 2.0, 2.0, 2.3, 14.0 ], "texture": "#nori" },
+				"west": { "uv": [ 3.0, 2.0, 3.3, 14.0 ], "texture": "#nori" }
+			}
+		}
+	]
+}

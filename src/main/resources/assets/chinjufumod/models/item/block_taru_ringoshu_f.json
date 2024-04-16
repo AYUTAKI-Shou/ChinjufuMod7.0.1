@@ -1,0 +1,20 @@
+{
+	"parent": "chinjufumod:block/taru/ringoshu_f",
+	"display": {
+		"gui": {
+			"rotation": [ 120, 0, -45 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 0.6, 0.6, 0.6 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ -20, 0, 45 ],
+			"translation": [ 0, 3, 0 ],
+			"scale": [ 0.375, 0.375, 0.375 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 90, 0, -45 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 0.375, 0.375, 0.375 ]
+		}
+	}
+}

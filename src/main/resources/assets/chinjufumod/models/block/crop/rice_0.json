@@ -1,0 +1,49 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/rice_0",
+		"crop": "chinjufumod:block/rice_0"
+	},
+	"elements": [
+		{
+			"name": "rice1",
+			"from": [ 4.5, -1, 0 ],
+			"to": [ 4.5, 15, 16 ],
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 16, 0, 0, 16 ], "texture": "#crop" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#crop" }
+			}
+		},
+		{
+			"name": "rice2",
+			"from": [ 11.5, -1, 0 ],
+			"to": [ 11.5, 15, 16 ],
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 16, 0, 0, 16 ], "texture": "#crop" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#crop" }
+			}
+		},
+		{
+			"name": "rice3",
+			"from": [ 0, -1, 4.5 ],
+			"to": [ 16, 15, 4.5 ],
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 16, 0, 0, 16 ], "texture": "#crop" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#crop" }
+			}
+		},
+		{
+			"name": "rice4",
+			"from": [ 0, -1, 11.5 ],
+			"to": [ 16, 15, 11.5 ],
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 16, 0, 0, 16 ], "texture": "#crop" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#crop" }
+			}
+		}
+	]
+}

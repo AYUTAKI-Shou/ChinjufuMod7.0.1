@@ -1,0 +1,100 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/muku_oak",
+		"bou": "chinjufumod:block/muku_oak"
+	},
+	"elements": [
+		{
+			"name": "ha1",
+			"from": [ 3.5, 15, 5 ],
+			"to": [ 4.5, 16, 6.5 ],
+			"faces": {
+				"up" : { "texture": "#bou" },
+				"down" : { "texture": "#bou" },
+				"north": { "texture": "#bou" },
+				"south": { "texture": "#bou" },
+				"east" : { "texture": "#bou" },
+				"west" : { "texture": "#bou" }
+			}
+		},
+		{
+			"name": "ha2",
+			"from": [ 5.5, 15, 5 ],
+			"to": [ 6.5, 16, 6.5 ],
+			"faces": {
+				"up" : { "texture": "#bou" },
+				"down" : { "texture": "#bou" },
+				"north": { "texture": "#bou" },
+				"south": { "texture": "#bou" },
+				"east" : { "texture": "#bou" },
+				"west" : { "texture": "#bou" }
+			}
+		},
+		{
+			"name": "ha3",
+			"from": [ 7.5, 15, 5 ],
+			"to": [ 8.5, 16, 6.5 ],
+			"faces": {
+				"up" : { "texture": "#bou" },
+				"down" : { "texture": "#bou" },
+				"north": { "texture": "#bou" },
+				"south": { "texture": "#bou" },
+				"east" : { "texture": "#bou" },
+				"west" : { "texture": "#bou" }
+			}
+		},
+		{
+			"name": "ha4",
+			"from": [ 9.5, 15, 5 ],
+			"to": [ 10.5, 16, 6.5 ],
+			"faces": {
+				"up" : { "texture": "#bou" },
+				"down" : { "texture": "#bou" },
+				"north": { "texture": "#bou" },
+				"south": { "texture": "#bou" },
+				"east" : { "texture": "#bou" },
+				"west" : { "texture": "#bou" }
+			}
+		},
+		{
+			"name": "ha5",
+			"from": [ 11.5, 15, 5 ],
+			"to": [ 12.5, 16, 6.5 ],
+			"faces": {
+				"up" : { "texture": "#bou" },
+				"down" : { "texture": "#bou" },
+				"north": { "texture": "#bou" },
+				"south": { "texture": "#bou" },
+				"east" : { "texture": "#bou" },
+				"west" : { "texture": "#bou" }
+			}
+		},
+
+		{
+			"name": "yoko",
+			"from": [ 3.5, 15, 6.5 ],
+			"to": [ 12.5, 16, 8.5 ],
+			"faces": {
+				"up" : { "texture": "#bou" },
+				"down" : { "texture": "#bou" },
+				"north": { "texture": "#bou" },
+				"south": { "texture": "#bou" },
+				"east" : { "texture": "#bou" },
+				"west" : { "texture": "#bou" }
+			}
+		},
+		{
+			"name": "bou",
+			"from": [ 7.5, 0.0, 7.5 ],
+			"to": [ 8.5, 15, 8.5 ],
+			"faces": {
+				"down" : { "texture": "#bou" },
+				"north": { "texture": "#bou" },
+				"south": { "texture": "#bou" },
+				"east" : { "texture": "#bou" },
+				"west" : { "texture": "#bou" }
+			}
+		}
+	]
+}

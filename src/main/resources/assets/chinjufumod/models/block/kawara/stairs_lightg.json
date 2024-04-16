@@ -1,0 +1,8 @@
+{
+	"parent": "block/stairs",
+	"textures": {
+		"bottom": "chinjufumod:block/kawara_lightg",
+		"top": "chinjufumod:block/kawara_lightg",
+		"side": "chinjufumod:block/kawara_lightg"
+	}
+}

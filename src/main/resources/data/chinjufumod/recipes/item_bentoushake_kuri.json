@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_gohan",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_bentouhako" },
+		{ "item": "chinjufumod:item_bentouhako" },
+		{ "tag": "forge:cooked_fishes/salmon" },
+		{ "tag": "forge:cooked_fishes/salmon" },
+		{ "item": "chinjufumod:block_food_tgy_1" },
+		{ "item": "chinjufumod:item_food_hakusai2" },
+		{ "item": "chinjufumod:item_mushigome_kuri" }
+	],
+
+	"result": { "item": "chinjufumod:item_bentoushake_kuri", "count": 2 }
+}

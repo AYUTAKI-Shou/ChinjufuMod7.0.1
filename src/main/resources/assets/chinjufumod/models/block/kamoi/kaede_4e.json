@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/kamoi_4east",
+	"textures": {
+		"particle": "chinjufumod:block/pillar_kaede_side",
+		"ki": "chinjufumod:block/pillar_kaede_side",
+		"ki_top": "chinjufumod:block/pillar_kaede_top",
+		"ki_inside": "chinjufumod:block/pillar_kaede_inside"
+	}
+}

@@ -1,0 +1,117 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "minecraft:block/oak_planks",
+		"leg": "chinjufumod:block/muku_oak",
+		"top": "minecraft:block/oak_planks",
+		"cloth_top": "chinjufumod:block/ttablecloth_top",
+		"cloth_side": "chinjufumod:block/ttablecloth_side"
+	},
+	"elements":[
+		{
+			"name": "leg_1",
+			"from": [ 1, 0, 1],
+			"to": [ 3, 13.8, 3],
+			"faces": {
+				"down": { "texture":"#leg", "cullface": "down" },
+				"north": { "texture":"#leg" },
+				"south": { "texture":"#leg" },
+				"west": { "texture":"#leg" },
+				"east": { "texture":"#leg" }
+			}
+		},
+		{
+			"name": "leg_2",
+			"from": [ 1, 0, 13],
+			"to": [ 3, 13.8, 15],
+			"faces": {
+				"down": { "texture":"#leg", "cullface": "down" },
+				"north": { "texture":"#leg" },
+				"south": { "texture":"#leg" },
+				"west": { "texture":"#leg" },
+				"east": { "texture":"#leg" }
+			}
+		},
+		{
+			"name": "bottom",
+			"from": [ 1, 13.8, 1],
+			"to": [ 16, 14.8, 15],
+			"faces": {
+				"down": { "texture":"#top" },
+				"north": { "texture":"#top" },
+				"south": { "texture":"#top" },
+				"west": { "texture":"#top" },
+				"east": { "texture":"#top" }
+			}
+		},
+		{
+			"name": "top",
+			"from": [ 0.11, 14.8, 0.11 ],
+			"to": [ 16, 15.8, 15.89 ],
+			"faces": {
+				"up": { "texture":"#top" },
+				"down" : { "texture":"#top" },
+				"north": { "texture":"#top" },
+				"south": { "texture":"#top" },
+				"west" : { "texture":"#top" },
+				"east" : { "texture":"#top" }
+			}
+		},
+		{
+			"name": "cloth_top_top",
+			"from": [ 1, 15.91, 1 ],
+			"to": [ 16, 16, 15 ],
+			"faces": {
+				"up": { "texture":"#cloth_top" },
+				"down" : { "texture":"#cloth_top" },
+				"north": { "texture":"#cloth_top" },
+				"south": { "texture":"#cloth_top" },
+				"west" : { "texture":"#cloth_top" },
+				"east" : { "texture":"#cloth_top" }
+			}
+		},
+		{
+			"name": "cloth_top",
+			"from": [ 0, 15.81, 0 ],
+			"to": [ 16, 15.9, 16 ],
+			"faces": {
+				"up": { "texture":"#cloth_side" },
+				"down" : { "texture":"#cloth_side" }
+			}
+		},
+		{
+			"name": "cloth_side_n",
+			"from": [ 0, 10, 0 ],
+			"to": [ 16, 15.9, 0.1 ],
+			"faces": {
+				"down" : { "texture":"#cloth_side" },
+				"north": { "texture":"#cloth_side" },
+				"south": { "texture":"#cloth_side" },
+				"west" : { "texture":"#cloth_side" },
+				"east" : { "texture":"#cloth_side" }
+			}
+		},
+		{
+			"name": "cloth_side_s",
+			"from": [ 0, 10, 15.9 ],
+			"to": [ 16, 15.9, 16 ],
+			"faces": {
+				"down" : { "texture":"#cloth_side" },
+				"north": { "texture":"#cloth_side" },
+				"south": { "texture":"#cloth_side" },
+				"west" : { "texture":"#cloth_side" },
+				"east" : { "texture":"#cloth_side" }
+			}
+		},
+		{
+			"name": "cloth_side_w",
+			"from": [ 0, 10, 0.1 ],
+			"to": [ 0.1, 15.9, 15.9 ],
+			"faces": {
+				"down" : { "texture":"#cloth_side" },
+				"west" : { "texture":"#cloth_side" },
+				"east" : { "texture":"#cloth_side" }
+			}
+		}
+	]
+}

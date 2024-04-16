@@ -1,0 +1,30 @@
+{
+	"parent": "block/block",
+	"elements": [
+		{
+			"name": "head",
+			"from": [ 1.75, 4, 1.75 ],
+			"to": [ 5.25, 5.5, 5.25 ],
+			"faces": {
+				"up" : { "uv": [ 0.0, 0.0, 7.0, 7.0 ], "texture": "#bin" },
+				"down" : { "uv":[ 0.0, 0.0, 7.0, 4.0 ], "texture": "#bin" },
+				"north": { "uv": [ 0.0, 0.0, 7.0, 3.0 ], "texture": "#bin" },
+				"south": { "uv": [ 0.0, 0.0, 7.0, 3.0 ], "texture": "#bin" },
+				"east" : { "uv": [ 0.0, 0.0, 7.0, 3.0 ], "texture": "#bin" },
+				"west" : { "uv": [ 0.0, 0.0, 7.0, 3.0 ], "texture": "#bin" }
+			}
+		},
+		{
+			"name": "bot2",
+			"from": [ 1.75, 0, 1.75 ],
+			"to": [ 5.25, 4, 5.25 ],
+			"faces": {
+				"down" : { "uv": [ 9.0, 9.0, 16.0, 16.0 ], "texture": "#soko" },
+				"north": { "uv": [ 0.0, 8.0, 7.0, 16.0 ], "texture": "#bin" },
+				"south": { "uv": [ 0.0, 8.0, 7.0, 16.0 ], "texture": "#bin" },
+				"east" : { "uv": [ 0.0, 8.0, 7.0, 16.0 ], "texture": "#bin" },
+				"west" : { "uv": [ 0.0, 8.0, 7.0, 16.0 ], "texture": "#bin" }
+			}
+		}
+	]
+}

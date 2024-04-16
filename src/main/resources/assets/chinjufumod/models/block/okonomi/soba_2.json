@@ -1,0 +1,14 @@
+{
+	"parent": "chinjufumod:block/base/okonomisoba_2",
+	"textures": {
+		"particle": "chinjufumod:block/dish_white",
+		"sara": "chinjufumod:block/dish_white",
+		"okonomi": "chinjufumod:block/okonomi_bake_re",
+		"okonomi_top": "chinjufumod:block/okonomisoba_bake",
+		"okonomi_in": "chinjufumod:block/okonomi_inside",
+		"cabbage": "chinjufumod:block/okonomicabbage_bake",
+		"soba": "chinjufumod:block/ramen_bake",
+		"hashi": "chinjufumod:block/dish_red",
+		"hashioki": "chinjufumod:block/hashioki"
+	}
+}

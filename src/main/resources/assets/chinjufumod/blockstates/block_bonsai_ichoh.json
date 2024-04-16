@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:block/bonsai/ichoh_1", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:block/bonsai/ichoh_1" },
+		"facing=west,stage=1": { "model": "chinjufumod:block/bonsai/ichoh_1", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:block/bonsai/ichoh_1", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/bonsai/ichoh_2", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:block/bonsai/ichoh_2" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/bonsai/ichoh_2", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:block/bonsai/ichoh_2", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:block/bonsai/ichoh_3", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:block/bonsai/ichoh_3" },
+		"facing=west,stage=3": { "model": "chinjufumod:block/bonsai/ichoh_3", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:block/bonsai/ichoh_3", "y": 270 },
+
+		"facing=north,stage=4": { "model": "chinjufumod:block/bonsai/ichoh_4", "y": 180 },
+		"facing=south,stage=4": { "model": "chinjufumod:block/bonsai/ichoh_4" },
+		"facing=west,stage=4": { "model": "chinjufumod:block/bonsai/ichoh_4", "y": 90 },
+		"facing=east,stage=4": { "model": "chinjufumod:block/bonsai/ichoh_4", "y": 270 }
+	}
+}

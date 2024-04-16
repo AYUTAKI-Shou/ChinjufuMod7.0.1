@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_sushi",
+
+	"ingredients": [
+		{ "item": "chinjufumod:block_food_tgy_1" },
+		{ "tag": "forge:raw_fishes/cod" },
+		{ "tag": "forge:raw_fishes/salmon" },
+		[ { "tag": "forge:raw_beef" }, { "tag": "forge:rawbeef" } ],
+		{ "item": "chinjufumod:block_food_sushimeshi" },
+		{ "item": "chinjufumod:block_food_sushioke_kara" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_sushiokefull_1", "count" : 1 }
+}

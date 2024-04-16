@@ -1,0 +1,11 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_food",
+
+	"ingredients": [
+		{ "tag": "forge:raw_fishes/cod" },
+		{ "tag": "forge:rods/wooden" }
+	],
+
+	"result": { "item": "chinjufumod:item_kushi_sakana", "count": 1 }
+}

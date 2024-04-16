@@ -1,0 +1,20 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_tea",
+
+	"ingredients": [
+		[ { "tag": "forge:crops/citrus" }, { "tag": "forge:crops/orange" },
+				{ "tag": "forge:fruits/citrus" }, {"tag": "forge:fruits/orange" } ],
+		[ { "tag": "forge:crops/citrus" }, { "tag": "forge:crops/orange" },
+				{ "tag": "forge:fruits/citrus" }, {"tag": "forge:fruits/orange" } ],
+		[ { "tag": "forge:crops/citrus" }, { "tag": "forge:crops/orange" },
+				{ "tag": "forge:fruits/citrus" }, {"tag": "forge:fruits/orange" } ],
+		[ { "tag": "forge:crops/citrus" }, { "tag": "forge:crops/orange" },
+				{ "tag": "forge:fruits/citrus" }, {"tag": "forge:fruits/orange" } ],
+		[ { "tag": "forge:crops/citrus" }, { "tag": "forge:crops/orange" },
+				{ "tag": "forge:fruits/citrus" }, {"tag": "forge:fruits/orange" } ],
+		{ "item": "chinjufumod:item_food_sara" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_mikan", "count" : 1 }
+}

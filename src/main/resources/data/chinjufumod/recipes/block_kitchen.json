@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_kitchen",
+
+	"pattern": [
+		"ZZZ",
+		"XYX",
+		"XYX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:birch_planks" },
+		"Y": { "item": "minecraft:birch_slab" },
+		"Z": { "item": "minecraft:spruce_slab" }
+	},
+
+	"result": { "item": "chinjufumod:block_kitchen", "count": 4 }
+}

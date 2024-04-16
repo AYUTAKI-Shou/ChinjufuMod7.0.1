@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_bin",
+
+	"ingredients": [
+		{ "tag": "forge:eggs" },
+		{ "item": "chinjufumod:item_soy" },
+		[ { "tag": "forge:dusts/salt" }, { "tag": "forge:foods/salt" }, { "tag": "forge:items/salt" } ],
+		{ "tag": "forge:foods/vinegar" },
+		[ { "tag": "forge:dusts/blackpepper" }, { "tag": "forge:foods/blackpepper" }, { "tag": "forge:spices/blackpepper" }, 
+		{ "tag": "forge:dusts/pepper" }, { "tag": "forge:foods/pepper" }, { "tag": "forge:spices/pepper" } ],
+		{ "item": "minecraft:glass_bottle" }
+	],
+
+	"result": { "item": "chinjufumod:block_mayo_bot", "count": 1 }
+}

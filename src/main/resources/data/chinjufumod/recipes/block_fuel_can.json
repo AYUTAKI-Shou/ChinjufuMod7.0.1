@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_box",
+
+	"pattern": [
+		"XX",
+		"XX"
+	],
+
+	"key": {
+		"X": [ { "item": "minecraft:coal" }, { "item": "minecraft:charcoal" } ]
+	},
+
+	"result": { "item": "chinjufumod:block_fuel_can", "count": 1 }
+}

@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_tabakaya",
+
+	"pattern": [
+		"XXX",
+		"X X",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:grass" }
+	},
+
+	"result": { "item": "chinjufumod:block_tabakusa", "count": 1 }
+}

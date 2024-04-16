@@ -1,0 +1,24 @@
+{
+	"parent": "block/block",
+	"elements": [
+		{
+			"name": "bot2",
+			"from": [ 0, 0.1, 1 ],
+			"to": [ 16, 0.1, 16 ],
+			"faces": {
+				"up": { "uv": [ 0.0, 1.0, 16.0, 16.0 ], "texture": "#bot" },
+				"down": { "uv": [ 0.0, 16.0, 16.0, 1.0 ], "texture": "#bot" }
+			}
+		},
+		
+		{
+			"name": "north2",
+			"from": [ 0, 0, 1 ],
+			"to": [ 16, 16, 1 ],
+			"faces": {
+				"north": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#side_b" },
+				"south": { "uv": [ 16.0, 0.0, 0.0, 16.0 ], "texture": "#side_b" }
+			}
+		}
+	]
+}

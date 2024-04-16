@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"facing=north,open=false": { "model": "chinjufumod:block/tansu/jungle", "y": 180 },
+		"facing=south,open=false": { "model": "chinjufumod:block/tansu/jungle", "y": 0 },
+		"facing=west,open=false": { "model": "chinjufumod:block/tansu/jungle", "y": 90 },
+		"facing=east,open=false": { "model": "chinjufumod:block/tansu/jungle", "y": 270 },
+		
+		"facing=north,open=true": { "model": "chinjufumod:block/tansu/open_jungle", "y": 180 },
+		"facing=south,open=true": { "model": "chinjufumod:block/tansu/open_jungle", "y": 0 },
+		"facing=west,open=true": { "model": "chinjufumod:block/tansu/open_jungle", "y": 90 },
+		"facing=east,open=true": { "model": "chinjufumod:block/tansu/open_jungle", "y": 270 }
+	}
+}

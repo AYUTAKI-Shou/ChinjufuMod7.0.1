@@ -1,0 +1,82 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/kitchen_front",
+		"top": "chinjufumod:block/kitchen_top",
+		"front": "chinjufumod:block/kitchen_front",
+		"side": "chinjufumod:block/kitchen_side",
+		"hiki": "chinjufumod:block/muku_birch",
+		"sara": "chinjufumod:block/dish_white"
+	},
+	"elements": [
+		{
+			"name": "tana_naka______________________________________________________",
+			"from": [ 1, 8, 2 ],
+			"to": [ 15, 9, 15 ],
+			"faces": {
+				"up" : { "texture": "#side" },
+				"down" : { "texture": "#side" },
+				"south": { "texture": "#side" }
+			}
+		},
+		{
+			"name": "tana_shita",
+			"from": [ 1, 1, 2 ],
+			"to": [ 15, 2, 15 ],
+			"faces": {
+				"up" : { "texture": "#side" },
+				"down" : { "texture": "#side" },
+				"south": { "texture": "#side" }
+			}
+		},
+
+		{
+			"name": "top______________________________________________________",
+			"from": [ 0, 15.0, 0 ],
+			"to": [ 16, 16.0, 16 ],
+			"faces": {
+				"up" : { "texture": "#top" },
+				"down" : { "texture": "#top" },
+				"north": { "texture": "#top" },
+				"south": { "texture": "#top" },
+	 			"west" : { "texture": "#top" },
+				"east" : { "texture": "#top" }
+			}
+		},
+
+		{
+			"name": "base_sou",
+			"from": [ 0, 0, 1 ],
+			"to": [ 16, 15, 2 ],
+			"faces": {
+				"down" : { "texture": "#side" },
+				"north": { "texture": "#front" },
+				"south": { "texture": "#side" },
+	 			"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "base_west",
+			"from": [ 0, 0, 2 ],
+			"to": [ 1, 15, 15 ],
+			"faces": {
+				"down" : { "texture": "#side" },
+				"south": { "texture": "#side" },
+	 			"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "base_east",
+			"from": [ 15, 0, 2 ],
+			"to": [ 16, 15, 15 ],
+			"faces": {
+				"down" : { "texture": "#side" },
+				"south": { "texture": "#side" },
+	 			"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		}
+	]
+}

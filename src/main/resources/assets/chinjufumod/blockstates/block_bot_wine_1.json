@@ -1,0 +1,53 @@
+{
+	"variants": {
+		"down=false,facing=north,stage=1": { "model": "chinjufumod:block/bottle/wine_1", "y": 180 },
+		"down=false,facing=south,stage=1": { "model": "chinjufumod:block/bottle/wine_1", "y": 0 },
+		"down=false,facing=west,stage=1": { "model": "chinjufumod:block/bottle/wine_1", "y": 90 },
+		"down=false,facing=east,stage=1": { "model": "chinjufumod:block/bottle/wine_1", "y": 270 },
+
+		"down=false,facing=north,stage=2": { "model": "chinjufumod:block/bottle/wine_2", "y": 180 },
+		"down=false,facing=south,stage=2": { "model": "chinjufumod:block/bottle/wine_2", "y": 0 },
+		"down=false,facing=west,stage=2": { "model": "chinjufumod:block/bottle/wine_2", "y": 90 },
+		"down=false,facing=east,stage=2": { "model": "chinjufumod:block/bottle/wine_2", "y": 270 },
+
+		"down=false,facing=north,stage=3": { "model": "chinjufumod:block/bottle/wine_3", "y": 180 },
+		"down=false,facing=south,stage=3": { "model": "chinjufumod:block/bottle/wine_3", "y": 0 },
+		"down=false,facing=west,stage=3": { "model": "chinjufumod:block/bottle/wine_3", "y": 90 },
+		"down=false,facing=east,stage=3": { "model": "chinjufumod:block/bottle/wine_3", "y": 270 },
+
+		"down=false,facing=north,stage=4": { "model": "chinjufumod:block/bottle/wine_4", "y": 180 },
+		"down=false,facing=south,stage=4": { "model": "chinjufumod:block/bottle/wine_4", "y": 0 },
+		"down=false,facing=west,stage=4": { "model": "chinjufumod:block/bottle/wine_4", "y": 90 },
+		"down=false,facing=east,stage=4": { "model": "chinjufumod:block/bottle/wine_4", "y": 270 },
+
+		"down=false,facing=north,stage=5": { "model": "chinjufumod:block/bottle/wine_empty", "y": 180 },
+		"down=false,facing=south,stage=5": { "model": "chinjufumod:block/bottle/wine_empty", "y": 0 },
+		"down=false,facing=west,stage=5": { "model": "chinjufumod:block/bottle/wine_empty", "y": 90 },
+		"down=false,facing=east,stage=5": { "model": "chinjufumod:block/bottle/wine_empty", "y": 270 },
+
+			"down=true,facing=north,stage=1": { "model": "chinjufumod:block/bottle/wine_down1", "y": 180 },
+			"down=true,facing=south,stage=1": { "model": "chinjufumod:block/bottle/wine_down1", "y": 0 },
+			"down=true,facing=west,stage=1": { "model": "chinjufumod:block/bottle/wine_down1", "y": 90 },
+			"down=true,facing=east,stage=1": { "model": "chinjufumod:block/bottle/wine_down1", "y": 270 },
+
+			"down=true,facing=north,stage=2": { "model": "chinjufumod:block/bottle/wine_down2", "y": 180 },
+			"down=true,facing=south,stage=2": { "model": "chinjufumod:block/bottle/wine_down2", "y": 0 },
+			"down=true,facing=west,stage=2": { "model": "chinjufumod:block/bottle/wine_down2", "y": 90 },
+			"down=true,facing=east,stage=2": { "model": "chinjufumod:block/bottle/wine_down2", "y": 270 },
+
+			"down=true,facing=north,stage=3": { "model": "chinjufumod:block/bottle/wine_down3", "y": 180 },
+			"down=true,facing=south,stage=3": { "model": "chinjufumod:block/bottle/wine_down3", "y": 0 },
+			"down=true,facing=west,stage=3": { "model": "chinjufumod:block/bottle/wine_down3", "y": 90 },
+			"down=true,facing=east,stage=3": { "model": "chinjufumod:block/bottle/wine_down3", "y": 270 },
+
+			"down=true,facing=north,stage=4": { "model": "chinjufumod:block/bottle/wine_down4", "y": 180 },
+			"down=true,facing=south,stage=4": { "model": "chinjufumod:block/bottle/wine_down4", "y": 0 },
+			"down=true,facing=west,stage=4": { "model": "chinjufumod:block/bottle/wine_down4", "y": 90 },
+			"down=true,facing=east,stage=4": { "model": "chinjufumod:block/bottle/wine_down4", "y": 270 },
+
+			"down=true,facing=north,stage=5": { "model": "chinjufumod:block/bottle/wine_downempty", "y": 180 },
+			"down=true,facing=south,stage=5": { "model": "chinjufumod:block/bottle/wine_downempty", "y": 0 },
+			"down=true,facing=west,stage=5": { "model": "chinjufumod:block/bottle/wine_downempty", "y": 90 },
+			"down=true,facing=east,stage=5": { "model": "chinjufumod:block/bottle/wine_downempty", "y": 270 }
+	}
+}

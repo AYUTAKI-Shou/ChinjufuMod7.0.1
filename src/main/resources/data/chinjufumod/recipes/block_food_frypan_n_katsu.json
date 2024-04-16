@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_donburi",
+
+	"ingredients": [
+		{ "tag": "forge:eggs" },
+		[ { "tag": "forge:raw_pork" }, { "tag": "forge:rawpork" } ],
+		[ { "tag": "forge:dusts/salt" }, { "tag": "forge:foods/salt" }, { "tag": "forge:items/salt" } ],
+		[ { "tag": "forge:dusts/blackpepper" }, { "tag": "forge:foods/blackpepper" }, { "tag": "forge:spices/blackpepper" }, 
+		{ "tag": "forge:dusts/pepper" }, { "tag": "forge:foods/pepper" }, { "tag": "forge:spices/pepper" } ],
+		{ "item": "chinjufumod:item_food_bun" },
+		{ "tag": "forge:foods/flour" },
+		{ "item": "chinjufumod:block_food_frypan" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_frypan_n_katsu", "count" : 1 }
+}

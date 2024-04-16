@@ -1,0 +1,29 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "chinjufumod:block/corn_stem",
+		"crop": "chinjufumod:block/corn_1"
+	},
+	"elements": [
+		{
+			"name": "me1",
+			"from": [ 8, -1, 0.5 ],
+			"to": [ 8, 15, 16 ],
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 0, 0, 15.5, 16 ], "texture": "#crop" },
+				"east": { "uv": [ 15.5, 0, 0, 16 ], "texture": "#crop" }
+			}
+		},
+		{
+			"name": "me2",
+			"from": [ 0.5, -1, 8 ],
+			"to": [ 16, 15, 8 ],
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 0, 0, 15.5, 16 ], "texture": "#crop" },
+				"south": { "uv": [ 15.5, 0, 0, 16 ], "texture": "#crop" }
+			}
+		}
+	]
+}

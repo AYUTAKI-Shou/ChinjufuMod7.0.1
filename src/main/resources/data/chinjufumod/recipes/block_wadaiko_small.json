@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_wadaiko",
+
+	"ingredients": [
+		{ "item": "chinjufumod:block_wadaiko" }
+	],
+
+	"result": { "item": "chinjufumod:block_wadaiko_small", "count": 2 }
+}

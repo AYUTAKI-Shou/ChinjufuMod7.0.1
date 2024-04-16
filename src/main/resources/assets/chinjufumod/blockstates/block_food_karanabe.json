@@ -1,0 +1,83 @@
+{
+	"variants": {
+		"cook=false,down=false,facing=north,stage=1": { "model": "chinjufumod:block/food/karanabe", "y": 180 },
+		"cook=false,down=false,facing=south,stage=1": { "model": "chinjufumod:block/food/karanabe" },
+		"cook=false,down=false,facing=west,stage=1": { "model": "chinjufumod:block/food/karanabe", "y": 90 },
+		"cook=false,down=false,facing=east,stage=1": { "model": "chinjufumod:block/food/karanabe", "y": 270 },
+
+		"cook=false,down=false,facing=north,stage=2": { "model": "chinjufumod:block/food/nabe_miso_kara", "y": 180 },
+		"cook=false,down=false,facing=south,stage=2": { "model": "chinjufumod:block/food/nabe_miso_kara" },
+		"cook=false,down=false,facing=west,stage=2": { "model": "chinjufumod:block/food/nabe_miso_kara", "y": 90 },
+		"cook=false,down=false,facing=east,stage=2": { "model": "chinjufumod:block/food/nabe_miso_kara", "y": 270 },
+
+		"cook=false,down=false,facing=north,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohan_kara", "y": 180 },
+		"cook=false,down=false,facing=south,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohan_kara" },
+		"cook=false,down=false,facing=west,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohan_kara", "y": 90 },
+		"cook=false,down=false,facing=east,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohan_kara", "y": 270 },
+
+		"cook=false,down=false,facing=north,stage=4": { "model": "chinjufumod:block/food/nabe_shio_kara", "y": 180 },
+		"cook=false,down=false,facing=south,stage=4": { "model": "chinjufumod:block/food/nabe_shio_kara" },
+		"cook=false,down=false,facing=west,stage=4": { "model": "chinjufumod:block/food/nabe_shio_kara", "y": 90 },
+		"cook=false,down=false,facing=east,stage=4": { "model": "chinjufumod:block/food/nabe_shio_kara", "y": 270 },
+
+			"cook=true,down=false,facing=north,stage=1": { "model": "chinjufumod:block/food/karanabe", "y": 180 },
+			"cook=true,down=false,facing=south,stage=1": { "model": "chinjufumod:block/food/karanabe" },
+			"cook=true,down=false,facing=west,stage=1": { "model": "chinjufumod:block/food/karanabe", "y": 90 },
+			"cook=true,down=false,facing=east,stage=1": { "model": "chinjufumod:block/food/karanabe", "y": 270 },
+	
+			"cook=true,down=false,facing=north,stage=2": { "model": "chinjufumod:block/food/nabe_miso_dkara", "y": 180 },
+			"cook=true,down=false,facing=south,stage=2": { "model": "chinjufumod:block/food/nabe_miso_dkara" },
+			"cook=true,down=false,facing=west,stage=2": { "model": "chinjufumod:block/food/nabe_miso_dkara", "y": 90 },
+			"cook=true,down=false,facing=east,stage=2": { "model": "chinjufumod:block/food/nabe_miso_dkara", "y": 270 },
+	
+			"cook=true,down=false,facing=north,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohan_dkara", "y": 180 },
+			"cook=true,down=false,facing=south,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohan_dkara" },
+			"cook=true,down=false,facing=west,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohan_dkara", "y": 90 },
+			"cook=true,down=false,facing=east,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohan_dkara", "y": 270 },
+	
+			"cook=true,down=false,facing=north,stage=4": { "model": "chinjufumod:block/food/nabe_shio_kara", "y": 180 },
+			"cook=true,down=false,facing=south,stage=4": { "model": "chinjufumod:block/food/nabe_shio_kara" },
+			"cook=true,down=false,facing=west,stage=4": { "model": "chinjufumod:block/food/nabe_shio_kara", "y": 90 },
+			"cook=true,down=false,facing=east,stage=4": { "model": "chinjufumod:block/food/nabe_shio_kara", "y": 270 },
+
+		"cook=false,down=true,facing=north,stage=1": { "model": "chinjufumod:block/food/karanabe", "y": 180 },
+		"cook=false,down=true,facing=south,stage=1": { "model": "chinjufumod:block/food/karanabe" },
+		"cook=false,down=true,facing=west,stage=1": { "model": "chinjufumod:block/food/karanabe", "y": 90 },
+		"cook=false,down=true,facing=east,stage=1": { "model": "chinjufumod:block/food/karanabe", "y": 270 },
+
+		"cook=false,down=true,facing=north,stage=2": { "model": "chinjufumod:block/food/nabe_miso_dkkara", "y": 180 },
+		"cook=false,down=true,facing=south,stage=2": { "model": "chinjufumod:block/food/nabe_miso_dkkara" },
+		"cook=false,down=true,facing=west,stage=2": { "model": "chinjufumod:block/food/nabe_miso_dkkara", "y": 90 },
+		"cook=false,down=true,facing=east,stage=2": { "model": "chinjufumod:block/food/nabe_miso_dkkara", "y": 270 },
+
+		"cook=false,down=true,facing=north,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohan_dkkara", "y": 180 },
+		"cook=false,down=true,facing=south,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohan_dkkara" },
+		"cook=false,down=true,facing=west,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohan_dkkara", "y": 90 },
+		"cook=false,down=true,facing=east,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohan_dkkara", "y": 270 },
+
+		"cook=false,down=true,facing=north,stage=4": { "model": "chinjufumod:block/food/nabe_shio_kara", "y": 180 },
+		"cook=false,down=true,facing=south,stage=4": { "model": "chinjufumod:block/food/nabe_shio_kara" },
+		"cook=false,down=true,facing=west,stage=4": { "model": "chinjufumod:block/food/nabe_shio_kara", "y": 90 },
+		"cook=false,down=true,facing=east,stage=4": { "model": "chinjufumod:block/food/nabe_shio_kara", "y": 270 },
+		
+			"cook=true,down=true,facing=north,stage=1": { "model": "chinjufumod:block/food/karanabe", "y": 180 },
+			"cook=true,down=true,facing=south,stage=1": { "model": "chinjufumod:block/food/karanabe" },
+			"cook=true,down=true,facing=west,stage=1": { "model": "chinjufumod:block/food/karanabe", "y": 90 },
+			"cook=true,down=true,facing=east,stage=1": { "model": "chinjufumod:block/food/karanabe", "y": 270 },
+	
+			"cook=true,down=true,facing=north,stage=2": { "model": "chinjufumod:block/food/nabe_miso_dkkara", "y": 180 },
+			"cook=true,down=true,facing=south,stage=2": { "model": "chinjufumod:block/food/nabe_miso_dkkara" },
+			"cook=true,down=true,facing=west,stage=2": { "model": "chinjufumod:block/food/nabe_miso_dkkara", "y": 90 },
+			"cook=true,down=true,facing=east,stage=2": { "model": "chinjufumod:block/food/nabe_miso_dkkara", "y": 270 },
+	
+			"cook=true,down=true,facing=north,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohan_dkkara", "y": 180 },
+			"cook=true,down=true,facing=south,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohan_dkkara" },
+			"cook=true,down=true,facing=west,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohan_dkkara", "y": 90 },
+			"cook=true,down=true,facing=east,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohan_dkkara", "y": 270 },
+	
+			"cook=true,down=true,facing=north,stage=4": { "model": "chinjufumod:block/food/nabe_shio_kara", "y": 180 },
+			"cook=true,down=true,facing=south,stage=4": { "model": "chinjufumod:block/food/nabe_shio_kara" },
+			"cook=true,down=true,facing=west,stage=4": { "model": "chinjufumod:block/food/nabe_shio_kara", "y": 90 },
+			"cook=true,down=true,facing=east,stage=4": { "model": "chinjufumod:block/food/nabe_shio_kara", "y": 270 }
+	}
+}

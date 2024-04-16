@@ -1,0 +1,113 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/corn_stem",
+		"stem": "chinjufumod:block/corn_stem",
+		"leaf": "chinjufumod:block/corn_long",
+		"leaf_mid": "chinjufumod:block/corn_mid",
+		"leaf_sh": "chinjufumod:block/corn_short",
+		"seed": "chinjufumod:block/corn_seed",
+		"ho": "chinjufumod:block/corn_ho_green"
+	},
+	"elements": [
+
+		{
+			"name": "leaf_1______________________________________________1",
+			"from": [ 0.0, 2.0, 8.0 ],
+			"to": [ 8.0, 9.0, 8.0 ],
+			"faces": {
+				"north": { "uv": [ 0.0, 2.0, 16.0, 16.0 ], "texture": "#leaf_mid" },
+				"south": { "uv": [ 16.0, 2.0, 0.0, 16.0 ], "texture": "#leaf_mid" }
+			}
+		},
+		{
+			"name": "leaf_2",
+			"from": [ 8.0, 2.0, 8.0 ],
+			"to": [ 16.0, 9.0, 8.0 ],
+			"faces": {
+				"north": { "uv": [ 16.0, 2.0, 0.0, 16.0 ], "texture": "#leaf_mid" },
+				"south": { "uv": [ 0.0, 2.0, 16.0, 16.0 ], "texture": "#leaf_mid" }
+			}
+		},
+		{
+			"name": "leaf_3",
+			"from": [ 8.0, 2.0, 0.0 ],
+			"to": [ 8.0, 9.0, 8.0 ],
+			"faces": {
+				"west": { "uv": [ 16.0, 2.0, 0.0, 16.0 ], "texture": "#leaf_mid" },
+				"east": { "uv": [ 0.0, 2.0, 16.0, 16.0 ], "texture": "#leaf_mid" }
+			}
+		},
+		{
+			"name": "leaf_4",
+			"from": [ 8.0, 2.0, 8.0 ],
+			"to": [ 8.0, 9.0, 16.0 ],
+			"faces": {
+				"west": { "uv": [ 0.0, 2.0, 16.0, 16.0 ], "texture": "#leaf_mid" },
+				"east": { "uv": [ 16.0, 2.0, 0.0, 16.0 ], "texture": "#leaf_mid" }
+			}
+		},
+
+		{
+			"name": "leaf_1______________________________________________2",
+			"from": [ 0.0, 8.0, 8.0 ],
+			"to": [ 8.0, 15.0, 8.0 ],
+			"faces": {
+				"north": { "uv": [ 0.0, 2.0, 16.0, 16.0 ], "texture": "#leaf_sh" },
+				"south": { "uv": [ 16.0, 2.0, 0.0, 16.0 ], "texture": "#leaf_sh" }
+			}
+		},
+		{
+			"name": "leaf_2",
+			"from": [ 8.0, 8.0, 8.0 ],
+			"to": [ 16.0, 15.0, 8.0 ],
+			"faces": {
+				"north": { "uv": [ 16.0, 2.0, 0.0, 16.0 ], "texture": "#leaf_sh" },
+				"south": { "uv": [ 0.0, 2.0, 16.0, 16.0 ], "texture": "#leaf_sh" }
+			}
+		},
+		{
+			"name": "leaf_3",
+			"from": [ 8.0, 8.0, 0.0 ],
+			"to": [ 8.0, 15.0, 8.0 ],
+			"faces": {
+				"west": { "uv": [ 16.0, 2.0, 0.0, 16.0 ], "texture": "#leaf_sh" },
+				"east": { "uv": [ 0.0, 2.0, 16.0, 16.0 ], "texture": "#leaf_sh" }
+			}
+		},
+		{
+			"name": "leaf_4",
+			"from": [ 8.0, 8.0, 8.0 ],
+			"to": [ 8.0, 15.0, 16.0 ],
+			"faces": {
+				"west": { "uv": [ 0.0, 2.0, 16.0, 16.0 ], "texture": "#leaf_sh" },
+				"east": { "uv": [ 16.0, 2.0, 0.0, 16.0 ], "texture": "#leaf_sh" }
+			}
+		},
+
+		{
+			"name": "stem_bot",
+			"from": [ 7.5, -1.0, 7.5 ],
+			"to": [ 8.5, 0.0, 8.5 ],
+			"faces": {
+				"down": { "uv": [ 0.0, 0.0, 4.0, 4.0 ], "texture": "#stem" },
+				"north": { "uv": [ 0.0, 0.0, 4.0, 1.0 ], "texture": "#stem" },
+				"south": { "uv": [ 4.0, 0.0, 8.0, 1.0 ], "texture": "#stem" },
+				"west": { "uv": [ 8.0, 0.0, 12.0, 1.0 ], "texture": "#stem" },
+				"east": { "uv": [ 12.0, 0.0, 16.0, 1.0 ], "texture": "#stem" }
+			}
+		},
+		{
+			"name": "stem_mid",
+			"from": [ 7.5, 0.0, 7.5 ],
+			"to": [ 8.5, 11.0, 8.5 ],
+			"faces": {
+				"up": { "uv": [ 0.0, 0.0, 4.0, 4.0 ], "texture": "#stem" },
+				"north": { "uv": [ 0.0, 0.0, 4.0, 1.0 ], "texture": "#stem" },
+				"south": { "uv": [ 4.0, 0.0, 8.0, 1.0 ], "texture": "#stem" },
+				"west": { "uv": [ 8.0, 0.0, 12.0, 1.0 ], "texture": "#stem" },
+				"east": { "uv": [ 12.0, 0.0, 16.0, 1.0 ], "texture": "#stem" }
+			}
+		}
+	]
+}

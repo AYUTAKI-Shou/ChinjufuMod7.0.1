@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_ami",
+
+	"pattern": [
+		"XXX",
+		"XXX",
+		"YYY"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:cobweb" },
+		"Y": { "item": "minecraft:iron_nugget" }
+	},
+
+	"result": { "item": "chinjufumod:block_ami_shikake", "count": 1 }
+}

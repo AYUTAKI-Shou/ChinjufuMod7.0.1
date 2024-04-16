@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_futon",
+
+	"pattern": [
+		"XYX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:white_wool" },
+		"Y": { "item": "minecraft:magenta_wool" }
+	},
+
+	"result": { "item": "chinjufumod:block_futon_c_magenta", "count": 1 }
+}

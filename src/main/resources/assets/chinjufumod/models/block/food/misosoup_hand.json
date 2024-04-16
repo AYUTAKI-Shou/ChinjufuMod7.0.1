@@ -1,0 +1,80 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/soup_miso",
+		"shikki": "chinjufumod:block/dish_black",
+		"shikki2": "chinjufumod:block/dish_red",
+		"miso": "chinjufumod:block/soup_still_n"
+	},
+	"elements": [
+		{
+			"name": "shikki_soko",
+			"from": [ 6.7, 0, 6.7 ],
+			"to": [ 9.3, 0.2, 9.3 ],
+			"faces": {
+				"up" : { "texture": "#shikki2" },
+				"down" : { "texture": "#shikki2" },
+				"north": { "texture": "#shikki2" },
+				"south": { "texture": "#shikki2" },
+				"west" : { "texture": "#shikki2" },
+				"east" : { "texture": "#shikki2" }
+			}
+		},
+		{
+			"name": "shikki_n",
+			"from": [ 6.5, 0.2, 6.5 ],
+			"to": [ 9.5, 2, 6.7 ],
+			"faces": {
+				"up" : { "texture": "#shikki2" },
+				"down" : { "texture": "#shikki" },
+				"north": { "texture": "#shikki" },
+				"south": { "texture": "#shikki2" },
+				"west" : { "texture": "#shikki" },
+				"east" : { "texture": "#shikki" }
+			}
+		},
+		{
+			"name": "shikki_e",
+			"from": [ 9.3, 0.2, 6.7 ],
+			"to": [ 9.5, 2, 9.3 ],
+			"faces": {
+				"up" : { "texture": "#shikki2" },
+				"down" : { "texture": "#shikki" },
+				"west" : { "texture": "#shikki2" },
+				"east" : { "texture": "#shikki" }
+			}
+		},
+		{
+			"name": "shikki_s",
+			"from": [ 6.5, 0.2, 9.3 ],
+			"to": [ 9.5, 2, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#shikki2" },
+				"down" : { "texture": "#shikki" },
+				"north": { "texture": "#shikki2" },
+				"south": { "texture": "#shikki" },
+				"west" : { "texture": "#shikki" },
+				"east" : { "texture": "#shikki" }
+			}
+		},
+		{
+			"name": "shikki_w",
+			"from": [ 6.5, 0.2, 6.7 ],
+			"to": [ 6.7, 2, 9.3 ],
+			"faces": {
+				"up" : { "texture": "#shikki2" },
+				"down" : { "texture": "#shikki" },
+				"west" : { "texture": "#shikki" },
+				"east" : { "texture": "#shikki2" }
+			}
+		},
+		{
+			"name": "shikki_naka",
+			"from": [ 6.7, 1, 6.7 ],
+			"to": [ 9.3, 1.5, 9.3 ],
+			"faces": {
+				"up" : {"uv": [ 6.7, 6.7, 9.3, 9.3 ], "texture": "#miso", "tintindex": 2 }
+			}
+		}
+	]
+}

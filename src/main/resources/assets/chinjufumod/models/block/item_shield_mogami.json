@@ -1,0 +1,35 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:item/shield_mogami",
+		"shield": "chinjufumod:item/shield_mogami"
+	},
+	"elements": [
+		{
+			"name": "shield_soukou",
+			"from": [ 0, 0, 0 ],
+			"to": [ 6, 16, 1 ],
+			"faces": {
+				"up" : { "uv": [ 14.0, 0.0, 15.0, 6.0 ], "texture": "#shield", "rotation": 90 },
+				"down" : { "uv": [ 15.0, 0.0, 16.0, 6.0 ], "texture": "#shield", "rotation": 90 },
+				"north": { "uv": [ 6.0, 0.0, 0.0, 16.0 ], "texture": "#shield" },
+				"south": { "uv": [ 6.0, 0.0, 12.0, 16.0 ], "texture": "#shield" },
+				"east" : { "uv": [ 12.0, 0.0, 13.0, 16.0 ], "texture": "#shield" },
+				"west" : { "uv": [ 13.0, 0.0, 14.0, 16.0 ], "texture": "#shield" }
+			}
+		},
+		{
+			"name": "shield_hand",
+			"from": [ 1, 7.5, 0.99 ],
+			"to": [ 5, 8.5, 5 ],
+			"faces": {
+				"up" : { "uv": [ 14.0, 14.0, 16.0, 16.0 ], "texture": "#shield" },
+				"down" : { "uv": [ 14.0, 14.0, 16.0, 16.0 ], "texture": "#shield" },
+				"north": { "uv": [ 14.0, 13.0, 16.0, 14.0 ], "texture": "#shield" },
+				"south": { "uv": [ 14.0, 13.0, 16.0, 14.0 ], "texture": "#shield" },
+				"east" : { "uv": [ 14.0, 13.0, 16.0, 14.0 ], "texture": "#shield" },
+				"west" : { "uv": [ 14.0, 13.0, 16.0, 14.0 ], "texture": "#shield" }
+			}
+		}
+	]
+}

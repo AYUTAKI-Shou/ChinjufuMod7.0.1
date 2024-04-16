@@ -1,0 +1,7 @@
+{
+	"parent": "chinjufumod:block/base/niwaishi_5",
+	"textures": {
+		"particle": "minecraft:block/polished_andesite",
+		"rock": "minecraft:block/polished_andesite"
+	}
+}

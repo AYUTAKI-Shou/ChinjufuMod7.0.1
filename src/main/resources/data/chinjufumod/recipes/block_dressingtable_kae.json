@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_dressingtable",
+
+	"pattern": [
+		"X  ",
+		"Y  ",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "tag": "forge:wooden_slabs/acer" },
+		"Y": { "tag": "forge:glass_panes/colorless" }
+	},
+
+	"result": { "item": "chinjufumod:block_dressingtable_kae", "count": 1 }
+}

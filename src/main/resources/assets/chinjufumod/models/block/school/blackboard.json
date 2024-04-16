@@ -1,0 +1,23 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/blackboard",
+		"front": "chinjufumod:block/blackboard",
+		"side": "minecraft:block/oak_planks"
+	},
+	"elements": [
+		{
+			"name": "front",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 1 ],
+			"faces": {
+				"up" : { "texture": "#side" },
+				"down" : { "texture": "#side" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#front" },
+				"east" : { "texture": "#side" },
+				"west" : { "texture": "#side" }
+			}
+		}
+	]
+}

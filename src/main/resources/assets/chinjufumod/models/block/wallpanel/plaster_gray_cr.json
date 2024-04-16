@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/wallpanel_wide",
+	"textures": {
+		"particle": "chinjufumod:block/plaster_cr_gray",
+		"front": "chinjufumod:block/plaster_cr_gray",
+		"back": "chinjufumod:block/plaster_cr_gray",
+		"side": "chinjufumod:block/plaster_cr_gray"
+	}
+}

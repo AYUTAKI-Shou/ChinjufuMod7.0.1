@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/chouzubachi_4",
+	"textures": {
+ 		"particle": "minecraft:block/polished_andesite",
+ 		"ishi": "minecraft:block/polished_andesite",
+ 		"mizu": "minecraft:block/water_still"
+	}
+}

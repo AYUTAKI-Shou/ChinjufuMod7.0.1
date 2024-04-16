@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_bonsai",
+
+	"ingredients": [
+		{ "tag": "forge:saplings/acer" },
+		{ "tag": "forge:saplings/acer" },
+		{ "item": "minecraft:dirt" },
+		{ "item": "minecraft:flower_pot" }
+	],
+
+	"result": { "item": "chinjufumod:block_kanyoukaede_bot", "count" : 1 }
+}

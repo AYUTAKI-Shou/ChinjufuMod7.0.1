@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_present",
+
+	"pattern": [
+		" X ",
+		"XYX",
+		" X "
+	],
+
+	"key": {
+		"X": { "item": "minecraft:paper" },
+		"Y": { "item": "minecraft:blaze_rod" }
+	},
+
+	"result": { "item": "chinjufumod:block_present_bla", "count": 1 }
+}

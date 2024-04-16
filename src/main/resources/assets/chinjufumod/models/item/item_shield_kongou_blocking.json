@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:block/item_shield_kongou_blocking",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [ 45, -30, 0 ],
+			"translation": [ -4, -1, 4 ],
+			"scale": [ 1.0, 1.0, 1.0 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [ 45, -30, 0 ],
+			"translation": [ -4, -1, 4 ],
+			"scale": [ 1.0, 1.0, 1.0 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ -11.5, -16, -8 ],
+			"scale": [ 3.0, 3.0, 3.0 ]
+		},
+		"firstperson_lefthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ -6.5, -16, -8 ],
+			"scale": [ 3.0, 3.0, 3.0 ]
+		},
+		"gui": {
+			"rotation": [ 15, 75, 0 ],
+			"translation": [ -2, -1, 0 ],
+			"scale":[ 0.7, 0.7, 0.7 ]
+		}
+	}
+}

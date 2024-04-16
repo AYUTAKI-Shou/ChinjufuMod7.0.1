@@ -1,0 +1,17 @@
+{
+	"variants": {
+		"facing=up,lit=false": { "model": "chinjufumod:block/lamp/lamp_up" },
+		"facing=down,lit=false": { "model": "chinjufumod:block/lamp/lamp_down" },
+		"facing=north,lit=false": { "model": "chinjufumod:block/lamp/lamp", "y": 180 },
+		"facing=south,lit=false": { "model": "chinjufumod:block/lamp/lamp", "y": 0 },
+		"facing=west,lit=false": { "model": "chinjufumod:block/lamp/lamp", "y": 90 },
+		"facing=east,lit=false": { "model": "chinjufumod:block/lamp/lamp", "y": 270 },
+
+		"facing=up,lit=true": { "model": "chinjufumod:block/lamp/lit_lamp_up" },
+		"facing=down,lit=true": { "model": "chinjufumod:block/lamp/lit_lamp_down" },
+		"facing=north,lit=true": { "model": "chinjufumod:block/lamp/lit_lamp", "y": 180 },
+		"facing=south,lit=true": { "model": "chinjufumod:block/lamp/lit_lamp", "y": 0 },
+		"facing=west,lit=true": { "model": "chinjufumod:block/lamp/lit_lamp", "y": 90 },
+		"facing=east,lit=true": { "model": "chinjufumod:block/lamp/lit_lamp", "y": 270 }
+	}
+}

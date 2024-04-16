@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_curry",
+
+	"ingredients": [
+		{ "tag": "forge:crops/carrot" },
+		{ "tag": "forge:crops/cabbage" },
+		{ "tag": "forge:crops/tomato" },
+		{ "item": "chinjufumod:item_food_sara" },
+		{ "item": "chinjufumod:block_food_curry_t1" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_curryset_t1", "count" : 1 }
+}

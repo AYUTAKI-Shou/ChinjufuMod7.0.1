@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_ikegaki",
+
+	"pattern": [
+		"X",
+		"X"
+	],
+
+	"key": {
+		"X": { "tag": "forge:saplings/autumn_oak" }
+	},
+
+	"result": { "item": "chinjufumod:block_longoakkare_bot", "count": 1 }
+}

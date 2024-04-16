@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_mkasa",
+
+	"pattern": [
+		"X",
+		"Y"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:brown_wool" },
+		"Y": [ { "tag": "minecraft:planks" }, { "tag": "forge:planks" } ]
+	},
+
+	"result": { "item": "chinjufumod:block_mkasa_brown", "count": 9 }
+}

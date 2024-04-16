@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_takeakari",
+
+	"ingredients": [
+		{ "item": "chinjufumod:block_bamboo_y_cube" },
+		[ { "item": "chinjufumod:item_oriito" }, { "tag": "forge:string" } ],
+		[ { "item": "chinjufumod:item_oriito" }, { "tag": "forge:string" } ],
+		[ { "item": "chinjufumod:item_oriito" }, { "tag": "forge:string" } ],
+		[ { "item": "chinjufumod:item_oriito" }, { "tag": "forge:string" } ],
+		[ { "item": "chinjufumod:item_soy" }, { "tag": "forge:slimeballs" } ],
+		[ { "item": "chinjufumod:item_soy" }, { "tag": "forge:slimeballs" } ],
+		[ { "item": "chinjufumod:item_soy" }, { "tag": "forge:slimeballs" } ],
+		[ { "item": "chinjufumod:item_soy" }, { "tag": "forge:slimeballs" } ]
+	],
+
+	"result": { "item": "chinjufumod:block_takeakari_y", "count" : 4 }
+}

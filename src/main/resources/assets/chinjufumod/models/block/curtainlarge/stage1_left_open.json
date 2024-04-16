@@ -1,0 +1,22 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/muku_spruce",
+		"bou": "chinjufumod:block/muku_spruce"
+	},
+	"elements": [
+		{
+			"name": "waku_rail",
+			"from": [ 0.01, 15.5, 0 ],
+			"to": [ 16, 16, 0.5 ],
+			"faces": {
+				"up" : { "uv": [ 0.01, 0.0, 16.0, 1.0 ], "texture": "#bou" },
+				"down" : { "uv": [ 0.01, 0.0, 16.0, 1.0 ], "texture": "#bou" },
+				"north": { "uv": [ 0.01, 0.0, 16.0, 1.0 ], "texture": "#bou", "cullface": "north" },
+				"south": { "uv": [ 0.01, 0.0, 16.0, 1.0 ], "texture": "#bou" },
+				"west" : { "uv": [ 15.0, 0.0, 16.0, 1.0 ], "texture": "#bou" }
+
+			}
+		}
+	]
+}

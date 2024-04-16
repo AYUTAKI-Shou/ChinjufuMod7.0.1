@@ -1,0 +1,9 @@
+{
+	"type": "minecraft:smelting",
+	"ingredient": {
+		"item": "chinjufumod:item_bauxite"
+	},
+	"result": "chinjufumod:item_ingot_alumi",
+	"experience": 0.5,
+	"cookingtime": 200
+}

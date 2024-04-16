@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_spice",
+
+	"ingredients": [
+		{ "tag": "forge:crops/chilipepper" },
+		{ "tag": "forge:crops/chilipepper" },
+		{ "tag": "forge:crops/chilipepper" },
+		{ "tag": "forge:crops/chilipepper" }
+	],
+
+	"result": { "item": "chinjufumod:item_dust_chili", "count": 4 }
+}

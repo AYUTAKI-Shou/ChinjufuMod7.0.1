@@ -1,0 +1,68 @@
+{
+	"parent": "block/block",
+	"elements": [
+		{
+			"name": "fuchi_ue",
+			"from": [ 2, 15, -0.5 ],
+			"to": [ 14, 16, 0 ],
+			"faces": {
+				"down": { "uv": [ 2.0, 4.0, 14.0, 5.0 ], "texture": "#fuchi" },
+				"north": { "uv": [ 2.0, 0.0, 14.0, 1.0 ], "texture": "#fuchi" }
+			}
+		},
+		{
+			"name": "fuchi_naka",
+			"from": [ 2, 7.5, -0.5 ],
+			"to": [ 14, 9.5, 0 ],
+			"faces": {
+				"up": { "uv": [ 2.0, 4.0, 14.0, 5.0 ], "texture": "#fuchi" },
+				"down": { "uv": [ 2.0, 4.0, 14.0, 5.0 ], "texture": "#fuchi" },
+				"north": { "uv": [ 2.0, 8.0, 14.0, 10.0 ], "texture": "#fuchi" }
+			}
+		},
+		{
+			"name": "fuchi_shita",
+			"from": [ 0, 0.01, -0.5 ],
+			"to": [ 16, 2, 0.5 ],
+			"faces": {
+				"up": { "uv": [ 0.0, 8.0, 16.0, 9.0 ], "texture": "#fuchi" },
+				"down": { "uv": [ 0.0, 8.0, 16.0, 9.0 ], "texture": "#fuchi" },
+				"north": { "uv": [ 0.0, 12.0, 16.0, 14.0 ], "texture": "#fuchi" },
+				"south": { "uv": [ 0.0, 12.0, 16.0, 14.0 ], "texture": "#fuchi" },
+				"east": { "uv": [ 15.0, 14.0, 16.0, 16.0 ], "texture": "#amado" },
+				"west": { "uv": [ 15.0, 14.0, 16.0, 16.0 ], "texture": "#amado" }
+			}
+		},
+		{
+			"name": "fuchi_1",
+			"from": [ 0, 2, -0.5 ],
+			"to": [ 2, 16, 0.5 ],
+			"faces": {
+				"north": { "uv": [ 0.0, 0.0, 14.0, 2.0 ], "texture": "#fuchi", "rotation": 90 },
+				"south": { "uv": [ 0.0, 0.0, 14.0, 2.0 ], "texture": "#fuchi", "rotation": 90 },
+				"east": { "uv": [ 15.0, 0.0, 16.0, 14.0 ], "texture": "#amado" },
+				"west": { "uv": [ 15.0, 0.0, 16.0, 14.0 ], "texture": "#amado" }
+			}
+		},
+		{
+			"name": "fuchi_2",
+			"from": [ 14, 2, -0.5 ],
+			"to": [ 16, 16, 0.5 ],
+			"faces": {
+				"north": { "uv": [ 0.0, 12.0, 14.0, 14.0 ], "texture": "#fuchi", "rotation": 90 },
+				"south": { "uv": [ 0.0, 12.0, 14.0, 14.0 ], "texture": "#fuchi", "rotation": 90 },
+				"east": { "uv": [ 15.0, 0.0, 16.0, 14.0 ], "texture": "#amado" },
+				"west": { "uv": [ 15.0, 0.0, 16.0, 14.0 ], "texture": "#amado" }
+			}
+		},
+		{
+			"name": "amado",
+			"from": [ 1, 1, -0.1 ],
+			"to": [ 15, 16, 0.3 ],
+			"faces": {
+				"north": { "uv": [ 1.0, 0.0, 15.0, 15.0 ], "texture": "#amado" },
+				"south": { "uv": [ 1.0, 0.0, 15.0, 15.0 ], "texture": "#amado" }
+			}
+		}
+	]
+}

@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/click_okonomi",
+	"textures": {
+		"particle": "chinjufumod:block/okonomic_bake",
+		"okonomi": "chinjufumod:block/okonomic_bake",
+		"kote": "chinjufumod:block/dish_lightg",
+		"teppan": "chinjufumod:block/kitchen_stove"
+	}
+}

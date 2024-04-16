@@ -1,0 +1,38 @@
+{
+	"parent": "chinjufumod:block/rensouhou/binoculars",
+	"display": {
+		"gui": {
+			"rotation": [ 60, 45, 0 ],
+			"translation": [ 2, -1, 0 ],
+			"scale": [ 0.6, 0.6, 0.6 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 90, 0, -45 ],
+			"translation": [ 3, 0, 0 ],
+			"scale": [ 0.5, 0.5, 0.5 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 45, 0, -45 ],
+			"translation": [ 1.5, 0, 3 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		},
+		"fixed": {
+			"rotation": [ 270, 225, 0 ],
+			"translation": [ 0.5, 0, -2.01 ],
+			"scale": [ 0.5, 0.5, 0.5 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 0.3, 0.3, 0.3 ]
+		}
+	},
+	"overrides": [
+		{ "predicate": { "pull": 1 },
+			"model": "chinjufumod:item/item_binoculars_pull"
+		},
+		{ "predicate": { "spyglass": 1 },
+			"model": "chinjufumod:item/item_binoculars_spyglass"
+		}
+	]
+}

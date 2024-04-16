@@ -1,0 +1,105 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:item/kk_fuel",
+		"fuel": "chinjufumod:item/kk_fuel"
+	},
+	"elements": [
+		{
+			"name": "fuel",
+			"from": [ 7, 0.5, 5 ],
+			"to": [ 13, 9.5, 11 ],
+			"faces": {
+				"up" : { "uv": [ 1.0, 1.0, 7.0, 7.0 ], "texture": "#fuel" },
+				"down" : { "uv": [ 1.0, 9.0, 7.0, 15.0 ], "texture": "#fuel" }
+			}
+		},
+		{
+			"name": "fuel_n",
+			"from": [ 6, 0, 4 ],
+			"to": [ 14, 10, 5 ],
+			"faces": {
+				"up" : { "uv": [ 0.0, 0.0, 8.0, 1.0 ], "texture": "#fuel" },
+				"down" : { "uv": [ 0.0, 8.0, 8.0, 9.0 ], "texture": "#fuel" },
+				"north": { "uv": [ 8.0, 0.0, 16.0, 10.0 ], "texture": "#fuel" },
+				"south": { "uv": [ 16.0, 0.0, 8.0, 10.0 ], "texture": "#fuel" },
+				"west" : { "uv": [ 8.0, 0.0, 9.0, 10.0 ], "texture": "#fuel" },
+				"east" : { "uv": [ 15.0, 0.0, 16.0, 10.0 ], "texture": "#fuel" }
+			}
+		},
+		{
+			"name": "fuel_s",
+			"from": [ 6, 0, 11 ],
+			"to": [ 14, 10, 12 ],
+			"faces": {
+				"up" : { "uv": [ 0.0, 7.0, 8.0, 8.0 ], "texture": "#fuel" },
+				"down" : { "uv": [ 0.0, 15.0, 8.0, 16.0 ], "texture": "#fuel" },
+				"north": { "uv": [ 8.0, 0.0, 16.0, 10.0 ], "texture": "#fuel" },
+				"south": { "uv": [ 16.0, 0.0, 8.0, 10.0 ], "texture": "#fuel" },
+				"west" : { "uv": [ 15.0, 0.0, 16.0, 10.0 ], "texture": "#fuel" },
+				"east" : { "uv": [ 8.0, 0.0, 9.0, 10.0 ], "texture": "#fuel" }
+			}
+		},
+		{
+			"name": "fuel_w",
+			"from": [ 6, 0, 5 ],
+			"to": [ 7, 10, 11 ],
+			"faces": {
+				"up" : { "uv": [ 7.0, 1.0, 8.0, 7.0 ], "texture": "#fuel" },
+				"down" : { "uv": [ 7.0, 9.0, 8.0, 15.0 ], "texture": "#fuel" },
+				"west" : { "uv": [ 9.0, 0.0, 15.0, 10.0 ], "texture": "#fuel" },
+				"east" : { "uv": [ 9.0, 0.0, 15.0, 10.0 ], "texture": "#fuel" }
+			}
+		},
+		{
+			"name": "fuel_e",
+			"from": [ 13, 0, 5 ],
+			"to": [ 14, 10, 11 ],
+			"faces": {
+				"up" : { "uv": [ 0.0, 1.0, 1.0, 7.0 ], "texture": "#fuel" },
+				"down" : { "uv": [ 0.0, 9.0, 1.0, 15.0 ], "texture": "#fuel" },
+				"west" : { "uv": [ 9.0, 0.0, 15.0, 10.0 ], "texture": "#fuel" },
+				"east" : { "uv": [ 9.0, 0.0, 15.0, 10.0 ], "texture": "#fuel" }
+			}
+		},
+		
+		{
+			"name": "danyaku_futa",
+			"from": [ 1, 3, 4 ],
+			"to": [ 6, 4, 12 ],
+			"faces": {
+				"up" : { "uv": [ 8.0, 10.0, 16.0, 16.0 ], "texture": "#fuel", "rotation": 90 },
+				"down" : { "uv": [ 8.0, 10.0, 16.0, 16.0 ], "texture": "#fuel", "rotation": 90 },
+				"north": { "uv": [ 9.0, 12.0, 15.0, 13.0 ], "texture": "#fuel" },
+				"south": { "uv": [ 9.0, 10.0, 15.0, 11.0 ], "texture": "#fuel" },
+				"west" : { "uv": [ 8.0, 12.0, 16.0, 13.0 ], "texture": "#fuel" },
+				"east" : { "uv": [ 8.0, 10.0, 16.0, 11.0 ], "texture": "#fuel" }
+			}
+		},
+		{
+			"name": "danyaku_futa",
+			"from": [ 1.5, 2.5, 4.5 ],
+			"to": [ 5.5, 3, 11.5 ],
+			"faces": {
+				"down" : { "uv": [ 8.5, 10.5, 15.5, 15.5 ], "texture": "#fuel", "rotation": 90 },
+				"north": { "uv": [ 9.5, 13.0, 14.5, 13.5 ], "texture": "#fuel" },
+				"south": { "uv": [ 9.5, 11.0, 14.5, 11.5 ], "texture": "#fuel" },
+				"west" : { "uv": [ 8.5, 13.0, 15.5, 13.5 ], "texture": "#fuel" },
+				"east" : { "uv": [ 8.5, 11.0, 15.5, 11.5 ], "texture": "#fuel" }
+			}
+		},
+		{
+			"name": "danyaku",
+			"from": [ 1, 0, 4 ],
+			"to": [ 6, 2.9, 12 ],
+			"faces": {
+				"up" : { "uv": [ 8.0, 10.0, 16.0, 16.0 ], "texture": "#fuel", "rotation": 90 },
+				"down" : { "uv": [ 8.0, 10.0, 16.0, 16.0 ], "texture": "#fuel", "rotation": 90 },
+				"north": { "uv": [ 9.0, 13.0, 15.0, 16.0 ], "texture": "#fuel" },
+				"south": { "uv": [ 9.0, 11.0, 15.0, 14.0 ], "texture": "#fuel" },
+				"west" : { "uv": [ 8.0, 13.0, 16.0, 16.0 ], "texture": "#fuel" },
+				"east" : { "uv": [ 8.0, 11.0, 16.0, 14.0 ], "texture": "#fuel" }
+			}
+		}
+	]
+}

@@ -1,0 +1,24 @@
+{
+	"variants": {
+		"facing=north,half=lower,lit=false": { "model": "chinjufumod:block/kitchen/sinkbot1", "y": 180 },
+		"facing=south,half=lower,lit=false": { "model": "chinjufumod:block/kitchen/sinkbot1", "y": 0 },
+		"facing=west,half=lower,lit=false": { "model": "chinjufumod:block/kitchen/sinkbot1", "y": 90 },
+		"facing=east,half=lower,lit=false": { "model": "chinjufumod:block/kitchen/sinkbot1", "y": 270 },
+
+		"facing=north,half=lower,lit=true": { "model": "chinjufumod:block/kitchen/sinkbot2", "y": 180 },
+		"facing=south,half=lower,lit=true": { "model": "chinjufumod:block/kitchen/sinkbot2", "y": 0 },
+		"facing=west,half=lower,lit=true": { "model": "chinjufumod:block/kitchen/sinkbot2", "y": 90 },
+		"facing=east,half=lower,lit=true": { "model": "chinjufumod:block/kitchen/sinkbot2", "y": 270 },
+
+		"facing=north,half=upper,lit=false": { "model": "chinjufumod:block/kitchen/sinktop1", "y": 180 },
+		"facing=south,half=upper,lit=false": { "model": "chinjufumod:block/kitchen/sinktop1", "y": 0 },
+		"facing=west,half=upper,lit=false": { "model": "chinjufumod:block/kitchen/sinktop1", "y": 90 },
+		"facing=east,half=upper,lit=false": { "model": "chinjufumod:block/kitchen/sinktop1", "y": 270 },
+
+		"facing=north,half=upper,lit=true": { "model": "chinjufumod:block/kitchen/sinktop2", "y": 180 },
+		"facing=south,half=upper,lit=true": { "model": "chinjufumod:block/kitchen/sinktop2", "y": 0 },
+		"facing=west,half=upper,lit=true": { "model": "chinjufumod:block/kitchen/sinktop2", "y": 90 },
+		"facing=east,half=upper,lit=true": { "model": "chinjufumod:block/kitchen/sinktop2", "y": 270 }
+
+	}
+}

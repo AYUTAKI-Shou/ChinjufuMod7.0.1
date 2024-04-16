@@ -1,0 +1,155 @@
+package com.ayutaki.chinjufumod.blocks.hakkou;
+
+import java.util.Random;
+
+import com.ayutaki.chinjufumod.blocks.base.BaseFacingSlab_Water;
+import com.ayutaki.chinjufumod.blocks.base.CM_WaterLogged;
+import com.ayutaki.chinjufumod.blocks.jpblock.Base_Slab_JP;
+import com.ayutaki.chinjufumod.blocks.jpdeco.BaseTatami;
+import com.ayutaki.chinjufumod.blocks.unitblock.Chabudai;
+import com.ayutaki.chinjufumod.blocks.unitblock.Kotatsu;
+import com.ayutaki.chinjufumod.blocks.unitblock.LowDesk;
+import com.ayutaki.chinjufumod.blocks.wood.WoodSlab_CM;
+import com.ayutaki.chinjufumod.handler.CMEvents;
+import com.ayutaki.chinjufumod.state.TatamiType;
+
+import net.minecraft.block.AbstractBlock;
+import net.minecraft.block.Block;
+import net.minecraft.block.BlockState;
+import net.minecraft.block.Blocks;
+import net.minecraft.block.SlabBlock;
+import net.minecraft.fluid.FluidState;
+import net.minecraft.fluid.Fluids;
+import net.minecraft.item.BlockItemUseContext;
+import net.minecraft.state.BooleanProperty;
+import net.minecraft.state.DirectionProperty;
+import net.minecraft.state.IntegerProperty;
+import net.minecraft.state.StateContainer;
+import net.minecraft.state.properties.SlabType;
+import net.minecraft.util.Direction;
+import net.minecraft.util.Mirror;
+import net.minecraft.util.Rotation;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.math.shapes.ISelectionContext;
+import net.minecraft.util.math.shapes.VoxelShape;
+import net.minecraft.world.IBlockReader;
+import net.minecraft.world.IWorld;
+import net.minecraft.world.World;
+import net.minecraft.world.server.ServerWorld;
+
+public class Base_Bottle extends CM_WaterLogged {
+
+	/* Property */
+	public static final DirectionProperty H_FACING = DirectionProperty.create("facing", Direction.Plane.HORIZONTAL);
+	public static final IntegerProperty STAGE_1_5 = IntegerProperty.create("stage", 1, 5);
+	public static final BooleanProperty DOWN = BooleanProperty.create("down");
+
+	/* Collision */
+	protected static final VoxelShape AABB_BOX = Block.box(5.0D, 0.0D, 5.0D, 11.0D, 16.0D, 11.0D);
+	protected static final VoxelShape AABB_DOWN = Block.box(5.0D, -8.0D, 5.0D, 11.0D, 8.0D, 11.0D);
+
+	public Base_Bottle(AbstractBlock.Properties properties) {
+		super(properties);
+		/** Default state **/
+		registerDefaultState(this.defaultBlockState().setValue(H_FACING, Direction.NORTH)
+				.setValue(STAGE_1_5, Integer.valueOf(1))
+				.setValue(DOWN, Boolean.valueOf(false))
+				.setValue(WATERLOGGED, Boolean.valueOf(false)));
+	}
+
+	/* Gives a value when placed. +180 .getOpposite() */
+	@Override
+	public BlockState getStateForPlacement(BlockItemUseContext context) {
+		World worldIn = context.getLevel();
+		BlockPos pos = context.getClickedPos();
+		FluidState fluid = worldIn.getFluidState(pos);
+
+		return this.defaultBlockState().setValue(H_FACING, context.getHorizontalDirection().getOpposite())
+				.setValue(DOWN, this.connectHalf(worldIn, pos, Direction.DOWN))
+				.setValue(WATERLOGGED, Boolean.valueOf(Boolean.valueOf(fluid.getType() == Fluids.WATER)));
+	}
+
+	@Override
+	public BlockState rotate(BlockState state, Rotation rotation) {
+		return state.setValue(H_FACING, rotation.rotate(state.getValue(H_FACING)));
+	}
+
+	@SuppressWarnings("deprecation")
+	public BlockState mirror(BlockState state, Mirror mirror) {
+		return state.rotate(mirror.getRotation(state.getValue(H_FACING)));
+	}
+	
+	/* Connect the blocks. */
+	protected boolean connectHalf(IBlockReader worldIn, BlockPos pos, Direction face) {
+		BlockPos newPos = pos.relative(face);
+		BlockState state = worldIn.getBlockState(newPos);
+		Block block = state.getBlock();
+
+		return ((block instanceof SlabBlock && state.getValue(SlabBlock.TYPE) == SlabType.BOTTOM) ||
+				(block instanceof WoodSlab_CM && state.getValue(SlabBlock.TYPE) == SlabType.BOTTOM) ||
+				(block instanceof BaseFacingSlab_Water && state.getValue(SlabBlock.TYPE) == SlabType.BOTTOM) ||
+				(block instanceof Base_Slab_JP && state.getValue(Base_Slab_JP.TYPE) == SlabType.BOTTOM) ||
+				(block instanceof BaseTatami && state.getValue(BaseTatami.TYPE) == TatamiType.BOTTOM) ||
+				block instanceof LowDesk || block instanceof Chabudai || block instanceof Kotatsu);
+	}
+
+	/* Distinguish LOST from WATERLOGGED. */
+	protected boolean inWater(BlockState state, IBlockReader worldIn, BlockPos pos) {
+		BlockState upState = worldIn.getBlockState(pos.above());
+		Block upBlock = upState.getBlock();
+
+		if ((upBlock == Blocks.WATER && state.getValue(WATERLOGGED)) || (state.getValue(DOWN) && state.getValue(WATERLOGGED))) { return true; }
+		return false;
+	}
+	
+	/* Update BlockState. */
+	@Override
+	public BlockState updateShape(BlockState state, Direction facing, BlockState facingState, IWorld worldIn, BlockPos pos, BlockPos facingPos) {
+		if ((Boolean)state.getValue(WATERLOGGED)) {
+			worldIn.getLiquidTicks().scheduleTick(pos, Fluids.WATER, Fluids.WATER.getTickDelay(worldIn));
+		}
+
+		if (inWater(state, worldIn, pos)) {
+			worldIn.getBlockTicks().scheduleTick(pos, this, 60); }
+
+		boolean down = connectHalf(worldIn, pos, Direction.DOWN);
+		return state.setValue(DOWN, down);
+	}
+
+	/* TickRandom */
+	@Override
+	public void onPlace(BlockState state, World worldIn, BlockPos pos, BlockState oldState, boolean isMoving) {
+		worldIn.getBlockTicks().scheduleTick(pos, this, 60);
+	}
+
+	/* TickRandom */
+	@Override
+	public void tick(BlockState state, ServerWorld worldIn, BlockPos pos, Random rand) {
+		int i = state.getValue(STAGE_1_5);
+		
+		if (i != 1 && i != 5) {
+			if (inWater(state, worldIn, pos)) {
+				worldIn.getBlockTicks().scheduleTick(pos, this, 60);
+				CMEvents.soundBubble(worldIn, pos);
+				worldIn.setBlock(pos, state.setValue(STAGE_1_5, Integer.valueOf(5)), 3); }
+			
+			else { } }
+		
+		if (i == 1 || i == 5) { }
+	}
+
+	/* Create Blockstate */
+	@Override
+	protected void createBlockStateDefinition(StateContainer.Builder<Block, BlockState> builder) {
+		builder.add(DOWN, H_FACING, STAGE_1_5, WATERLOGGED);
+	}
+
+	/* Collisions for each property. */
+	@Override
+	public VoxelShape getShape(BlockState state, IBlockReader worldIn, BlockPos pos, ISelectionContext context) {
+		boolean flag= !((Boolean)state.getValue(DOWN)).booleanValue();
+
+		/** !down= true : false **/
+		return flag? AABB_BOX : AABB_DOWN;
+	}
+}

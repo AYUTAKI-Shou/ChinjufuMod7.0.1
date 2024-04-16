@@ -1,0 +1,9 @@
+﻿{
+	"parent": "chinjufumod:block/base/box_sack_bot",
+	"textures": {
+		"particle": "chinjufumod:block/sack_cumin_top",
+		"bottom": "chinjufumod:block/sack_cumin_bottom",
+		"side": "chinjufumod:block/sack_cumin_side",
+		"top": "chinjufumod:block/sack_cumin_top"
+	}
+}

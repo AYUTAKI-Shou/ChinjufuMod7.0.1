@@ -1,0 +1,58 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/muku_oak",
+		"tana": "chinjufumod:block/muku_oak"
+	},
+	"elements": [
+
+		{
+			"name": "tana_naka_____________________________________________",
+			"from": [ 1, 9, 1 ],
+			"to": [ 15, 10, 11 ],
+			"faces": {
+				"up" : { "uv": [ 1.0, 1.0, 11.0, 15.0 ], "texture": "#tana", "rotation": 90 },
+				"down" : { "uv": [ 1.0, 1.0, 11.0, 15.0 ], "texture": "#tana", "rotation": 90 },
+				"north": { "uv": [ 6.0, 1.0, 7.0, 15.0 ], "texture": "#tana", "rotation": 90 },
+				"south": { "uv": [ 6.0, 1.0, 7.0, 15.0 ], "texture": "#tana", "rotation": 90 }
+			}
+		},
+		{
+			"name": "tana_shita",
+			"from": [ 1, 1, 1 ],
+			"to": [ 15, 2, 11 ],
+			"faces": {
+				"up" : { "uv": [ 1.0, 1.0, 11.0, 15.0 ], "texture": "#tana", "rotation": 90 },
+				"down" : { "uv": [ 1.0, 1.0, 11.0, 15.0 ], "texture": "#tana", "rotation": 90 },
+				"north": { "uv": [ 14.0, 1.0, 15.0, 15.0 ], "texture": "#tana", "rotation": 90 },
+				"south": { "uv": [ 14.0, 1.0, 15.0, 15.0 ], "texture": "#tana", "rotation": 90 }
+			}
+		},
+		{
+			"name": "migi_1",
+			"from": [ 15, 0, 0 ],
+			"to": [ 16, 16, 12 ],
+			"faces": {
+				"up" : { "texture": "#tana", "cullface": "up" },
+				"down" : { "texture": "#tana", "cullface": "down" },
+				"north": { "texture": "#tana", "cullface": "north" },
+				"south": { "texture": "#tana" },
+	 			"west" : { "texture": "#tana" },
+				"east" : { "texture": "#tana", "cullface": "east" }
+			}
+		},
+		{
+			"name": "hidari_1",
+			"from": [ 0, 0, 0 ],
+			"to": [ 1, 16, 12 ],
+			"faces": {
+				"up" : { "texture": "#tana", "cullface": "up" },
+				"down" : { "texture": "#tana", "cullface": "down" },
+				"north": { "texture": "#tana", "cullface": "north" },
+				"south": { "texture": "#tana" },
+	 			"west" : { "texture": "#tana", "cullface": "west" },
+				"east" : { "texture": "#tana" }
+			}
+		}
+	]
+}

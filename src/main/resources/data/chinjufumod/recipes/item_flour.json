@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_food",
+
+	"pattern": [
+		"X"
+	],
+
+	"key": {
+		"X": { "tag": "forge:crops/wheat" }
+	},
+
+	"result": { "item": "chinjufumod:item_flour", "count": 1 }
+}

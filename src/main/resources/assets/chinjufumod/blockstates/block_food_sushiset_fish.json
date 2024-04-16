@@ -1,0 +1,53 @@
+{
+	"variants": {
+		"down=false,facing=north,stage=1": { "model": "chinjufumod:block/sushi/sushiset_fish_1", "y": 180 },
+		"down=false,facing=south,stage=1": { "model": "chinjufumod:block/sushi/sushiset_fish_1" },
+		"down=false,facing=west,stage=1": { "model": "chinjufumod:block/sushi/sushiset_fish_1", "y": 90 },
+		"down=false,facing=east,stage=1": { "model": "chinjufumod:block/sushi/sushiset_fish_1", "y": 270 },
+
+		"down=false,facing=north,stage=2": { "model": "chinjufumod:block/sushi/sushiset_fish_2", "y": 180 },
+		"down=false,facing=south,stage=2": { "model": "chinjufumod:block/sushi/sushiset_fish_2" },
+		"down=false,facing=west,stage=2": { "model": "chinjufumod:block/sushi/sushiset_fish_2", "y": 90 },
+		"down=false,facing=east,stage=2": { "model": "chinjufumod:block/sushi/sushiset_fish_2", "y": 270 },
+
+		"down=false,facing=north,stage=3": { "model": "chinjufumod:block/sushi/sushiset_fish_3", "y": 180 },
+		"down=false,facing=south,stage=3": { "model": "chinjufumod:block/sushi/sushiset_fish_3" },
+		"down=false,facing=west,stage=3": { "model": "chinjufumod:block/sushi/sushiset_fish_3", "y": 90 },
+		"down=false,facing=east,stage=3": { "model": "chinjufumod:block/sushi/sushiset_fish_3", "y": 270 },
+
+		"down=false,facing=north,stage=4": { "model": "chinjufumod:block/sushi/sushiset_fish_4", "y": 180 },
+		"down=false,facing=south,stage=4": { "model": "chinjufumod:block/sushi/sushiset_fish_4" },
+		"down=false,facing=west,stage=4": { "model": "chinjufumod:block/sushi/sushiset_fish_4", "y": 90 },
+		"down=false,facing=east,stage=4": { "model": "chinjufumod:block/sushi/sushiset_fish_4", "y": 270 },
+
+		"down=false,facing=north,stage=5": { "model": "chinjufumod:block/sushi/sushiset_kara", "y": 180 },
+		"down=false,facing=south,stage=5": { "model": "chinjufumod:block/sushi/sushiset_kara" },
+		"down=false,facing=west,stage=5": { "model": "chinjufumod:block/sushi/sushiset_kara", "y": 90 },
+		"down=false,facing=east,stage=5": { "model": "chinjufumod:block/sushi/sushiset_kara", "y": 270 },
+
+			"down=true,facing=north,stage=1": { "model": "chinjufumod:block/sushi/sushiset_fish_d1", "y": 180 },
+			"down=true,facing=south,stage=1": { "model": "chinjufumod:block/sushi/sushiset_fish_d1" },
+			"down=true,facing=west,stage=1": { "model": "chinjufumod:block/sushi/sushiset_fish_d1", "y": 90 },
+			"down=true,facing=east,stage=1": { "model": "chinjufumod:block/sushi/sushiset_fish_d1", "y": 270 },
+
+			"down=true,facing=north,stage=2": { "model": "chinjufumod:block/sushi/sushiset_fish_d2", "y": 180 },
+			"down=true,facing=south,stage=2": { "model": "chinjufumod:block/sushi/sushiset_fish_d2" },
+			"down=true,facing=west,stage=2": { "model": "chinjufumod:block/sushi/sushiset_fish_d2", "y": 90 },
+			"down=true,facing=east,stage=2": { "model": "chinjufumod:block/sushi/sushiset_fish_d2", "y": 270 },
+
+			"down=true,facing=north,stage=3": { "model": "chinjufumod:block/sushi/sushiset_fish_d3", "y": 180 },
+			"down=true,facing=south,stage=3": { "model": "chinjufumod:block/sushi/sushiset_fish_d3" },
+			"down=true,facing=west,stage=3": { "model": "chinjufumod:block/sushi/sushiset_fish_d3", "y": 90 },
+			"down=true,facing=east,stage=3": { "model": "chinjufumod:block/sushi/sushiset_fish_d3", "y": 270 },
+
+			"down=true,facing=north,stage=4": { "model": "chinjufumod:block/sushi/sushiset_fish_d4", "y": 180 },
+			"down=true,facing=south,stage=4": { "model": "chinjufumod:block/sushi/sushiset_fish_d4" },
+			"down=true,facing=west,stage=4": { "model": "chinjufumod:block/sushi/sushiset_fish_d4", "y": 90 },
+			"down=true,facing=east,stage=4": { "model": "chinjufumod:block/sushi/sushiset_fish_d4", "y": 270 },
+
+			"down=true,facing=north,stage=5": { "model": "chinjufumod:block/sushi/sushiset_dkara", "y": 180 },
+			"down=true,facing=south,stage=5": { "model": "chinjufumod:block/sushi/sushiset_dkara" },
+			"down=true,facing=west,stage=5": { "model": "chinjufumod:block/sushi/sushiset_dkara", "y": 90 },
+			"down=true,facing=east,stage=5": { "model": "chinjufumod:block/sushi/sushiset_dkara", "y": 270 }
+	}
+}

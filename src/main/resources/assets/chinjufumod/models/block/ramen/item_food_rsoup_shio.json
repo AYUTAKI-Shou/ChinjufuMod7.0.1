@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/udon_soup",
+	"textures": {
+		"particle": "chinjufumod:block/dish_white",
+		"soup": "chinjufumod:block/ramen_shio_0",
+		"donburi": "chinjufumod:block/dish_white"
+	}
+}

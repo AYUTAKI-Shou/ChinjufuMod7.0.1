@@ -1,0 +1,76 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/egg_bake",
+		"tamago": "chinjufumod:block/egg_bake",
+		"nori": "chinjufumod:block/seaweed",
+		"kome": "chinjufumod:block/food_gohan_shouyu"
+	},
+	"elements": [
+
+		{
+			"name": "tamago2_______________________________",
+			"from": [ 7.1, 0.65, 12.0 ],
+			"to": [ 8.9, 0.9, 12.6 ],
+			"faces": {
+				"up" : { "uv": [ 3.6, 0.0, 7.2, 1.2 ], "texture": "#tamago" },
+				"down" : { "uv": [ 3.6, 0.0, 7.2, 1.2 ], "texture": "#tamago" },
+				"north": { "uv": [ 7.2, 0.0, 3.6, 0.5 ], "texture": "#tamago" },
+				"south": { "uv": [ 3.6, 1.0, 7.2, 1.5 ], "texture": "#tamago" },
+				"east" : { "uv": [ 6.7, 0.0, 7.2, 1.2 ], "texture": "#tamago", "rotation": 90 },
+				"west" : { "uv": [ 3.6, 1.2, 4.1, 0.0 ], "texture": "#tamago", "rotation": 90 }
+			}
+		},
+		{
+			"name": "tamago2",
+			"from": [ 7.1, 0.75, 12.6 ],
+			"to": [ 8.9, 1.0, 14.9 ],
+			"faces": {
+				"up" : { "uv": [ 3.6, 1.2, 7.2, 5.8 ], "texture": "#tamago" },
+				"down" : { "uv": [ 3.6, 1.2, 7.2, 5.8 ], "texture": "#tamago" },
+				"north": { "uv": [ 7.2, 1.0, 3.6, 1.5 ], "texture": "#tamago" },
+				"south": { "uv": [ 3.6, 5.5, 7.2, 6.0 ], "texture": "#tamago" },
+				"east" : { "uv": [ 6.7, 1.2, 7.2, 5.8 ], "texture": "#tamago", "rotation": 90 },
+				"west" : { "uv": [ 3.6, 5.8, 4.1, 1.2 ], "texture": "#tamago", "rotation": 90 }
+			}
+		},
+		{
+			"name": "tamago2",
+			"from": [ 7.1, 0.65, 14.9 ],
+			"to": [ 8.9, 0.9, 15.5 ],
+			"faces": {
+				"up" : { "uv": [ 3.6, 5.8, 7.2, 7.0 ], "texture": "#tamago" },
+				"down" : { "uv": [ 3.6, 5.8, 7.2, 7.0 ], "texture": "#tamago" },
+				"north": { "uv": [ 7.2, 5.5, 3.6, 6.0 ], "texture": "#tamago" },
+				"south": { "uv": [ 3.6, 6.5, 7.2, 7.0 ], "texture": "#tamago" },
+				"east" : { "uv": [ 6.7, 5.8, 7.2, 7.0 ], "texture": "#tamago", "rotation": 90 },
+				"west" : { "uv": [ 3.6, 7.0, 4.1, 5.8 ], "texture": "#tamago", "rotation": 90 }
+			}
+		},
+		{
+			"name": "nori",
+			"from": [ 7.09, 0.005, 13.5 ],
+			"to": [ 8.91, 1.01, 14.0 ],
+			"faces": {
+				"up" : { "uv": [ 0.0, 3.65, 3.6, 4.35 ], "texture": "#nori" },
+				"down" : { "uv": [ 0.0, 5.65, 3.6, 6.35 ], "texture": "#nori" },
+				"east" : { "uv": [ 4.0, 4.65, 8.0, 5.35 ], "texture": "#nori", "rotation": 90 },
+				"west" : { "uv": [ 8.0, 6.65, 12.0, 7.35 ], "texture": "#nori", "rotation": 90 }
+			}
+		},
+		{
+			"name": "kome2",
+			"from": [ 7.2, 0.01, 12.6 ],
+			"to": [ 8.8, 0.75, 14.9 ],
+			"faces": {
+				"up" : { "uv": [ 0.0, 0.0, 6.5, 9.0 ], "texture": "#kome" },
+				"down" : { "uv": [ 6.5, 9.0, 13.0, 0.0 ], "texture": "#kome" },
+				"north": { "uv": [ 0.0, 10.0, 6.5, 13.0 ], "texture": "#kome" },
+				"south": { "uv": [ 0.0, 13.0, 6.5, 16.0 ], "texture": "#kome" },
+				"east" : { "uv": [ 16.0, 10.0, 7.0, 13.0 ], "texture": "#kome" },
+				"west" : { "uv": [ 7.0, 13.0, 16.0, 16.0 ], "texture": "#kome" }
+			}
+		}
+
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "chinjufumod:block/base/kanyou_bot",
+	"textures": {
+		"particle": "chinjufumod:block/log_sakura",
+		"miki": "chinjufumod:block/log_sakura",
+		"miki_top": "chinjufumod:block/log_sakura_top",
+		"ha": "chinjufumod:block/flower_sakura",
+		"hachi": "chinjufumod:block/dish_brown",
+		"tuchi": "minecraft:block/farmland_moist"
+	}
+}

@@ -1,0 +1,45 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/box_side",
+		"top": "chinjufumod:block/box_side",
+		"bottom": "chinjufumod:block/admiral_stamp",
+		"side": "chinjufumod:block/box_side",
+		"inside": "chinjufumod:block/box_side"
+	},
+	"elements": [
+		{ "from": [ 1, 0, 1 ],
+			"to": [ 5, 2, 5 ],
+			"faces": {
+				"up": { "texture": "#inside" },
+				"down": { "texture": "#bottom" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		},
+		{ "from": [ 2, 2, 2 ],
+			"to": [ 4, 3, 4 ],
+			"faces": {
+				"up": { "texture": "#top" },
+				"down": { "texture": "#inside" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		},
+		{ "from": [ 1, 3, 2 ],
+			"to": [ 5, 4, 4 ],
+			"faces": {
+				"up": { "texture": "#top" },
+				"down": { "texture": "#inside" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		}
+	]
+}

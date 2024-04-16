@@ -1,0 +1,75 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/dish_lightb",
+		"sake": "chinjufumod:block/soup_still",
+		"glass": "chinjufumod:block/dish_lightb"
+	},
+	"elements": [
+		{
+			"name": "glass_soko",
+			"from": [ 6.8, -8, 6.8 ],
+			"to": [ 9.2, -7.8, 9.2 ],
+			"faces": {
+				"up" : {"uv": [ 6.8, 6.8, 9.2, 9.2 ], "texture": "#glass" },
+				"down" : {"uv": [ 6.8, 6.8, 9.2, 9.2 ], "texture": "#glass" },
+				"north": {"uv": [ 6.8, 15.8, 9.2, 16.0 ], "texture": "#glass" },
+				"south": {"uv": [ 6.8, 15.8, 9.2, 16.0 ], "texture": "#glass" },
+				"west" : {"uv": [ 6.8, 15.8, 9.2, 16.0 ], "texture": "#glass" },
+				"east" : {"uv": [ 6.8, 15.8, 9.2, 16.0 ], "texture": "#glass" }
+			}
+		},
+		{
+			"name": "glass_n",
+			"from": [ 6.8, -7.8, 6.8 ],
+			"to": [ 9.2, -4.8, 7 ],
+			"faces": {
+				"up" : {"uv": [ 6.8, 6.8, 9.2, 7.0 ], "texture": "#glass" },
+				"north": {"uv": [ 6.8, 12.8, 9.2, 15.8 ], "texture": "#glass" },
+				"south": {"uv": [ 6.8, 12.8, 9.2, 15.8 ], "texture": "#glass" },
+				"west" : {"uv": [ 6.8, 12.8, 7.0, 15.8 ], "texture": "#glass" },
+				"east" : {"uv": [ 6.8, 12.8, 7.0, 15.8 ], "texture": "#glass" }
+			}
+		},
+		{
+			"name": "glass_e",
+			"from": [ 9, -7.8, 7 ],
+			"to": [ 9.2, -4.8, 9 ],
+			"faces": {
+				"up" : {"uv": [ 9.0, 7.0, 9.2, 9.0 ], "texture": "#glass" },
+				"west" : {"uv": [ 7.0, 12.8, 9.0, 15.8 ], "texture": "#glass" },
+				"east" : {"uv": [ 7.0, 12.8, 9.0, 15.8 ], "texture": "#glass" }
+			}
+		},
+		{
+			"name": "glass_s",
+			"from": [ 6.8, -7.8, 9 ],
+			"to": [ 9.2, -4.8, 9.2 ],
+			"faces": {
+				"up" : {"uv": [ 6.8, 9.0, 9.2, 9.2 ], "texture": "#glass" },
+				"north": {"uv": [ 6.8, 12.8, 9.2, 15.8 ], "texture": "#glass" },
+				"south": {"uv": [ 6.8, 12.8, 9.2, 15.8 ], "texture": "#glass" },
+				"west" : {"uv": [ 9.0, 12.8, 9.2, 15.8 ], "texture": "#glass" },
+				"east" : {"uv": [ 9.0, 12.8, 9.2, 15.8 ], "texture": "#glass" }
+			}
+		},
+		{
+			"name": "glass_w",
+			"from": [ 6.8, -7.8, 7 ],
+			"to": [ 7, -4.8, 9 ],
+			"faces": {
+				"up" : {"uv": [ 6.8, 7.0, 7.0, 9.0 ], "texture": "#glass" },
+				"west" : {"uv": [ 7.0, 12.8, 9.0, 15.8 ], "texture": "#glass" },
+				"east" : {"uv": [ 7.0, 12.8, 9.0, 15.8 ], "texture": "#glass" }
+			}
+		},
+		{
+			"name": "glass_naka",
+			"from": [ 7, -7.5, 7 ],
+			"to": [ 9, -5.6, 9 ],
+			"faces": {
+				"up" : { "uv": [ 7.0, 7.0, 9.0, 9.0 ], "texture": "#sake", "tintindex": 1 }
+			}
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_slidingdoor",
+
+	"pattern": [
+		"X"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_garasudo_ichoh" }
+	},
+
+	"result": { "item": "chinjufumod:block_garasudob_ichoh", "count": 1 }
+}

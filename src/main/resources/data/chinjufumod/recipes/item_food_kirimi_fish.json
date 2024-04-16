@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_sushi",
+
+	"ingredients": [
+		{ "tag": "forge:raw_fishes/cod" }
+	],
+
+	"result": { "item": "chinjufumod:item_food_kirimi_fish", "count": 4 }
+}

@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_curtain",
+
+	"pattern": [
+		"XX",
+		"YY"
+	],
+
+	"key": {
+		"X": { "tag": "forge:rods/wooden" },
+		"Y": { "item": "minecraft:cyan_carpet" }
+	},
+
+	"result": { "item": "chinjufumod:block_curtain_cyan", "count": 2 }
+}

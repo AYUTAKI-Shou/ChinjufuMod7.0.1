@@ -1,0 +1,74 @@
+{
+	"parent": "block/block",
+	"elements": [
+		{
+			"name": "yunomi_soko",
+			"from": [ 7.2, 0, 7.2 ],
+			"to": [ 8.8, 0.2, 8.8 ],
+			"faces": {
+				"up" : { "texture": "#yunomi_uchi" },
+				"down" : { "texture": "#yunomi" },
+				"north": { "texture": "#yunomi" },
+				"south": { "texture": "#yunomi" },
+				"west" : { "texture": "#yunomi" },
+				"east" : { "texture": "#yunomi" }
+			}
+		},
+		{
+			"name": "yunomi_n",
+			"from": [ 7, 0.2, 7 ],
+			"to": [ 9, 2.5, 7.2 ],
+			"faces": {
+				"up" : { "texture": "#yunomi" },
+				"down" : { "texture": "#yunomi" },
+				"north": { "texture": "#yunomi" },
+				"south": { "texture": "#yunomi_uchi" },
+				"west" : { "texture": "#yunomi" },
+				"east" : { "texture": "#yunomi" }
+			}
+		},
+		{
+			"name": "yunomi_e",
+			"from": [ 8.8, 0.2, 7.2 ],
+			"to": [ 9, 2.5, 8.8 ],
+			"faces": {
+				"up" : { "texture": "#yunomi" },
+				"down" : { "texture": "#yunomi" },
+				"west" : { "texture": "#yunomi_uchi" },
+				"east" : { "texture": "#yunomi" }
+			}
+		},
+		{
+			"name": "yunomi_s",
+			"from": [ 7, 0.2, 8.8 ],
+			"to": [ 9, 2.5, 9 ],
+			"faces": {
+				"up" : { "texture": "#yunomi" },
+				"down" : { "texture": "#yunomi" },
+				"north": { "texture": "#yunomi_uchi" },
+				"south": { "texture": "#yunomi" },
+				"west" : { "texture": "#yunomi" },
+				"east" : { "texture": "#yunomi" }
+			}
+		},
+		{
+			"name": "yunomi_w",
+			"from": [ 7, 0.2, 7.2 ],
+			"to": [ 7.2, 2.5, 8.8 ],
+			"faces": {
+				"up" : { "texture": "#yunomi" },
+				"down" : { "texture": "#yunomi" },
+				"west" : { "texture": "#yunomi" },
+				"east" : { "texture": "#yunomi_uchi" }
+			}
+		},
+		{
+			"name": "yunomi_naka",
+			"from": [ 7.2, 1.0, 7.2 ],
+			"to": [ 8.8, 2, 8.8 ],
+			"faces": {
+				"up" : { "texture": "#tea" }
+			}
+		}
+	]
+}

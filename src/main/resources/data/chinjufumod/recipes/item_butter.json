@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_food",
+
+	"pattern": [
+		" X "
+	],
+
+	"key": {
+		"X": { "tag": "forge:buckets/milk" }
+	},
+
+	"result": { "item": "chinjufumod:item_butter", "count": 3 }
+}

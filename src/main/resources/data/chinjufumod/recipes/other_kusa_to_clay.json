@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_other",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:grass_block" },
+		"Y": { "tag": "forge:buckets/water" }
+	},
+
+	"result": { "item": "minecraft:clay_ball", "count": 32 }
+}

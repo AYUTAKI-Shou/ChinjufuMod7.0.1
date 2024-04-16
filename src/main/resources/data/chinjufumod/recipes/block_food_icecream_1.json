@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_sweets",
+
+	"ingredients": [
+		{ "tag": "forge:eggs" },
+		{ "tag": "forge:sugar" },
+		{ "tag": "forge:buckets/milk" },
+		{ "item": "minecraft:snowball" },
+		{ "item": "chinjufumod:item_food_driglass" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_icecream_1", "count" : 1 }
+}

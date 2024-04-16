@@ -1,0 +1,7 @@
+{
+	"parent": "chinjufumod:block/base/itabei_top",
+	"textures": {
+		"particle": "chinjufumod:block/muku_acacia",
+		"planks": "chinjufumod:block/muku_acacia"
+	}
+}

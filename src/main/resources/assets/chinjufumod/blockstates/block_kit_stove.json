@@ -1,0 +1,33 @@
+{
+	"variants": {
+		"facing=north,stage=1,teppan=false": { "model": "chinjufumod:block/kitchen/stove", "y": 180 },
+		"facing=south,stage=1,teppan=false": { "model": "chinjufumod:block/kitchen/stove", "y": 0 },
+		"facing=west,stage=1,teppan=false": { "model": "chinjufumod:block/kitchen/stove", "y": 90 },
+		"facing=east,stage=1,teppan=false": { "model": "chinjufumod:block/kitchen/stove", "y": 270 },
+
+		"facing=north,stage=2,teppan=false": { "model": "chinjufumod:block/kitchen/lit_stove", "y": 180 },
+		"facing=south,stage=2,teppan=false": { "model": "chinjufumod:block/kitchen/lit_stove", "y": 0 },
+		"facing=west,stage=2,teppan=false": { "model": "chinjufumod:block/kitchen/lit_stove", "y": 90 },
+		"facing=east,stage=2,teppan=false": { "model": "chinjufumod:block/kitchen/lit_stove", "y": 270 },
+
+		"facing=north,stage=3,teppan=false": { "model": "chinjufumod:block/kitchen/stove_1", "y": 180 },
+		"facing=south,stage=3,teppan=false": { "model": "chinjufumod:block/kitchen/stove_1", "y": 0 },
+		"facing=west,stage=3,teppan=false": { "model": "chinjufumod:block/kitchen/stove_1", "y": 90 },
+		"facing=east,stage=3,teppan=false": { "model": "chinjufumod:block/kitchen/stove_1", "y": 270 },
+		
+			"facing=north,stage=1,teppan=true": { "model": "chinjufumod:block/kitchen/teppan", "y": 180 },
+			"facing=south,stage=1,teppan=true": { "model": "chinjufumod:block/kitchen/teppan", "y": 0 },
+			"facing=west,stage=1,teppan=true": { "model": "chinjufumod:block/kitchen/teppan", "y": 90 },
+			"facing=east,stage=1,teppan=true": { "model": "chinjufumod:block/kitchen/teppan", "y": 270 },
+	
+			"facing=north,stage=2,teppan=true": { "model": "chinjufumod:block/kitchen/lit_teppan", "y": 180 },
+			"facing=south,stage=2,teppan=true": { "model": "chinjufumod:block/kitchen/lit_teppan", "y": 0 },
+			"facing=west,stage=2,teppan=true": { "model": "chinjufumod:block/kitchen/lit_teppan", "y": 90 },
+			"facing=east,stage=2,teppan=true": { "model": "chinjufumod:block/kitchen/lit_teppan", "y": 270 },
+	
+			"facing=north,stage=3,teppan=true": { "model": "chinjufumod:block/kitchen/teppan_1", "y": 180 },
+			"facing=south,stage=3,teppan=true": { "model": "chinjufumod:block/kitchen/teppan_1", "y": 0 },
+			"facing=west,stage=3,teppan=true": { "model": "chinjufumod:block/kitchen/teppan_1", "y": 90 },
+			"facing=east,stage=3,teppan=true": { "model": "chinjufumod:block/kitchen/teppan_1", "y": 270 }
+	}
+}

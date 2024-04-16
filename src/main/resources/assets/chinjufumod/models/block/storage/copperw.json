@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/ingotw",
+	"textures": {
+		"particle": "chinjufumod:block/copper_side",
+		"up": "chinjufumod:block/copper_up",
+		"down": "chinjufumod:block/copper_down_we",
+		"side": "chinjufumod:block/copper_side"
+	 }
+}

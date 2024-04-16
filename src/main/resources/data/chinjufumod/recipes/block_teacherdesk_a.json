@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_school",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"X X"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:acacia_planks" },
+		"Y": { "item": "minecraft:acacia_slab" }
+	},
+
+	"result": { "item": "chinjufumod:block_teacherdesk_a", "count": 3 }
+}

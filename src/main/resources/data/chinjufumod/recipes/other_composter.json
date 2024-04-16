@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"# #",
+		"# #",
+		"###"
+	],
+	"key": {
+		"#": [ { "tag": "minecraft:wooden_slabs" }, { "tag": "forge:wooden_slabs" } ]
+	},
+	"result": { "item": "minecraft:composter" }
+}

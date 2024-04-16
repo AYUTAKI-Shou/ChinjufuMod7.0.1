@@ -1,0 +1,38 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:block/shelfdish/yunomi1", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:block/shelfdish/yunomi1", "y": 0 },
+		"facing=west,stage=1": { "model": "chinjufumod:block/shelfdish/yunomi1", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:block/shelfdish/yunomi1", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/shelfdish/yunomi2", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:block/shelfdish/yunomi2", "y": 0 },
+		"facing=west,stage=2": { "model": "chinjufumod:block/shelfdish/yunomi2", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:block/shelfdish/yunomi2", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:block/shelfdish/yunomi3", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:block/shelfdish/yunomi3", "y": 0 },
+		"facing=west,stage=3": { "model": "chinjufumod:block/shelfdish/yunomi3", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:block/shelfdish/yunomi3", "y": 270 },
+
+		"facing=north,stage=4": { "model": "chinjufumod:block/shelfdish/yunomi4", "y": 180 },
+		"facing=south,stage=4": { "model": "chinjufumod:block/shelfdish/yunomi4", "y": 0 },
+		"facing=west,stage=4": { "model": "chinjufumod:block/shelfdish/yunomi4", "y": 90 },
+		"facing=east,stage=4": { "model": "chinjufumod:block/shelfdish/yunomi4", "y": 270 },
+
+		"facing=north,stage=5": { "model": "chinjufumod:block/shelfdish/yunomia", "y": 180 },
+		"facing=south,stage=5": { "model": "chinjufumod:block/shelfdish/yunomia", "y": 0 },
+		"facing=west,stage=5": { "model": "chinjufumod:block/shelfdish/yunomia", "y": 90 },
+		"facing=east,stage=5": { "model": "chinjufumod:block/shelfdish/yunomia", "y": 270 },
+
+		"facing=north,stage=6": { "model": "chinjufumod:block/shelfdish/yunomib", "y": 180 },
+		"facing=south,stage=6": { "model": "chinjufumod:block/shelfdish/yunomib", "y": 0 },
+		"facing=west,stage=6": { "model": "chinjufumod:block/shelfdish/yunomib", "y": 90 },
+		"facing=east,stage=6": { "model": "chinjufumod:block/shelfdish/yunomib", "y": 270 },
+
+		"facing=north,stage=7": { "model": "chinjufumod:block/shelfdish/yunomic", "y": 180 },
+		"facing=south,stage=7": { "model": "chinjufumod:block/shelfdish/yunomic", "y": 0 },
+		"facing=west,stage=7": { "model": "chinjufumod:block/shelfdish/yunomic", "y": 90 },
+		"facing=east,stage=7": { "model": "chinjufumod:block/shelfdish/yunomic", "y": 270 }
+	}
+}

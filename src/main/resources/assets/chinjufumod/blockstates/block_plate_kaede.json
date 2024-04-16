@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"powered=false": { "model": "chinjufumod:block/wooden/plate_kaede" },
+		"powered=true": { "model": "chinjufumod:block/wooden/plate_kaede_down" }
+	}
+}

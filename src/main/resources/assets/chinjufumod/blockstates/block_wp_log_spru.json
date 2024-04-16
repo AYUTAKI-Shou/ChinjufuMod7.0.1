@@ -1,0 +1,16 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:block/wallpanel/log_spru", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:block/wallpanel/log_spru" },
+		"facing=west,stage=1": { "model": "chinjufumod:block/wallpanel/log_spru", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:block/wallpanel/log_spru", "y": 270 },
+		"facing=north,stage=2": { "model": "chinjufumod:block/wallpanel/log_spru_leng", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:block/wallpanel/log_spru_leng" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/wallpanel/log_spru_leng", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:block/wallpanel/log_spru_leng", "y": 270 },
+		"facing=north,stage=3": { "model": "chinjufumod:block/wallpanel/log_top_spru", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:block/wallpanel/log_top_spru" },
+		"facing=west,stage=3": { "model": "chinjufumod:block/wallpanel/log_top_spru", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:block/wallpanel/log_top_spru", "y": 270 }
+	}
+}

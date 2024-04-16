@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/bamboodoor_ne_right_top_open",
+	"textures": {
+		"particle": "chinjufumod:block/bamboo_side",
+		"side": "chinjufumod:block/bamboo_side",
+		"inside": "chinjufumod:block/bamboo_inside",
+		"naka": "chinjufumod:block/bamboo_door_top"
+	}
+}

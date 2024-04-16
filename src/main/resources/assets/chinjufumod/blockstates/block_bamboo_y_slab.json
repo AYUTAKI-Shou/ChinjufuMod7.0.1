@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"facing=north,type=bottom": { "model": "chinjufumod:block/bamboo/yake_slab_bot", "y": 0 },
+		"facing=south,type=bottom": { "model": "chinjufumod:block/bamboo/yake_slab_bot", "y": 0 },
+		"facing=west,type=bottom": { "model": "chinjufumod:block/bamboo/yake_slab_bot", "y": 270 },
+		"facing=east,type=bottom": { "model": "chinjufumod:block/bamboo/yake_slab_bot", "y": 270 },
+
+		"facing=north,type=top": { "model": "chinjufumod:block/bamboo/yake_slab_top", "y": 0 },
+		"facing=south,type=top": { "model": "chinjufumod:block/bamboo/yake_slab_top", "y": 0 },
+		"facing=west,type=top": { "model": "chinjufumod:block/bamboo/yake_slab_top", "y": 270 },
+		"facing=east,type=top": { "model": "chinjufumod:block/bamboo/yake_slab_top", "y": 270 },
+
+		"facing=north,type=double": { "model": "chinjufumod:block/bamboo/yake_slab_double", "y": 0 },
+		"facing=south,type=double": { "model": "chinjufumod:block/bamboo/yake_slab_double", "y": 0 },
+		"facing=west,type=double": { "model": "chinjufumod:block/bamboo/yake_slab_double", "y": 270 },
+		"facing=east,type=double": { "model": "chinjufumod:block/bamboo/yake_slab_double", "y": 270 }
+	}
+}

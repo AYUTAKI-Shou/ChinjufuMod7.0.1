@@ -1,0 +1,29 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "chinjufumod:block/cumin_3",
+		"cross": "chinjufumod:block/cumin_3"
+	},
+	"elements": [
+		{ 
+			"name": "1",
+			"from": [ 2.5, -1, 8 ],
+			"to": [ 13.5, 10, 8 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": 45, "rescale": false }, "shade": false,
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross" }
+			}
+		},
+		{ 
+			"name": "2",
+			"from": [ 2.5, -1, 8 ],
+			"to": [ 13.5, 10, 8 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "y", "angle": -45, "rescale": false }, "shade": false,
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#cross" }
+			}
+		}
+	]
+}

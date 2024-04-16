@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_slidingdoor",
+
+	"pattern": [
+		"XYX",
+		"YZY",
+		"XYX"
+	],
+
+	"key": {
+		"X": { "tag": "forge:glass_panes/colorless" },
+		"Y": { "tag": "forge:rods/wooden" },
+		"Z": { "item": "minecraft:spruce_planks" }
+	},
+
+	"result": { "item": "chinjufumod:block_garasudo_spruce", "count": 4 }
+}

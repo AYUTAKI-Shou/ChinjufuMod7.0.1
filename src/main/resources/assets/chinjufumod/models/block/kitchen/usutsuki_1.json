@@ -1,0 +1,23 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/muku_oak",
+		"top": "chinjufumod:block/pillar_oak_top",
+		"side": "chinjufumod:block/pillar_oak_side"
+	},
+	"elements": [
+		{
+			"name": "usu",
+			"from": [ 2, 0, 2 ],
+			"to": [ 14, 12, 14 ],
+			"faces": {
+				"up" : { "texture": "#top" },
+				"down" : { "texture": "#top", "cullface": "down" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+	 			"west" : { "texture": "#side" },
+				"east" : { "texture": "#side" }
+			}
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"parent": "chinjufumod:block/base/okonomiyaki_1",
+	"textures": {
+		"particle": "chinjufumod:block/dish_white",
+		"sara": "chinjufumod:block/dish_white",
+		"okonomi": "chinjufumod:block/okonomi_bake_re",
+		"okonomi_top": "chinjufumod:block/okonomi_bake",
+		"hashi": "chinjufumod:block/dish_red",
+		"hashioki": "chinjufumod:block/hashioki"
+	}
+}

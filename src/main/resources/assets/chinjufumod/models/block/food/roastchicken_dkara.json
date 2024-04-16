@@ -1,0 +1,122 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/dish_white",
+		"chickensara": "chinjufumod:block/dish_white",
+		"lettuce": "chinjufumod:block/food_lettuce",
+		"chicken": "chinjufumod:block/food_teri",
+		"chicken2": "chinjufumod:block/food_tori_b",
+		"hourensou": "chinjufumod:block/food_oleracea_b",
+		"ninjin": "chinjufumod:block/food_carot_b",
+		"tomato": "chinjufumod:block/tomato_crop7"
+	},
+	"elements": [
+		{
+			"name": "chickensara_n_top____________________________________________",
+			"from": [ 3.0, -7.6, 3.0 ],
+			"to": [ 13.0, -7.4, 4.5 ],
+			"faces": {
+				"up" : {"uv": [ 3.0, 3.0, 13.0, 4.5 ], "texture": "#chickensara" },
+				"down" : {"uv": [ 3.0, 3.0, 13.0, 4.5 ], "texture": "#chickensara" },
+				"north": {"uv": [ 3.0, 15.4, 13.0, 15.6 ], "texture": "#chickensara" },
+				"south": {"uv": [ 3.0, 15.4, 13.0, 15.6 ], "texture": "#chickensara" },
+				"east" : {"uv": [ 3.0, 15.4, 4.5, 15.6 ], "texture": "#chickensara" },
+				"west" : {"uv": [ 3.0, 15.4, 4.5, 15.6 ], "texture": "#chickensara" }
+			}
+		},
+		{
+			"name": "chickensara_s_top",
+			"from": [ 3.0, -7.6, 11.5 ],
+			"to": [ 13.0, -7.4, 13.0 ],
+			"faces": {
+				"up" : {"uv": [ 3.0, 11.5, 13.0, 13.0 ], "texture": "#chickensara" },
+				"down" : {"uv": [ 3.0, 11.5, 13.0, 13.0 ], "texture": "#chickensara" },
+				"north": {"uv": [ 3.0, 15.4, 13.0, 15.6 ], "texture": "#chickensara" },
+				"south": {"uv": [ 3.0, 15.4, 13.0, 15.6 ], "texture": "#chickensara" },
+				"east" : {"uv": [ 11.5, 15.4, 13.0, 15.6 ], "texture": "#chickensara" },
+				"west" : {"uv": [ 11.5, 15.4, 13.0, 15.6 ], "texture": "#chickensara" }
+			}
+		},
+		{
+			"name": "chickensara_e_top",
+			"from": [ 11.5, -7.6, 4.5 ],
+			"to": [ 13.0, -7.4, 11.5 ],
+			"faces": {
+				"up" : {"uv": [ 11.5, 15.4, 13.0, 15.6 ], "texture": "#chickensara" },
+				"down" : {"uv": [ 11.5, 15.4, 13.0, 15.6 ], "texture": "#chickensara" },
+				"east" : {"uv": [ 4.5, 15.4, 11.5, 15.6 ], "texture": "#chickensara" },
+				"west" : {"uv": [ 4.5, 15.4, 11.5, 15.6 ], "texture": "#chickensara" }
+			}
+		},
+		{
+			"name": "chickensara_w_top",
+			"from": [ 3.0, -7.6, 4.5 ],
+			"to": [ 4.5, -7.4, 11.5 ],
+			"faces": {
+				"up" : {"uv": [ 3.0, 15.4, 4.5, 15.6 ], "texture": "#chickensara" },
+				"down" : {"uv": [ 3.0, 15.4, 4.5, 15.6 ], "texture": "#chickensara" },
+				"east" : {"uv": [ 4.5, 15.4, 11.5, 15.6 ], "texture": "#chickensara" },
+				"west" : {"uv": [ 4.5, 15.4, 11.5, 15.6 ], "texture": "#chickensara" }
+			}
+		},
+
+		{
+			"name": "chickensara_top____________________________________________",
+			"from": [ 4.5, -7.7, 4.5 ],
+			"to": [ 11.5, -7.5, 11.5 ],
+			"faces": {
+				"up" : {"uv": [ 4.5, 4.5, 11.5, 11.5 ], "texture": "#chickensara" },
+				"down" : {"uv": [ 4.5, 4.5, 11.5, 11.5 ], "texture": "#chickensara" },
+				"north": {"uv": [ 4.5, 15.5, 11.5, 15.7 ], "texture": "#chickensara" },
+				"south": {"uv": [ 4.5, 15.5, 11.5, 15.7 ], "texture": "#chickensara" },
+				"east" : {"uv": [ 4.5, 15.5, 11.5, 15.7 ], "texture": "#chickensara" },
+				"west" : {"uv": [ 4.5, 15.5, 11.5, 15.7 ], "texture": "#chickensara" }
+			}
+		},
+		{
+			"name": "chickensara_bot_nor",
+			"from": [ 4.5, -8.0, 4.5 ],
+			"to": [ 11.5, -7.7, 4.8 ],
+			"faces": {
+				"down" : {"uv": [ 4.5, 4.5, 11.5, 4.8 ], "texture": "#chickensara" },
+				"north": {"uv": [ 4.5, 15.7, 11.5, 16.0 ], "texture": "#chickensara" },
+				"south": {"uv": [ 4.5, 15.7, 11.5, 16.0 ], "texture": "#chickensara" },
+				"east" : {"uv": [ 4.5, 15.7, 4.8, 16.0 ], "texture": "#chickensara" },
+				"west" : {"uv": [ 4.5, 15.7, 4.8, 16.0 ], "texture": "#chickensara" }
+			}
+		},
+		{
+			"name": "chickensara_bot_sou",
+			"from": [ 4.5, -8.0, 11.2 ],
+			"to": [ 11.5, -7.7, 11.5 ],
+			"faces": {
+				"down" : {"uv": [ 4.5, 11.2, 11.5, 11.5 ], "texture": "#chickensara" },
+				"north": {"uv": [ 4.5, 15.7, 11.5, 16.0 ], "texture": "#chickensara" },
+				"south": {"uv": [ 4.5, 15.7, 11.5, 16.0 ], "texture": "#chickensara" },
+				"east" : {"uv": [ 11.2, 15.7, 11.5, 16.0 ], "texture": "#chickensara" },
+				"west" : {"uv": [ 11.2, 15.7, 11.5, 16.0 ], "texture": "#chickensara" }
+			}
+		},
+		{
+			"name": "chickensara_bot_east",
+			"from": [ 4.5, -8.0, 4.8 ],
+			"to": [ 4.8, -7.7, 11.2 ],
+			"faces": {
+				"down" : {"uv": [ 4.5, 4.8, 4.8, 11.2 ], "texture": "#chickensara" },
+				"east" : {"uv": [ 4.8, 15.7, 11.2, 16.0 ], "texture": "#chickensara" },
+				"west" : {"uv": [ 4.8, 15.7, 11.2, 16.0 ], "texture": "#chickensara" }
+			}
+		},
+		{
+			"name": "chickensara_bot_west",
+			"from": [ 11.2, -8.0, 4.8 ],
+			"to": [ 11.5, -7.7, 11.2 ],
+			"faces": {
+				"down" : {"uv": [ 11.2, 4.8, 11.5, 11.2 ], "texture": "#chickensara" },
+				"east" : {"uv": [ 4.8, 15.7, 11.2, 16.0 ], "texture": "#chickensara" },
+				"west" : {"uv": [ 4.8, 15.7, 11.2, 16.0 ], "texture": "#chickensara" }
+			}
+		}
+
+	]
+}

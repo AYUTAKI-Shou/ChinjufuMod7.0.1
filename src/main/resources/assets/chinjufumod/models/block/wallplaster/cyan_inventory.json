@@ -1,0 +1,6 @@
+{
+	"parent": "chinjufumod:block/base/wall_inventory",
+	"textures": {
+		"wall": "chinjufumod:block/plaster_cyan"
+	}
+}

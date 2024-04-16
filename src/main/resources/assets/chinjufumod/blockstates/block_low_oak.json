@@ -1,0 +1,8 @@
+{
+	"variants": {
+		"" : [ { "model" : "chinjufumod:block/garden/oak", "y": 0 },
+			{ "model" : "chinjufumod:block/garden/oak", "y": 90 },
+			{ "model" : "chinjufumod:block/garden/oak", "y": 180 },
+			{ "model" : "chinjufumod:block/garden/oak", "y": 270 } ]
+	}
+}

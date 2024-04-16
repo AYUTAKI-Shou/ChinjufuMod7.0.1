@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/curtain_openleft",
+	"textures": {
+		"particle": "chinjufumod:block/curtain_pink",
+		"cloth": "chinjufumod:block/curtain_pink",
+		"obi": "minecraft:block/magenta_wool",
+		"bou": "chinjufumod:block/muku_spruce"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"stage=0": { "model": "chinjufumod:block/take_kuri/takenoko" },
+		"stage=1": { "model": "chinjufumod:block/take_kuri/takenoko" }
+	}
+}

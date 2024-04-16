@@ -1,0 +1,290 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/dish_lightg",
+		"mizu": "minecraft:block/water_still",
+		"fish": "chinjufumod:block/fish_boiled",
+		"nabe": "chinjufumod:block/dish_lightg",
+		"otama": "chinjufumod:block/dish_gray",
+		"sara": "chinjufumod:block/dish_white"
+	},
+	"elements": [
+
+		{
+			"name": "nabesoko",
+			"from": [ 4, 0, 4 ],
+			"to": [ 12, 0.5, 12 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"north": { "texture": "#nabe" },
+				"south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabe_n2",
+			"from": [ 4, 0.5, 4 ],
+			"to": [ 12, 8.0, 4.5 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"north": { "texture": "#nabe" },
+				"south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabe_e2",
+			"from": [ 11.5, 0.5, 4.5 ],
+			"to": [ 12, 8.0, 11.5 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabemimi_e",
+			"from": [ 12.5, 7.5, 6.5 ],
+			"to": [ 13, 8.0, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"north": { "texture": "#nabe" },
+				"south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabemimi_e",
+			"from": [ 12, 7.0, 6.5 ],
+			"to": [ 12.75, 7.5, 7.0 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"north": { "texture": "#nabe" },
+				"south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabemimi_e",
+			"from": [ 12, 7.0, 9.0 ],
+			"to": [ 12.75, 7.5, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"north": { "texture": "#nabe" },
+				"south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" }
+			}
+		},
+
+		{
+			"name": "nabe_s2",
+			"from": [ 4, 0.5, 11.5 ],
+			"to": [ 12, 8.0, 12 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"north": { "texture": "#nabe" },
+				"south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabe_w2",
+			"from": [ 4, 0.5, 4.5 ],
+			"to": [ 4.5, 8.0, 11.5 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabemimi_w",
+			"from": [ 3, 7.5, 6.5 ],
+			"to": [ 3.5, 8.0, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"north": { "texture": "#nabe" },
+				"south": { "texture": "#nabe" },
+				"east" : { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabemimi_w",
+			"from": [ 3.25, 7.0, 6.5 ],
+			"to": [ 4, 7.5, 7.0 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"north": { "texture": "#nabe" },
+				"south": { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+		{
+			"name": "nabemimi_w______________________________________________________",
+			"from": [ 3.25, 7.0, 9.0 ],
+			"to": [ 4, 7.5, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#nabe" },
+				"down" : { "texture": "#nabe" },
+				"north": { "texture": "#nabe" },
+				"south": { "texture": "#nabe" },
+				"west" : { "texture": "#nabe" }
+			}
+		},
+
+		{
+			"name": "1_+1_-1.5",
+			"from": [ 8.7, 5.5, 5 ],
+			"to": [ 11.5, 6.5, 5.7 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 22.5, "rescale": false },
+			"faces": {
+				"up" : { "uv": [ 9.0, 3.0, 13.0, 4.0 ], "texture": "#fish" },
+				"down" : { "uv": [ 9.0, 3.0, 13.0, 4.0 ], "texture": "#fish" },
+				"north" : { "uv": [ 9.0, 0.0, 13.0, 1.0 ], "texture": "#fish" },
+				"east" : { "uv": [ 0.0, 1.0, 1.0, 2.0 ], "texture": "#fish" },
+				"west" : { "uv": [ 0.0, 0.0, 1.0, 1.0 ], "texture": "#fish" }
+			}
+		},
+		{
+			"name": "2",
+			"from": [ 8.0, 5.5, 5.7 ],
+			"to": [ 11.5, 6.5, 6.4 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 22.5, "rescale": false },
+			"faces": {
+				"up" : { "uv": [ 8.0, 4.0, 13.0, 5.0 ], "texture": "#fish" },
+				"down" : { "uv": [ 8.0, 4.0, 13.0, 5.0 ], "texture": "#fish" },
+				"north" : { "uv": [ 8.0, 0.0, 13.0, 1.0 ], "texture": "#fish" },
+				"east" : { "uv": [ 0.0, 1.0, 1.0, 2.0 ], "texture": "#fish" },
+				"west" : { "uv": [ 0.0, 0.0, 1.0, 1.0 ], "texture": "#fish" }
+			}
+		},
+		{
+			"name": "3",
+			"from": [ 7.3, 5.5, 6.4 ],
+			"to": [ 11.5, 6.5, 7.1 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 22.5, "rescale": false },
+			"faces": {
+				"up" : { "uv": [ 7.0, 5.0, 13.0, 6.0 ], "texture": "#fish" },
+				"down" : { "uv": [ 7.0, 5.0, 13.0, 6.0 ], "texture": "#fish" },
+				"north" : { "uv": [ 7.0, 0.0, 13.0, 1.0 ], "texture": "#fish" },
+				"east" : { "uv": [ 0.0, 1.0, 1.0, 2.0 ], "texture": "#fish" },
+				"west" : { "uv": [ 0.0, 0.0, 1.0, 1.0 ], "texture": "#fish" }
+			}
+		},
+		{
+			"name": "4",
+			"from": [ 6.6, 5.5, 7.1 ],
+			"to": [ 11.5, 6.5, 7.8 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 22.5, "rescale": false },
+			"faces": {
+				"up" : { "uv": [ 6.0, 6.0, 13.0, 7.0 ], "texture": "#fish" },
+				"down" : { "uv": [ 6.0, 6.0, 13.0, 7.0 ], "texture": "#fish" },
+				"north" : { "uv": [ 6.0, 0.0, 13.0, 1.0 ], "texture": "#fish" },
+				"south" : { "uv": [ 6.0, 1.0, 13.0, 2.0 ], "texture": "#fish" },
+				"east" : { "uv": [ 0.0, 1.0, 1.0, 2.0 ], "texture": "#fish" },
+				"west" : { "uv": [ 0.0, 0.0, 1.0, 1.0 ], "texture": "#fish" }
+			}
+		},
+		{
+			"name": "5",
+			"from": [ 5.9, 5.5, 7.8 ],
+			"to": [ 10.8, 6.5, 8.5 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 22.5, "rescale": false },
+			"faces": {
+				"up" : { "uv": [ 5.0, 7.0, 12.0, 8.0 ], "texture": "#fish" },
+				"down" : { "uv": [ 5.0, 7.0, 12.0, 8.0 ], "texture": "#fish" },
+				"north" : { "uv": [ 5.0, 0.0, 12.0, 1.0 ], "texture": "#fish" },
+				"south" : { "uv": [ 5.0, 1.0, 12.0, 2.0 ], "texture": "#fish" },
+				"east" : { "uv": [ 0.0, 1.0, 1.0, 2.0 ], "texture": "#fish" },
+				"west" : { "uv": [ 0.0, 0.0, 1.0, 1.0 ], "texture": "#fish" }
+			}
+		},
+		{
+			"name": "6",
+			"from": [ 5.2, 5.5, 8.5 ],
+			"to": [ 10.1, 6.5, 9.2 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 22.5, "rescale": false },
+			"faces": {
+				"up" : { "uv": [ 4.0, 8.0, 11.0, 9.0 ], "texture": "#fish" },
+				"down" : { "uv": [ 4.0, 8.0, 11.0, 9.0 ], "texture": "#fish" },
+				"north" : { "uv": [ 4.0, 0.0, 11.0, 1.0 ], "texture": "#fish" },
+				"south" : { "uv": [ 4.0, 1.0, 11.0, 2.0 ], "texture": "#fish" },
+				"east" : { "uv": [ 0.0, 1.0, 1.0, 2.0 ], "texture": "#fish" },
+				"west" : { "uv": [ 0.0, 0.0, 1.0, 1.0 ], "texture": "#fish" }
+			}
+		},
+		{
+			"name": "7",
+			"from": [ 4.5, 5.5, 9.2 ],
+			"to": [ 9.4, 6.5, 9.9 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 22.5, "rescale": false },
+			"faces": {
+				"up" : { "uv": [ 3.0, 9.0, 10.0, 10.0 ], "texture": "#fish" },
+				"down" : { "uv": [ 3.0, 9.0, 10.0, 10.0 ], "texture": "#fish" },
+				"north" : { "uv": [ 3.0, 0.0, 10.0, 1.0 ], "texture": "#fish" },
+				"south" : { "uv": [ 3.0, 1.0, 10.0, 2.0 ], "texture": "#fish" },
+				"east" : { "uv": [ 0.0, 1.0, 1.0, 2.0 ], "texture": "#fish" },
+				"west" : { "uv": [ 0.0, 0.0, 1.0, 1.0 ], "texture": "#fish" }
+			}
+		},
+		{
+			"name": "8",
+			"from": [ 4.5, 5.5, 9.9 ],
+			"to": [ 8.7, 6.5, 10.6 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 22.5, "rescale": false },
+			"faces": {
+				"up" : { "uv": [ 3.0, 10.0, 9.0, 11.0 ], "texture": "#fish" },
+				"down" : { "uv": [ 3.0, 10.0, 9.0, 11.0 ], "texture": "#fish" },
+				"south" : { "uv": [ 3.0, 1.0, 9.0, 2.0 ], "texture": "#fish" },
+				"east" : { "uv": [ 0.0, 1.0, 1.0, 2.0 ], "texture": "#fish" },
+				"west" : { "uv": [ 0.0, 0.0, 1.0, 1.0 ], "texture": "#fish" }
+			}
+		},
+		{
+			"name": "9",
+			"from": [ 4.5, 5.5, 10.6 ],
+			"to": [ 8.0, 6.5, 11.3 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 22.5, "rescale": false },
+			"faces": {
+				"up" : { "uv": [ 3.0, 11.0, 8.0, 12.0 ], "texture": "#fish" },
+				"down" : { "uv": [ 3.0, 11.0, 8.0, 12.0 ], "texture": "#fish" },
+				"south" : { "uv": [ 3.0, 1.0, 8.0, 2.0 ], "texture": "#fish" },
+				"east" : { "uv": [ 0.0, 1.0, 1.0, 2.0 ], "texture": "#fish" },
+				"west" : { "uv": [ 0.0, 0.0, 1.0, 1.0 ], "texture": "#fish" }
+			}
+		},
+		{
+			"name": "10",
+			"from": [ 5.2, 5.5, 11.3 ],
+			"to": [ 7.3, 6.5, 12 ],
+			"rotation": { "origin": [ 8, 8, 8 ], "axis": "x", "angle": 22.5, "rescale": false },
+			"faces": {
+				"up" : { "uv": [ 4.0, 12.0, 7.0, 13.0 ], "texture": "#fish" },
+				"down" : { "uv": [ 4.0, 12.0, 7.0, 13.0 ], "texture": "#fish" },
+				"south" : { "uv": [ 4.0, 1.0, 7.0, 2.0 ], "texture": "#fish" },
+				"east" : { "uv": [ 0.0, 1.0, 1.0, 2.0 ], "texture": "#fish" },
+				"west" : { "uv": [ 0.0, 0.0, 1.0, 1.0 ], "texture": "#fish" }
+			}
+		},
+
+		{
+			"name": "nabenaka",
+			"from": [ 4.5, 0.5, 4.5 ],
+			"to": [ 11.5, 7.0, 11.5 ],
+			"faces": {
+				"up" : { "texture": "#mizu", "tintindex": 1, "rotation": 90 }
+			}
+		}
+	]
+}

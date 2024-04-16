@@ -1,0 +1,81 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/muku_oak",
+		"leg": "chinjufumod:block/muku_oak",
+		"top": "minecraft:block/oak_planks",
+		"red": "chinjufumod:block/me_red"
+	},
+	"elements": [
+		{
+			"name": "bar",
+			"from": [ 0, 2, 7 ],
+			"to": [ 16, 4, 9 ],
+			"faces": {
+				"up": { "texture":"#leg" },
+				"down": { "texture": "#leg" },
+				"north": { "texture": "#leg" },
+				"south": { "texture": "#leg" }
+			}
+		},
+		{
+			"name": "bottom_north",
+			"from": [ 0, 12, 1 ],
+			"to": [ 16, 14, 3 ],
+			"faces": {
+				"down": { "texture": "#leg" },
+				"north": { "texture": "#leg" },
+				"south": { "texture": "#leg" }
+			}
+		},
+		{
+			"name": "bottom_south",
+			"from": [ 0, 12, 13 ],
+			"to": [ 16, 14, 15 ],
+			"faces": {
+				"down": { "texture": "#leg" },
+				"north": { "texture": "#leg" },
+				"south": { "texture": "#leg" }
+			}
+		},
+		{
+			"name": "top",
+			"from": [ 0, 14, 1 ],
+			"to": [ 16, 15, 15 ],
+			"faces": {
+				"down": { "texture":"#top", "rotation": 90 }
+			}
+		},
+		{
+			"name": "red_north",
+			"from": [ 0, 3, 0 ],
+			"to": [ 16, 15, 1 ],
+			"faces": {
+				"down": { "texture":"#red" },
+				"north": { "texture":"#red" },
+				"south": { "texture":"#red" }
+			}
+		},
+		{
+			"name": "red_south",
+			"from": [ 0, 3, 15 ],
+			"to": [ 16, 15, 16 ],
+			"faces": {
+				"down": { "texture":"#red" },
+				"north": { "texture":"#red" },
+				"south": { "texture":"#red" }
+			}
+		},
+		{
+			"name": "red_top",
+			"from": [ 0, 15, 0 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"up": { "texture":"#red" },
+				"down": { "texture":"#red" },
+				"north": { "texture":"#red" },
+				"south": { "texture":"#red" }
+			}
+		}
+	]
+}

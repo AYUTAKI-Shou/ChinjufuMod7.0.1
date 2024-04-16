@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_ramen",
+
+	"ingredients": [
+		{ "tag": "forge:crops/greenonion" },
+		{ "tag": "forge:crops/carrot" },
+		[ { "tag": "forge:raw_chicken" }, { "tag": "forge:rawchicken" } ],
+		{ "tag": "forge:crops/onion" },
+		{ "tag": "forge:buckets/water" },
+		{ "item": "chinjufumod:block_food_zundou" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_rsoup_n", "count" : 1 }
+}

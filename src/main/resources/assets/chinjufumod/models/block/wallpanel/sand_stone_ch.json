@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/wallpanel_wide",
+	"textures": {
+		"particle": "minecraft:block/chiseled_sandstone",
+		"front": "minecraft:block/chiseled_sandstone",
+		"back": "minecraft:block/chiseled_sandstone",
+		"side": "minecraft:block/chiseled_sandstone"
+	}
+}

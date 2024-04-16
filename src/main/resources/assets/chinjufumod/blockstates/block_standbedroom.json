@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"lit=false": { "model": "chinjufumod:block/lamp/standbedroom" },
+
+		"lit=true": { "model": "chinjufumod:block/lamp/lit_standbedroom" }
+	}
+}

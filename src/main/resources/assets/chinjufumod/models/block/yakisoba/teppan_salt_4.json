@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/teppan_yakisoba_4",
+	"textures": {
+		"particle": "chinjufumod:block/yakisobashio_bake",
+		"soba": "chinjufumod:block/yakisobashio_bake",
+		"kote": "chinjufumod:block/dish_lightg",
+		"teppan": "chinjufumod:block/kitchen_stove"
+	}
+}

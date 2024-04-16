@@ -1,0 +1,255 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/dish_white",
+		"tea": "minecraft:block/water_still",
+		"pot": "chinjufumod:block/dish_white",
+		"pot2": "chinjufumod:block/dish_lightb"
+	},
+	"elements": [
+		{
+			"name": "tea",
+			"from": [ 6.5, 0.5, 6.5 ],
+			"to": [ 9.5, 1.0, 9.5 ],
+			"faces": {
+				"up": { "texture": "#tea", "tintindex": 1 }
+			}
+		},
+
+		{
+			"name": "huta_top________________________________________________________",
+			"from": [ 7.8, 4.3, 7.8 ],
+			"to": [ 8.2, 4.6, 8.2 ],
+			"faces": {
+				"up" : { "texture": "#pot" },
+				"down" : { "texture": "#pot" },
+				"north": { "texture": "#pot" },
+				"south": { "texture": "#pot" },
+				"west" : { "texture": "#pot" },
+				"east" : { "texture": "#pot" }
+			}
+		},
+		{
+			"name": "kyusu_huta_n_______________________________________________________",
+			"from": [ 7, 4.0, 7 ],
+			"to": [ 9, 4.3, 9 ],
+			"faces": {
+				"up" : { "texture": "#pot" },
+				"down" : { "texture": "#pot" },
+				"north": { "texture": "#pot" },
+				"south": { "texture": "#pot" },
+				"west" : { "texture": "#pot" },
+				"east" : { "texture": "#pot" }
+			}
+		},
+
+		{
+			"name": "kyusu_soko________________________________________________________",
+			"from": [ 6.5, 0.0, 6.5 ],
+			"to": [ 9.5, 0.5, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#pot" },
+				"down" : { "texture": "#pot" },
+				"north": { "texture": "#pot" },
+				"south": { "texture": "#pot" },
+				"west" : { "texture": "#pot" },
+				"east" : { "texture": "#pot" }
+			}
+		},
+
+		{
+			"name": "kyusu_n________________________________________________________",
+			"from": [ 6.0, 0.5, 6.0 ],
+			"to": [ 10.0, 3.5, 6.5 ],
+			"faces": {
+				"up" : { "texture": "#pot" },
+				"down" : { "texture": "#pot" },
+				"north": { "texture": "#pot" },
+				"south": { "texture": "#pot" },
+				"west" : { "texture": "#pot" },
+				"east" : { "texture": "#pot" }
+			}
+		},
+		{
+			"name": "kyusu_s",
+			"from": [ 6.0, 0.5, 9.5 ],
+			"to": [ 10.0, 3.5, 10.0 ],
+			"faces": {
+				"up" : { "texture": "#pot" },
+				"down" : { "texture": "#pot" },
+				"north": { "texture": "#pot" },
+				"south": { "texture": "#pot" },
+				"west" : { "texture": "#pot" },
+				"east" : { "texture": "#pot" }
+			}
+		},
+		{
+			"name": "kyusu_w",
+			"from": [ 6, 0.5, 6.5 ],
+			"to": [ 6.5, 3.5, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#pot" },
+				"down" : { "texture": "#pot" },
+				"north": { "texture": "#pot" },
+				"south": { "texture": "#pot" },
+				"west" : { "texture": "#pot" },
+				"east" : { "texture": "#pot" }
+			}
+		},
+		{
+			"name": "kyusu_e",
+			"from": [ 9.5, 0.5, 6.5 ],
+			"to": [ 10, 3.5, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#pot" },
+				"down" : { "texture": "#pot" },
+				"north": { "texture": "#pot" },
+				"south": { "texture": "#pot" },
+				"west" : { "texture": "#pot" },
+				"east" : { "texture": "#pot" }
+			}
+		},
+		{
+			"name": "kyusu_ue_n",
+			"from": [ 6.5, 3.5, 6.5 ],
+			"to": [ 9.5, 4.0, 7.2 ],
+			"faces": {
+				"up" : { "texture": "#pot" },
+				"down" : { "texture": "#pot" },
+				"north": { "texture": "#pot2" },
+				"south": { "texture": "#pot" },
+				"west" : { "texture": "#pot2" },
+				"east" : { "texture": "#pot2" }
+			}
+		},
+		{
+			"name": "kyusu_ue_s",
+			"from": [ 6.5, 3.5, 8.8 ],
+			"to": [ 9.5, 4.0, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#pot" },
+				"down" : { "texture": "#pot" },
+				"north": { "texture": "#pot" },
+				"south": { "texture": "#pot2" },
+				"west" : { "texture": "#pot2" },
+				"east" : { "texture": "#pot2" }
+			}
+		},
+		{
+			"name": "kyusu_ue_w",
+			"from": [ 6.5, 3.5, 7.2 ],
+			"to": [ 7.2, 4.0, 8.8 ],
+			"faces": {
+				"up" : { "texture": "#pot" },
+				"down" : { "texture": "#pot" },
+				"north": { "texture": "#pot" },
+				"south": { "texture": "#pot" },
+				"west" : { "texture": "#pot2" },
+				"east" : { "texture": "#pot" }
+			}
+		},
+		{
+			"name": "kyusu_ue_e",
+			"from": [ 8.8, 3.5, 7.2 ],
+			"to": [ 9.5, 4.0, 8.8 ],
+			"faces": {
+				"up" : { "texture": "#pot" },
+				"down" : { "texture": "#pot" },
+				"north": { "texture": "#pot" },
+				"south": { "texture": "#pot" },
+				"west" : { "texture": "#pot" },
+				"east" : { "texture": "#pot2" }
+			}
+		},
+
+		{
+			"name": "kyusu_kuchi1________________________________________________________",
+			"from": [ 5.5, 1.5, 7.25 ],
+			"to": [ 6, 3.0, 8.75 ],
+			"faces": {
+				"up" : { "texture": "#pot" },
+				"down" : { "texture": "#pot" },
+				"north": { "texture": "#pot" },
+				"south": { "texture": "#pot" },
+				"west" : { "texture": "#pot" }
+			}
+		},
+		{
+			"name": "kyusu_kuchi2",
+			"from": [ 4.0, 2.4, 7.70 ],
+			"to": [ 5.5, 3.0, 8.3 ],
+			"faces": {
+				"up" : { "texture": "#pot" },
+				"down" : { "texture": "#pot" },
+				"north": { "texture": "#pot" },
+				"south": { "texture": "#pot" },
+				"west" : { "texture": "#pot" }
+			}
+		},
+		{
+			"name": "kyusu_totte1________________________________________________________",
+			"from": [ 10.0, 3.1, 7.8 ],
+			"to": [ 11.2, 3.5, 8.2 ],
+			"faces": {
+				"up" : { "texture": "#pot" },
+				"down" : { "texture": "#pot" },
+				"north": { "texture": "#pot" },
+				"south": { "texture": "#pot" },
+				"west" : { "texture": "#pot" },
+				"east" : { "texture": "#pot" }
+			}
+		},
+		{
+			"name": "kyusu_totte2",
+			"from": [ 11.2, 2.7, 7.8 ],
+			"to": [ 11.6, 3.1, 8.2 ],
+			"faces": {
+				"up" : { "texture": "#pot" },
+				"down" : { "texture": "#pot" },
+				"north": { "texture": "#pot" },
+				"south": { "texture": "#pot" },
+				"west" : { "texture": "#pot" },
+				"east" : { "texture": "#pot" }
+			}
+		},
+		{
+			"name": "kyusu_totte3",
+			"from": [ 11.6, 1.4, 7.8 ],
+			"to": [ 12.0, 2.7, 8.2 ],
+			"faces": {
+				"up" : { "texture": "#pot" },
+				"down" : { "texture": "#pot" },
+				"north": { "texture": "#pot" },
+				"south": { "texture": "#pot" },
+				"west" : { "texture": "#pot" },
+				"east" : { "texture": "#pot" }
+			}
+		},
+		{
+			"name": "kyusu_totte4",
+			"from": [ 11.2, 1.0, 7.8 ],
+			"to": [ 11.6, 1.4, 8.2 ],
+			"faces": {
+				"up" : { "texture": "#pot" },
+				"down" : { "texture": "#pot" },
+				"north": { "texture": "#pot" },
+				"south": { "texture": "#pot" },
+				"west" : { "texture": "#pot" },
+				"east" : { "texture": "#pot" }
+			}
+		},
+		{
+			"name": "kyusu_totte5",
+			"from": [ 10.0, 0.6, 7.8 ],
+			"to": [ 11.2, 1.0, 8.2 ],
+			"faces": {
+				"up" : { "texture": "#pot" },
+				"down" : { "texture": "#pot" },
+				"north": { "texture": "#pot" },
+				"south": { "texture": "#pot" },
+	 			"west" : { "texture": "#pot" },
+				"east" : { "texture": "#pot" }
+			}
+		}
+	]
+}

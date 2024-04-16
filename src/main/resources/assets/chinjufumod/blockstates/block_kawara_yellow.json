@@ -1,0 +1,6 @@
+{
+	"variants": {
+		"cra=false": { "model": "chinjufumod:block/kawara/yellow" },
+		"cra=true": { "model": "chinjufumod:block/kawara/crack_yellow" }
+	}
+}

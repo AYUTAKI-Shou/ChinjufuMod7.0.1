@@ -1,0 +1,22 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/egg_bake",
+		"tamago": "chinjufumod:block/egg_bake"
+	},
+	"elements": [
+		{
+			"name": "tamago",
+			"from": [ 7.1, 0.75, 12.0 ],
+			"to": [ 8.9, 1.0, 15.5 ],
+			"faces": {
+				"up" : { "uv": [ 3.6, 0.0, 7.2, 7.0 ], "texture": "#tamago" },
+				"down" : { "uv": [ 3.6, 0.0, 7.2, 7.0 ], "texture": "#tamago" },
+				"north": { "uv": [ 7.2, 0.0, 3.6, 0.5 ], "texture": "#tamago" },
+				"south": { "uv": [ 3.6, 6.5, 7.2, 7.0 ], "texture": "#tamago" },
+				"east" : { "uv": [ 6.7, 0.0, 7.2, 7.0 ], "texture": "#tamago", "rotation": 90 },
+				"west" : { "uv": [ 3.6, 7.0, 4.1, 0.0 ], "texture": "#tamago", "rotation": 90 }
+			}
+		}
+	]
+}

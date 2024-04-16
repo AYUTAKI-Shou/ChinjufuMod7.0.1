@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_sushi",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_mushigome" },
+		{ "item": "chinjufumod:item_komekouji" },
+		{ "item": "chinjufumod:item_komekouji" },
+		{ "tag": "forge:buckets/water" },
+		{ "item": "chinjufumod:block_taru_hakkou" }
+	],
+
+	"result": { "item": "chinjufumod:block_taru_komezu_f", "count": 1 }
+}

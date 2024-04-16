@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/teppan_okonomi_h",
+	"textures": {
+		"particle": "chinjufumod:block/okonomic_raw",
+		"okonomi": "chinjufumod:block/okonomic_raw",
+		"bowl": "chinjufumod:block/muku_oak"
+	}
+}

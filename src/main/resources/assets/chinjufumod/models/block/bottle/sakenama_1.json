@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/bottle1",
+	"textures": {
+		"particle": "chinjufumod:block/bottle_sakenama_1",
+		"side": "chinjufumod:block/bottle_sakenama_1",
+		"top": "chinjufumod:block/bottle_sakenama_top",
+		"label": "chinjufumod:block/bottle_label_sake"
+	}
+}

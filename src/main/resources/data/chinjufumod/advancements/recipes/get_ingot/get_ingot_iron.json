@@ -1,0 +1,33 @@
+{
+	"parent": "chinjufumod:recipes/root",
+	"rewards": {
+		"recipes": [
+			"chinjufumod:block_steel_block",
+			"chinjufumod:block_keiryukui",
+			
+			"chinjufumod:item_chisel",
+			
+			"chinjufumod:item_ammunition_kc",
+			"chinjufumod:item_gyorai_61cm",
+			"chinjufumod:item_anchor",
+			"chinjufumod:item_shield_kuchiku",
+			"chinjufumod:item_shield_yura",
+			"chinjufumod:item_shield_mogami",
+			"chinjufumod:item_shield_kongou",
+			
+			"chinjufumod:block_report_box"
+		]
+	},
+	"criteria": {
+		"has_material": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [ { "tag": "forge:ingots/iron" } ] }
+		}
+	},
+	"requirements": [
+		[
+			"has_material"
+		]
+	]
+}

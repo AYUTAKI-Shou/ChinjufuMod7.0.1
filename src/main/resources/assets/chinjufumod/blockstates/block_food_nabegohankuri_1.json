@@ -1,0 +1,83 @@
+{
+	"variants": {
+		"cook=false,down=false,facing=north,stage=1": { "model": "chinjufumod:block/gohan/nabe_gohankuri_1", "y": 180 },
+		"cook=false,down=false,facing=south,stage=1": { "model": "chinjufumod:block/gohan/nabe_gohankuri_1" },
+		"cook=false,down=false,facing=west,stage=1": { "model": "chinjufumod:block/gohan/nabe_gohankuri_1", "y": 90 },
+		"cook=false,down=false,facing=east,stage=1": { "model": "chinjufumod:block/gohan/nabe_gohankuri_1", "y": 270 },
+
+		"cook=false,down=false,facing=north,stage=2": { "model": "chinjufumod:block/gohan/nabe_gohankuri_2", "y": 180 },
+		"cook=false,down=false,facing=south,stage=2": { "model": "chinjufumod:block/gohan/nabe_gohankuri_2" },
+		"cook=false,down=false,facing=west,stage=2": { "model": "chinjufumod:block/gohan/nabe_gohankuri_2", "y": 90 },
+		"cook=false,down=false,facing=east,stage=2": { "model": "chinjufumod:block/gohan/nabe_gohankuri_2", "y": 270 },
+
+		"cook=false,down=false,facing=north,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohankuri_3", "y": 180 },
+		"cook=false,down=false,facing=south,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohankuri_3" },
+		"cook=false,down=false,facing=west,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohankuri_3", "y": 90 },
+		"cook=false,down=false,facing=east,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohankuri_3", "y": 270 },
+
+		"cook=false,down=false,facing=north,stage=4": { "model": "chinjufumod:block/gohan/nabe_gohankuri_4", "y": 180 },
+		"cook=false,down=false,facing=south,stage=4": { "model": "chinjufumod:block/gohan/nabe_gohankuri_4" },
+		"cook=false,down=false,facing=west,stage=4": { "model": "chinjufumod:block/gohan/nabe_gohankuri_4", "y": 90 },
+		"cook=false,down=false,facing=east,stage=4": { "model": "chinjufumod:block/gohan/nabe_gohankuri_4", "y": 270 },
+
+			"cook=true,down=false,facing=north,stage=1": { "model": "chinjufumod:block/gohan/nabe_gohankuri_d1", "y": 180 },
+			"cook=true,down=false,facing=south,stage=1": { "model": "chinjufumod:block/gohan/nabe_gohankuri_d1" },
+			"cook=true,down=false,facing=west,stage=1": { "model": "chinjufumod:block/gohan/nabe_gohankuri_d1", "y": 90 },
+			"cook=true,down=false,facing=east,stage=1": { "model": "chinjufumod:block/gohan/nabe_gohankuri_d1", "y": 270 },
+	
+			"cook=true,down=false,facing=north,stage=2": { "model": "chinjufumod:block/gohan/nabe_gohankuri_d2", "y": 180 },
+			"cook=true,down=false,facing=south,stage=2": { "model": "chinjufumod:block/gohan/nabe_gohankuri_d2" },
+			"cook=true,down=false,facing=west,stage=2": { "model": "chinjufumod:block/gohan/nabe_gohankuri_d2", "y": 90 },
+			"cook=true,down=false,facing=east,stage=2": { "model": "chinjufumod:block/gohan/nabe_gohankuri_d2", "y": 270 },
+	
+			"cook=true,down=false,facing=north,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohankuri_d3", "y": 180 },
+			"cook=true,down=false,facing=south,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohankuri_d3" },
+			"cook=true,down=false,facing=west,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohankuri_d3", "y": 90 },
+			"cook=true,down=false,facing=east,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohankuri_d3", "y": 270 },
+	
+			"cook=true,down=false,facing=north,stage=4": { "model": "chinjufumod:block/gohan/nabe_gohankuri_d4", "y": 180 },
+			"cook=true,down=false,facing=south,stage=4": { "model": "chinjufumod:block/gohan/nabe_gohankuri_d4" },
+			"cook=true,down=false,facing=west,stage=4": { "model": "chinjufumod:block/gohan/nabe_gohankuri_d4", "y": 90 },
+			"cook=true,down=false,facing=east,stage=4": { "model": "chinjufumod:block/gohan/nabe_gohankuri_d4", "y": 270 },
+
+		"cook=false,down=true,facing=north,stage=1": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk1", "y": 180 },
+		"cook=false,down=true,facing=south,stage=1": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk1" },
+		"cook=false,down=true,facing=west,stage=1": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk1", "y": 90 },
+		"cook=false,down=true,facing=east,stage=1": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk1", "y": 270 },
+
+		"cook=false,down=true,facing=north,stage=2": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk2", "y": 180 },
+		"cook=false,down=true,facing=south,stage=2": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk2" },
+		"cook=false,down=true,facing=west,stage=2": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk2", "y": 90 },
+		"cook=false,down=true,facing=east,stage=2": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk2", "y": 270 },
+
+		"cook=false,down=true,facing=north,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk3", "y": 180 },
+		"cook=false,down=true,facing=south,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk3" },
+		"cook=false,down=true,facing=west,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk3", "y": 90 },
+		"cook=false,down=true,facing=east,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk3", "y": 270 },
+
+		"cook=false,down=true,facing=north,stage=4": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk4", "y": 180 },
+		"cook=false,down=true,facing=south,stage=4": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk4" },
+		"cook=false,down=true,facing=west,stage=4": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk4", "y": 90 },
+		"cook=false,down=true,facing=east,stage=4": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk4", "y": 270 },
+		
+			"cook=true,down=true,facing=north,stage=1": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk1", "y": 180 },
+			"cook=true,down=true,facing=south,stage=1": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk1" },
+			"cook=true,down=true,facing=west,stage=1": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk1", "y": 90 },
+			"cook=true,down=true,facing=east,stage=1": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk1", "y": 270 },
+	
+			"cook=true,down=true,facing=north,stage=2": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk2", "y": 180 },
+			"cook=true,down=true,facing=south,stage=2": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk2" },
+			"cook=true,down=true,facing=west,stage=2": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk2", "y": 90 },
+			"cook=true,down=true,facing=east,stage=2": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk2", "y": 270 },
+	
+			"cook=true,down=true,facing=north,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk3", "y": 180 },
+			"cook=true,down=true,facing=south,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk3" },
+			"cook=true,down=true,facing=west,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk3", "y": 90 },
+			"cook=true,down=true,facing=east,stage=3": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk3", "y": 270 },
+	
+			"cook=true,down=true,facing=north,stage=4": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk4", "y": 180 },
+			"cook=true,down=true,facing=south,stage=4": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk4" },
+			"cook=true,down=true,facing=west,stage=4": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk4", "y": 90 },
+			"cook=true,down=true,facing=east,stage=4": { "model": "chinjufumod:block/gohan/nabe_gohankuri_dk4", "y": 270 }
+	}
+}

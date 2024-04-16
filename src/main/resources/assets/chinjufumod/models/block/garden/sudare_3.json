@@ -1,0 +1,169 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/sudare",
+		"sudare": "chinjufumod:block/sudare",
+		"ito": "chinjufumod:block/sudare_ito"
+	},
+	"elements": [
+		{
+			"name": "ito1",
+			"from": [ 1.4, 14, 0.0 ],
+			"to": [ 1.5, 16, 0.4 ],
+			"faces": {
+				"up" : { "texture": "#ito" },
+				"down" : { "texture": "#ito" },
+				"north": { "texture": "#ito" },
+				"south": { "texture": "#ito" },
+				"west" : { "texture": "#ito" },
+				"east" : { "texture": "#ito" }
+			}
+		},
+		{
+			"name": "ito2",
+			"from": [ 4.7, 14, 0.0 ],
+			"to": [ 4.8, 16, 0.4 ],
+			"faces": {
+				"up" : { "texture": "#ito" },
+				"down" : { "texture": "#ito" },
+				"north": { "texture": "#ito" },
+				"south": { "texture": "#ito" },
+				"west" : { "texture": "#ito" },
+				"east" : { "texture": "#ito" }
+			}
+		},
+		{
+			"name": "ito3",
+			"from": [ 7.95, 14, 0.0 ],
+			"to": [ 8.05, 16, 0.4 ],
+			"faces": {
+				"up" : { "texture": "#ito" },
+				"down" : { "texture": "#ito" },
+				"north": { "texture": "#ito" },
+				"south": { "texture": "#ito" },
+				"west" : { "texture": "#ito" },
+				"east" : { "texture": "#ito" }
+			}
+		},
+		{
+			"name": "ito4",
+			"from": [ 11.1, 14, 0.0 ],
+			"to": [ 11.2, 16, 0.4 ],
+			"faces": {
+				"up" : { "texture": "#ito" },
+				"down" : { "texture": "#ito" },
+				"north": { "texture": "#ito" },
+				"south": { "texture": "#ito" },
+				"west" : { "texture": "#ito" },
+				"east" : { "texture": "#ito" }
+			}
+		},
+		{
+			"name": "ito5",
+			"from": [ 14.4, 14, 0.0 ],
+			"to": [ 14.5, 16, 0.4 ],
+			"faces": {
+				"up" : { "texture": "#ito" },
+				"down" : { "texture": "#ito" },
+				"north": { "texture": "#ito" },
+				"south": { "texture": "#ito" },
+				"west" : { "texture": "#ito" },
+				"east" : { "texture": "#ito" }
+			}
+		},
+
+		{
+			"name": "1",
+			"from": [ 0, 15.75, 0.01 ],
+			"to": [ 16, 15.99, 0.39 ],
+			"faces": {
+				"up" : { "texture": "#sudare" },
+				"down" : { "texture": "#sudare" },
+				"north": { "texture": "#sudare" },
+				"south": { "texture": "#sudare" },
+				"west" : { "texture": "#sudare" },
+				"east" : { "texture": "#sudare" }
+			}
+		},
+		{
+			"name": "2",
+			"from": [ 0, 15.5, 0.01 ],
+			"to": [ 16, 15.74, 0.39 ],
+			"faces": {
+				"up" : { "texture": "#sudare" },
+				"down" : { "texture": "#sudare" },
+				"north": { "texture": "#sudare" },
+				"south": { "texture": "#sudare" },
+				"west" : { "texture": "#sudare" },
+				"east" : { "texture": "#sudare" }
+			}
+		},
+
+		{
+			"name": "3",
+			"from": [ 0, 15.25, 0.01 ],
+			"to": [ 16, 15.49, 0.39 ],
+			"faces": {
+				"up" : { "texture": "#sudare" },
+				"down" : { "texture": "#sudare" },
+				"north": { "texture": "#sudare" },
+				"south": { "texture": "#sudare" },
+				"west" : { "texture": "#sudare" },
+				"east" : { "texture": "#sudare" }
+			}
+		},
+		{
+			"name": "4",
+			"from": [ 0, 15.0, 0.01 ],
+			"to": [ 16, 15.24, 0.39 ],
+			"faces": {
+				"up" : { "texture": "#sudare" },
+				"down" : { "texture": "#sudare" },
+				"north": { "texture": "#sudare" },
+				"south": { "texture": "#sudare" },
+				"west" : { "texture": "#sudare" },
+				"east" : { "texture": "#sudare" }
+			}
+		},
+		{
+			"name": "5",
+			"from": [ 0, 14.75, 0.01 ],
+			"to": [ 16, 14.99, 0.39 ],
+			"faces": {
+				"up" : { "texture": "#sudare" },
+				"down" : { "texture": "#sudare" },
+				"north": { "texture": "#sudare" },
+				"south": { "texture": "#sudare" },
+				"west" : { "texture": "#sudare" },
+				"east" : { "texture": "#sudare" }
+			}
+		},
+		{
+			"name": "6",
+			"from": [ 0, 14.5, 0.01 ],
+			"to": [ 16, 14.74, 0.39 ],
+			"faces": {
+				"up" : { "texture": "#sudare" },
+				"down" : { "texture": "#sudare" },
+				"north": { "texture": "#sudare" },
+				"south": { "texture": "#sudare" },
+				"west" : { "texture": "#sudare" },
+				"east" : { "texture": "#sudare" }
+			}
+		},
+
+		{
+			"name": "32",
+			"from": [ 0, 14.01, 0.01 ],
+			"to": [ 16, 14.49, 0.39 ],
+			"faces": {
+				"up" : { "texture": "#sudare" },
+				"down" : { "texture": "#sudare" },
+				"north": { "texture": "#sudare" },
+				"south": { "texture": "#sudare" },
+				"west" : { "texture": "#sudare" },
+				"east" : { "texture": "#sudare" }
+			}
+		}
+	]
+}

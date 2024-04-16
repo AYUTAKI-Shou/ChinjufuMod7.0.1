@@ -1,0 +1,29 @@
+{
+	"ambientocclusion": false,
+	"textures": {
+		"particle": "chinjufumod:block/hakusai_0",
+		"crop": "chinjufumod:block/hakusai_0"
+	},
+	"elements": [
+		{
+			"name": "me1",
+			"from": [ 8, -1, 0 ],
+			"to": [ 8, 15, 16 ],
+			"shade": false,
+			"faces": {
+				"west": { "uv": [ 0, 0, 16, 16 ], "texture": "#crop" },
+				"east": { "uv": [ 0, 0, 16, 16 ], "texture": "#crop" }
+			}
+		},
+		{
+			"name": "me2",
+			"from": [ 0, -1, 8 ],
+			"to": [ 16, 15, 8 ],
+			"shade": false,
+			"faces": {
+				"north": { "uv": [ 0, 0, 16, 16 ], "texture": "#crop" },
+				"south": { "uv": [ 0, 0, 16, 16 ], "texture": "#crop" }
+			}
+		}
+	]
+}

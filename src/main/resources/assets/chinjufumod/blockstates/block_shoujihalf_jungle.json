@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:block/shoujihalf/close1_jungle", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:block/shoujihalf/close1_jungle" },
+		"facing=west,stage=1": { "model": "chinjufumod:block/shoujihalf/close1_jungle", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:block/shoujihalf/close1_jungle", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/shoujihalf/open2_jungle", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:block/shoujihalf/open2_jungle" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/shoujihalf/open2_jungle", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:block/shoujihalf/open2_jungle", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:block/shoujihalf/close3_jungle", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:block/shoujihalf/close3_jungle" },
+		"facing=west,stage=3": { "model": "chinjufumod:block/shoujihalf/close3_jungle", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:block/shoujihalf/close3_jungle", "y": 270 },
+
+		"facing=north,stage=4": { "model": "chinjufumod:block/shoujihalf/open4_jungle", "y": 180 },
+		"facing=south,stage=4": { "model": "chinjufumod:block/shoujihalf/open4_jungle" },
+		"facing=west,stage=4": { "model": "chinjufumod:block/shoujihalf/open4_jungle", "y": 90 },
+		"facing=east,stage=4": { "model": "chinjufumod:block/shoujihalf/open4_jungle", "y": 270 }
+	}
+}

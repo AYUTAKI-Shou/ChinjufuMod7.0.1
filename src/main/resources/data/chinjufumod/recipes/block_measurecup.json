@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_measurecup",
+
+	"pattern": [
+		"XX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:item_food_driglass" }
+	},
+
+	"result": { "item": "chinjufumod:block_measurecup", "count": 1 }
+}

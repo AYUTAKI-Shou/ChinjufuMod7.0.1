@@ -1,0 +1,80 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/yasaiitame_raw",
+		"yasai": "chinjufumod:block/yasaiitame_raw",
+		"soba": "chinjufumod:block/ramen_boil",
+		"kote": "chinjufumod:block/dish_lightg"
+	},
+	"elements": [
+		{
+			"name": "yasai_c",
+			"from": [ 5.5, 0, 5.5 ],
+			"to": [ 10.5, 0.9, 10.5 ],
+			"faces": {
+				"up" : { "uv": [ 2.0, 2.0, 14.0, 14.0 ], "texture": "#yasai" },
+				"north": { "uv": [ 14.0, 2.0, 2.0, 0.0 ], "texture": "#yasai" },
+				"south": { "uv": [ 2.0, 14.0, 14.0, 16.0 ], "texture": "#yasai" },
+				"east" : { "uv": [ 14.0, 2.0, 16.0, 14.0 ], "texture": "#yasai", "rotation": 90 },
+				"west" : { "uv": [ 2.0, 14.0, 0.0, 2.0 ], "texture": "#yasai", "rotation": 90 }
+			}
+		},
+		
+		{
+			"name": "kote",
+			"from": [ 1.5, 0, 8 ],
+			"to": [ 4.5, 0.25, 11 ],
+			"rotation": { "origin": [ 2, 8, 8.8 ], "axis": "y", "angle": -22.5, "rescale": false },
+			"faces": {
+				"up" : { "texture": "#kote" },
+				"down" : { "texture": "#kote" },
+				"north": { "texture": "#kote" },
+				"south": { "texture": "#kote" },
+				"east" : { "texture": "#kote" },
+				"west" : { "texture": "#kote" }
+			}
+		},
+		{
+			"name": "kote",
+			"from": [ 2.75, 0, 11 ],
+			"to": [ 3.25, 0.45, 15.5 ],
+			"rotation": { "origin": [ 2, 8, 8.8 ], "axis": "y", "angle": -22.5, "rescale": false },
+			"faces": {
+				"up" : { "texture": "#kote" },
+				"down" : { "texture": "#kote" },
+				"north": { "texture": "#kote" },
+				"south": { "texture": "#kote" },
+				"east" : { "texture": "#kote" },
+				"west" : { "texture": "#kote" }
+			}
+		},
+		{
+			"name": "kote2",
+			"from": [ 2.5, 0.25, 8 ],
+			"to": [ 5.5, 0.5, 11 ],
+			"rotation": { "origin": [ 4.8, 8, 11 ], "axis": "y", "angle": 22.5, "rescale": false },
+			"faces": {
+				"up" : { "texture": "#kote" },
+				"down" : { "texture": "#kote" },
+				"north": { "texture": "#kote" },
+				"south": { "texture": "#kote" },
+				"east" : { "texture": "#kote" },
+				"west" : { "texture": "#kote" }
+			}
+		},
+		{
+			"name": "kote2",
+			"from": [ 3.75, 0.05, 11 ],
+			"to": [ 4.25, 0.5, 15.5 ],
+			"rotation": { "origin": [ 4.8, 8, 11 ], "axis": "y", "angle": 22.5, "rescale": false },
+			"faces": {
+				"up" : { "texture": "#kote" },
+				"down" : { "texture": "#kote" },
+				"north": { "texture": "#kote" },
+				"south": { "texture": "#kote" },
+				"east" : { "texture": "#kote" },
+				"west" : { "texture": "#kote" }
+			}
+		}
+	]
+}

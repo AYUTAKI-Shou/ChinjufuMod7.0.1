@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/bambootrapdoor_bottom",
+	"textures": {
+		"particle": "chinjufumod:block/bamboo_side",
+		"side": "chinjufumod:block/bamboo_side",
+		"inside": "chinjufumod:block/bamboo_inside",
+		"naka": "chinjufumod:block/bamboo_trapdoor"
+	}
+}

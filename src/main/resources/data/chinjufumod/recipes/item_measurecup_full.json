@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_measurecup",
+
+	"ingredients": [
+		{ "tag": "forge:buckets/water" },
+		{ "item": "chinjufumod:block_measurecup" },
+		{ "item": "chinjufumod:block_measurecup" },
+		{ "item": "chinjufumod:block_measurecup" },
+		{ "item": "chinjufumod:block_measurecup" }
+	],
+
+	"result": { "item": "chinjufumod:item_measurecup_full", "count": 4 }
+}

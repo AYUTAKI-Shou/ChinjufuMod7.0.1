@@ -1,0 +1,18 @@
+{
+	"variants": {
+		"facing=north,stage=1": { "model": "chinjufumod:block/windowtallb/bot_close_birch", "y": 180 },
+		"facing=south,stage=1": { "model": "chinjufumod:block/windowtallb/bot_close_birch" },
+		"facing=west,stage=1": { "model": "chinjufumod:block/windowtallb/bot_close_birch", "y": 90 },
+		"facing=east,stage=1": { "model": "chinjufumod:block/windowtallb/bot_close_birch", "y": 270 },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/windowtallb/bot_2_birch", "y": 180 },
+		"facing=south,stage=2": { "model": "chinjufumod:block/windowtallb/bot_2_birch" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/windowtallb/bot_2_birch", "y": 90 },
+		"facing=east,stage=2": { "model": "chinjufumod:block/windowtallb/bot_2_birch", "y": 270 },
+
+		"facing=north,stage=3": { "model": "chinjufumod:block/windowtallb/bot_3_birch", "y": 180 },
+		"facing=south,stage=3": { "model": "chinjufumod:block/windowtallb/bot_3_birch" },
+		"facing=west,stage=3": { "model": "chinjufumod:block/windowtallb/bot_3_birch", "y": 90 },
+		"facing=east,stage=3": { "model": "chinjufumod:block/windowtallb/bot_3_birch", "y": 270 }
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"replace": false,
+	"values": [
+		"#forge:spices/blackpepper",
+		"#forge:spices/pepper",
+		"#forge:spices/cumin",
+		"#forge:spices/turmeric",
+		"#forge:spices/chili"
+	]
+}

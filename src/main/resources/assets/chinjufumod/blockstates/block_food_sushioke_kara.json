@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"stage=1": { "model": "chinjufumod:block/sushi/sushioke_kara" },
+		"stage=2": { "model": "chinjufumod:block/sushi/sushioke_kara2" },
+		"stage=3": { "model": "chinjufumod:block/sushi/sushioke_kara3" },
+		"stage=4": { "model": "chinjufumod:block/sushi/sushioke_kara4" },
+		"stage=5": { "model": "chinjufumod:block/sushi/sushioke_kara5" },
+		"stage=6": { "model": "chinjufumod:block/sushi/sushioke_kara6" }
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"parent": "chinjufumod:block/take_kuri/take_hand",
+	"display": {
+		"gui": {
+			"rotation": [ 60, 135, 90 ],
+			"translation": [ 4, -0.5, 0 ],
+			"scale": [ 0.95, 0.95, 0.95 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ -20, 0, 45 ],
+			"translation": [ 0, 5, -2 ],
+			"scale": [ 0.5, 0.5, 0.5 ]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [ -20, 0, 45 ],
+			"translation": [ -4, 0, 0 ],
+			"scale": [ 0.5, 0.5, 0.5 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 90, 0, -45 ],
+			"translation": [ 5, 0, 0 ],
+			"scale": [ 0.5, 0.5, 0.5 ]
+		},
+		"firstperson_lefthand": {
+			"rotation": [ 90, 0, -45 ],
+			"translation": [ 0, 0, 0 ],
+			"scale": [ 0.5, 0.5, 0.5 ]
+		},
+		"fixed": {
+			"rotation": [ -90, -45, 180 ],
+			"translation": [ -3.5, -3, 5.5 ],
+			"scale": [ 0.8, 0.8, 0.8 ]
+		},
+		"ground": {
+			"rotation": [ 225, 0, 0 ],
+			"translation": [ 0, 2, 0 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		}
+	}
+}

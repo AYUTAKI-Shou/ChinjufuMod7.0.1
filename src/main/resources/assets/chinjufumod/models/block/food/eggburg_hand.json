@@ -1,0 +1,211 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/food_beefburg",
+		"burg": "chinjufumod:block/food_beefburg",
+		"shiromi": "chinjufumod:block/food_eggwhite",
+		"kimi": "chinjufumod:block/food_egg",
+		"source": "chinjufumod:block/food_beefsource",
+		"sara": "chinjufumod:block/dish_white"
+	},
+	"elements": [
+		{
+			"name": "sara_n_top____________________________________________",
+			"from": [ 4.0, 0.4, 4.0 ],
+			"to": [ 12.0, 0.6, 5.5 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_s_top",
+			"from": [ 4.0, 0.4, 10.5 ],
+			"to": [ 12.0, 0.6, 12.0 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_e_top",
+			"from": [ 10.5, 0.4, 5.5 ],
+			"to": [ 12.0, 0.6, 10.5 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_w_top",
+			"from": [ 4.0, 0.4, 5.5 ],
+			"to": [ 5.5, 0.6, 10.5 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+
+		{
+			"name": "sara_top____________________________________________",
+			"from": [ 5.5, 0.3, 5.5 ],
+			"to": [ 10.5, 0.5, 10.5 ],
+			"faces": {
+				"up" : { "texture": "#sara" },
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_bot_nor",
+			"from": [ 5.5, 0.0, 5.5 ],
+			"to": [ 10.5, 0.3, 5.8 ],
+			"faces": {
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_bot_sou",
+			"from": [ 5.5, 0.0, 10.2 ],
+			"to": [ 10.5, 0.3, 10.5 ],
+			"faces": {
+				"down" : { "texture": "#sara" },
+				"north": { "texture": "#sara" },
+				"south": { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_bot_east",
+			"from": [ 5.5, 0.0, 5.8 ],
+			"to": [ 5.8, 0.3, 10.2 ],
+			"faces": {
+				"down" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+		{
+			"name": "sara_bot_west",
+			"from": [ 10.2, 0.0, 5.8 ],
+			"to": [ 10.5, 0.3, 10.2 ],
+			"faces": {
+				"down" : { "texture": "#sara" },
+				"east" : { "texture": "#sara" },
+				"west" : { "texture": "#sara" }
+			}
+		},
+
+		{
+			"name": "burg",
+			"from": [ 5.9, 0.5, 6.5 ],
+			"to": [ 7.9, 1.5, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#burg" },
+				"down" : { "texture": "#burg" },
+				"north": { "texture": "#burg" },
+				"south": { "texture": "#burg" },
+				"west" : { "texture": "#burg" },
+				"east" : { "texture": "#burg" }
+			}
+		},
+		{
+			"name": "egg",
+			"from": [ 6.1, 1.501, 7.2 ],
+			"to": [ 7.7, 1.51, 8.8 ],
+			"faces": {
+				"up" : { "texture": "#shiromi" },
+				"down" : { "texture": "#shiromi" },
+				"north": { "texture": "#shiromi" },
+				"south": { "texture": "#shiromi" },
+				"west" : { "texture": "#shiromi" },
+				"east" : { "texture": "#shiromi" }
+			}
+		},
+		{
+			"name": "egg",
+			"from": [ 6.5, 1.509, 7.6 ],
+			"to": [ 7.3, 1.52, 8.4 ],
+			"faces": {
+				"up" : { "texture": "#kimi" },
+				"down" : { "texture": "#kimi" },
+				"north": { "texture": "#kimi" },
+				"south": { "texture": "#kimi" },
+				"west" : { "texture": "#kimi" },
+				"east" : { "texture": "#kimi" }
+			}
+		},
+		{
+			"name": "burg",
+			"from": [ 8.1, 0.5, 6.5 ],
+			"to": [ 10.1, 1.5, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#burg" },
+				"down" : { "texture": "#burg" },
+				"north": { "texture": "#burg" },
+				"south": { "texture": "#burg" },
+				"west" : { "texture": "#burg" },
+				"east" : { "texture": "#burg" }
+			}
+		},
+		{
+			"name": "egg",
+			"from": [ 8.3, 1.501, 7.2 ],
+			"to": [ 9.9, 1.51, 8.8 ],
+			"faces": {
+				"up" : { "texture": "#shiromi" },
+				"down" : { "texture": "#shiromi" },
+				"north": { "texture": "#shiromi" },
+				"south": { "texture": "#shiromi" },
+				"west" : { "texture": "#shiromi" },
+				"east" : { "texture": "#shiromi" }
+			}
+		},
+		{
+			"name": "egg",
+			"from": [ 8.7, 1.509, 7.6 ],
+			"to": [ 9.5, 1.52, 8.4 ],
+			"faces": {
+				"up" : { "texture": "#kimi" },
+				"down" : { "texture": "#kimi" },
+				"north": { "texture": "#kimi" },
+				"south": { "texture": "#kimi" },
+				"west" : { "texture": "#kimi" },
+				"east" : { "texture": "#kimi" }
+			}
+		},
+		{
+			"name": "source",
+			"from": [ 5.5, 0.5, 8.5 ],
+			"to": [ 10.5, 0.52, 10.5 ],
+			"faces": {
+				"up" : { "texture": "#source" },
+				"down" : { "texture": "#source" },
+				"north": { "texture": "#source" },
+				"south": { "texture": "#source" },
+				"west" : { "texture": "#source" },
+				"east" : { "texture": "#source" }
+			}
+		}
+	]
+}

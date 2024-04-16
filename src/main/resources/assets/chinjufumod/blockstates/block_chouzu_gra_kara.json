@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"stage=0,waterlogged=false": { "model": "chinjufumod:block/chouzubachi/granite_kara" },
+		"stage=1,waterlogged=false": { "model": "chinjufumod:block/chouzubachi/granite_1" },
+		"stage=2,waterlogged=false": { "model": "chinjufumod:block/chouzubachi/granite_2" },
+		"stage=3,waterlogged=false": { "model": "chinjufumod:block/chouzubachi/granite_3" },
+
+		"stage=0,waterlogged=true": { "model": "chinjufumod:block/chouzubachi/granite_kara" },
+		"stage=1,waterlogged=true": { "model": "chinjufumod:block/chouzubachi/granite_kara" },
+		"stage=2,waterlogged=true": { "model": "chinjufumod:block/chouzubachi/granite_kara" },
+		"stage=3,waterlogged=true": { "model": "chinjufumod:block/chouzubachi/granite_kara" }
+	}
+}

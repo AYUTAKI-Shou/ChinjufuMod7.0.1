@@ -1,0 +1,7 @@
+{
+	"variants": {
+		"axis=y": { "model": "chinjufumod:block/box/tawara" },
+		"axis=z": { "model": "chinjufumod:block/box/tawara", "x": 90 },
+		"axis=x": { "model": "chinjufumod:block/box/tawara", "x": 90, "y": 90 }
+	}
+}

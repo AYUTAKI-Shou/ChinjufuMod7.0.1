@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"facing=north,stage=1,waterlogged=false": { "model": "chinjufumod:block/mizuoke/full", "y": 180 },
+		"facing=south,stage=1,waterlogged=false": { "model": "chinjufumod:block/mizuoke/full" },
+		"facing=west,stage=1,waterlogged=false": { "model": "chinjufumod:block/mizuoke/full", "y": 90 },
+		"facing=east,stage=1,waterlogged=false": { "model": "chinjufumod:block/mizuoke/full", "y": 270 },
+
+		"facing=north,stage=2,waterlogged=false": { "model": "chinjufumod:block/mizuoke/stage_6", "y": 180 },
+		"facing=south,stage=2,waterlogged=false": { "model": "chinjufumod:block/mizuoke/stage_6" },
+		"facing=west,stage=2,waterlogged=false": { "model": "chinjufumod:block/mizuoke/stage_6", "y": 90 },
+		"facing=east,stage=2,waterlogged=false": { "model": "chinjufumod:block/mizuoke/stage_6", "y": 270 },
+
+		"facing=north,stage=1,waterlogged=true": { "model": "chinjufumod:block/mizuoke/empty", "y": 180 },
+		"facing=south,stage=1,waterlogged=true": { "model": "chinjufumod:block/mizuoke/empty" },
+		"facing=west,stage=1,waterlogged=true": { "model": "chinjufumod:block/mizuoke/empty", "y": 90 },
+		"facing=east,stage=1,waterlogged=true": { "model": "chinjufumod:block/mizuoke/empty", "y": 270 },
+
+		"facing=north,stage=2,waterlogged=true": { "model": "chinjufumod:block/mizuoke/empty", "y": 180 },
+		"facing=south,stage=2,waterlogged=true": { "model": "chinjufumod:block/mizuoke/empty" },
+		"facing=west,stage=2,waterlogged=true": { "model": "chinjufumod:block/mizuoke/empty", "y": 90 },
+		"facing=east,stage=2,waterlogged=true": { "model": "chinjufumod:block/mizuoke/empty", "y": 270 }
+	}
+}

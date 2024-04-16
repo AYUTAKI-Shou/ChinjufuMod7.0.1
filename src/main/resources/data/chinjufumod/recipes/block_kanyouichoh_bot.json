@@ -1,0 +1,13 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_bonsai",
+
+	"ingredients": [
+		{ "tag": "forge:saplings/ginkgo" },
+		{ "tag": "forge:saplings/ginkgo" },
+		{ "item": "minecraft:dirt" },
+		{ "item": "minecraft:flower_pot" }
+	],
+
+	"result": { "item": "chinjufumod:block_kanyouichoh_bot", "count": 1 }
+}

@@ -1,0 +1,20 @@
+{
+	"parent": "chinjufumod:block/rensouhou/155_pull",
+	"gui_light": "front", "display": {
+		"gui": {
+			"rotation": [ 90, 225, 0 ],
+			"translation": [ 1, -1.5, 0 ],
+			"scale": [ 0.4, 0.4, 0.4 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 0, 180, 0 ],
+			"translation": [ 0, 3.3, 2 ],
+			"scale": [ 0.42, 0.42, 0.42 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 20, 187.5, -7.5 ],
+			"translation": [ -4.75, 1, 1 ],
+			"scale": [ 0.35, 0.35, 0.35 ]
+		}
+	}
+}

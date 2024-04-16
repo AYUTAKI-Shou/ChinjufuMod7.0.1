@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:block/food/frypan_b_gyudon",
+	"display": {
+		"gui": {
+			"rotation": [ 30, 45, 0 ],
+			"translation": [ -0.5, 4, 0 ],
+			"scale": [ 1.1, 1.1, 1.1 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 70, 0, 0 ],
+			"translation": [ 0, 8, 6 ],
+			"scale": [ 1.0, 1.0, 1.0 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 7, 0 ],
+			"scale": [ 1.0, 1.0, 1.0 ]
+		},
+		"fixed": {
+			"rotation": [ 270, 180, 0 ],
+			"translation": [ 0, 0, -5.5 ],
+			"scale": [ 0.8, 0.8, 0.8 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 0.6, 0.6, 0.6 ]
+		}
+	}
+}

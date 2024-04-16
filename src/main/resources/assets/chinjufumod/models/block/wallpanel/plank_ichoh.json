@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/wallpanel_wide",
+	"textures": {
+		"particle": "chinjufumod:block/planks_ichoh",
+		"front": "chinjufumod:block/planks_ichoh",
+		"back": "chinjufumod:block/planks_ichoh",
+		"side": "chinjufumod:block/planks_ichoh"
+	}
+}

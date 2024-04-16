@@ -1,0 +1,9 @@
+{
+	"parent": "chinjufumod:block/base/report_box",
+	"textures": {
+		"particle": "chinjufumod:block/report_side",
+		"side": "chinjufumod:block/report_side",
+		"inside": "chinjufumod:block/report_inside",
+		"face": "chinjufumod:block/report_1"
+	}
+}

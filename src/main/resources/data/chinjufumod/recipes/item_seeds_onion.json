@@ -1,0 +1,10 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_seeds",
+
+	"ingredients": [
+		[ { "tag": "forge:crops/onion" }, { "item": "chinjufumod:item_seeds_greenonion" } ]
+	],
+
+	"result": { "item": "chinjufumod:item_seeds_onion", "count" : 1 }
+}

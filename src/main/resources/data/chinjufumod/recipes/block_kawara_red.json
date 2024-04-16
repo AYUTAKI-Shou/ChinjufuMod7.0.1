@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_jpblock",
+
+	"pattern": [
+		"XXX",
+		"XYX",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "chinjufumod:block_kawara_black" },
+		"Y": { "tag": "forge:dyes/red" }
+	},
+
+	"result": { "item": "chinjufumod:block_kawara_red", "count": 8 }
+}

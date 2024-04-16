@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_dressingtable",
+
+	"pattern": [
+		"X  ",
+		"Y  ",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:dark_oak_slab" },
+		"Y": { "tag": "forge:glass_panes/colorless" }
+	},
+
+	"result": { "item": "chinjufumod:block_dressingtable_d", "count": 1 }
+}

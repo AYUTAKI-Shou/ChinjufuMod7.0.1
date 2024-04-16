@@ -1,0 +1,55 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "#wall"
+	},
+	"elements":[
+		{
+			"name": "ue_shita",
+			"from": [ 5.001, 0.001, 5.001 ],
+			"to": [ 10.999, 15.999, 10.999 ],
+			"faces": {
+				"up": { "texture": "#wall", "cullface": "up" },
+				"down": { "texture": "#wall", "cullface": "down" }
+			}
+		},
+		
+		{
+			"name": "nishi",
+			"from": [ 5.001, 0.001, 5.001 ],
+			"to": [ 8, 15.999, 10.999 ],
+			"faces": {
+				"north": { "uv": [ 8.0, 0.0, 11.0, 16.0 ], "texture": "#wall" },
+				"south": { "uv": [ 5.0, 0.0, 8.0, 16.0 ], "texture": "#wall" }
+			}
+		},
+		{
+			"name": "higashi",
+			"from": [ 8, 0.001, 5.001 ],
+			"to": [ 10.999, 15.999, 10.999 ],
+			"faces": {
+				"north": { "uv": [ 5.0, 0.0, 8.0, 16.0 ], "texture": "#wall" },
+				"south": { "uv": [ 8.0, 0.0, 11.0, 16.0 ], "texture": "#wall" }
+			}
+		},
+		
+		{
+			"name": "kita",
+			"from": [ 5.001, 0.001, 5.001 ],
+			"to": [ 10.999, 15.999, 8 ],
+			"faces": {
+				"west": { "uv": [ 5.0, 0.0, 8.0, 16.0 ], "texture": "#wall" },
+				"east": { "uv": [ 8.0, 0.0, 11.0, 16.0 ], "texture": "#wall" }
+			}
+		},
+		{
+			"name": "minami",
+			"from": [ 5.001, 0.001, 8 ],
+			"to": [ 10.999, 15.999, 10.999 ],
+			"faces": {
+				"west": { "uv": [ 8.0, 0.0, 11.0, 16.0 ], "texture": "#wall" },
+				"east": { "uv": [ 5.0, 0.0, 8.0, 16.0], "texture": "#wall" }
+			}
+		}
+	]
+}

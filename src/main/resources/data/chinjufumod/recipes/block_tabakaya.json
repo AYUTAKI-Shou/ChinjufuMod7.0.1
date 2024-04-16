@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_tabakaya",
+
+	"pattern": [
+		"XXX",
+		"X X",
+		"XXX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:sugar_cane" }
+	},
+
+	"result": { "item": "chinjufumod:block_tabakaya", "count": 1 }
+}

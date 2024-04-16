@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_present",
+
+	"pattern": [
+		" X ",
+		"XYX",
+		" X "
+	],
+
+	"key": {
+		"X": { "item": "minecraft:paper" },
+		"Y": { "tag": "forge:fruits/apple" }
+	},
+
+	"result": { "item": "chinjufumod:block_present_app", "count": 1 }
+}

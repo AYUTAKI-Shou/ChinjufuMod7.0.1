@@ -1,0 +1,23 @@
+{
+	"variants": {
+	"facing=north,stage=1": { "model": "chinjufumod:block/kamoi/birch_1n" },
+	"facing=south,stage=1": { "model": "chinjufumod:block/kamoi/birch_1s" },
+	"facing=west,stage=1": { "model": "chinjufumod:block/kamoi/birch_1w" },
+	"facing=east,stage=1": { "model": "chinjufumod:block/kamoi/birch_1e" },
+
+		"facing=north,stage=2": { "model": "chinjufumod:block/kamoi/birch_2n" },
+		"facing=south,stage=2": { "model": "chinjufumod:block/kamoi/birch_2s" },
+		"facing=west,stage=2": { "model": "chinjufumod:block/kamoi/birch_2w" },
+		"facing=east,stage=2": { "model": "chinjufumod:block/kamoi/birch_2e" },
+
+	"facing=north,stage=3": { "model": "chinjufumod:block/kamoi/birch_3n" },
+	"facing=south,stage=3": { "model": "chinjufumod:block/kamoi/birch_3s" },
+	"facing=west,stage=3": { "model": "chinjufumod:block/kamoi/birch_3w" },
+	"facing=east,stage=3": { "model": "chinjufumod:block/kamoi/birch_3e" },
+
+		"facing=north,stage=4": { "model": "chinjufumod:block/kamoi/birch_4n" },
+		"facing=south,stage=4": { "model": "chinjufumod:block/kamoi/birch_4s" },
+		"facing=west,stage=4": { "model": "chinjufumod:block/kamoi/birch_4w" },
+		"facing=east,stage=4": { "model": "chinjufumod:block/kamoi/birch_4e" }
+	}
+}

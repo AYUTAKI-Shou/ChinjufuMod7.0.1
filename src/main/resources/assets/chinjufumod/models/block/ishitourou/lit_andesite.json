@@ -1,0 +1,11 @@
+{
+	"parent": "chinjufumod:block/base/ishitourou_lit",
+	"textures": {
+ 		"particle": "minecraft:block/polished_andesite",
+ 		"ishi": "minecraft:block/polished_andesite",
+		"sara": "chinjufumod:block/dish_usuki",
+		"abura": "chinjufumod:block/soyoil_still",
+		"akari": "chinjufumod:block/andon_shin",
+		"honou": "chinjufumod:block/honou_layer_0"
+	}
+}

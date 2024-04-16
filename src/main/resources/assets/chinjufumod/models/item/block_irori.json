@@ -1,0 +1,10 @@
+{
+	"parent": "chinjufumod:block/irori/stage_0",
+	"display": {
+		"fixed": {
+			"rotation": [ 0, 180, 0 ],
+			"translation": [ 0, 0, -2.01 ],
+			"scale": [ 0.5, 0.5, 0.5 ]
+		}
+	}
+}

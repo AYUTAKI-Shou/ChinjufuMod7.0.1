@@ -1,0 +1,161 @@
+{
+	"parent": "block/block",
+	"elements": [
+		{
+			"name": "sokoita",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 1, 16 ],
+			"faces": {
+				"up": { "texture": "#inside" },
+				"down": { "texture": "#side", "cullface": "down" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#front" },
+				"east" : { "texture": "#side" },
+				"west" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "kita",
+			"from": [ 0, 1, 0 ],
+			"to": [ 16, 15, 1 ],
+			"faces": {
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"east" : { "texture": "#side" },
+				"west" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "nishi",
+			"from": [ 0, 1, 1 ],
+			"to": [ 1, 15, 16 ],
+			"faces": {
+				"south": { "texture": "#front" },
+				"east" : { "texture": "#front" },
+				"west" : { "texture": "#side" }
+			}
+		},
+		{
+			"name": "higashi",
+			"from": [ 15, 1, 1 ],
+			"to": [ 16, 15, 16 ],
+			"faces": {
+				"south": { "texture": "#front" },
+				"east" : { "texture": "#side" },
+				"west" : { "texture": "#front" }
+			}
+		},
+		{
+			"name": "tennita",
+			"from": [ 0, 15, 0 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"up": { "texture": "#side" },
+				"down": { "texture": "#inside" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#front" },
+				"east" : { "texture": "#side" },
+				"west" : { "texture": "#side" }
+			}
+		},
+
+		{
+			"name": "hikidashi_a",
+			"from": [ 1.05, 7.05, 15 ],
+			"to": [ 7.98, 14.95, 16 ],
+			"faces": {
+				"up": { "texture": "#inside" },
+				"down": { "texture": "#inside" },
+				"north": { "texture": "#inside" },
+				"south": { "texture": "#front" },
+				"east" : { "texture": "#inside" },
+				"west" : { "texture": "#front" }
+			}
+		},
+		{
+			"name": "hikidashi_b",
+			"from": [ 8.02, 7.05, 15 ],
+			"to": [ 14.95, 14.95, 16 ],
+			"faces": {
+				"up": { "texture": "#inside" },
+				"down": { "texture": "#inside" },
+				"north": { "texture": "#inside" },
+				"south": { "texture": "#front" },
+				"east" : { "texture": "#front" },
+				"west" : { "texture": "#inside" }
+			}
+		},
+		
+		{
+			"name": "hikidashi1_soko",
+			"from": [ 1.05, 4.05, 1.01 ],
+			"to": [ 14.95, 5, 16 ],
+			"faces": {
+				"up": { "uv": [ 1.05, 1.01, 14.95, 16.0 ], "texture": "#inside" },
+				"down": { "uv": [ 1.05, 1.01, 14.95, 16.0 ], "texture": "#inside" },
+				"north": { "uv": [ 1.05, 11.0, 14.95, 12.05 ], "texture": "#inside" },
+				"south": { "uv": [ 1.05, 11.0, 14.95, 12.05 ], "texture": "#front" },
+				"east" : { "uv": [ 1.01, 11.0, 16.0, 12.05 ], "texture": "#inside" },
+				"west" : { "uv": [ 1.01, 11.0, 16.0, 12.05 ], "texture": "#inside" }
+			}
+		},
+		{
+			"name": "hikidashi1_north",
+			"from": [ 1.05, 5, 1.01 ],
+			"to": [ 14.95, 7, 2 ],
+			"faces": {
+				"up": { "uv": [ 1.05, 1.01, 14.95, 2.0 ], "texture": "#inside" },
+				"north": { "uv": [ 1.05, 9.0, 14.95, 11.0 ], "texture": "#inside" },
+				"south": { "uv": [ 1.05, 9.0, 14.95, 11.0 ], "texture": "#inside" },
+				"east" : { "uv": [ 14.0, 9.0, 14.99, 11.0 ], "texture": "#inside" },
+				"west" : { "uv": [ 1.01, 9.0, 2.0, 11.0 ], "texture": "#inside" }
+			}
+		},
+		{
+			"name": "hikidashi1_south",
+			"from": [ 1.05, 5, 15 ],
+			"to": [ 14.95, 7, 16 ],
+			"faces": {
+				"up": { "uv": [ 1.05, 15.0, 14.95, 16.0 ], "texture": "#inside" },
+				"north": { "uv": [ 1.05, 9.0, 14.95, 11.0 ], "texture": "#inside" },
+				"south": { "uv": [ 1.05, 9.0, 14.95, 11.0 ], "texture": "#front" },
+				"east" : { "uv": [ 0.0, 9.0, 1.0, 11.0 ], "texture": "#inside" },
+				"west" : { "uv": [ 15.0, 9.0, 16.0, 11.0 ], "texture": "#inside" }
+			}
+		},
+		{
+			"name": "hikidashi1_east",
+			"from": [ 1.05, 5, 2 ],
+			"to": [ 2, 7, 15 ],
+			"faces": {
+				"up": { "uv": [ 1.05, 2.0, 2.0, 15.0 ], "texture": "#inside" },
+				"east" : { "uv": [ 1.0, 9.0, 14.0, 11.0 ], "texture": "#inside" },
+				"west" : { "uv": [ 2.0, 9.0, 15.0, 11.0 ], "texture": "#inside" }
+			}
+		},
+		{
+			"name": "hikidashi1_west",
+			"from": [ 14, 5, 2 ],
+			"to": [ 14.95, 7, 15 ],
+			"faces": {
+				"up": { "uv": [ 14.0, 2.0, 14.95, 15.0 ], "texture": "#inside" },
+				"east" : { "uv": [ 1.0, 9.0, 14.0, 11.0 ], "texture": "#inside" },
+				"west" : { "uv": [ 2.0, 9.0, 15.0, 11.0 ], "texture": "#inside" }
+			}
+		},
+
+		{
+			"name": "hikidashi3",
+			"from": [ 1.05, 1.05, 1.01 ],
+			"to": [ 14.95, 4, 16 ],
+			"faces": {
+				"up": { "texture": "#inside" },
+				"down": { "texture": "#inside" },
+				"north": { "texture": "#inside" },
+				"south": { "texture": "#front" },
+				"east" : { "texture": "#inside" },
+				"west" : { "texture": "#inside" }
+			}
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"variants": {
+		"facing=south,in_wall=false,open=false": { "model": "chinjufumod:block/wooden/fencegate_kaede", "uvlock": true },
+		"facing=west,in_wall=false,open=false": { "model": "chinjufumod:block/wooden/fencegate_kaede", "uvlock": true, "y": 90 },
+		"facing=north,in_wall=false,open=false": { "model": "chinjufumod:block/wooden/fencegate_kaede", "uvlock": true, "y": 180 },
+		"facing=east,in_wall=false,open=false": { "model": "chinjufumod:block/wooden/fencegate_kaede", "uvlock": true, "y": 270 },
+
+		"facing=south,in_wall=false,open=true": { "model": "chinjufumod:block/wooden/fencegate_kaede_open", "uvlock": true },
+		"facing=west,in_wall=false,open=true": { "model": "chinjufumod:block/wooden/fencegate_kaede_open", "uvlock": true, "y": 90 },
+		"facing=north,in_wall=false,open=true": { "model": "chinjufumod:block/wooden/fencegate_kaede_open", "uvlock": true, "y": 180 },
+		"facing=east,in_wall=false,open=true": { "model": "chinjufumod:block/wooden/fencegate_kaede_open", "uvlock": true, "y": 270 },
+
+		"facing=south,in_wall=true,open=false": { "model": "chinjufumod:block/wooden/fencegate_kaede_wall", "uvlock": true },
+		"facing=west,in_wall=true,open=false": { "model": "chinjufumod:block/wooden/fencegate_kaede_wall", "uvlock": true, "y": 90 },
+		"facing=north,in_wall=true,open=false": { "model": "chinjufumod:block/wooden/fencegate_kaede_wall", "uvlock": true, "y": 180 },
+		"facing=east,in_wall=true,open=false": { "model": "chinjufumod:block/wooden/fencegate_kaede_wall", "uvlock": true, "y": 270 },
+
+		"facing=south,in_wall=true,open=true": { "model": "chinjufumod:block/wooden/fencegate_kaede_wall_open", "uvlock": true },
+		"facing=west,in_wall=true,open=true": { "model": "chinjufumod:block/wooden/fencegate_kaede_wall_open", "uvlock": true, "y": 90 },
+		"facing=north,in_wall=true,open=true": { "model": "chinjufumod:block/wooden/fencegate_kaede_wall_open", "uvlock": true, "y": 180 },
+		"facing=east,in_wall=true,open=true": { "model": "chinjufumod:block/wooden/fencegate_kaede_wall_open", "uvlock": true, "y": 270 }
+	}
+}

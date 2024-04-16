@@ -1,0 +1,24 @@
+{
+	"parent": "block/block",
+	"elements": [
+		{
+			"name": "south3",
+			"from": [ 0, 0, 15 ],
+			"to": [ 15, 16, 15 ],
+			"faces": {
+				"north": { "uv": [ 15.0, 0.0, 0.0, 16.0 ], "texture": "#side_c" },
+				"south": { "uv": [ 0.0, 0.0, 15.0, 16.0 ], "texture": "#side_c" }
+			}
+		},
+		
+		{
+			"name": "east3",
+			"from": [ 15, 0, 0 ],
+			"to": [ 15, 16, 15 ],
+			"faces": {
+				"west": { "uv": [ 0.0, 0.0, 15.0, 16.0 ], "texture": "#side_c" },
+				"east": { "uv": [ 15.0, 0.0, 0.0, 16.0 ], "texture": "#side_c" }
+			}
+		}
+	]
+}

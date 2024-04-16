@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_gohan",
+
+	"ingredients": [
+		{ "item": "chinjufumod:item_mushigome_take" },
+		{ "item": "chinjufumod:item_food_noriita" },
+		{ "item": "chinjufumod:item_food_noriita" }
+	],
+
+	"result": { "item": "chinjufumod:item_food_onigiritakenoko", "count" : 4 }
+}

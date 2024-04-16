@@ -1,0 +1,52 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/corn_stem",
+		"stem": "chinjufumod:block/corn_stem",
+		"leaf": "chinjufumod:block/corn_long",
+		"leaf_mid": "chinjufumod:block/corn_mid",
+		"leaf_sh": "chinjufumod:block/corn_short",
+		"seed": "chinjufumod:block/corn_seed",
+		"ho": "chinjufumod:block/corn_ho_green"
+	},
+	"elements": [
+
+		{
+			"name": "leaf_1",
+			"from": [ 0.0, 0.0, 8.0 ],
+			"to": [ 8.0, 2.0, 8.0 ],
+			"faces": {
+				"north": { "uv": [ 0.0, 2.0, 16.0, 6.0 ], "texture": "#leaf_sh" },
+				"south": { "uv": [ 16.0, 2.0, 0.0, 6.0 ], "texture": "#leaf_sh" }
+			}
+		},
+		{
+			"name": "leaf_2",
+			"from": [ 8.0, 0.0, 8.0 ],
+			"to": [ 16.0, 2.0, 8.0 ],
+			"faces": {
+				"north": { "uv": [ 16.0, 2.0, 0.0, 6.0 ], "texture": "#leaf_sh" },
+				"south": { "uv": [ 0.0, 2.0, 16.0, 6.0 ], "texture": "#leaf_sh" }
+			}
+		},
+		{
+			"name": "leaf_3",
+			"from": [ 8.0, 0.0, 0.0 ],
+			"to": [ 8.0, 2.0, 8.0 ],
+			"faces": {
+				"west": { "uv": [ 16.0, 2.0, 0.0, 6.0 ], "texture": "#leaf_sh" },
+				"east": { "uv": [ 0.0, 2.0, 16.0, 6.0 ], "texture": "#leaf_sh" }
+			}
+		},
+		{
+			"name": "leaf_4",
+			"from": [ 8.0, 0.0, 8.0 ],
+			"to": [ 8.0, 2.0, 16.0 ],
+			"faces": {
+				"west": { "uv": [ 0.0, 2.0, 16.0, 6.0 ], "texture": "#leaf_sh" },
+				"east": { "uv": [ 16.0, 2.0, 0.0, 6.0 ], "texture": "#leaf_sh" }
+			}
+		}
+
+	]
+}

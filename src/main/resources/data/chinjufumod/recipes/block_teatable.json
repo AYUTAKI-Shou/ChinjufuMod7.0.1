@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_unitdesk",
+
+	"pattern": [
+		"X",
+		"Y",
+		"Z"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:white_carpet" },
+		"Y": { "item": "minecraft:pink_carpet" },
+		"Z": { "item": "chinjufumod:block_cafetable" }
+	},
+
+	"result": { "item": "chinjufumod:block_teatable", "count": 1 }
+}

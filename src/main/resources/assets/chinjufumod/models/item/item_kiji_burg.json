@@ -1,0 +1,30 @@
+{
+	"parent": "chinjufumod:block/item_kiji_burg",
+	"display": {
+		"gui": {
+			"rotation": [ 30, 45, 0 ],
+			"translation": [ -2, 11, 0 ],
+			"scale": [ 2.0, 2.0, 2.0 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 70, 0, 0 ],
+			"translation": [ 0, 8, 9.5 ],
+			"scale": [ 1.5, 1.5, 1.5 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 11, -2 ],
+			"scale": [ 1.5, 1.5, 1.5 ]
+		},
+		"fixed": {
+			"rotation": [ 90, 0, 0 ],
+			"translation": [ 0, 1, 12 ],
+			"scale": [ 1.5, 1.5, 1.5 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 0.8, 0.8, 0.8 ]
+		}
+	}
+}

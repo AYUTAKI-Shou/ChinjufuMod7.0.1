@@ -1,0 +1,8 @@
+{
+	"parent": "chinjufumod:block/base/yakisoba_hand",
+	"textures": {
+		"particle": "chinjufumod:block/yakisobashio_bake",
+		"sara": "chinjufumod:block/dish_white",
+		"soba": "chinjufumod:block/yakisobashio_bake"
+	}
+}

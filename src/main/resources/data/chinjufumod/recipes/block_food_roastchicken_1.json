@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_food_roastchicken",
+
+	"ingredients": [
+		{ "tag": "forge:cooked_chicken" },
+		{ "tag": "forge:crops/carrot" },
+		{ "tag": "forge:crops/tomato" },
+		{ "tag": "forge:crops/spinach" },
+		{ "tag": "forge:crops/cabbage" },
+		{ "item": "chinjufumod:item_food_sara" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_roastchicken_1", "count" : 1 }
+}

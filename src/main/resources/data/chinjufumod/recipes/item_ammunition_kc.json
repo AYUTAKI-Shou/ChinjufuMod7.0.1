@@ -1,0 +1,12 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_ammu",
+
+	"ingredients": [
+		{ "tag": "forge:ingots/iron" },
+		{ "item": "minecraft:gunpowder" },
+		{ "item": "chinjufumod:item_workorder" }
+	],
+
+	"result": { "item": "chinjufumod:item_ammunition_kc", "count" : 8 }
+}

@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_ami",
+
+	"pattern": [
+		"XYX",
+		"YAY",
+		"XYX"
+	],
+
+	"key": {
+		"X": { "item": "minecraft:bamboo" },
+		"Y": [ { "tag": "forge:string" },
+				{ "item": "chinjufumod:item_oriito" } ],
+		"A": { "item": "minecraft:seagrass" }
+	},
+
+	"result": { "item": "chinjufumod:block_noriami", "count": 4 }
+}

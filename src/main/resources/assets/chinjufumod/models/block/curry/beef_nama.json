@@ -1,0 +1,15 @@
+{
+	"parent": "chinjufumod:block/base/curry_nama",
+	"textures": {
+		"particle": "chinjufumod:block/dish_lightg",
+		"mizu": "minecraft:block/water_still",
+		"gu": "chinjufumod:block/food_beef",
+		"ninjin": "chinjufumod:block/food_carot",
+		"tamanegi": "chinjufumod:block/food_onion",
+		"imo": "chinjufumod:block/food_potato",
+		"nabe": "chinjufumod:block/dish_lightg",
+		"nabeshiki": "chinjufumod:block/dish_brown",
+		"otama": "chinjufumod:block/dish_gray",
+		"sara": "chinjufumod:block/dish_white"
+	}
+}

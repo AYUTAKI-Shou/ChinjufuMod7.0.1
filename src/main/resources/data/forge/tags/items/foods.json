@@ -1,0 +1,19 @@
+{
+	"replace": false,
+	"values": [
+		"#forge:foods/cheese",
+		"#forge:foods/freshcheese",
+		"#forge:foods/salt",
+		"#forge:foods/flour",
+		"#forge:foods/butter",
+		"#forge:foods/misopaste",
+		"#forge:foods/silkentofu",
+		"#forge:foods/silkentoufu",
+		"#forge:foods/soysauce",
+		"#forge:foods/vinegar",
+		
+		"#forge:foods/pepper",
+		"#forge:foods/blackpepper",
+		"#forge:foods/chili"
+	]
+}

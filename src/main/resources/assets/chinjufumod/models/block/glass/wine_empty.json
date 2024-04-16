@@ -1,0 +1,90 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/dish_lightb",
+		"glass": "chinjufumod:block/dish_lightb"
+	},
+	"elements": [
+		{
+			"name": "glass_soko",
+			"from": [ 7, 0, 7 ],
+			"to": [ 9, 0.2, 9 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"down" : { "texture": "#glass" },
+				"north": { "texture": "#glass" },
+				"south": { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		},
+		{
+			"name": "glass_soko",
+			"from": [ 7.8, 0.2, 7.8 ],
+			"to": [ 8.2, 2.5, 8.2 ],
+			"faces": {
+				"north": { "texture": "#glass" },
+				"south": { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		},
+		{
+			"name": "glass_soko",
+			"from": [ 6.8, 2.5, 6.8 ],
+			"to": [ 9.2, 2.7, 9.2 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"down" : { "texture": "#glass" },
+				"north": { "texture": "#glass" },
+				"south": { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		},
+		{
+			"name": "glass_n",
+			"from": [ 6.8, 2.7, 6.8 ],
+			"to": [ 9.2, 5, 7 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"north": { "texture": "#glass" },
+				"south": { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		},
+		{
+			"name": "glass_e",
+			"from": [ 9, 2.7, 7 ],
+			"to": [ 9.2, 5, 9 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		},
+		{
+			"name": "glass_s",
+			"from": [ 6.8, 2.7, 9 ],
+			"to": [ 9.2, 5, 9.2 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"north": { "texture": "#glass" },
+				"south": { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		},
+		{
+			"name": "glass_w",
+			"from": [ 6.8, 2.7, 7 ],
+			"to": [ 7, 5, 9 ],
+			"faces": {
+				"up" : { "texture": "#glass" },
+				"west" : { "texture": "#glass" },
+				"east" : { "texture": "#glass" }
+			}
+		}
+	]
+}

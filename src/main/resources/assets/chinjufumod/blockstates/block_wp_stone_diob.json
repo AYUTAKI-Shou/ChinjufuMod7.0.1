@@ -1,0 +1,23 @@
+{
+ "variants": {
+	"facing=north,stage=1": { "model": "chinjufumod:block/wallpanel/stone_diob", "y": 180 },
+	"facing=south,stage=1": { "model": "chinjufumod:block/wallpanel/stone_diob" },
+	"facing=west,stage=1": { "model": "chinjufumod:block/wallpanel/stone_diob", "y": 90 },
+	"facing=east,stage=1": { "model": "chinjufumod:block/wallpanel/stone_diob", "y": 270 },
+
+	"facing=north,stage=2": { "model": "chinjufumod:block/wallpanel/stone_diobchi", "y": 180 },
+	"facing=south,stage=2": { "model": "chinjufumod:block/wallpanel/stone_diobchi" },
+	"facing=west,stage=2": { "model": "chinjufumod:block/wallpanel/stone_diobchi", "y": 90 },
+	"facing=east,stage=2": { "model": "chinjufumod:block/wallpanel/stone_diobchi", "y": 270 },
+
+	"facing=north,stage=3": { "model": "chinjufumod:block/wallpanel/stone_diobcra", "y": 180 },
+	"facing=south,stage=3": { "model": "chinjufumod:block/wallpanel/stone_diobcra" },
+	"facing=west,stage=3": { "model": "chinjufumod:block/wallpanel/stone_diobcra", "y": 90 },
+	"facing=east,stage=3": { "model": "chinjufumod:block/wallpanel/stone_diobcra", "y": 270 },
+
+	"facing=north,stage=4": { "model": "chinjufumod:block/wallpanel/stone_diobmos", "y": 180 },
+	"facing=south,stage=4": { "model": "chinjufumod:block/wallpanel/stone_diobmos" },
+	"facing=west,stage=4": { "model": "chinjufumod:block/wallpanel/stone_diobmos", "y": 90 },
+	"facing=east,stage=4": { "model": "chinjufumod:block/wallpanel/stone_diobmos", "y": 270 }
+ }
+}

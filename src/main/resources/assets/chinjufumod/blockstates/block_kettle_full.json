@@ -1,0 +1,33 @@
+{
+	"variants": {
+		"down=false,facing=north,stage=1": { "model": "chinjufumod:block/food/kettle_full", "y": 180 },
+		"down=false,facing=south,stage=1": { "model": "chinjufumod:block/food/kettle_full", "y": 0 },
+		"down=false,facing=west,stage=1": { "model": "chinjufumod:block/food/kettle_full", "y": 90 },
+		"down=false,facing=east,stage=1": { "model": "chinjufumod:block/food/kettle_full", "y": 270 },
+
+		"down=false,facing=north,stage=2": { "model": "chinjufumod:block/food/kettle_boil", "y": 180 },
+		"down=false,facing=south,stage=2": { "model": "chinjufumod:block/food/kettle_boil", "y": 0 },
+		"down=false,facing=west,stage=2": { "model": "chinjufumod:block/food/kettle_boil", "y": 90 },
+		"down=false,facing=east,stage=2": { "model": "chinjufumod:block/food/kettle_boil", "y": 270 },
+
+		"down=false,facing=north,stage=3": { "model": "chinjufumod:block/bottle/meadjuku_empty", "y": 180 },
+		"down=false,facing=south,stage=3": { "model": "chinjufumod:block/bottle/meadjuku_empty", "y": 0 },
+		"down=false,facing=west,stage=3": { "model": "chinjufumod:block/bottle/meadjuku_empty", "y": 90 },
+		"down=false,facing=east,stage=3": { "model": "chinjufumod:block/bottle/meadjuku_empty", "y": 270 },
+
+		"down=true,facing=north,stage=1": { "model": "chinjufumod:block/food/kettle_full", "y": 180 },
+		"down=true,facing=south,stage=1": { "model": "chinjufumod:block/food/kettle_full", "y": 0 },
+		"down=true,facing=west,stage=1": { "model": "chinjufumod:block/food/kettle_full", "y": 90 },
+		"down=true,facing=east,stage=1": { "model": "chinjufumod:block/food/kettle_full", "y": 270 },
+
+		"down=true,facing=north,stage=2": { "model": "chinjufumod:block/food/kettle_boil", "y": 180 },
+		"down=true,facing=south,stage=2": { "model": "chinjufumod:block/food/kettle_boil", "y": 0 },
+		"down=true,facing=west,stage=2": { "model": "chinjufumod:block/food/kettle_boil", "y": 90 },
+		"down=true,facing=east,stage=2": { "model": "chinjufumod:block/food/kettle_boil", "y": 270 },
+
+		"down=true,facing=north,stage=3": { "model": "chinjufumod:block/bottle/meadjuku_downempty", "y": 180 },
+		"down=true,facing=south,stage=3": { "model": "chinjufumod:block/bottle/meadjuku_downempty", "y": 0 },
+		"down=true,facing=west,stage=3": { "model": "chinjufumod:block/bottle/meadjuku_downempty", "y": 90 },
+		"down=true,facing=east,stage=3": { "model": "chinjufumod:block/bottle/meadjuku_downempty", "y": 270 }
+	}
+}

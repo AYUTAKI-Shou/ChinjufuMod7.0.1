@@ -1,0 +1,355 @@
+{
+	"kk_propeller": {
+	"category": "master",
+	"subtitle": "chinjufumod.subtitle.kk_propeller",
+	"sounds": [{"name": "chinjufumod:kk_propeller",
+	"stream": false}]},
+
+	"kk_propeller_12": {
+	"category": "master",
+	"subtitle": "chinjufumod.subtitle.kk_propeller_12",
+	"sounds": [{"name": "chinjufumod:kk_propeller_12",
+	"stream": false}]},
+	
+	"kk_starting": {
+	"category": "master",
+	"subtitle": "chinjufumod.subtitle.kk_starting",
+	"sounds": [{"name": "chinjufumod:kk_starting",
+	"stream": false}]},
+	
+	"kk_atack": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.kk_atack",
+	"sounds": [{"name": "chinjufumod:kk_atack",
+	"stream": false}]},
+
+	"kk_atack2": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.kk_atack2",
+	"sounds": [{"name": "chinjufumod:kk_atack2",
+	"stream": false}]},
+	
+	"kk_impact": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.kk_impact",
+	"sounds": [{"name": "chinjufumod:kk_impact",
+	"stream": false}]},
+
+	"kk_break": {
+	"category": "master",
+	"subtitle": "chinjufumod.subtitle.kk_break",
+	"sounds": [{"name": "chinjufumod:kk_break",
+	"stream": false}]},
+
+	"kk_stop": {
+	"category": "master",
+	"subtitle": "chinjufumod.subtitle.kk_stop",
+	"sounds": [{"name": "chinjufumod:kk_stop",
+	"stream": false}]},
+
+	"water_splash": {
+	"category": "master",
+	"subtitle": "chinjufumod.subtitle.water_splash",
+	"sounds": [{"name": "chinjufumod:water_splash",
+	"stream": false}]},
+
+	"am_fire": {
+	"category": "player",
+	"subtitle": "chinjufumod.subtitle.am_fire",
+	"sounds": [{"name": "chinjufumod:am_fire",
+	"stream": false}]},
+
+	"am_impact": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.am_impact",
+	"sounds": [{"name": "chinjufumod:am_impact",
+	"stream": false}]},
+
+	"am_cartridge": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.am_cartridge",
+	"sounds": [{"name": "chinjufumod:am_cartridge",
+	"stream": false}]},
+	
+	"am_cartridge2": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.am_cartridge2",
+	"sounds": [{"name": "chinjufumod:am_cartridge2",
+	"stream": false}]},
+	
+	"am_cartridge3": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.am_cartridge3",
+	"sounds": [{"name": "chinjufumod:am_cartridge3",
+	"stream": false}]},
+	
+	"am_hit": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.am_hit",
+	"sounds": [{"name": "chinjufumod:am_hit",
+	"stream": false}]},
+	
+	"gyorai": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.gyorai",
+	"sounds": [{"name": "chinjufumod:gyorai",
+	"stream": false}]},
+
+	"wake_water": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.wake_water",
+	"sounds": [{"name": "chinjufumod:wake_water",
+	"stream": false}]},
+
+	"tansu_open": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.tansu_open",
+	"sounds": [{"name": "chinjufumod:tansu_open",
+	"stream": true}]},
+
+	"tansu_close": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.tansu_close",
+	"sounds": [{"name": "chinjufumod:tansu_close",
+	"stream": true}]},
+
+	"window_open": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.window_open",
+	"sounds": [{"name": "chinjufumod:window_open",
+	"stream": true}]},
+
+	"window_close": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.window_close",
+	"sounds": [{"name": "chinjufumod:window_close",
+	"stream": true}]},
+
+	"window_updown": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.window_updown",
+	"sounds": [{"name": "chinjufumod:window_updown",
+	"stream": true}]},
+
+	"fusuma": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.fusuma",
+	"sounds": [{"name": "chinjufumod:fusuma",
+	"stream": true}]},
+
+	"fusuma_short": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.fusuma_short",
+	"sounds": [{"name": "chinjufumod:fusuma_short",
+	"stream": true}]},
+
+	"amado_cancel": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.amado_cancel",
+	"sounds": [{"name": "chinjufumod:amado_cancel",
+	"stream": true}]},
+
+	"hikido": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.hikido",
+	"sounds": [{"name": "chinjufumod:hikido",
+	"stream": true}]},
+
+	"hikido_short": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.hikido_short",
+	"sounds": [{"name": "chinjufumod:hikido_short",
+	"stream": true}]},
+
+	"kinuzure": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.kinuzure",
+	"sounds": [{"name": "chinjufumod:kinuzure",
+	"stream": true}]},
+
+	"sit_chair": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.sit_chair",
+	"sounds": [{"name": "chinjufumod:sit_chair",
+	"stream": true}]},
+
+	"water_start": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.water_start",
+	"sounds": [{"name": "chinjufumod:water_start",
+	"stream": true}]},
+
+	"water_stop": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.water_stop",
+	"sounds": [{"name": "chinjufumod:water_stop",
+	"stream": true}]},
+
+	"juu": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.juu",
+	"sounds": [{"name": "chinjufumod:juu",
+	"stream": true}]},
+
+	"gutsugutsu": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.gutsugutsu",
+	"sounds": [{"name": "chinjufumod:gutsugutsu",
+	"stream": true}]},
+
+	"paku": {
+	"category": "player",
+	"subtitle": "chinjufumod.subtitle.paku",
+	"sounds": [{"name": "chinjufumod:paku",
+	"stream": true}]},
+
+	"goku": {
+	"category": "player",
+	"subtitle": "chinjufumod.subtitle.goku",
+	"sounds": [{"name": "chinjufumod:goku",
+	"stream": true}]},
+
+	"kitchen_cut": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.kitchen_cut",
+	"sounds": [{"name": "chinjufumod:kitchen_cut",
+	"stream": true}]},
+
+	"tea": {
+	"category": "player",
+	"subtitle": "chinjufumod.subtitle.tea",
+	"sounds": [{"name": "chinjufumod:tea",
+	"stream": true}]},
+
+	"sake": {
+	"category": "player",
+	"subtitle": "chinjufumod.subtitle.sake",
+	"sounds": [{"name": "chinjufumod:sake",
+	"stream": true}]},
+
+	"shouyu": {
+	"category": "player",
+	"subtitle": "chinjufumod.subtitle.shouyu",
+	"sounds": [{"name": "chinjufumod:shouyu",
+	"stream": true}]},
+
+	"shishiodoshi": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.shishiodoshi",
+	"sounds": [{"name": "chinjufumod:shishiodoshi",
+	"stream": true}]},
+
+	"gate_wood": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.gate_wood",
+	"sounds": [{"name": "chinjufumod:gate_wood",
+	"stream": true}]},
+
+	"gate_iron_open": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.gate_iron_open",
+	"sounds": [{"name": "chinjufumod:gate_iron_open",
+	"stream": true}]},
+
+	"gate_iron_close": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.gate_iron_close",
+	"sounds": [{"name": "chinjufumod:gate_iron_close",
+	"stream": true}]},
+
+	"paint": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.paint",
+	"sounds": [{"name": "chinjufumod:paint",
+	"stream": true}]},
+
+	"wadaiko_top": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.wadaiko_top",
+	"sounds": [{"name": "chinjufumod:wadaiko_top",
+	"stream": true}]},
+
+	"wadaiko_side": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.wadaiko_side",
+	"sounds": [{"name": "chinjufumod:wadaiko_side",
+	"stream": true}]},
+	
+	"write_report": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.write_report",
+	"sounds": [{"name": "chinjufumod:write_report",
+	"stream": true}]},
+	
+	"open": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.open",
+	"sounds": [{"name": "chinjufumod:open",
+	"stream": true}]},
+	
+	"open_oven": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.open_oven",
+	"sounds": [{"name": "chinjufumod:open_oven",
+	"stream": true}]},
+	
+	"reizou_open": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.reizou_open",
+	"sounds": [{"name": "chinjufumod:reizou_open",
+	"stream": true}]},
+	
+	"reizou_close": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.reizou_close",
+	"sounds": [{"name": "chinjufumod:reizou_close",
+	"stream": true}]},
+	
+	"touch_block": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.touch_block",
+	"sounds": [{"name": "chinjufumod:touch_block",
+	"stream": true}]},
+	
+	"curtain": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.curtain",
+	"sounds": [{"name": "chinjufumod:curtain",
+	"stream": true}]},
+	
+	"throw": {
+	"category": "player",
+	"subtitle": "chinjufumod.subtitle.throw",
+	"sounds": [{"name": "chinjufumod:throw",
+	"stream": true}]},
+	
+	"swing": {
+	"category": "player",
+	"subtitle": "chinjufumod.subtitle.swing",
+	"sounds": [{"name": "chinjufumod:swing",
+	"stream": true}]},
+	
+	"error": {
+	"category": "player",
+	"subtitle": "chinjufumod.subtitle.error",
+	"sounds": [{"name": "chinjufumod:error",
+	"stream": true}]},
+	
+	"set_gun": {
+	"category": "player",
+	"subtitle": "chinjufumod.subtitle.set_gun",
+	"sounds": [{"name": "chinjufumod:set_gun",
+	"stream": true}]},
+	
+	"empty_ammo": {
+	"category": "player",
+	"subtitle": "chinjufumod.subtitle.empty_ammo",
+	"sounds": [{"name": "chinjufumod:empty_ammo",
+	"stream": true}]},
+	
+	"basalt_deltas_click2": {
+	"category": "block",
+	"subtitle": "chinjufumod.subtitle.basalt_deltas_click2",
+	"sounds": [{"name": "chinjufumod:basalt_deltas_click2",
+	"stream": false}]}
+}

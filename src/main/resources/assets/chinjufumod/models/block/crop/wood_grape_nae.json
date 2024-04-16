@@ -1,0 +1,38 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/log_grape",
+		"log_top": "chinjufumod:block/log_grape_top",
+		"log": "chinjufumod:block/log_grape"
+	},
+	"elements": [
+
+		{
+			"name": "miki",
+			"from": [ 3.5, 2, 8.01 ],
+			"to": [ 4.5, 10, 9.01 ],
+			"rotation": { "origin": [ 23, 8, 8 ], "axis": "z", "angle": -22.5, "rescale": false },
+			"faces": {
+				"up" : { "texture": "#log" },
+				"down" : { "texture": "#log" },
+				"north": { "texture": "#log" },
+				"south": { "texture": "#log" },
+				"east" : { "texture": "#log" },
+				"west" : { "texture": "#log" }
+			}
+		},
+		{
+			"name": "miki",
+			"from": [ 2, 0, 8 ],
+			"to": [ 4, 10.5, 10 ],
+			"faces": {
+				"up" : { "texture": "#log" },
+				"down" : { "texture": "#log_top" },
+				"north": { "texture": "#log" },
+				"south": { "texture": "#log" },
+				"east" : { "texture": "#log" },
+				"west" : { "texture": "#log" }
+			}
+		}
+	]
+}

@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"stage=0,waterlogged=false": { "model": "chinjufumod:block/chouzubachi/diorite_kara" },
+		"stage=1,waterlogged=false": { "model": "chinjufumod:block/chouzubachi/diorite_1" },
+		"stage=2,waterlogged=false": { "model": "chinjufumod:block/chouzubachi/diorite_2" },
+		"stage=3,waterlogged=false": { "model": "chinjufumod:block/chouzubachi/diorite_3" },
+
+		"stage=0,waterlogged=true": { "model": "chinjufumod:block/chouzubachi/diorite_kara" },
+		"stage=1,waterlogged=true": { "model": "chinjufumod:block/chouzubachi/diorite_kara" },
+		"stage=2,waterlogged=true": { "model": "chinjufumod:block/chouzubachi/diorite_kara" },
+		"stage=3,waterlogged=true": { "model": "chinjufumod:block/chouzubachi/diorite_kara" }
+	}
+}

@@ -1,0 +1,80 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/enden_3",
+		"top": "chinjufumod:block/enden_3",
+		"top_b": "minecraft:block/sand",
+		"side": "chinjufumod:block/enden_3",
+		"down": "chinjufumod:block/enden_3",
+		"shio": "chinjufumod:block/enden_shio"
+	},
+	"elements": [
+		{
+			"name": "shio",
+			"from": [ 2, 14.5, 2 ],
+			"to": [ 14, 16, 14 ],
+			"faces": {
+				"up": { "texture": "#shio" }
+			}
+		},
+
+		{
+			"name": "north",
+			"from": [ 0, 14.5, 0 ],
+			"to": [ 16, 16, 2 ],
+			"faces": {
+				"up": { "texture": "#top" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		},
+		{
+			"name": "south",
+			"from": [ 0, 14.5, 14 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"up": { "texture": "#top" },
+				"north": { "texture": "#side" },
+				"south": { "texture": "#side" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		},
+		{
+			"name": "west",
+			"from": [ 0, 14.5, 2 ],
+			"to": [ 2, 16, 14 ],
+			"faces": {
+				"up": { "texture": "#top" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		},
+		{
+			"name": "east",
+			"from": [ 14, 14.5, 2 ],
+			"to": [ 16, 16, 14 ],
+			"faces": {
+				"up": { "texture": "#top" },
+				"west": { "texture": "#side" },
+				"east": { "texture": "#side" }
+			}
+		},
+
+		{
+			"name": "base",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 14.5, 16 ],
+			"faces": {
+				"up": { "texture": "#top_b" },
+				"down": { "texture": "#side", "cullface": "down" },
+				"north": { "texture": "#side", "cullface": "north" },
+				"south": { "texture": "#side", "cullface": "south" },
+				"west": { "texture": "#side", "cullface": "west" },
+				"east": { "texture": "#side", "cullface": "east" }
+			}
+		}
+	]
+}

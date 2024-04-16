@@ -1,0 +1,35 @@
+{
+	"parent": "chinjufumod:block/rensouhou/k100",
+	"gui_light": "front", "display": {
+		"gui": {
+			"rotation": [ 90, 0, 0 ],
+			"translation": [ 0, 3.5, 0 ],
+			"scale": [ 0.35, 0.35, 0.35 ]
+		},
+		"thirdperson_righthand": {
+			"rotation": [ 0, 180, 90 ],
+			"translation": [ 4.3, -2, 2.25 ],
+			"scale": [ 0.29, 0.29, 0.29 ]
+		},
+		"firstperson_righthand": {
+			"rotation": [ 0, 180, 90 ],
+			"translation": [ 2, 1, 6.3 ],
+			"scale": [ 0.29, 0.29, 0.29 ]
+		},
+		"fixed": {
+			"rotation": [ 270, 225, 0 ],
+			"translation": [ 1, 2.5, -2.15 ],
+			"scale": [ 0.35, 0.35, 0.35 ]
+		},
+		"ground": {
+			"rotation": [ 0, 0, 0 ],
+			"translation": [ 0, 4, 0 ],
+			"scale": [ 0.275, 0.275, 0.275 ]
+		}
+	},
+	"overrides": [
+		{ "predicate": { "pull": 1 },
+			"model": "chinjufumod:item/item_koukakuhou100_pull"
+		}
+	]
+}

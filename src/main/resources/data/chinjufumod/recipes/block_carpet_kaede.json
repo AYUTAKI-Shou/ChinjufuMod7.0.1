@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_carpet",
+
+	"pattern": [
+		"XX"
+	],
+
+	"key": {
+		"X": { "tag": "forge:leaves/acer" }
+	},
+
+	"result": { "item": "chinjufumod:block_carpet_kaede", "count": 8 }
+}

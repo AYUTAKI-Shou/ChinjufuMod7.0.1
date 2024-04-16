@@ -1,0 +1,24 @@
+{
+	"variants": {
+		"facing=north,half=lower,lit=false": { "model": "chinjufumod:block/ishitourou/stone_bot", "y": 180 },
+		"facing=south,half=lower,lit=false": { "model": "chinjufumod:block/ishitourou/stone_bot", "y": 0 },
+		"facing=west,half=lower,lit=false": { "model": "chinjufumod:block/ishitourou/stone_bot", "y": 90 },
+		"facing=east,half=lower,lit=false": { "model": "chinjufumod:block/ishitourou/stone_bot", "y": 270 },
+
+		"facing=north,half=lower,lit=true": { "model": "chinjufumod:block/ishitourou/stone_bot", "y": 180 },
+		"facing=south,half=lower,lit=true": { "model": "chinjufumod:block/ishitourou/stone_bot", "y": 0 },
+		"facing=west,half=lower,lit=true": { "model": "chinjufumod:block/ishitourou/stone_bot", "y": 90 },
+		"facing=east,half=lower,lit=true": { "model": "chinjufumod:block/ishitourou/stone_bot", "y": 270 },
+
+		"facing=north,half=upper,lit=false": { "model": "chinjufumod:block/ishitourou/stone_top", "y": 180 },
+		"facing=south,half=upper,lit=false": { "model": "chinjufumod:block/ishitourou/stone_top", "y": 0 },
+		"facing=west,half=upper,lit=false": { "model": "chinjufumod:block/ishitourou/stone_top", "y": 90 },
+		"facing=east,half=upper,lit=false": { "model": "chinjufumod:block/ishitourou/stone_top", "y": 270 },
+
+		"facing=north,half=upper,lit=true": { "model": "chinjufumod:block/ishitourou/lit_stone_top", "y": 180 },
+		"facing=south,half=upper,lit=true": { "model": "chinjufumod:block/ishitourou/lit_stone_top", "y": 0 },
+		"facing=west,half=upper,lit=true": { "model": "chinjufumod:block/ishitourou/lit_stone_top", "y": 90 },
+		"facing=east,half=upper,lit=true": { "model": "chinjufumod:block/ishitourou/lit_stone_top", "y": 270 }
+
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_garden",
+
+	"pattern": [
+		"Y",
+		"X"
+	],
+
+	"key": {
+		"X": { "tag": "forge:rods/wooden" },
+		"Y": { "tag": "forge:ingots/iron" }
+	},
+
+	"result": { "item": "chinjufumod:item_chisel", "count": 1 }
+}

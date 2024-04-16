@@ -1,0 +1,557 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/dish_black",
+		"kuro": "chinjufumod:block/dish_black",
+		"shu": "chinjufumod:block/dish_red"
+	},
+	"elements": [
+
+
+		{
+			"name": "oke_fuchi_1_________________________________22222",
+			"from": [ 5.0, 2.51, 0.0 ],
+			"to": [ 11.0, 5.0, 1.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_2",
+			"from": [ 3.0, 2.51, 1.0 ],
+			"to": [ 5.0, 5.0, 2.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_3",
+			"from": [ 11.0, 2.51, 1.0 ],
+			"to": [ 13.0, 5.0, 2.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_4",
+			"from": [ 2.0, 2.51, 2.0 ],
+			"to": [ 3.0, 5.0, 3.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_5",
+			"from": [ 13.0, 2.51, 2.0 ],
+			"to": [ 14.0, 5.0, 3.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_6",
+			"from": [ 1.0, 2.51, 3.0 ],
+			"to": [ 2.0, 5.0, 5.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_7",
+			"from": [ 14.0, 2.51, 3.0 ],
+			"to": [ 15.0, 5.0, 5.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_side_w",
+			"from": [ 0.0, 2.51, 5.0 ],
+			"to": [ 1.0, 5.0, 11.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_side_e",
+			"from": [ 15.0, 2.51, 5.0 ],
+			"to": [ 16.0, 5.0, 11.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_16",
+			"from": [ 1.0, 2.51, 11.0 ],
+			"to": [ 2.0, 5.0, 13.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_17",
+			"from": [ 14.0, 2.51, 11.0 ],
+			"to": [ 15.0, 5.0, 13.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_14",
+			"from": [ 2.0, 2.51, 13.0 ],
+			"to": [ 3.0, 5.0, 14.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_15",
+			"from": [ 13.0, 2.51, 13.0 ],
+			"to": [ 14.0, 5.0, 14.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_12",
+			"from": [ 3.0, 2.51, 14.0 ],
+			"to": [ 5.0, 5.0, 15.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_13",
+			"from": [ 11.0, 2.51, 14.0 ],
+			"to": [ 13.0, 5.0, 15.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_11",
+			"from": [ 5.0, 2.51, 15.0 ],
+			"to": [ 11.0, 5.0, 16.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+
+		{
+			"name": "oke_naka_1_________________________________",
+			"from": [ 5.0, 3.0, 1.0 ],
+			"to": [ 11.0, 3.5, 2.0 ],
+			"faces": {
+				"up" : { "texture": "#kuro" },
+				"down" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_naka_2",
+			"from": [ 3.0, 3.0, 2.0 ],
+			"to": [ 13.0, 3.5, 3.0 ],
+			"faces": {
+				"up" : { "texture": "#kuro" },
+				"down" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_naka_3",
+			"from": [ 2.0, 3.0, 3.0 ],
+			"to": [ 14.0, 3.5, 5.0 ],
+			"faces": {
+				"up" : { "texture": "#kuro" },
+				"down" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_naka_4",
+			"from": [ 1.0, 3.0, 5.0 ],
+			"to": [ 15.0, 3.5, 11.0 ],
+			"faces": {
+				"up" : { "texture": "#kuro" },
+				"down" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_naka_5",
+			"from": [ 2.0, 3.0, 11.0 ],
+			"to": [ 14.0, 3.5, 13.0 ],
+			"faces": {
+				"up" : { "texture": "#kuro" },
+				"down" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_naka_6",
+			"from": [ 3.0, 3.0, 13.0 ],
+			"to": [ 13.0, 3.5, 14.0 ],
+			"faces": {
+				"up" : { "texture": "#kuro" },
+				"down" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_naka_7",
+			"from": [ 5.0, 3.0, 14.0 ],
+			"to": [ 11.0, 3.5, 15.0 ],
+			"faces": {
+				"up" : { "texture": "#kuro" },
+				"down" : { "texture": "#kuro" }
+			}
+		},
+
+		{
+			"name": "oke_fuchi_1_________________________________11111",
+			"from": [ 5.0, 0.01, 0.0 ],
+			"to": [ 11.0, 2.5, 1.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_2",
+			"from": [ 3.0, 0.01, 1.0 ],
+			"to": [ 5.0, 2.5, 2.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_3",
+			"from": [ 11.0, 0.01, 1.0 ],
+			"to": [ 13.0, 2.5, 2.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_4",
+			"from": [ 2.0, 0.01, 2.0 ],
+			"to": [ 3.0, 2.5, 3.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_5",
+			"from": [ 13.0, 0.01, 2.0 ],
+			"to": [ 14.0, 2.5, 3.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_6",
+			"from": [ 1.0, 0.01, 3.0 ],
+			"to": [ 2.0, 2.5, 5.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_7",
+			"from": [ 14.0, 0.01, 3.0 ],
+			"to": [ 15.0, 2.5, 5.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_side_w",
+			"from": [ 0.0, 0.01, 5.0 ],
+			"to": [ 1.0, 2.5, 11.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_side_e",
+			"from": [ 15.0, 0.01, 5.0 ],
+			"to": [ 16.0, 2.5, 11.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_16",
+			"from": [ 1.0, 0.01, 11.0 ],
+			"to": [ 2.0, 2.5, 13.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_17",
+			"from": [ 14.0, 0.01, 11.0 ],
+			"to": [ 15.0, 2.5, 13.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_14",
+			"from": [ 2.0, 0.01, 13.0 ],
+			"to": [ 3.0, 2.5, 14.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_15",
+			"from": [ 13.0, 0.01, 13.0 ],
+			"to": [ 14.0, 2.5, 14.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_12",
+			"from": [ 3.0, 0.01, 14.0 ],
+			"to": [ 5.0, 2.5, 15.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_13",
+			"from": [ 11.0, 0.01, 14.0 ],
+			"to": [ 13.0, 2.5, 15.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_fuchi_11",
+			"from": [ 5.0, 0.01, 15.0 ],
+			"to": [ 11.0, 2.5, 16.0 ],
+			"faces": {
+				"up" : { "texture": "#shu" },
+				"down" : { "texture": "#kuro" },
+				"north": { "texture": "#kuro" },
+				"south": { "texture": "#kuro" },
+				"east" : { "texture": "#kuro" },
+				"west" : { "texture": "#kuro" }
+			}
+		},
+
+		{
+			"name": "oke_naka_1_________________________________",
+			"from": [ 5.0, 0.5, 1.0 ],
+			"to": [ 11.0, 1.0, 2.0 ],
+			"faces": {
+				"up" : { "texture": "#kuro" },
+				"down" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_naka_2",
+			"from": [ 3.0, 0.5, 2.0 ],
+			"to": [ 13.0, 1.0, 3.0 ],
+			"faces": {
+				"up" : { "texture": "#kuro" },
+				"down" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_naka_3",
+			"from": [ 2.0, 0.5, 3.0 ],
+			"to": [ 14.0, 1.0, 5.0 ],
+			"faces": {
+				"up" : { "texture": "#kuro" },
+				"down" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_naka_4",
+			"from": [ 1.0, 0.5, 5.0 ],
+			"to": [ 15.0, 1.0, 11.0 ],
+			"faces": {
+				"up" : { "texture": "#kuro" },
+				"down" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_naka_5",
+			"from": [ 2.0, 0.5, 11.0 ],
+			"to": [ 14.0, 1.0, 13.0 ],
+			"faces": {
+				"up" : { "texture": "#kuro" },
+				"down" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_naka_6",
+			"from": [ 3.0, 0.5, 13.0 ],
+			"to": [ 13.0, 1.0, 14.0 ],
+			"faces": {
+				"up" : { "texture": "#kuro" },
+				"down" : { "texture": "#kuro" }
+			}
+		},
+		{
+			"name": "oke_naka_7",
+			"from": [ 5.0, 0.5, 14.0 ],
+			"to": [ 11.0, 1.0, 15.0 ],
+			"faces": {
+				"up" : { "texture": "#kuro" },
+				"down" : { "texture": "#kuro" }
+			}
+		}
+	]
+}

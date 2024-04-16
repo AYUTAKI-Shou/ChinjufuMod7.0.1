@@ -1,0 +1,23 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/food_scone",
+		"scone": "chinjufumod:block/food_scone",
+		"scone_top": "chinjufumod:block/food_scone_top"
+	},
+	"elements": [
+		{
+			"name": "scone_1",
+			"from": [ 6.5, 0.0, 6.5 ],
+			"to": [ 9.5, 3.0, 9.5 ],
+			"faces": {
+				"up" : { "texture": "#scone_top" },
+				"down" : { "texture": "#scone_top" },
+				"north": { "texture": "#scone" },
+				"south": { "texture": "#scone" },
+				"east" : { "texture": "#scone" },
+				"west" : { "texture": "#scone" }
+			}
+		}
+	]
+}

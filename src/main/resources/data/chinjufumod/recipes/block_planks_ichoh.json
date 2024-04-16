@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_planks",
+
+	"pattern": [
+		"X"
+	],
+
+	"key": {
+		"X": { "tag": "forge:logs/ginkgo" }
+	},
+
+	"result": { "item": "chinjufumod:block_planks_ichoh", "count": 4 }
+}

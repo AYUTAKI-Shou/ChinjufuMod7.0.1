@@ -1,0 +1,55 @@
+{
+	"parent": "block/block",
+	"textures": {
+		"particle": "chinjufumod:block/ami_b1",
+		"side_b": "chinjufumod:block/ami_b1",
+		"bot": "chinjufumod:block/ami_bot5"
+	},
+	"elements": [
+		{
+			"name": "north2",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 16, 0 ],
+			"faces": {
+				"north": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#side_b" },
+				"south": { "uv": [ 16.0, 0.0, 0.0, 16.0 ], "texture": "#side_b" }
+			}
+		},
+		{
+			"name": "west2",
+			"from": [ 0, 0, 0 ],
+			"to": [ 0, 16, 16 ],
+			"faces": {
+				"west": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#side_b" },
+				"east": { "uv": [ 16.0, 0.0, 0.0, 16.0 ], "texture": "#side_b" }
+			}
+		},
+		{
+			"name": "east2",
+			"from": [ 16, 0, 0 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"west": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#side_b" },
+				"east": { "uv": [ 16.0, 0.0, 0.0, 16.0 ], "texture": "#side_b" }
+			}
+		},
+		{
+			"name": "south1______________________________________________",
+			"from": [ 0, 0, 16 ],
+			"to": [ 16, 16, 16 ],
+			"faces": {
+				"north": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#side_b" },
+				"south": { "uv": [ 16.0, 0.0, 0.0, 16.0 ], "texture": "#side_b" }
+			}
+		},
+		{
+			"name": "bot5",
+			"from": [ 0, 0, 0 ],
+			"to": [ 16, 0, 16 ],
+			"faces": {
+				"up": { "uv": [ 0.0, 0.0, 16.0, 16.0 ], "texture": "#bot", "cullface": "down" },
+				"down": { "uv": [ 0.0, 16.0, 16.0, 0.0 ], "texture": "#bot", "cullface": "down" }
+			}
+		}
+	]
+}

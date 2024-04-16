@@ -1,0 +1,18 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "cm_bench",
+
+	"pattern": [
+		"YZ ",
+		"XYX",
+		"X X"
+	],
+
+	"key": {
+		"X": { "tag": "forge:rods/wooden" },
+		"Y": { "item": "minecraft:dark_oak_slab" },
+		"Z": { "tag": "minecraft:carpets" }
+	},
+
+	"result": { "item": "chinjufumod:block_bench_doak", "count": 1 }
+}

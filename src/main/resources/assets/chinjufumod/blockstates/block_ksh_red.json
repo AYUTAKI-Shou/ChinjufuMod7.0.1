@@ -1,0 +1,10 @@
+{
+	"variants": {
+		"cra=false,type=bottom": { "model": "chinjufumod:block/kawara/slab_red_bottom" },
+		"cra=false,type=top": { "model": "chinjufumod:block/kawara/slab_red_top" },
+		"cra=true,type=bottom": { "model": "chinjufumod:block/kawara/slab_crack_red_bottom" },
+		"cra=true,type=top": { "model": "chinjufumod:block/kawara/slab_crack_red_top" },
+		"cra=false,type=double": { "model": "chinjufumod:block/kawara/red" },
+		"cra=true,type=double": { "model": "chinjufumod:block/kawara/crack_red" }
+	}
+}

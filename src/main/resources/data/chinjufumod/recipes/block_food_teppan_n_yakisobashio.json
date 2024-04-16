@@ -1,0 +1,19 @@
+{
+	"type": "minecraft:crafting_shapeless",
+	"group": "cm_okonomiyaki",
+
+	"ingredients": [
+		[ { "tag": "forge:raw_pork" }, { "tag": "forge:rawpork" } ],
+		{ "tag": "forge:crops/cabbage" },
+		{ "tag": "forge:crops/carrot" },
+		{ "tag": "forge:crops/onion" },
+		[ { "tag": "forge:dusts/salt" }, { "tag": "forge:foods/salt" }, { "tag": "forge:items/salt" } ],
+		[ { "tag": "forge:dusts/blackpepper" }, { "tag": "forge:foods/blackpepper" }, { "tag": "forge:spices/blackpepper" }, 
+		{ "tag": "forge:dusts/pepper" }, { "tag": "forge:foods/pepper" }, { "tag": "forge:spices/pepper" } ],
+		{ "tag": "forge:dusts/dashi" },
+		{ "item": "chinjufumod:item_food_sobaplate" },
+		{ "item": "minecraft:bowl" }
+	],
+
+	"result": { "item": "chinjufumod:block_food_teppan_n_yakisobashio", "count" : 1 }
+}
